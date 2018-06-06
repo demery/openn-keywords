@@ -1,0 +1,103 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Description of University of Pennsylvania Ms. Coll. 742: Privilege of citizenship</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>The University of Pennsylvania Libraries</publisher>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by/4.0/legalcode">
+                                This description is ©2015 University of
+                                Pennsylvania Libraries. It is licensed under a Creative Commons
+                                Attribution License version 4.0 (CC-BY-4.0
+                                https://creativecommons.org/licenses/by/4.0/legalcode. For a
+                                description of the terms of use see the Creative Commons Deed
+                                https://creativecommons.org/licenses/by/4.0/. </licence>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/"> All
+                                referenced images and their content are free of known copyright
+                                restrictions and in the public domain. See the Creative Commons
+                                Public Domain Mark page for usage details,
+                                http://creativecommons.org/publicdomain/mark/1.0/. </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <settlement>Philadelphia</settlement>
+            <institution>University of Pennsylvania</institution>
+            <repository>Rare Book &amp; Manuscript Library</repository>
+            <idno type="call-number">Ms. Coll. 742</idno>
+            <altIdentifier type="bibid">
+              <idno>4779782</idno>
+            </altIdentifier>
+            <altIdentifier type="resource">
+              <idno>http://hdl.library.upenn.edu/1017/d/medren/4779782</idno>
+            </altIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary>A privilege of citizenship, dated Nov. 11, 1486, granted to Iacobus de Picculominibus de Castiglia de Aragonia by the Anziani of Ancona, due to his status as vicar general to the pope in nearby Montemarciano. Giacomo was nephew of Pope Pius II, brother of Andrea di Nanni Todeschini Piccolomini (see folder 58), Guido di Biagio di Carlo Piccolomini (see folder 26), and Francesco di Nanni Todeschini Piccolomini (later Pope Pius III). A wax seal (only remnants of wax visible) and additional signature were added June 7, 1487.</summary>
+            <textLang>In Latin</textLang>
+            <msItem>
+              <title>Privilege of citizenship</title>
+              <author>Ancona (Italy)</author>
+              <respStmt>
+                <resp>recipient</resp>
+                <persName>Piccolomini di Castiglia e d'Aragona, Giacomo di Nanni Todeschini</persName>
+              </respStmt>
+              <respStmt>
+                <resp>former owner</resp>
+                <persName>North, Frederick, Earl of Guilford, 1766-1827</persName>
+              </respStmt>
+              <respStmt>
+                <resp>former owner</resp>
+                <persName>Phillipps, Thomas, Sir, 1792-1872</persName>
+              </respStmt>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc material="parchment.">
+                <support>
+                  <p>parchment.</p>
+                </support>
+                <extent>1</extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin/>
+            <provenance>Formerly owned by Frederick North, Earl of Guilford, and Sir Thomas Phillipps (part of ms. 6067).</provenance>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords n="subjects">
+          <term>Citizenship--Italy</term>
+        </keywords>
+        <keywords n="form/genre">
+          <term>Legal documents</term>
+          <term>Notarial documents</term>
+          <term>Privileges</term>
+          <term>Manuscripts, Latin--15th century</term>
+          <term>Manuscripts, Renaissance</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface n="Side 1">
+      <graphic height="4259px" url="master/1072_0000.tif" width="5649px"/>
+      <graphic height="143px" url="thumb/1072_0000_thumb.jpg" width="190px"/>
+      <graphic height="1357px" url="web/1072_0000_web.jpg" width="1800px"/>
+    </surface>
+    <surface n="Side 2">
+      <graphic height="4259px" url="master/1072_0001.tif" width="5649px"/>
+      <graphic height="143px" url="thumb/1072_0001_thumb.jpg" width="190px"/>
+      <graphic height="1357px" url="web/1072_0001_web.jpg" width="1800px"/>
+    </surface>
+  </facsimile>
+</TEI>

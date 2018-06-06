@@ -1,0 +1,99 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Description of University of Pennsylvania Ms. Coll. 591: Dictionary leaves</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>The University of Pennsylvania Libraries</publisher>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by/4.0/legalcode">
+                                This description is ©2016 University of
+                                Pennsylvania Libraries. It is licensed under a Creative Commons
+                                Attribution License version 4.0 (CC-BY-4.0
+                                https://creativecommons.org/licenses/by/4.0/legalcode. For a
+                                description of the terms of use see the Creative Commons Deed
+                                https://creativecommons.org/licenses/by/4.0/. </licence>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/"> All
+                                referenced images and their content are free of known copyright
+                                restrictions and in the public domain. See the Creative Commons
+                                Public Domain Mark page for usage details,
+                                http://creativecommons.org/publicdomain/mark/1.0/. </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <settlement>Philadelphia</settlement>
+            <institution>University of Pennsylvania</institution>
+            <repository>Rare Book &amp; Manuscript Library</repository>
+            <idno type="call-number">Ms. Coll. 591</idno>
+            <altIdentifier type="bibid">
+              <idno>5844096</idno>
+            </altIdentifier>
+            <altIdentifier type="resource">
+              <idno>http://hdl.library.upenn.edu/1017/d/medren/5844096</idno>
+            </altIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary>Two leaves, not adjacent, perhaps originally a bifolium, from the C section of a Latin dictionary, written in Italy in the late 13th century. Entries written in 2 columns, with paragraph marks at the beginning of each entry and the beginning of the continuation of an entry on a new page alternating between red and blue. The first leaf has the conclusion of the entry for celum, entries for cerebrum, certitudo, cibus, circulus, circumcisio, circumcisio Christi, and the beginning of an entry for circumscriptio. The second leaf has entries for color, columba, comedere, comodum, commune, and comparatio. The entries seem to cite uses of these words in other works. Used in a 16th-century binding, with edge of spine lettering visible at the left margin of the recto of the first leaf. The name Alberti is inscribed on both leaves (f. 1v, 2r) by a later hand.</summary>
+            <textLang>In Latin</textLang>
+            <msItem>
+              <title>Dictionary leaves</title>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc material="mixed">
+                <support>
+                  <p>parchment</p>
+                </support>
+                <extent>1 315 x 215 mm., 316 x 220 mm</extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin/>
+            <provenance>Probably sold by Erik von Scherling (Leiden), prior to 1931 (possibly listed in the index of Rotulus v. 1, 1931, as appearing in an earlier catalog no longer in print, item no. 826).</provenance>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords n="subjects">
+          <term>Latin language--Dictionaries--Early works to 1700</term>
+        </keywords>
+        <keywords n="form/genre">
+          <term>Fragments</term>
+          <term>Dictionaries</term>
+          <term>Manuscripts, Latin--13th century</term>
+          <term>Manuscripts, Medieval</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface n="1r">
+      <graphic height="5273px" url="master/3297_0000.tif" width="3834px"/>
+      <graphic height="190px" url="thumb/3297_0000_thumb.jpg" width="138px"/>
+      <graphic height="1800px" url="web/3297_0000_web.jpg" width="1309px"/>
+    </surface>
+    <surface n="1v">
+      <graphic height="5273px" url="master/3297_0001.tif" width="3834px"/>
+      <graphic height="190px" url="thumb/3297_0001_thumb.jpg" width="138px"/>
+      <graphic height="1800px" url="web/3297_0001_web.jpg" width="1309px"/>
+    </surface>
+    <surface n="2r">
+      <graphic height="5273px" url="master/3297_0002.tif" width="3834px"/>
+      <graphic height="190px" url="thumb/3297_0002_thumb.jpg" width="138px"/>
+      <graphic height="1800px" url="web/3297_0002_web.jpg" width="1309px"/>
+    </surface>
+    <surface n="2v">
+      <graphic height="5273px" url="master/3297_0003.tif" width="3834px"/>
+      <graphic height="190px" url="thumb/3297_0003_thumb.jpg" width="138px"/>
+      <graphic height="1800px" url="web/3297_0003_web.jpg" width="1309px"/>
+    </surface>
+  </facsimile>
+</TEI>

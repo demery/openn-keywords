@@ -1,0 +1,96 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Description of University of Pennsylvania Ms. Coll. 742: Camera della Biccherna license</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>The University of Pennsylvania Libraries</publisher>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by/4.0/legalcode">
+                                This description is ©2016 University of
+                                Pennsylvania Libraries. It is licensed under a Creative Commons
+                                Attribution License version 4.0 (CC-BY-4.0
+                                https://creativecommons.org/licenses/by/4.0/legalcode. For a
+                                description of the terms of use see the Creative Commons Deed
+                                https://creativecommons.org/licenses/by/4.0/. </licence>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/"> All
+                                referenced images and their content are free of known copyright
+                                restrictions and in the public domain. See the Creative Commons
+                                Public Domain Mark page for usage details,
+                                http://creativecommons.org/publicdomain/mark/1.0/. </licence>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note>This oversize item is stored in a map drawer.</note>
+      </notesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <settlement>Philadelphia</settlement>
+            <institution>University of Pennsylvania</institution>
+            <repository>Rare Book &amp; Manuscript Library</repository>
+            <idno type="call-number">Ms. Coll. 742</idno>
+            <altIdentifier type="bibid">
+              <idno>4638296</idno>
+            </altIdentifier>
+            <altIdentifier type="resource">
+              <idno>http://hdl.library.upenn.edu/1017/d/medren/4638296</idno>
+            </altIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary>License dated July 26, 1466, given to Agostino di Nicolo Dati and his brother Jacopo by the provveditore of the Camera della Biccherna, allowing the brothers to enclose their home in Pienza with a wall or a fence, in order to plant a fruit orchard. Additions at the end in a different hand dated Nov. 15, 1488, relate to Agostino's son, Niccolo Dati.</summary>
+            <textLang>In Latin</textLang>
+            <msItem>
+              <title>Camera della Biccherna license</title>
+              <author>Siena (Italy)</author>
+              <respStmt>
+                <resp>former owner</resp>
+                <persName>North, Frederick, Earl of Guilford, 1766-1827</persName>
+              </respStmt>
+              <respStmt>
+                <resp>former owner</resp>
+                <persName>Phillipps, Thomas, Sir, 1792-1872</persName>
+              </respStmt>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc>
+                <extent>1</extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin/>
+            <provenance>Formerly owned by Frederick North, Earl of Guilford, and Sir Thomas Phillipps (part of ms. 6067).</provenance>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords n="form/genre">
+          <term>Legal documents</term>
+          <term>Licenses</term>
+          <term>Notarial documents</term>
+          <term>Manuscripts, Latin--15th century</term>
+          <term>Manuscripts, Renaissance</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface n="Side 1">
+      <graphic height="8775px" url="master/1808_0000.tif" width="2583px"/>
+      <graphic height="190px" url="thumb/1808_0000_thumb.jpg" width="55px"/>
+      <graphic height="1800px" url="web/1808_0000_web.jpg" width="529px"/>
+    </surface>
+    <surface n="Side 2">
+      <graphic height="8860px" url="master/1808_0001.tif" width="2514px"/>
+      <graphic height="190px" url="thumb/1808_0001_thumb.jpg" width="53px"/>
+      <graphic height="1800px" url="web/1808_0001_web.jpg" width="510px"/>
+    </surface>
+  </facsimile>
+</TEI>

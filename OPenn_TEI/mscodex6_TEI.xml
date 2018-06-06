@@ -1,0 +1,483 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Description of University of Pennsylvania Ms. Codex 6: Persii opera</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>The University of Pennsylvania Libraries</publisher>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by/4.0/legalcode">
+                                This description is ©2015 University of
+                                Pennsylvania Libraries. It is licensed under a Creative Commons
+                                Attribution License version 4.0 (CC-BY-4.0
+                                https://creativecommons.org/licenses/by/4.0/legalcode. For a
+                                description of the terms of use see the Creative Commons Deed
+                                https://creativecommons.org/licenses/by/4.0/. </licence>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/"> All
+                                referenced images and their content are free of known copyright
+                                restrictions and in the public domain. See the Creative Commons
+                                Public Domain Mark page for usage details,
+                                http://creativecommons.org/publicdomain/mark/1.0/. </licence>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note>Ms. codex.</note>
+        <note>Title from caption title in a later hand (f. 1r).</note>
+        <note>Title of 2nd work given in colophon (f. 27r).</note>
+        <note>Incipit: (commentary, f. 1r) Labra non solum hominum sed animalium sunt...; (text, f. 1r) Nec fonte labra prolui caballino...</note>
+        <note>Explicit of first work: (text, f. 14v) inventus Chrysippe tui finitor acervi; (commentary, f. 14v) ... et hoc vult Persius dicere quod sicut ipse Chrysippus finivit illud opus adeo grande. sic doceat eum ponere finem et modum avaritie hominum. Acervi tuorum tumulorum argumentorum.</note>
+        <note>The note to Satire 4 (f. 7v) refers to Laurentius Valla's translation of Thucydides into Latin, which he completed in 1452; therefore the commentary must have been written after that date.</note>
+        <note>The front flyleaf and the first two quires are parchment (f. 1-14); the last two quires are paper (f. 15-32).</note>
+        <note>There may be a quire missing before f.1, which might possibly have contained prolegomena to the Persius text and commentary.</note>
+        <note>The parchment leaves are wearing slightly and splitting at the edges. Some of the writing, especially on the Persius commentary, is fading. Some stains and smudges. Cover is worn and scraped, and is splitting at the spine. Some wormholes in the cover and in the paper folios.</note>
+        <note>This manuscript was examined in December 1990 by Professor Georg N. Knauer of the University of Pennsylvania, who prepared a three-page typewritten description of it. This is on file in the Library, together with a photocopy of a five-page article (by Rosario Pintaudi and Mario Tesi) discussing Laurentius Valla's translation of Thucydides.</note>
+      </notesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <settlement>Philadelphia</settlement>
+            <institution>University of Pennsylvania</institution>
+            <repository>Rare Book &amp; Manuscript Library</repository>
+            <idno type="call-number">Ms. Codex 6</idno>
+            <altIdentifier type="bibid">
+              <idno>1469169</idno>
+            </altIdentifier>
+            <altIdentifier type="resource">
+              <idno>http://hdl.library.upenn.edu/1017/d/medren/1469169</idno>
+            </altIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary>Collection of the Satires of Persius (A. Persius Flaccus), together with an unidentified commentary written in the margins around the text as well as interlinear glosses (f. 1r-14v). Also includes the Ibis of Ovid (P. Ovidius Naso), with several interlinear and marginal glosses (f. 15r-27r). Folio 32v and the inside lower cover have a number of Latin aphorisms written in a second, slightly later hand. Folios 27v-32r are blank.</summary>
+            <textLang>Latin</textLang>
+            <msItem>
+              <title>Persii opera</title>
+              <author>Persius</author>
+              <author>Ovid, 43 B.C.-17 or 18 A.D</author>
+              <respStmt>
+                <resp>former owner</resp>
+                <persName>Bergin, Thomas Goddard, 1904-1987</persName>
+              </respStmt>
+            </msItem>
+            <msItem n="1r">
+              <locus>1r</locus>
+              <title>Satires of Persius, f. 1r</title>
+            </msItem>
+            <msItem n="15r">
+              <locus>15r</locus>
+              <title>Ibis of Ovid, f. 15r</title>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc material="mixed">
+                <support>
+                  <p>parchment and paper</p>
+                </support>
+                <extent>33 leaves : 225 x 132 mm. bound to 232 x 135 mm</extent>
+                <collation>
+                  <p>Parchment and paper, 33; 1¹⁰, 2⁴, 3¹⁰, 4¹⁰( -1); [i], [1-32]; modern foliation in pencil, lower right recto. The back pastedown leaf appears to be part of the fourth quire, which also appears to be missing a leaf.</p>
+                </collation>
+              </supportDesc>
+            </objectDesc>
+            <scriptDesc>
+              <scriptNote>First work written in a humanistic script by a single hand, with some contemporary glosses in a different hand (f. 11r); second work written in a humanistic script by a second, possibly slightly later hand than the first work. Notes on flyleaves and inside covers written in various later hands.</scriptNote>
+            </scriptDesc>
+            <decoDesc>
+              <decoNote>Space has been left at the beginning of each Persius satire and at the beginning of the Ibis for large initials. Only at the beginning of the Prologue to Persius (f. 1r) has the first initial been filled in, in what appears to be the same hand as the text. Several manicules drawn in the margins (for example, f. 6v, 10r).</decoNote>
+              <decoNote n="6v">Manicule, f. 6v</decoNote>
+              <decoNote n="10r">Manicule, f. 10r</decoNote>
+              <decoNote n="12r">Manicule, f. 12r</decoNote>
+              <decoNote n="32v">Manicule, f. 32v</decoNote>
+            </decoDesc>
+            <bindingDesc>
+              <binding>
+                <p>Late 15th-century Italian stamped leather with remains of two metal clasps. Some writing in ink on front cover, very difficult to read; upside down, towards the bottom of the front cover, is the word "Persius."</p>
+              </binding>
+            </bindingDesc>
+          </physDesc>
+          <history>
+            <origin>
+              <p>Written in Italy[?] in the second half of the 15th century.</p>
+              <origDate>between 1450 and 1499?</origDate>
+              <origPlace>Italy?</origPlace>
+            </origin>
+            <provenance>Signature: Antonio (inside upper cover).</provenance>
+            <provenance>Formerly owned by Thomas G. Bergin (Yale University); probably bought in Italy (Naples?) in the 1920s (Knauer).</provenance>
+            <provenance>Sold by George Allen (Philadelphia, Pa.), 1991.</provenance>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords n="form/genre">
+          <term>Commentaries</term>
+          <term>Codices</term>
+          <term>Satires (document genre)</term>
+          <term>Poems</term>
+          <term>Manuscripts, Latin--15th century</term>
+          <term>Manuscripts, Renaissance</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface n="Front cover">
+      <graphic height="5819px" url="master/0544_0000.tif" width="3778px"/>
+      <graphic height="190px" url="thumb/0544_0000_thumb.jpg" width="123px"/>
+      <graphic height="1800px" url="web/0544_0000_web.jpg" width="1168px"/>
+    </surface>
+    <surface n="Inside front cover">
+      <graphic height="5819px" url="master/0544_0001.tif" width="3778px"/>
+      <graphic height="190px" url="thumb/0544_0001_thumb.jpg" width="123px"/>
+      <graphic height="1800px" url="web/0544_0001_web.jpg" width="1168px"/>
+    </surface>
+    <surface n="i recto">
+      <graphic height="5819px" url="master/0544_0002.tif" width="3778px"/>
+      <graphic height="190px" url="thumb/0544_0002_thumb.jpg" width="123px"/>
+      <graphic height="1800px" url="web/0544_0002_web.jpg" width="1168px"/>
+    </surface>
+    <surface n="i verso">
+      <graphic height="5819px" url="master/0544_0003.tif" width="3778px"/>
+      <graphic height="190px" url="thumb/0544_0003_thumb.jpg" width="123px"/>
+      <graphic height="1800px" url="web/0544_0003_web.jpg" width="1168px"/>
+    </surface>
+    <surface n="1r">
+      <graphic height="5819px" url="master/0544_0004.tif" width="3778px"/>
+      <graphic height="190px" url="thumb/0544_0004_thumb.jpg" width="123px"/>
+      <graphic height="1800px" url="web/0544_0004_web.jpg" width="1168px"/>
+    </surface>
+    <surface n="1v">
+      <graphic height="5819px" url="master/0544_0005.tif" width="3778px"/>
+      <graphic height="190px" url="thumb/0544_0005_thumb.jpg" width="123px"/>
+      <graphic height="1800px" url="web/0544_0005_web.jpg" width="1168px"/>
+    </surface>
+    <surface n="2r">
+      <graphic height="5819px" url="master/0544_0006.tif" width="3778px"/>
+      <graphic height="190px" url="thumb/0544_0006_thumb.jpg" width="123px"/>
+      <graphic height="1800px" url="web/0544_0006_web.jpg" width="1168px"/>
+    </surface>
+    <surface n="2v">
+      <graphic height="5819px" url="master/0544_0007.tif" width="3778px"/>
+      <graphic height="190px" url="thumb/0544_0007_thumb.jpg" width="123px"/>
+      <graphic height="1800px" url="web/0544_0007_web.jpg" width="1168px"/>
+    </surface>
+    <surface n="3r">
+      <graphic height="5819px" url="master/0544_0008.tif" width="3778px"/>
+      <graphic height="190px" url="thumb/0544_0008_thumb.jpg" width="123px"/>
+      <graphic height="1800px" url="web/0544_0008_web.jpg" width="1168px"/>
+    </surface>
+    <surface n="3v">
+      <graphic height="5819px" url="master/0544_0009.tif" width="3778px"/>
+      <graphic height="190px" url="thumb/0544_0009_thumb.jpg" width="123px"/>
+      <graphic height="1800px" url="web/0544_0009_web.jpg" width="1168px"/>
+    </surface>
+    <surface n="4r">
+      <graphic height="5819px" url="master/0544_0010.tif" width="3778px"/>
+      <graphic height="190px" url="thumb/0544_0010_thumb.jpg" width="123px"/>
+      <graphic height="1800px" url="web/0544_0010_web.jpg" width="1168px"/>
+    </surface>
+    <surface n="4v">
+      <graphic height="5819px" url="master/0544_0011.tif" width="3778px"/>
+      <graphic height="190px" url="thumb/0544_0011_thumb.jpg" width="123px"/>
+      <graphic height="1800px" url="web/0544_0011_web.jpg" width="1168px"/>
+    </surface>
+    <surface n="5r">
+      <graphic height="5819px" url="master/0544_0012.tif" width="3778px"/>
+      <graphic height="190px" url="thumb/0544_0012_thumb.jpg" width="123px"/>
+      <graphic height="1800px" url="web/0544_0012_web.jpg" width="1168px"/>
+    </surface>
+    <surface n="5v">
+      <graphic height="5819px" url="master/0544_0013.tif" width="3778px"/>
+      <graphic height="190px" url="thumb/0544_0013_thumb.jpg" width="123px"/>
+      <graphic height="1800px" url="web/0544_0013_web.jpg" width="1168px"/>
+    </surface>
+    <surface n="6r">
+      <graphic height="5819px" url="master/0544_0014.tif" width="3778px"/>
+      <graphic height="190px" url="thumb/0544_0014_thumb.jpg" width="123px"/>
+      <graphic height="1800px" url="web/0544_0014_web.jpg" width="1168px"/>
+    </surface>
+    <surface n="6v">
+      <graphic height="5819px" url="master/0544_0015.tif" width="3778px"/>
+      <graphic height="190px" url="thumb/0544_0015_thumb.jpg" width="123px"/>
+      <graphic height="1800px" url="web/0544_0015_web.jpg" width="1168px"/>
+    </surface>
+    <surface n="7r">
+      <graphic height="5819px" url="master/0544_0016.tif" width="3778px"/>
+      <graphic height="190px" url="thumb/0544_0016_thumb.jpg" width="123px"/>
+      <graphic height="1800px" url="web/0544_0016_web.jpg" width="1168px"/>
+    </surface>
+    <surface n="7v">
+      <graphic height="5819px" url="master/0544_0017.tif" width="3778px"/>
+      <graphic height="190px" url="thumb/0544_0017_thumb.jpg" width="123px"/>
+      <graphic height="1800px" url="web/0544_0017_web.jpg" width="1168px"/>
+    </surface>
+    <surface n="8r">
+      <graphic height="5819px" url="master/0544_0018.tif" width="3778px"/>
+      <graphic height="190px" url="thumb/0544_0018_thumb.jpg" width="123px"/>
+      <graphic height="1800px" url="web/0544_0018_web.jpg" width="1168px"/>
+    </surface>
+    <surface n="8v">
+      <graphic height="5819px" url="master/0544_0019.tif" width="3778px"/>
+      <graphic height="190px" url="thumb/0544_0019_thumb.jpg" width="123px"/>
+      <graphic height="1800px" url="web/0544_0019_web.jpg" width="1168px"/>
+    </surface>
+    <surface n="9r">
+      <graphic height="5819px" url="master/0544_0020.tif" width="3778px"/>
+      <graphic height="190px" url="thumb/0544_0020_thumb.jpg" width="123px"/>
+      <graphic height="1800px" url="web/0544_0020_web.jpg" width="1168px"/>
+    </surface>
+    <surface n="9v">
+      <graphic height="5819px" url="master/0544_0021.tif" width="3778px"/>
+      <graphic height="190px" url="thumb/0544_0021_thumb.jpg" width="123px"/>
+      <graphic height="1800px" url="web/0544_0021_web.jpg" width="1168px"/>
+    </surface>
+    <surface n="10r">
+      <graphic height="5819px" url="master/0544_0022.tif" width="3778px"/>
+      <graphic height="190px" url="thumb/0544_0022_thumb.jpg" width="123px"/>
+      <graphic height="1800px" url="web/0544_0022_web.jpg" width="1168px"/>
+    </surface>
+    <surface n="10v">
+      <graphic height="5819px" url="master/0544_0023.tif" width="3778px"/>
+      <graphic height="190px" url="thumb/0544_0023_thumb.jpg" width="123px"/>
+      <graphic height="1800px" url="web/0544_0023_web.jpg" width="1168px"/>
+    </surface>
+    <surface n="11r">
+      <graphic height="5819px" url="master/0544_0024.tif" width="3778px"/>
+      <graphic height="190px" url="thumb/0544_0024_thumb.jpg" width="123px"/>
+      <graphic height="1800px" url="web/0544_0024_web.jpg" width="1168px"/>
+    </surface>
+    <surface n="11v">
+      <graphic height="5819px" url="master/0544_0025.tif" width="3778px"/>
+      <graphic height="190px" url="thumb/0544_0025_thumb.jpg" width="123px"/>
+      <graphic height="1800px" url="web/0544_0025_web.jpg" width="1168px"/>
+    </surface>
+    <surface n="12r">
+      <graphic height="5819px" url="master/0544_0026.tif" width="3778px"/>
+      <graphic height="190px" url="thumb/0544_0026_thumb.jpg" width="123px"/>
+      <graphic height="1800px" url="web/0544_0026_web.jpg" width="1168px"/>
+    </surface>
+    <surface n="12v">
+      <graphic height="5819px" url="master/0544_0027.tif" width="3778px"/>
+      <graphic height="190px" url="thumb/0544_0027_thumb.jpg" width="123px"/>
+      <graphic height="1800px" url="web/0544_0027_web.jpg" width="1168px"/>
+    </surface>
+    <surface n="13r">
+      <graphic height="5819px" url="master/0544_0028.tif" width="3778px"/>
+      <graphic height="190px" url="thumb/0544_0028_thumb.jpg" width="123px"/>
+      <graphic height="1800px" url="web/0544_0028_web.jpg" width="1168px"/>
+    </surface>
+    <surface n="13v">
+      <graphic height="5819px" url="master/0544_0029.tif" width="3778px"/>
+      <graphic height="190px" url="thumb/0544_0029_thumb.jpg" width="123px"/>
+      <graphic height="1800px" url="web/0544_0029_web.jpg" width="1168px"/>
+    </surface>
+    <surface n="14r">
+      <graphic height="5819px" url="master/0544_0030.tif" width="3778px"/>
+      <graphic height="190px" url="thumb/0544_0030_thumb.jpg" width="123px"/>
+      <graphic height="1800px" url="web/0544_0030_web.jpg" width="1168px"/>
+    </surface>
+    <surface n="14v">
+      <graphic height="5819px" url="master/0544_0031.tif" width="3778px"/>
+      <graphic height="190px" url="thumb/0544_0031_thumb.jpg" width="123px"/>
+      <graphic height="1800px" url="web/0544_0031_web.jpg" width="1168px"/>
+    </surface>
+    <surface n="15r">
+      <graphic height="5819px" url="master/0544_0032.tif" width="3778px"/>
+      <graphic height="190px" url="thumb/0544_0032_thumb.jpg" width="123px"/>
+      <graphic height="1800px" url="web/0544_0032_web.jpg" width="1168px"/>
+    </surface>
+    <surface n="15v">
+      <graphic height="5819px" url="master/0544_0033.tif" width="3778px"/>
+      <graphic height="190px" url="thumb/0544_0033_thumb.jpg" width="123px"/>
+      <graphic height="1800px" url="web/0544_0033_web.jpg" width="1168px"/>
+    </surface>
+    <surface n="16r">
+      <graphic height="5819px" url="master/0544_0034.tif" width="3778px"/>
+      <graphic height="190px" url="thumb/0544_0034_thumb.jpg" width="123px"/>
+      <graphic height="1800px" url="web/0544_0034_web.jpg" width="1168px"/>
+    </surface>
+    <surface n="16v">
+      <graphic height="5819px" url="master/0544_0035.tif" width="3778px"/>
+      <graphic height="190px" url="thumb/0544_0035_thumb.jpg" width="123px"/>
+      <graphic height="1800px" url="web/0544_0035_web.jpg" width="1168px"/>
+    </surface>
+    <surface n="17r">
+      <graphic height="5819px" url="master/0544_0036.tif" width="3778px"/>
+      <graphic height="190px" url="thumb/0544_0036_thumb.jpg" width="123px"/>
+      <graphic height="1800px" url="web/0544_0036_web.jpg" width="1168px"/>
+    </surface>
+    <surface n="17v">
+      <graphic height="5819px" url="master/0544_0037.tif" width="3778px"/>
+      <graphic height="190px" url="thumb/0544_0037_thumb.jpg" width="123px"/>
+      <graphic height="1800px" url="web/0544_0037_web.jpg" width="1168px"/>
+    </surface>
+    <surface n="18r">
+      <graphic height="5819px" url="master/0544_0038.tif" width="3778px"/>
+      <graphic height="190px" url="thumb/0544_0038_thumb.jpg" width="123px"/>
+      <graphic height="1800px" url="web/0544_0038_web.jpg" width="1168px"/>
+    </surface>
+    <surface n="18v">
+      <graphic height="5819px" url="master/0544_0039.tif" width="3778px"/>
+      <graphic height="190px" url="thumb/0544_0039_thumb.jpg" width="123px"/>
+      <graphic height="1800px" url="web/0544_0039_web.jpg" width="1168px"/>
+    </surface>
+    <surface n="19r">
+      <graphic height="5819px" url="master/0544_0040.tif" width="3778px"/>
+      <graphic height="190px" url="thumb/0544_0040_thumb.jpg" width="123px"/>
+      <graphic height="1800px" url="web/0544_0040_web.jpg" width="1168px"/>
+    </surface>
+    <surface n="19v">
+      <graphic height="5819px" url="master/0544_0041.tif" width="3778px"/>
+      <graphic height="190px" url="thumb/0544_0041_thumb.jpg" width="123px"/>
+      <graphic height="1800px" url="web/0544_0041_web.jpg" width="1168px"/>
+    </surface>
+    <surface n="20r">
+      <graphic height="5819px" url="master/0544_0042.tif" width="3778px"/>
+      <graphic height="190px" url="thumb/0544_0042_thumb.jpg" width="123px"/>
+      <graphic height="1800px" url="web/0544_0042_web.jpg" width="1168px"/>
+    </surface>
+    <surface n="20v">
+      <graphic height="5819px" url="master/0544_0043.tif" width="3778px"/>
+      <graphic height="190px" url="thumb/0544_0043_thumb.jpg" width="123px"/>
+      <graphic height="1800px" url="web/0544_0043_web.jpg" width="1168px"/>
+    </surface>
+    <surface n="21r">
+      <graphic height="5819px" url="master/0544_0044.tif" width="3778px"/>
+      <graphic height="190px" url="thumb/0544_0044_thumb.jpg" width="123px"/>
+      <graphic height="1800px" url="web/0544_0044_web.jpg" width="1168px"/>
+    </surface>
+    <surface n="21v">
+      <graphic height="5819px" url="master/0544_0045.tif" width="3778px"/>
+      <graphic height="190px" url="thumb/0544_0045_thumb.jpg" width="123px"/>
+      <graphic height="1800px" url="web/0544_0045_web.jpg" width="1168px"/>
+    </surface>
+    <surface n="22r">
+      <graphic height="5819px" url="master/0544_0046.tif" width="3778px"/>
+      <graphic height="190px" url="thumb/0544_0046_thumb.jpg" width="123px"/>
+      <graphic height="1800px" url="web/0544_0046_web.jpg" width="1168px"/>
+    </surface>
+    <surface n="22v">
+      <graphic height="5819px" url="master/0544_0047.tif" width="3778px"/>
+      <graphic height="190px" url="thumb/0544_0047_thumb.jpg" width="123px"/>
+      <graphic height="1800px" url="web/0544_0047_web.jpg" width="1168px"/>
+    </surface>
+    <surface n="23r">
+      <graphic height="5819px" url="master/0544_0048.tif" width="3778px"/>
+      <graphic height="190px" url="thumb/0544_0048_thumb.jpg" width="123px"/>
+      <graphic height="1800px" url="web/0544_0048_web.jpg" width="1168px"/>
+    </surface>
+    <surface n="23v">
+      <graphic height="5819px" url="master/0544_0049.tif" width="3778px"/>
+      <graphic height="190px" url="thumb/0544_0049_thumb.jpg" width="123px"/>
+      <graphic height="1800px" url="web/0544_0049_web.jpg" width="1168px"/>
+    </surface>
+    <surface n="24r">
+      <graphic height="5819px" url="master/0544_0050.tif" width="3778px"/>
+      <graphic height="190px" url="thumb/0544_0050_thumb.jpg" width="123px"/>
+      <graphic height="1800px" url="web/0544_0050_web.jpg" width="1168px"/>
+    </surface>
+    <surface n="24v">
+      <graphic height="5819px" url="master/0544_0051.tif" width="3778px"/>
+      <graphic height="190px" url="thumb/0544_0051_thumb.jpg" width="123px"/>
+      <graphic height="1800px" url="web/0544_0051_web.jpg" width="1168px"/>
+    </surface>
+    <surface n="25r">
+      <graphic height="5819px" url="master/0544_0052.tif" width="3778px"/>
+      <graphic height="190px" url="thumb/0544_0052_thumb.jpg" width="123px"/>
+      <graphic height="1800px" url="web/0544_0052_web.jpg" width="1168px"/>
+    </surface>
+    <surface n="25v">
+      <graphic height="5819px" url="master/0544_0053.tif" width="3778px"/>
+      <graphic height="190px" url="thumb/0544_0053_thumb.jpg" width="123px"/>
+      <graphic height="1800px" url="web/0544_0053_web.jpg" width="1168px"/>
+    </surface>
+    <surface n="26r">
+      <graphic height="5819px" url="master/0544_0054.tif" width="3778px"/>
+      <graphic height="190px" url="thumb/0544_0054_thumb.jpg" width="123px"/>
+      <graphic height="1800px" url="web/0544_0054_web.jpg" width="1168px"/>
+    </surface>
+    <surface n="26v">
+      <graphic height="5819px" url="master/0544_0055.tif" width="3778px"/>
+      <graphic height="190px" url="thumb/0544_0055_thumb.jpg" width="123px"/>
+      <graphic height="1800px" url="web/0544_0055_web.jpg" width="1168px"/>
+    </surface>
+    <surface n="27r">
+      <graphic height="5819px" url="master/0544_0056.tif" width="3778px"/>
+      <graphic height="190px" url="thumb/0544_0056_thumb.jpg" width="123px"/>
+      <graphic height="1800px" url="web/0544_0056_web.jpg" width="1168px"/>
+    </surface>
+    <surface n="27v">
+      <graphic height="5819px" url="master/0544_0057.tif" width="3778px"/>
+      <graphic height="190px" url="thumb/0544_0057_thumb.jpg" width="123px"/>
+      <graphic height="1800px" url="web/0544_0057_web.jpg" width="1168px"/>
+    </surface>
+    <surface n="28r">
+      <graphic height="5819px" url="master/0544_0058.tif" width="3778px"/>
+      <graphic height="190px" url="thumb/0544_0058_thumb.jpg" width="123px"/>
+      <graphic height="1800px" url="web/0544_0058_web.jpg" width="1168px"/>
+    </surface>
+    <surface n="28v">
+      <graphic height="5819px" url="master/0544_0059.tif" width="3778px"/>
+      <graphic height="190px" url="thumb/0544_0059_thumb.jpg" width="123px"/>
+      <graphic height="1800px" url="web/0544_0059_web.jpg" width="1168px"/>
+    </surface>
+    <surface n="29r">
+      <graphic height="5819px" url="master/0544_0060.tif" width="3778px"/>
+      <graphic height="190px" url="thumb/0544_0060_thumb.jpg" width="123px"/>
+      <graphic height="1800px" url="web/0544_0060_web.jpg" width="1168px"/>
+    </surface>
+    <surface n="29v">
+      <graphic height="5819px" url="master/0544_0061.tif" width="3778px"/>
+      <graphic height="190px" url="thumb/0544_0061_thumb.jpg" width="123px"/>
+      <graphic height="1800px" url="web/0544_0061_web.jpg" width="1168px"/>
+    </surface>
+    <surface n="30r">
+      <graphic height="5819px" url="master/0544_0062.tif" width="3778px"/>
+      <graphic height="190px" url="thumb/0544_0062_thumb.jpg" width="123px"/>
+      <graphic height="1800px" url="web/0544_0062_web.jpg" width="1168px"/>
+    </surface>
+    <surface n="30v">
+      <graphic height="5819px" url="master/0544_0063.tif" width="3778px"/>
+      <graphic height="190px" url="thumb/0544_0063_thumb.jpg" width="123px"/>
+      <graphic height="1800px" url="web/0544_0063_web.jpg" width="1168px"/>
+    </surface>
+    <surface n="31r">
+      <graphic height="5819px" url="master/0544_0064.tif" width="3778px"/>
+      <graphic height="190px" url="thumb/0544_0064_thumb.jpg" width="123px"/>
+      <graphic height="1800px" url="web/0544_0064_web.jpg" width="1168px"/>
+    </surface>
+    <surface n="31v">
+      <graphic height="5819px" url="master/0544_0065.tif" width="3778px"/>
+      <graphic height="190px" url="thumb/0544_0065_thumb.jpg" width="123px"/>
+      <graphic height="1800px" url="web/0544_0065_web.jpg" width="1168px"/>
+    </surface>
+    <surface n="32r">
+      <graphic height="5819px" url="master/0544_0066.tif" width="3778px"/>
+      <graphic height="190px" url="thumb/0544_0066_thumb.jpg" width="123px"/>
+      <graphic height="1800px" url="web/0544_0066_web.jpg" width="1168px"/>
+    </surface>
+    <surface n="32v">
+      <graphic height="5819px" url="master/0544_0067.tif" width="3778px"/>
+      <graphic height="190px" url="thumb/0544_0067_thumb.jpg" width="123px"/>
+      <graphic height="1800px" url="web/0544_0067_web.jpg" width="1168px"/>
+    </surface>
+    <surface n="Inside back cover">
+      <graphic height="5819px" url="master/0544_0068.tif" width="3778px"/>
+      <graphic height="190px" url="thumb/0544_0068_thumb.jpg" width="123px"/>
+      <graphic height="1800px" url="web/0544_0068_web.jpg" width="1168px"/>
+    </surface>
+    <surface n="Back cover">
+      <graphic height="5819px" url="master/0544_0069.tif" width="3778px"/>
+      <graphic height="190px" url="thumb/0544_0069_thumb.jpg" width="123px"/>
+      <graphic height="1800px" url="web/0544_0069_web.jpg" width="1168px"/>
+    </surface>
+    <surface n="Spine">
+      <graphic height="5819px" url="master/0544_0070.tif" width="3778px"/>
+      <graphic height="190px" url="thumb/0544_0070_thumb.jpg" width="123px"/>
+      <graphic height="1800px" url="web/0544_0070_web.jpg" width="1168px"/>
+    </surface>
+  </facsimile>
+</TEI>

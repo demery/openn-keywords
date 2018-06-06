@@ -1,0 +1,97 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Description of University of Pennsylvania Ms. Coll. 742: Bishop of Osma legal instrument</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>The University of Pennsylvania Libraries</publisher>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by/4.0/legalcode">
+                                This description is ©2016 University of
+                                Pennsylvania Libraries. It is licensed under a Creative Commons
+                                Attribution License version 4.0 (CC-BY-4.0
+                                https://creativecommons.org/licenses/by/4.0/legalcode. For a
+                                description of the terms of use see the Creative Commons Deed
+                                https://creativecommons.org/licenses/by/4.0/. </licence>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/"> All
+                                referenced images and their content are free of known copyright
+                                restrictions and in the public domain. See the Creative Commons
+                                Public Domain Mark page for usage details,
+                                http://creativecommons.org/publicdomain/mark/1.0/. </licence>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note>This oversize item is stored in a map drawer.</note>
+      </notesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <settlement>Philadelphia</settlement>
+            <institution>University of Pennsylvania</institution>
+            <repository>Rare Book &amp; Manuscript Library</repository>
+            <idno type="call-number">Ms. Coll. 742</idno>
+            <altIdentifier type="bibid">
+              <idno>4638239</idno>
+            </altIdentifier>
+            <altIdentifier type="resource">
+              <idno>http://hdl.library.upenn.edu/1017/d/medren/4638239</idno>
+            </altIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary>Legal instrument dated Jan. 22, 1464, issued by Rodrigo Sánchez de Arévalo, bishop of Osma and Castilian ambassador to the papal curia (1456-1470). Contains an authenticated copy of a privilege granted to Giacomo di Nanni Todeschini Piccolomini di Castiglia e d'Aragona, nephew of Pope Pius II, by King Henry IV of Castile at Aranda (near Osma), dated Feb. 9, 1463. The privilege appoints Giacomo as Henry IV's councilor, and entitles him to join the name Castiglia to his name, as well as add the Castilian arms to his own. The document records the delivery of the royal privilege to Giacomo.</summary>
+            <textLang>In Latin</textLang>
+            <msItem>
+              <title>Bishop of Osma legal instrument</title>
+              <author>Catholic Church</author>
+              <author>Henry IV, King of Castile and Leon, 1425-1474</author>
+              <author>Sánchez de Arévalo, Rodrigo, 1404-1470</author>
+              <respStmt>
+                <resp>former owner</resp>
+                <persName>North, Frederick, Earl of Guilford, 1766-1827</persName>
+              </respStmt>
+              <respStmt>
+                <resp>former owner</resp>
+                <persName>Phillipps, Thomas, Sir, 1792-1872</persName>
+              </respStmt>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc>
+                <extent>1</extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin/>
+            <provenance>Formerly owned by Frederick North, Earl of Guilford, and Sir Thomas Phillipps (part of ms. 6067).</provenance>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords n="form/genre">
+          <term>Legal documents</term>
+          <term>Notarial documents</term>
+          <term>Manuscripts, Latin--15th century</term>
+          <term>Manuscripts, Renaissance</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface n="Side 1">
+      <graphic height="6053px" url="master/3099_0000.tif" width="5220px"/>
+      <graphic height="190px" url="thumb/3099_0000_thumb.jpg" width="164px"/>
+      <graphic height="1800px" url="web/3099_0000_web.jpg" width="1552px"/>
+    </surface>
+    <surface n="Side 2">
+      <graphic height="6053px" url="master/3099_0001.tif" width="5220px"/>
+      <graphic height="190px" url="thumb/3099_0001_thumb.jpg" width="164px"/>
+      <graphic height="1800px" url="web/3099_0001_web.jpg" width="1552px"/>
+    </surface>
+  </facsimile>
+</TEI>

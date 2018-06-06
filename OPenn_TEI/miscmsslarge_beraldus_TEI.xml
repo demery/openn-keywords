@@ -1,0 +1,82 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Description of University of Pennsylvania Misc Mss (Large) Box 1 Folder 6: Miscellaneous manuscripts (Large)</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>The University of Pennsylvania Libraries</publisher>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by/4.0/legalcode">
+                                This description is ©2016 University of
+                                Pennsylvania Libraries. It is licensed under a Creative Commons
+                                Attribution License version 4.0 (CC-BY-4.0
+                                https://creativecommons.org/licenses/by/4.0/legalcode. For a
+                                description of the terms of use see the Creative Commons Deed
+                                https://creativecommons.org/licenses/by/4.0/. </licence>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/"> All
+                                referenced images and their content are free of known copyright
+                                restrictions and in the public domain. See the Creative Commons
+                                Public Domain Mark page for usage details,
+                                http://creativecommons.org/publicdomain/mark/1.0/. </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <settlement>Philadelphia</settlement>
+            <institution>University of Pennsylvania</institution>
+            <repository>Rare Book &amp; Manuscript Library</repository>
+            <idno type="call-number">Misc Mss (Large) Box 1 Folder 6</idno>
+            <altIdentifier type="bibid">
+              <idno>4351911</idno>
+            </altIdentifier>
+            <altIdentifier type="resource">
+              <idno>http://hdl.library.upenn.edu/1017/d/medren/4351911</idno>
+            </altIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary>A notice to the clergy in the diocese of Cahors that a letter from Pope Clement VII, dated 15 March 1531, orders the return of property, titles, belongings, and money of Guillaume and Géraud of Figeac, heirs of François Grana, under penalty of excommunication for those who unrightfully retain the property. Part of the letter is torn on the lower right and left sides.</summary>
+            <textLang>In Latin</textLang>
+            <msItem>
+              <title>Miscellaneous manuscripts (Large)</title>
+              <author>Beraldus, Antonius</author>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc>
+                <extent>1</extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin/>
+            <provenance>Sold by E. Saffroy (Paris), 1962.</provenance>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords n="form/genre">
+          <term>Manuscripts, Latin--16th century</term>
+          <term>Manuscripts, Renaissance</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface n="Side 1">
+      <graphic height="6297px" url="master/1770_0000.tif" width="5032px"/>
+      <graphic height="190px" url="thumb/1770_0000_thumb.jpg" width="152px"/>
+      <graphic height="1800px" url="web/1770_0000_web.jpg" width="1438px"/>
+    </surface>
+    <surface n="Side 2">
+      <graphic height="6297px" url="master/1770_0001.tif" width="5032px"/>
+      <graphic height="190px" url="thumb/1770_0001_thumb.jpg" width="152px"/>
+      <graphic height="1800px" url="web/1770_0001_web.jpg" width="1438px"/>
+    </surface>
+  </facsimile>
+</TEI>

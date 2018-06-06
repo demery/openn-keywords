@@ -1,0 +1,118 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Description of University of Pennsylvania CAJS Rar Ms 125: al-Aḥādīth =</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>The University of Pennsylvania Libraries</publisher>
+        <availability>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/">These images and the content of Library at the Herbert D. Katz Center for Advanced Judaic Studies, CAJS Rar Ms 125: al-Aḥādīth = are free of known copyright restrictions and in the public domain. See the Creative Commons Public Domain Mark page for usage details, http://creativecommons.org/publicdomain/mark/1.0/.</licence>
+          <licence target="https://creativecommons.org/licenses/by/4.0/legalcode">Metadata is ©2017 University of Pennsylvania Books &amp; Manuscripts and licensed under a Creative Commons Attribution License version 4.0 (CC-BY-4.0 https://creativecommons.org/licenses/by/4.0/legalcode. For a description of the terms of use see the Creative Commons Deed https://creativecommons.org/licenses/by/4.0/.</licence>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note>Ms. bifolium.</note>
+        <note>Title supplied by cataloger.</note>
+        <note>Water-stained, otherwise in good condition.</note>
+        <note>Item cataloged from digital facsimile and existing description.</note>
+      </notesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <settlement>Philadelphia</settlement>
+            <institution>University of Pennsylvania</institution>
+            <repository>Library at the Herbert D. Katz Center for Advanced Judaic Studies</repository>
+            <idno type="call-number">CAJS Rar Ms 125</idno>
+            <altIdentifier type="bibid">
+              <idno>6852932</idno>
+            </altIdentifier>
+            <altIdentifier type="resource">
+              <idno>http://hdl.library.upenn.edu/1017/d/medren/6852932</idno>
+            </altIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary/>
+            <textLang>Arabic</textLang>
+            <msItem>
+              <title>al-Aḥādīth =</title>
+              <author>Qalqashandī, Ibrāhīm ibn ʻAlī, -1516 or 1517</author>
+              <respStmt>
+                <resp>former owner</resp>
+                <persName>Sulzberger, Mayer, 1843-1923</persName>
+              </respStmt>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc material="mixed">
+                <support>
+                  <p>paper</p>
+                </support>
+                <extent>2 leaves : 180 x 135 mm</extent>
+              </supportDesc>
+              <layoutDesc>
+                <layout>Written in 20 lines.</layout>
+              </layoutDesc>
+            </objectDesc>
+            <scriptDesc>
+              <scriptNote>Written in Naskh script.</scriptNote>
+            </scriptDesc>
+          </physDesc>
+          <history>
+            <origin>
+              <p>Written in 1515.</p>
+              <origDate>1515</origDate>
+            </origin>
+            <provenance>Formerly held in the Library of Dropsie College for Hebrew and Cognate Learning; gift of Mayer Sulzberger to Dropsie College (loose note).</provenance>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords n="subjects">
+          <term>Hadith--Texts</term>
+        </keywords>
+        <keywords n="form/genre">
+          <term>Detached leaves</term>
+          <term>Manuscripts, Renaissance</term>
+          <term>Manuscripts, Arabic--16th century</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface n="1r">
+      <graphic height="4737px" url="master/5086_0000.tif" width="3688px"/>
+      <graphic height="190px" url="thumb/5086_0000_thumb.jpg" width="147px"/>
+      <graphic height="1800px" url="web/5086_0000_web.jpg" width="1401px"/>
+    </surface>
+    <surface n="1v">
+      <graphic height="4737px" url="master/5086_0001.tif" width="3688px"/>
+      <graphic height="190px" url="thumb/5086_0001_thumb.jpg" width="147px"/>
+      <graphic height="1800px" url="web/5086_0001_web.jpg" width="1401px"/>
+    </surface>
+    <surface n="2r">
+      <graphic height="4737px" url="master/5086_0002.tif" width="3688px"/>
+      <graphic height="190px" url="thumb/5086_0002_thumb.jpg" width="147px"/>
+      <graphic height="1800px" url="web/5086_0002_web.jpg" width="1401px"/>
+    </surface>
+    <surface n="2v">
+      <graphic height="4737px" url="master/5086_0003.tif" width="3688px"/>
+      <graphic height="190px" url="thumb/5086_0003_thumb.jpg" width="147px"/>
+      <graphic height="1800px" url="web/5086_0003_web.jpg" width="1401px"/>
+    </surface>
+    <surface n="Loose note 1, Side 1">
+      <graphic height="4829px" url="master/5086_0004.tif" width="6744px"/>
+      <graphic height="136px" url="thumb/5086_0004_thumb.jpg" width="190px"/>
+      <graphic height="1288px" url="web/5086_0004_web.jpg" width="1800px"/>
+    </surface>
+    <surface n="Loose note 1, Side 2">
+      <graphic height="4829px" url="master/5086_0005.tif" width="6744px"/>
+      <graphic height="136px" url="thumb/5086_0005_thumb.jpg" width="190px"/>
+      <graphic height="1288px" url="web/5086_0005_web.jpg" width="1800px"/>
+    </surface>
+  </facsimile>
+</TEI>

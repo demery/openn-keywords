@@ -1,0 +1,104 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Description of University of Pennsylvania Ms. Coll. 85: Charter granting seigneurial rights to Raimundus Berengarius and his wife Dulcia :</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>The University of Pennsylvania Libraries</publisher>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by/4.0/legalcode">
+                                This description is ©2015 University of
+                                Pennsylvania Libraries. It is licensed under a Creative Commons
+                                Attribution License version 4.0 (CC-BY-4.0
+                                https://creativecommons.org/licenses/by/4.0/legalcode. For a
+                                description of the terms of use see the Creative Commons Deed
+                                https://creativecommons.org/licenses/by/4.0/. </licence>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/"> All
+                                referenced images and their content are free of known copyright
+                                restrictions and in the public domain. See the Creative Commons
+                                Public Domain Mark page for usage details,
+                                http://creativecommons.org/publicdomain/mark/1.0/. </licence>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note>Incipit and explicit: Sit notum cunctis quod ego Bernardus Paschualis et meis ... Geralli presbiteri qui hoc scripsit et dampnatis in linea.iii. die et anno quo supra.</note>
+        <note>The scribe appears to be the Gerallus mentioned in the explicit.</note>
+        <note>Corró de Munt, Spain. Date given in line 9 as: "vii. idus marcii, anno xxxv regni regis Ledoyci iunioris," i.e. 9 March 1172. This king is the French king Louis VII, who reigned 1137-1180.</note>
+        <note>Late Romanesque notarial script.</note>
+        <note>Oblong; uneven.</note>
+        <note>Transcription and translation on file in the Library.</note>
+      </notesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <settlement>Philadelphia</settlement>
+            <institution>University of Pennsylvania</institution>
+            <repository>Rare Book &amp; Manuscript Library</repository>
+            <idno type="call-number">Ms. Coll. 85</idno>
+            <altIdentifier type="bibid">
+              <idno>1580398</idno>
+            </altIdentifier>
+            <altIdentifier type="resource">
+              <idno>http://hdl.library.upenn.edu/1017/d/medren/1580398</idno>
+            </altIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary>Charter granting certain rights to Raimundus Berengarius and his wife Dulcia in the seigneury in the parish of Sant Mamet de Corró in the county of Barcelona, in Spain. Bernardus also makes Berengarius his bailiff. Includes the attestations of several witnesses. Dated 9 March 1172.</summary>
+            <textLang>In Latin</textLang>
+            <msItem>
+              <title>Charter granting seigneurial rights to Raimundus Berengarius and his wife Dulcia :</title>
+              <author>Bernardus, Paschualis</author>
+              <respStmt>
+                <resp>scribe</resp>
+                <persName>Gerallus</persName>
+              </respStmt>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc material="parchment">
+                <support>
+                  <p>parchment</p>
+                </support>
+                <extent>1 90 x 220 mm</extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin/>
+            <provenance>Purchased, 1960.</provenance>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords n="subjects">
+          <term>Sant Mamet de Corró (Spain : Parish)</term>
+          <term>Charters--Specimens</term>
+          <term>Nobility--Early works to 1800</term>
+        </keywords>
+        <keywords n="form/genre">
+          <term>Charters</term>
+          <term>Fragments</term>
+          <term>Manuscripts, Latin--12th century</term>
+          <term>Manuscripts, Medieval</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface n="Side 1">
+      <graphic height="2400px" url="master/0730_0000.tif" width="5283px"/>
+      <graphic height="86px" url="thumb/0730_0000_thumb.jpg" width="190px"/>
+      <graphic height="817px" url="web/0730_0000_web.jpg" width="1800px"/>
+    </surface>
+    <surface n="Side 2">
+      <graphic height="2400px" url="master/0730_0001.tif" width="5283px"/>
+      <graphic height="86px" url="thumb/0730_0001_thumb.jpg" width="190px"/>
+      <graphic height="817px" url="web/0730_0001_web.jpg" width="1800px"/>
+    </surface>
+  </facsimile>
+</TEI>

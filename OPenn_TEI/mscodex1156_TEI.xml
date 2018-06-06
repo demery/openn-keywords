@@ -1,0 +1,409 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Description of University of Pennsylvania Ms. Codex 1156: Epithome artis epistolaris ... etc.</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>The University of Pennsylvania Libraries</publisher>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by/4.0/legalcode">
+                                This description is ©2015 University of
+                                Pennsylvania Libraries. It is licensed under a Creative Commons
+                                Attribution License version 4.0 (CC-BY-4.0
+                                https://creativecommons.org/licenses/by/4.0/legalcode. For a
+                                description of the terms of use see the Creative Commons Deed
+                                https://creativecommons.org/licenses/by/4.0/. </licence>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/"> All
+                                referenced images and their content are free of known copyright
+                                restrictions and in the public domain. See the Creative Commons
+                                Public Domain Mark page for usage details,
+                                http://creativecommons.org/publicdomain/mark/1.0/. </licence>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note>Ms. codex.</note>
+        <note>Title from predominant work (f. 9r).</note>
+      </notesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <settlement>Philadelphia</settlement>
+            <institution>University of Pennsylvania</institution>
+            <repository>Rare Book &amp; Manuscript Library</repository>
+            <idno type="call-number">Ms. Codex 1156</idno>
+            <altIdentifier type="bibid">
+              <idno>4294938</idno>
+            </altIdentifier>
+            <altIdentifier type="resource">
+              <idno>http://hdl.library.upenn.edu/1017/d/medren/4294938</idno>
+            </altIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary>Epithome artis epistolaris, the predominant work, is a treatise on rhetoric and letter writing based on authors and sources ranging from classical antiquity to the Renaissance. Rhegius draws strongly on Cicero, Quintilian, and Poliziano, but also references Aristotle, Plutarch, Pliny the Younger, Ovid, Juvenal, Terence, Vergil, Horace, Lucretius, Caesar, Livy, Augustine, passages from Psalms and Exodus, Albertus Magnus, Erasmus, Giorgio Valla, Ermolau Barbaro, Heinrich Bebel, Franciscus Niger, and Ulrich Zasius; many of these references are noted in the margins. The treatise explores the classical tenets of rhetoric, including inventio, dispositio, exordium, and elocutio; marginal annotations also make reference in Greek to various tools of rhetoric, including metaphor and periphrasis. Although the authorship of Epithome artis epistolaris was originally uncertain, it has been attributed to Urbanus Rhegius early in his career (Rhegius' name appears multiple times throughout the manuscript in both Hebrew and Roman letters: see f. 6r-v, 8v, 9r, 16v). The predominant work is preceded by an excerpt from a medieval comedic poem, several pages of which have been removed, and several brief writings concerning rhetoric and philosophy.</summary>
+            <textLang mainLang="lat" otherLangs="grc heb">Latin, with words and names in Ancient Greek and Hebrew</textLang>
+            <msItem>
+              <title>Epithome artis epistolaris ... etc.</title>
+              <author>Rhegius, Urbanus, 1489-1541</author>
+              <author>Bosso, Matteo, 1427 or 8-1502</author>
+              <author>Ludimontanus</author>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc material="paper">
+                <support>
+                  <p>paper</p>
+                  <watermark>Briquet Couronne 4902 (1520); although this watermark is cited from Trevise in 1520, Briquet lists many other extant sources from throughout central and eastern Europe in the late 15th and early 16th centuries.</watermark>
+                </support>
+                <extent>28 leaves : 203 x 145 mm. bound to 212 x 157 mm</extent>
+                <collation>
+                  <p>Paper, i (modern paper) + 28 + i (modern paper); 1¹⁴(-2, 3, 4, 5) 2¹⁴; modern pencil foliation, upper right recto, including the remains of the missing leaves.</p>
+                </collation>
+              </supportDesc>
+              <layoutDesc>
+                <layout>Ruled in drypoint.</layout>
+              </layoutDesc>
+            </objectDesc>
+            <scriptDesc>
+              <scriptNote>Written in a humanistic script, except work 5, written in a "hasty cursive" (Zacour-Hirsch).</scriptNote>
+            </scriptDesc>
+            <decoDesc>
+              <decoNote>Manicules in margins throughout.</decoNote>
+              <decoNote n="8r">Manicule, f. 8r</decoNote>
+              <decoNote n="10r">Manicule, f. 10r</decoNote>
+              <decoNote n="10v">Manicule, f. 10v</decoNote>
+              <decoNote n="11v">Manicule, f. 11v</decoNote>
+              <decoNote n="14r">Manicule, f. 14r</decoNote>
+              <decoNote n="15r">Manicule, f. 15r</decoNote>
+              <decoNote n="15v">Manicule, f. 15v</decoNote>
+              <decoNote n="16r">Manicule, f. 16r</decoNote>
+              <decoNote n="16v">Manicule, f. 16v</decoNote>
+              <decoNote n="18r">Manicule, f. 18r</decoNote>
+              <decoNote n="19r">Manicule, f. 19r</decoNote>
+              <decoNote n="23v">Manicule, f. 23v</decoNote>
+              <decoNote n="25v">Manicule, f. 25v</decoNote>
+            </decoDesc>
+            <bindingDesc>
+              <binding>
+                <p>Modern cloth, by Kurt Gabbel &amp; Sons, Holland, Pa.</p>
+              </binding>
+            </bindingDesc>
+          </physDesc>
+          <history>
+            <origin>
+              <p>Written in either Ingolstadt or Freiburg im Breisgau, 1512 (f. 8r, 24r).</p>
+              <origDate>1512</origDate>
+              <origPlace>Germany</origPlace>
+            </origin>
+            <provenance>Purchased, 1962.</provenance>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords n="subjects">
+          <term>Rhetoric--Study and teaching</term>
+          <term>Rhetoric--Early works to 1800</term>
+        </keywords>
+        <keywords n="form/genre">
+          <term>Codices</term>
+          <term>Annotations</term>
+          <term>Poems</term>
+          <term>Treatises</term>
+          <term>Manuscripts, Latin--16th century</term>
+          <term>Manuscripts, Renaissance</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface n="Front cover">
+      <graphic height="5498px" url="master/1035_0000.tif" width="3993px"/>
+      <graphic height="190px" url="thumb/1035_0000_thumb.jpg" width="138px"/>
+      <graphic height="1800px" url="web/1035_0000_web.jpg" width="1307px"/>
+    </surface>
+    <surface n="Inside front cover">
+      <graphic height="5401px" url="master/1035_0001.tif" width="4020px"/>
+      <graphic height="190px" url="thumb/1035_0001_thumb.jpg" width="141px"/>
+      <graphic height="1800px" url="web/1035_0001_web.jpg" width="1339px"/>
+    </surface>
+    <surface n="Flyleaf 1 recto">
+      <graphic height="5401px" url="master/1035_0002.tif" width="4020px"/>
+      <graphic height="190px" url="thumb/1035_0002_thumb.jpg" width="141px"/>
+      <graphic height="1800px" url="web/1035_0002_web.jpg" width="1339px"/>
+    </surface>
+    <surface n="Flyleaf 1 verso">
+      <graphic height="5401px" url="master/1035_0003.tif" width="4020px"/>
+      <graphic height="190px" url="thumb/1035_0003_thumb.jpg" width="141px"/>
+      <graphic height="1800px" url="web/1035_0003_web.jpg" width="1339px"/>
+    </surface>
+    <surface n="1r">
+      <graphic height="5401px" url="master/1035_0004.tif" width="4020px"/>
+      <graphic height="190px" url="thumb/1035_0004_thumb.jpg" width="141px"/>
+      <graphic height="1800px" url="web/1035_0004_web.jpg" width="1339px"/>
+    </surface>
+    <surface n="1v; 2r-5v missing, not shot">
+      <graphic height="5401px" url="master/1035_0005.tif" width="4020px"/>
+      <graphic height="190px" url="thumb/1035_0005_thumb.jpg" width="141px"/>
+      <graphic height="1800px" url="web/1035_0005_web.jpg" width="1339px"/>
+    </surface>
+    <surface n="6r">
+      <graphic height="5401px" url="master/1035_0006.tif" width="4020px"/>
+      <graphic height="190px" url="thumb/1035_0006_thumb.jpg" width="141px"/>
+      <graphic height="1800px" url="web/1035_0006_web.jpg" width="1339px"/>
+    </surface>
+    <surface n="6v">
+      <graphic height="5401px" url="master/1035_0007.tif" width="4020px"/>
+      <graphic height="190px" url="thumb/1035_0007_thumb.jpg" width="141px"/>
+      <graphic height="1800px" url="web/1035_0007_web.jpg" width="1339px"/>
+    </surface>
+    <surface n="7r">
+      <graphic height="5401px" url="master/1035_0008.tif" width="4020px"/>
+      <graphic height="190px" url="thumb/1035_0008_thumb.jpg" width="141px"/>
+      <graphic height="1800px" url="web/1035_0008_web.jpg" width="1339px"/>
+    </surface>
+    <surface n="7v">
+      <graphic height="5401px" url="master/1035_0009.tif" width="4020px"/>
+      <graphic height="190px" url="thumb/1035_0009_thumb.jpg" width="141px"/>
+      <graphic height="1800px" url="web/1035_0009_web.jpg" width="1339px"/>
+    </surface>
+    <surface n="8r">
+      <graphic height="5401px" url="master/1035_0010.tif" width="4020px"/>
+      <graphic height="190px" url="thumb/1035_0010_thumb.jpg" width="141px"/>
+      <graphic height="1800px" url="web/1035_0010_web.jpg" width="1339px"/>
+    </surface>
+    <surface n="8v">
+      <graphic height="5401px" url="master/1035_0011.tif" width="4020px"/>
+      <graphic height="190px" url="thumb/1035_0011_thumb.jpg" width="141px"/>
+      <graphic height="1800px" url="web/1035_0011_web.jpg" width="1339px"/>
+    </surface>
+    <surface n="9r">
+      <graphic height="5401px" url="master/1035_0012.tif" width="4020px"/>
+      <graphic height="190px" url="thumb/1035_0012_thumb.jpg" width="141px"/>
+      <graphic height="1800px" url="web/1035_0012_web.jpg" width="1339px"/>
+    </surface>
+    <surface n="9v">
+      <graphic height="5401px" url="master/1035_0013.tif" width="4020px"/>
+      <graphic height="190px" url="thumb/1035_0013_thumb.jpg" width="141px"/>
+      <graphic height="1800px" url="web/1035_0013_web.jpg" width="1339px"/>
+    </surface>
+    <surface n="10r">
+      <graphic height="5401px" url="master/1035_0014.tif" width="4020px"/>
+      <graphic height="190px" url="thumb/1035_0014_thumb.jpg" width="141px"/>
+      <graphic height="1800px" url="web/1035_0014_web.jpg" width="1339px"/>
+    </surface>
+    <surface n="10v">
+      <graphic height="5401px" url="master/1035_0015.tif" width="4020px"/>
+      <graphic height="190px" url="thumb/1035_0015_thumb.jpg" width="141px"/>
+      <graphic height="1800px" url="web/1035_0015_web.jpg" width="1339px"/>
+    </surface>
+    <surface n="11r">
+      <graphic height="5401px" url="master/1035_0016.tif" width="4020px"/>
+      <graphic height="190px" url="thumb/1035_0016_thumb.jpg" width="141px"/>
+      <graphic height="1800px" url="web/1035_0016_web.jpg" width="1339px"/>
+    </surface>
+    <surface n="11v">
+      <graphic height="5401px" url="master/1035_0017.tif" width="4020px"/>
+      <graphic height="190px" url="thumb/1035_0017_thumb.jpg" width="141px"/>
+      <graphic height="1800px" url="web/1035_0017_web.jpg" width="1339px"/>
+    </surface>
+    <surface n="12r">
+      <graphic height="5401px" url="master/1035_0018.tif" width="4020px"/>
+      <graphic height="190px" url="thumb/1035_0018_thumb.jpg" width="141px"/>
+      <graphic height="1800px" url="web/1035_0018_web.jpg" width="1339px"/>
+    </surface>
+    <surface n="12v">
+      <graphic height="5401px" url="master/1035_0019.tif" width="4020px"/>
+      <graphic height="190px" url="thumb/1035_0019_thumb.jpg" width="141px"/>
+      <graphic height="1800px" url="web/1035_0019_web.jpg" width="1339px"/>
+    </surface>
+    <surface n="13r">
+      <graphic height="5401px" url="master/1035_0020.tif" width="4020px"/>
+      <graphic height="190px" url="thumb/1035_0020_thumb.jpg" width="141px"/>
+      <graphic height="1800px" url="web/1035_0020_web.jpg" width="1339px"/>
+    </surface>
+    <surface n="13v">
+      <graphic height="5401px" url="master/1035_0021.tif" width="4020px"/>
+      <graphic height="190px" url="thumb/1035_0021_thumb.jpg" width="141px"/>
+      <graphic height="1800px" url="web/1035_0021_web.jpg" width="1339px"/>
+    </surface>
+    <surface n="14r">
+      <graphic height="5401px" url="master/1035_0022.tif" width="4020px"/>
+      <graphic height="190px" url="thumb/1035_0022_thumb.jpg" width="141px"/>
+      <graphic height="1800px" url="web/1035_0022_web.jpg" width="1339px"/>
+    </surface>
+    <surface n="14v">
+      <graphic height="5401px" url="master/1035_0023.tif" width="4020px"/>
+      <graphic height="190px" url="thumb/1035_0023_thumb.jpg" width="141px"/>
+      <graphic height="1800px" url="web/1035_0023_web.jpg" width="1339px"/>
+    </surface>
+    <surface n="15r">
+      <graphic height="5401px" url="master/1035_0024.tif" width="4020px"/>
+      <graphic height="190px" url="thumb/1035_0024_thumb.jpg" width="141px"/>
+      <graphic height="1800px" url="web/1035_0024_web.jpg" width="1339px"/>
+    </surface>
+    <surface n="15v">
+      <graphic height="5401px" url="master/1035_0025.tif" width="4020px"/>
+      <graphic height="190px" url="thumb/1035_0025_thumb.jpg" width="141px"/>
+      <graphic height="1800px" url="web/1035_0025_web.jpg" width="1339px"/>
+    </surface>
+    <surface n="16r">
+      <graphic height="5401px" url="master/1035_0026.tif" width="4020px"/>
+      <graphic height="190px" url="thumb/1035_0026_thumb.jpg" width="141px"/>
+      <graphic height="1800px" url="web/1035_0026_web.jpg" width="1339px"/>
+    </surface>
+    <surface n="16v">
+      <graphic height="5401px" url="master/1035_0027.tif" width="4020px"/>
+      <graphic height="190px" url="thumb/1035_0027_thumb.jpg" width="141px"/>
+      <graphic height="1800px" url="web/1035_0027_web.jpg" width="1339px"/>
+    </surface>
+    <surface n="17r">
+      <graphic height="5401px" url="master/1035_0028.tif" width="4020px"/>
+      <graphic height="190px" url="thumb/1035_0028_thumb.jpg" width="141px"/>
+      <graphic height="1800px" url="web/1035_0028_web.jpg" width="1339px"/>
+    </surface>
+    <surface n="17v">
+      <graphic height="5401px" url="master/1035_0029.tif" width="4020px"/>
+      <graphic height="190px" url="thumb/1035_0029_thumb.jpg" width="141px"/>
+      <graphic height="1800px" url="web/1035_0029_web.jpg" width="1339px"/>
+    </surface>
+    <surface n="18r">
+      <graphic height="5401px" url="master/1035_0030.tif" width="4020px"/>
+      <graphic height="190px" url="thumb/1035_0030_thumb.jpg" width="141px"/>
+      <graphic height="1800px" url="web/1035_0030_web.jpg" width="1339px"/>
+    </surface>
+    <surface n="18v">
+      <graphic height="5401px" url="master/1035_0031.tif" width="4020px"/>
+      <graphic height="190px" url="thumb/1035_0031_thumb.jpg" width="141px"/>
+      <graphic height="1800px" url="web/1035_0031_web.jpg" width="1339px"/>
+    </surface>
+    <surface n="19r">
+      <graphic height="5401px" url="master/1035_0032.tif" width="4020px"/>
+      <graphic height="190px" url="thumb/1035_0032_thumb.jpg" width="141px"/>
+      <graphic height="1800px" url="web/1035_0032_web.jpg" width="1339px"/>
+    </surface>
+    <surface n="19v">
+      <graphic height="5401px" url="master/1035_0033.tif" width="4020px"/>
+      <graphic height="190px" url="thumb/1035_0033_thumb.jpg" width="141px"/>
+      <graphic height="1800px" url="web/1035_0033_web.jpg" width="1339px"/>
+    </surface>
+    <surface n="20r">
+      <graphic height="5401px" url="master/1035_0034.tif" width="4020px"/>
+      <graphic height="190px" url="thumb/1035_0034_thumb.jpg" width="141px"/>
+      <graphic height="1800px" url="web/1035_0034_web.jpg" width="1339px"/>
+    </surface>
+    <surface n="20v">
+      <graphic height="5401px" url="master/1035_0035.tif" width="4020px"/>
+      <graphic height="190px" url="thumb/1035_0035_thumb.jpg" width="141px"/>
+      <graphic height="1800px" url="web/1035_0035_web.jpg" width="1339px"/>
+    </surface>
+    <surface n="21r">
+      <graphic height="5401px" url="master/1035_0036.tif" width="4020px"/>
+      <graphic height="190px" url="thumb/1035_0036_thumb.jpg" width="141px"/>
+      <graphic height="1800px" url="web/1035_0036_web.jpg" width="1339px"/>
+    </surface>
+    <surface n="21v">
+      <graphic height="5401px" url="master/1035_0037.tif" width="4020px"/>
+      <graphic height="190px" url="thumb/1035_0037_thumb.jpg" width="141px"/>
+      <graphic height="1800px" url="web/1035_0037_web.jpg" width="1339px"/>
+    </surface>
+    <surface n="22r">
+      <graphic height="5401px" url="master/1035_0038.tif" width="4020px"/>
+      <graphic height="190px" url="thumb/1035_0038_thumb.jpg" width="141px"/>
+      <graphic height="1800px" url="web/1035_0038_web.jpg" width="1339px"/>
+    </surface>
+    <surface n="22v">
+      <graphic height="5401px" url="master/1035_0039.tif" width="4020px"/>
+      <graphic height="190px" url="thumb/1035_0039_thumb.jpg" width="141px"/>
+      <graphic height="1800px" url="web/1035_0039_web.jpg" width="1339px"/>
+    </surface>
+    <surface n="23r">
+      <graphic height="5401px" url="master/1035_0040.tif" width="4020px"/>
+      <graphic height="190px" url="thumb/1035_0040_thumb.jpg" width="141px"/>
+      <graphic height="1800px" url="web/1035_0040_web.jpg" width="1339px"/>
+    </surface>
+    <surface n="23v">
+      <graphic height="5401px" url="master/1035_0041.tif" width="4020px"/>
+      <graphic height="190px" url="thumb/1035_0041_thumb.jpg" width="141px"/>
+      <graphic height="1800px" url="web/1035_0041_web.jpg" width="1339px"/>
+    </surface>
+    <surface n="24r">
+      <graphic height="5401px" url="master/1035_0042.tif" width="4020px"/>
+      <graphic height="190px" url="thumb/1035_0042_thumb.jpg" width="141px"/>
+      <graphic height="1800px" url="web/1035_0042_web.jpg" width="1339px"/>
+    </surface>
+    <surface n="24v">
+      <graphic height="5401px" url="master/1035_0043.tif" width="4020px"/>
+      <graphic height="190px" url="thumb/1035_0043_thumb.jpg" width="141px"/>
+      <graphic height="1800px" url="web/1035_0043_web.jpg" width="1339px"/>
+    </surface>
+    <surface n="25r">
+      <graphic height="5401px" url="master/1035_0044.tif" width="4020px"/>
+      <graphic height="190px" url="thumb/1035_0044_thumb.jpg" width="141px"/>
+      <graphic height="1800px" url="web/1035_0044_web.jpg" width="1339px"/>
+    </surface>
+    <surface n="25v">
+      <graphic height="5401px" url="master/1035_0045.tif" width="4020px"/>
+      <graphic height="190px" url="thumb/1035_0045_thumb.jpg" width="141px"/>
+      <graphic height="1800px" url="web/1035_0045_web.jpg" width="1339px"/>
+    </surface>
+    <surface n="26r">
+      <graphic height="5401px" url="master/1035_0046.tif" width="4020px"/>
+      <graphic height="190px" url="thumb/1035_0046_thumb.jpg" width="141px"/>
+      <graphic height="1800px" url="web/1035_0046_web.jpg" width="1339px"/>
+    </surface>
+    <surface n="26v">
+      <graphic height="5401px" url="master/1035_0047.tif" width="4020px"/>
+      <graphic height="190px" url="thumb/1035_0047_thumb.jpg" width="141px"/>
+      <graphic height="1800px" url="web/1035_0047_web.jpg" width="1339px"/>
+    </surface>
+    <surface n="27r">
+      <graphic height="5401px" url="master/1035_0048.tif" width="4020px"/>
+      <graphic height="190px" url="thumb/1035_0048_thumb.jpg" width="141px"/>
+      <graphic height="1800px" url="web/1035_0048_web.jpg" width="1339px"/>
+    </surface>
+    <surface n="27v">
+      <graphic height="5401px" url="master/1035_0049.tif" width="4020px"/>
+      <graphic height="190px" url="thumb/1035_0049_thumb.jpg" width="141px"/>
+      <graphic height="1800px" url="web/1035_0049_web.jpg" width="1339px"/>
+    </surface>
+    <surface n="28r">
+      <graphic height="5401px" url="master/1035_0050.tif" width="4020px"/>
+      <graphic height="190px" url="thumb/1035_0050_thumb.jpg" width="141px"/>
+      <graphic height="1800px" url="web/1035_0050_web.jpg" width="1339px"/>
+    </surface>
+    <surface n="28v">
+      <graphic height="5401px" url="master/1035_0051.tif" width="4020px"/>
+      <graphic height="190px" url="thumb/1035_0051_thumb.jpg" width="141px"/>
+      <graphic height="1800px" url="web/1035_0051_web.jpg" width="1339px"/>
+    </surface>
+    <surface n="Flyleaf 1 recto">
+      <graphic height="5401px" url="master/1035_0052.tif" width="4020px"/>
+      <graphic height="190px" url="thumb/1035_0052_thumb.jpg" width="141px"/>
+      <graphic height="1800px" url="web/1035_0052_web.jpg" width="1339px"/>
+    </surface>
+    <surface n="Flyleaf 1 verso">
+      <graphic height="5401px" url="master/1035_0053.tif" width="4020px"/>
+      <graphic height="190px" url="thumb/1035_0053_thumb.jpg" width="141px"/>
+      <graphic height="1800px" url="web/1035_0053_web.jpg" width="1339px"/>
+    </surface>
+    <surface n="Inside back cover">
+      <graphic height="5401px" url="master/1035_0054.tif" width="4020px"/>
+      <graphic height="190px" url="thumb/1035_0054_thumb.jpg" width="141px"/>
+      <graphic height="1800px" url="web/1035_0054_web.jpg" width="1339px"/>
+    </surface>
+    <surface n="Back cover">
+      <graphic height="5498px" url="master/1035_0055.tif" width="3993px"/>
+      <graphic height="190px" url="thumb/1035_0055_thumb.jpg" width="138px"/>
+      <graphic height="1800px" url="web/1035_0055_web.jpg" width="1307px"/>
+    </surface>
+    <surface n="Spine">
+      <graphic height="5498px" url="master/1035_0056.tif" width="3993px"/>
+      <graphic height="190px" url="thumb/1035_0056_thumb.jpg" width="138px"/>
+      <graphic height="1800px" url="web/1035_0056_web.jpg" width="1307px"/>
+    </surface>
+  </facsimile>
+</TEI>

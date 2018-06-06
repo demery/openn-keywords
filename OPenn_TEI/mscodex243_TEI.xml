@@ -1,0 +1,535 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Description of University of Pennsylvania Ms. Codex 243: Leticha /</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>The University of Pennsylvania Libraries</publisher>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by/4.0/legalcode">
+                                This description is ©2016 University of
+                                Pennsylvania Libraries. It is licensed under a Creative Commons
+                                Attribution License version 4.0 (CC-BY-4.0
+                                https://creativecommons.org/licenses/by/4.0/legalcode. For a
+                                description of the terms of use see the Creative Commons Deed
+                                https://creativecommons.org/licenses/by/4.0/. </licence>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/"> All
+                                referenced images and their content are free of known copyright
+                                restrictions and in the public domain. See the Creative Commons
+                                Public Domain Mark page for usage details,
+                                http://creativecommons.org/publicdomain/mark/1.0/. </licence>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note>Ms. codex.</note>
+        <note>Title from opening rubric (f. 1r): Qui comenza lo libro chiamato leticha del magnio filosefo Aristotile pieno de moralita Iesus Cristus.</note>
+        <note>Many stains and smudges. Slight wormhole damage, obliterating a few words of text on the first few folios. Edges starting to fray and tear in a few places. Binding and cover in good condition.</note>
+        <note>This text, with contemporary foliation 1-33, is missing its final leaf and was once followed by a treatise on the cardinal virtues based on Valerius Maximus and others, foliated 35-67, now the Beinecke Rare Book &amp; Manuscript Library's Marston 43 (Eugenio Refini, University of Warwick).</note>
+      </notesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <settlement>Philadelphia</settlement>
+            <institution>University of Pennsylvania</institution>
+            <repository>Rare Book &amp; Manuscript Library</repository>
+            <idno type="call-number">Ms. Codex 243</idno>
+            <altIdentifier type="bibid">
+              <idno>1580850</idno>
+            </altIdentifier>
+            <altIdentifier type="resource">
+              <idno>http://hdl.library.upenn.edu/1017/d/medren/1580850</idno>
+            </altIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary>Italian compendium of Aristotle's Nichomachean ethics.</summary>
+            <textLang>Italian</textLang>
+            <msItem>
+              <title>Leticha /</title>
+              <author>Alderotti, Taddeo, 1223-1295</author>
+              <respStmt>
+                <resp>former owner</resp>
+                <persName>Burr, Charles W. 1861-1944</persName>
+              </respStmt>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc material="paper">
+                <support>
+                  <p>paper</p>
+                </support>
+                <extent>33 leaves : 285 x 197 (208 x 115) mm. bound to 293 x 201 mm</extent>
+                <collation>
+                  <p>Paper, i (modern paper) + 33 + i (modern paper); 1¹²(+1), 2⁵, 3⁵; 1-33; contemporary foliation in ink, upper right recto.</p>
+                </collation>
+              </supportDesc>
+              <layoutDesc>
+                <layout>Written in 46 long lines; ruled in lead; some prickings visible.</layout>
+              </layoutDesc>
+            </objectDesc>
+            <scriptDesc>
+              <scriptNote>Written in a humanistic script by a single hand.</scriptNote>
+            </scriptDesc>
+            <decoDesc>
+              <decoNote>Contains 46 large decorated initials throughout, in a variety of colors; decorated with complicated interlacings of serrated branchwork with cone-like fruit; two of the initials have a small coat of arms in the center (f. 1r, 15v); headings to the prologue and the various sections written in red, purple and green; capitals touched with yellow.</decoNote>
+              <decoNote n="1r">Decorated initial, Initial O, f. 1r</decoNote>
+              <decoNote n="2r">Decorated initial, Initial A, f. 2r</decoNote>
+              <decoNote n="2r">Decorated initial, Initial B, f. 2r</decoNote>
+              <decoNote n="2v">Decorated initial, Initial N, f. 2v</decoNote>
+              <decoNote n="3r">Decorated initial, Initial L, f. 3r</decoNote>
+              <decoNote n="4r">Decorated initial, Initial E, f. 4r</decoNote>
+              <decoNote n="4v">Zoomorphic initial, Initial C, Dragons, f. 4v</decoNote>
+              <decoNote n="5r">Decorated initial, Initial T, f. 5r</decoNote>
+              <decoNote n="5v">Decorated initial, Initial B, f. 5v</decoNote>
+              <decoNote n="5v">Decorated initial, Initial Q, f. 5v</decoNote>
+              <decoNote n="6r">Decorated initial, Initial A, f. 6r</decoNote>
+              <decoNote n="6r">Decorated initial, Initial N, f. 6r</decoNote>
+              <decoNote n="6v">Decorated initial, Initial L, f. 6v</decoNote>
+              <decoNote n="7v">Decorated initial, Initial S, f. 7v</decoNote>
+              <decoNote n="8r">Zoomorphic initial, Initial S, Dragons, f. 8r</decoNote>
+              <decoNote n="10r">Decorated initial, Initial F, 10r</decoNote>
+              <decoNote n="11r">Decorated initial, Initial L, f. 11r</decoNote>
+              <decoNote n="11v">Decorated initial, Initial A, f. 11v</decoNote>
+              <decoNote n="12r">Decorated initial, Initial L, f. 12r</decoNote>
+              <decoNote n="12v">Decorated initial, Initial D, f. 12v</decoNote>
+              <decoNote n="13v">Decorated initial, Initial N, f. 13v</decoNote>
+              <decoNote n="13v">Decorated catchword, f. 13v</decoNote>
+              <decoNote n="14r">Decorated initial, Initial D, f. 14r</decoNote>
+              <decoNote n="14v">Decorated initial, Initial N, f. 14v</decoNote>
+              <decoNote n="15r">Decorated initial, Initial P, f. 15r</decoNote>
+              <decoNote n="15v">Decorated initial, Initial G, f. 15v</decoNote>
+              <decoNote n="16v">Decorated initial, Initial L, f. 16v</decoNote>
+              <decoNote n="18r">Decorated initial, Initial D, f. 18r</decoNote>
+              <decoNote n="18v">Decorated initial, Initial N, f. 18v</decoNote>
+              <decoNote n="19r">Decorated initial, Initial F, f. 19r</decoNote>
+              <decoNote n="19v">Decorated initial, Initial C, f. 19v</decoNote>
+              <decoNote n="20r">Decorated initial, Initial M, f. 20r</decoNote>
+              <decoNote n="20r">Decorated initial, Initial L, f. 20r</decoNote>
+              <decoNote n="20v">Decorated initial, Initial L, f. 20v</decoNote>
+              <decoNote n="20v">Decorated initial, Initial S, f. 20v</decoNote>
+              <decoNote n="21r">Decorated initial, Initial Q, f. 21r</decoNote>
+              <decoNote n="22r">Zoomorphic initial, Initial S, Dragons, f. 22r</decoNote>
+              <decoNote n="22v">Decorated initial, Initial S, f. 22v</decoNote>
+              <decoNote n="23v">Decorated catchword, f. 23v</decoNote>
+              <decoNote n="24r">Decorated initial, Initial L, f. 24r</decoNote>
+              <decoNote n="24r">Decorated initial, Initial T, f. 24r</decoNote>
+              <decoNote n="24v">Decorated initial, Initial A, f. 24v</decoNote>
+              <decoNote n="26r">Decorated initial, Initial T, f. 26r</decoNote>
+              <decoNote n="28r">Decorated initial, Initial D, f. 28r</decoNote>
+              <decoNote n="29v">Decorated initial, Initial L, f. 29v</decoNote>
+              <decoNote n="30v">Decorated initial, Initial L, f. 30v</decoNote>
+              <decoNote n="32r">Decorated initial, Initial D, f. 32r</decoNote>
+              <decoNote n="33v">Decorated catchword[?], f. 33v</decoNote>
+            </decoDesc>
+            <bindingDesc>
+              <binding>
+                <p>Modern half vellum.</p>
+              </binding>
+            </bindingDesc>
+          </physDesc>
+          <history>
+            <origin>
+              <p>Written in Italy, ca. 1500 (Zacour-Hirsch).</p>
+              <origDate>ca. 1500</origDate>
+              <origPlace>Italy</origPlace>
+            </origin>
+            <provenance>Gift of Charles W. Burr, 1938 (bookplate, inside upper cover).</provenance>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords n="subjects">
+          <term>Ethics--Early works to 1800</term>
+        </keywords>
+        <keywords n="form/genre">
+          <term>Manuscripts, Italian--16th century</term>
+          <term>Manuscripts, Renaissance</term>
+          <term>Codices</term>
+          <term>Compendiums</term>
+          <term>Translations</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface n="Front cover">
+      <graphic height="6900px" url="master/1966_0000.tif" width="5042px"/>
+      <graphic height="190px" url="thumb/1966_0000_thumb.jpg" width="138px"/>
+      <graphic height="1800px" url="web/1966_0000_web.jpg" width="1315px"/>
+    </surface>
+    <surface n="Inside front cover">
+      <graphic height="6900px" url="master/1966_0001.tif" width="5042px"/>
+      <graphic height="190px" url="thumb/1966_0001_thumb.jpg" width="138px"/>
+      <graphic height="1800px" url="web/1966_0001_web.jpg" width="1315px"/>
+    </surface>
+    <surface n="Flyleaf 1 recto">
+      <graphic height="6900px" url="master/1966_0002.tif" width="5042px"/>
+      <graphic height="190px" url="thumb/1966_0002_thumb.jpg" width="138px"/>
+      <graphic height="1800px" url="web/1966_0002_web.jpg" width="1315px"/>
+    </surface>
+    <surface n="Flyleaf 1 verso">
+      <graphic height="6900px" url="master/1966_0003.tif" width="5042px"/>
+      <graphic height="190px" url="thumb/1966_0003_thumb.jpg" width="138px"/>
+      <graphic height="1800px" url="web/1966_0003_web.jpg" width="1315px"/>
+    </surface>
+    <surface n="1r">
+      <graphic height="6900px" url="master/1966_0004.tif" width="5042px"/>
+      <graphic height="190px" url="thumb/1966_0004_thumb.jpg" width="138px"/>
+      <graphic height="1800px" url="web/1966_0004_web.jpg" width="1315px"/>
+    </surface>
+    <surface n="1v">
+      <graphic height="6900px" url="master/1966_0005.tif" width="5042px"/>
+      <graphic height="190px" url="thumb/1966_0005_thumb.jpg" width="138px"/>
+      <graphic height="1800px" url="web/1966_0005_web.jpg" width="1315px"/>
+    </surface>
+    <surface n="2r">
+      <graphic height="6900px" url="master/1966_0006.tif" width="5042px"/>
+      <graphic height="190px" url="thumb/1966_0006_thumb.jpg" width="138px"/>
+      <graphic height="1800px" url="web/1966_0006_web.jpg" width="1315px"/>
+    </surface>
+    <surface n="2v">
+      <graphic height="6900px" url="master/1966_0007.tif" width="5042px"/>
+      <graphic height="190px" url="thumb/1966_0007_thumb.jpg" width="138px"/>
+      <graphic height="1800px" url="web/1966_0007_web.jpg" width="1315px"/>
+    </surface>
+    <surface n="3r">
+      <graphic height="6900px" url="master/1966_0008.tif" width="5042px"/>
+      <graphic height="190px" url="thumb/1966_0008_thumb.jpg" width="138px"/>
+      <graphic height="1800px" url="web/1966_0008_web.jpg" width="1315px"/>
+    </surface>
+    <surface n="3v">
+      <graphic height="6900px" url="master/1966_0009.tif" width="5042px"/>
+      <graphic height="190px" url="thumb/1966_0009_thumb.jpg" width="138px"/>
+      <graphic height="1800px" url="web/1966_0009_web.jpg" width="1315px"/>
+    </surface>
+    <surface n="4r">
+      <graphic height="6900px" url="master/1966_0010.tif" width="5042px"/>
+      <graphic height="190px" url="thumb/1966_0010_thumb.jpg" width="138px"/>
+      <graphic height="1800px" url="web/1966_0010_web.jpg" width="1315px"/>
+    </surface>
+    <surface n="4v">
+      <graphic height="6900px" url="master/1966_0011.tif" width="5042px"/>
+      <graphic height="190px" url="thumb/1966_0011_thumb.jpg" width="138px"/>
+      <graphic height="1800px" url="web/1966_0011_web.jpg" width="1315px"/>
+    </surface>
+    <surface n="5r">
+      <graphic height="6900px" url="master/1966_0012.tif" width="5042px"/>
+      <graphic height="190px" url="thumb/1966_0012_thumb.jpg" width="138px"/>
+      <graphic height="1800px" url="web/1966_0012_web.jpg" width="1315px"/>
+    </surface>
+    <surface n="5v">
+      <graphic height="6900px" url="master/1966_0013.tif" width="5042px"/>
+      <graphic height="190px" url="thumb/1966_0013_thumb.jpg" width="138px"/>
+      <graphic height="1800px" url="web/1966_0013_web.jpg" width="1315px"/>
+    </surface>
+    <surface n="6r">
+      <graphic height="6900px" url="master/1966_0014.tif" width="5042px"/>
+      <graphic height="190px" url="thumb/1966_0014_thumb.jpg" width="138px"/>
+      <graphic height="1800px" url="web/1966_0014_web.jpg" width="1315px"/>
+    </surface>
+    <surface n="6v">
+      <graphic height="6900px" url="master/1966_0015.tif" width="5042px"/>
+      <graphic height="190px" url="thumb/1966_0015_thumb.jpg" width="138px"/>
+      <graphic height="1800px" url="web/1966_0015_web.jpg" width="1315px"/>
+    </surface>
+    <surface n="7r">
+      <graphic height="6900px" url="master/1966_0016.tif" width="5042px"/>
+      <graphic height="190px" url="thumb/1966_0016_thumb.jpg" width="138px"/>
+      <graphic height="1800px" url="web/1966_0016_web.jpg" width="1315px"/>
+    </surface>
+    <surface n="7v">
+      <graphic height="6900px" url="master/1966_0017.tif" width="5042px"/>
+      <graphic height="190px" url="thumb/1966_0017_thumb.jpg" width="138px"/>
+      <graphic height="1800px" url="web/1966_0017_web.jpg" width="1315px"/>
+    </surface>
+    <surface n="8r">
+      <graphic height="6900px" url="master/1966_0018.tif" width="5042px"/>
+      <graphic height="190px" url="thumb/1966_0018_thumb.jpg" width="138px"/>
+      <graphic height="1800px" url="web/1966_0018_web.jpg" width="1315px"/>
+    </surface>
+    <surface n="8v">
+      <graphic height="6900px" url="master/1966_0019.tif" width="5042px"/>
+      <graphic height="190px" url="thumb/1966_0019_thumb.jpg" width="138px"/>
+      <graphic height="1800px" url="web/1966_0019_web.jpg" width="1315px"/>
+    </surface>
+    <surface n="9r">
+      <graphic height="6900px" url="master/1966_0020.tif" width="5042px"/>
+      <graphic height="190px" url="thumb/1966_0020_thumb.jpg" width="138px"/>
+      <graphic height="1800px" url="web/1966_0020_web.jpg" width="1315px"/>
+    </surface>
+    <surface n="9v">
+      <graphic height="6900px" url="master/1966_0021.tif" width="5042px"/>
+      <graphic height="190px" url="thumb/1966_0021_thumb.jpg" width="138px"/>
+      <graphic height="1800px" url="web/1966_0021_web.jpg" width="1315px"/>
+    </surface>
+    <surface n="10r">
+      <graphic height="6900px" url="master/1966_0022.tif" width="5042px"/>
+      <graphic height="190px" url="thumb/1966_0022_thumb.jpg" width="138px"/>
+      <graphic height="1800px" url="web/1966_0022_web.jpg" width="1315px"/>
+    </surface>
+    <surface n="10v">
+      <graphic height="6900px" url="master/1966_0023.tif" width="5042px"/>
+      <graphic height="190px" url="thumb/1966_0023_thumb.jpg" width="138px"/>
+      <graphic height="1800px" url="web/1966_0023_web.jpg" width="1315px"/>
+    </surface>
+    <surface n="11r">
+      <graphic height="6900px" url="master/1966_0024.tif" width="5042px"/>
+      <graphic height="190px" url="thumb/1966_0024_thumb.jpg" width="138px"/>
+      <graphic height="1800px" url="web/1966_0024_web.jpg" width="1315px"/>
+    </surface>
+    <surface n="11v">
+      <graphic height="6900px" url="master/1966_0025.tif" width="5042px"/>
+      <graphic height="190px" url="thumb/1966_0025_thumb.jpg" width="138px"/>
+      <graphic height="1800px" url="web/1966_0025_web.jpg" width="1315px"/>
+    </surface>
+    <surface n="12r">
+      <graphic height="6900px" url="master/1966_0026.tif" width="5042px"/>
+      <graphic height="190px" url="thumb/1966_0026_thumb.jpg" width="138px"/>
+      <graphic height="1800px" url="web/1966_0026_web.jpg" width="1315px"/>
+    </surface>
+    <surface n="12v">
+      <graphic height="6900px" url="master/1966_0027.tif" width="5042px"/>
+      <graphic height="190px" url="thumb/1966_0027_thumb.jpg" width="138px"/>
+      <graphic height="1800px" url="web/1966_0027_web.jpg" width="1315px"/>
+    </surface>
+    <surface n="13r">
+      <graphic height="6900px" url="master/1966_0028.tif" width="5042px"/>
+      <graphic height="190px" url="thumb/1966_0028_thumb.jpg" width="138px"/>
+      <graphic height="1800px" url="web/1966_0028_web.jpg" width="1315px"/>
+    </surface>
+    <surface n="13v">
+      <graphic height="6900px" url="master/1966_0029.tif" width="5042px"/>
+      <graphic height="190px" url="thumb/1966_0029_thumb.jpg" width="138px"/>
+      <graphic height="1800px" url="web/1966_0029_web.jpg" width="1315px"/>
+    </surface>
+    <surface n="14r">
+      <graphic height="6900px" url="master/1966_0030.tif" width="5042px"/>
+      <graphic height="190px" url="thumb/1966_0030_thumb.jpg" width="138px"/>
+      <graphic height="1800px" url="web/1966_0030_web.jpg" width="1315px"/>
+    </surface>
+    <surface n="14v">
+      <graphic height="6900px" url="master/1966_0031.tif" width="5042px"/>
+      <graphic height="190px" url="thumb/1966_0031_thumb.jpg" width="138px"/>
+      <graphic height="1800px" url="web/1966_0031_web.jpg" width="1315px"/>
+    </surface>
+    <surface n="15r">
+      <graphic height="6900px" url="master/1966_0032.tif" width="5042px"/>
+      <graphic height="190px" url="thumb/1966_0032_thumb.jpg" width="138px"/>
+      <graphic height="1800px" url="web/1966_0032_web.jpg" width="1315px"/>
+    </surface>
+    <surface n="15v">
+      <graphic height="6900px" url="master/1966_0033.tif" width="5042px"/>
+      <graphic height="190px" url="thumb/1966_0033_thumb.jpg" width="138px"/>
+      <graphic height="1800px" url="web/1966_0033_web.jpg" width="1315px"/>
+    </surface>
+    <surface n="16r">
+      <graphic height="6900px" url="master/1966_0034.tif" width="5042px"/>
+      <graphic height="190px" url="thumb/1966_0034_thumb.jpg" width="138px"/>
+      <graphic height="1800px" url="web/1966_0034_web.jpg" width="1315px"/>
+    </surface>
+    <surface n="16v">
+      <graphic height="6900px" url="master/1966_0035.tif" width="5042px"/>
+      <graphic height="190px" url="thumb/1966_0035_thumb.jpg" width="138px"/>
+      <graphic height="1800px" url="web/1966_0035_web.jpg" width="1315px"/>
+    </surface>
+    <surface n="17r">
+      <graphic height="6900px" url="master/1966_0036.tif" width="5042px"/>
+      <graphic height="190px" url="thumb/1966_0036_thumb.jpg" width="138px"/>
+      <graphic height="1800px" url="web/1966_0036_web.jpg" width="1315px"/>
+    </surface>
+    <surface n="17v">
+      <graphic height="6900px" url="master/1966_0037.tif" width="5042px"/>
+      <graphic height="190px" url="thumb/1966_0037_thumb.jpg" width="138px"/>
+      <graphic height="1800px" url="web/1966_0037_web.jpg" width="1315px"/>
+    </surface>
+    <surface n="18r">
+      <graphic height="6900px" url="master/1966_0038.tif" width="5042px"/>
+      <graphic height="190px" url="thumb/1966_0038_thumb.jpg" width="138px"/>
+      <graphic height="1800px" url="web/1966_0038_web.jpg" width="1315px"/>
+    </surface>
+    <surface n="18v">
+      <graphic height="6900px" url="master/1966_0039.tif" width="5042px"/>
+      <graphic height="190px" url="thumb/1966_0039_thumb.jpg" width="138px"/>
+      <graphic height="1800px" url="web/1966_0039_web.jpg" width="1315px"/>
+    </surface>
+    <surface n="19r">
+      <graphic height="6900px" url="master/1966_0040.tif" width="5042px"/>
+      <graphic height="190px" url="thumb/1966_0040_thumb.jpg" width="138px"/>
+      <graphic height="1800px" url="web/1966_0040_web.jpg" width="1315px"/>
+    </surface>
+    <surface n="19v">
+      <graphic height="6900px" url="master/1966_0041.tif" width="5042px"/>
+      <graphic height="190px" url="thumb/1966_0041_thumb.jpg" width="138px"/>
+      <graphic height="1800px" url="web/1966_0041_web.jpg" width="1315px"/>
+    </surface>
+    <surface n="20r">
+      <graphic height="6900px" url="master/1966_0042.tif" width="5042px"/>
+      <graphic height="190px" url="thumb/1966_0042_thumb.jpg" width="138px"/>
+      <graphic height="1800px" url="web/1966_0042_web.jpg" width="1315px"/>
+    </surface>
+    <surface n="20v">
+      <graphic height="6900px" url="master/1966_0043.tif" width="5042px"/>
+      <graphic height="190px" url="thumb/1966_0043_thumb.jpg" width="138px"/>
+      <graphic height="1800px" url="web/1966_0043_web.jpg" width="1315px"/>
+    </surface>
+    <surface n="21r">
+      <graphic height="6900px" url="master/1966_0044.tif" width="5042px"/>
+      <graphic height="190px" url="thumb/1966_0044_thumb.jpg" width="138px"/>
+      <graphic height="1800px" url="web/1966_0044_web.jpg" width="1315px"/>
+    </surface>
+    <surface n="21v">
+      <graphic height="6900px" url="master/1966_0045.tif" width="5042px"/>
+      <graphic height="190px" url="thumb/1966_0045_thumb.jpg" width="138px"/>
+      <graphic height="1800px" url="web/1966_0045_web.jpg" width="1315px"/>
+    </surface>
+    <surface n="22r">
+      <graphic height="6900px" url="master/1966_0046.tif" width="5042px"/>
+      <graphic height="190px" url="thumb/1966_0046_thumb.jpg" width="138px"/>
+      <graphic height="1800px" url="web/1966_0046_web.jpg" width="1315px"/>
+    </surface>
+    <surface n="22v">
+      <graphic height="6900px" url="master/1966_0047.tif" width="5042px"/>
+      <graphic height="190px" url="thumb/1966_0047_thumb.jpg" width="138px"/>
+      <graphic height="1800px" url="web/1966_0047_web.jpg" width="1315px"/>
+    </surface>
+    <surface n="23r">
+      <graphic height="6900px" url="master/1966_0048.tif" width="5042px"/>
+      <graphic height="190px" url="thumb/1966_0048_thumb.jpg" width="138px"/>
+      <graphic height="1800px" url="web/1966_0048_web.jpg" width="1315px"/>
+    </surface>
+    <surface n="23v">
+      <graphic height="6900px" url="master/1966_0049.tif" width="5042px"/>
+      <graphic height="190px" url="thumb/1966_0049_thumb.jpg" width="138px"/>
+      <graphic height="1800px" url="web/1966_0049_web.jpg" width="1315px"/>
+    </surface>
+    <surface n="24r">
+      <graphic height="6900px" url="master/1966_0050.tif" width="5042px"/>
+      <graphic height="190px" url="thumb/1966_0050_thumb.jpg" width="138px"/>
+      <graphic height="1800px" url="web/1966_0050_web.jpg" width="1315px"/>
+    </surface>
+    <surface n="24v">
+      <graphic height="6900px" url="master/1966_0051.tif" width="5042px"/>
+      <graphic height="190px" url="thumb/1966_0051_thumb.jpg" width="138px"/>
+      <graphic height="1800px" url="web/1966_0051_web.jpg" width="1315px"/>
+    </surface>
+    <surface n="25r">
+      <graphic height="6900px" url="master/1966_0052.tif" width="5042px"/>
+      <graphic height="190px" url="thumb/1966_0052_thumb.jpg" width="138px"/>
+      <graphic height="1800px" url="web/1966_0052_web.jpg" width="1315px"/>
+    </surface>
+    <surface n="25v">
+      <graphic height="6900px" url="master/1966_0053.tif" width="5042px"/>
+      <graphic height="190px" url="thumb/1966_0053_thumb.jpg" width="138px"/>
+      <graphic height="1800px" url="web/1966_0053_web.jpg" width="1315px"/>
+    </surface>
+    <surface n="26r">
+      <graphic height="6900px" url="master/1966_0054.tif" width="5042px"/>
+      <graphic height="190px" url="thumb/1966_0054_thumb.jpg" width="138px"/>
+      <graphic height="1800px" url="web/1966_0054_web.jpg" width="1315px"/>
+    </surface>
+    <surface n="26v">
+      <graphic height="6900px" url="master/1966_0055.tif" width="5042px"/>
+      <graphic height="190px" url="thumb/1966_0055_thumb.jpg" width="138px"/>
+      <graphic height="1800px" url="web/1966_0055_web.jpg" width="1315px"/>
+    </surface>
+    <surface n="27r">
+      <graphic height="6900px" url="master/1966_0056.tif" width="5042px"/>
+      <graphic height="190px" url="thumb/1966_0056_thumb.jpg" width="138px"/>
+      <graphic height="1800px" url="web/1966_0056_web.jpg" width="1315px"/>
+    </surface>
+    <surface n="27v">
+      <graphic height="6900px" url="master/1966_0057.tif" width="5042px"/>
+      <graphic height="190px" url="thumb/1966_0057_thumb.jpg" width="138px"/>
+      <graphic height="1800px" url="web/1966_0057_web.jpg" width="1315px"/>
+    </surface>
+    <surface n="28r">
+      <graphic height="6900px" url="master/1966_0058.tif" width="5042px"/>
+      <graphic height="190px" url="thumb/1966_0058_thumb.jpg" width="138px"/>
+      <graphic height="1800px" url="web/1966_0058_web.jpg" width="1315px"/>
+    </surface>
+    <surface n="28v">
+      <graphic height="6900px" url="master/1966_0059.tif" width="5042px"/>
+      <graphic height="190px" url="thumb/1966_0059_thumb.jpg" width="138px"/>
+      <graphic height="1800px" url="web/1966_0059_web.jpg" width="1315px"/>
+    </surface>
+    <surface n="29r">
+      <graphic height="6900px" url="master/1966_0060.tif" width="5042px"/>
+      <graphic height="190px" url="thumb/1966_0060_thumb.jpg" width="138px"/>
+      <graphic height="1800px" url="web/1966_0060_web.jpg" width="1315px"/>
+    </surface>
+    <surface n="29v">
+      <graphic height="6900px" url="master/1966_0061.tif" width="5042px"/>
+      <graphic height="190px" url="thumb/1966_0061_thumb.jpg" width="138px"/>
+      <graphic height="1800px" url="web/1966_0061_web.jpg" width="1315px"/>
+    </surface>
+    <surface n="30r">
+      <graphic height="6900px" url="master/1966_0062.tif" width="5042px"/>
+      <graphic height="190px" url="thumb/1966_0062_thumb.jpg" width="138px"/>
+      <graphic height="1800px" url="web/1966_0062_web.jpg" width="1315px"/>
+    </surface>
+    <surface n="30v">
+      <graphic height="6900px" url="master/1966_0063.tif" width="5042px"/>
+      <graphic height="190px" url="thumb/1966_0063_thumb.jpg" width="138px"/>
+      <graphic height="1800px" url="web/1966_0063_web.jpg" width="1315px"/>
+    </surface>
+    <surface n="31r">
+      <graphic height="6900px" url="master/1966_0064.tif" width="5042px"/>
+      <graphic height="190px" url="thumb/1966_0064_thumb.jpg" width="138px"/>
+      <graphic height="1800px" url="web/1966_0064_web.jpg" width="1315px"/>
+    </surface>
+    <surface n="31v">
+      <graphic height="6900px" url="master/1966_0065.tif" width="5042px"/>
+      <graphic height="190px" url="thumb/1966_0065_thumb.jpg" width="138px"/>
+      <graphic height="1800px" url="web/1966_0065_web.jpg" width="1315px"/>
+    </surface>
+    <surface n="32r">
+      <graphic height="6900px" url="master/1966_0066.tif" width="5042px"/>
+      <graphic height="190px" url="thumb/1966_0066_thumb.jpg" width="138px"/>
+      <graphic height="1800px" url="web/1966_0066_web.jpg" width="1315px"/>
+    </surface>
+    <surface n="32v">
+      <graphic height="6900px" url="master/1966_0067.tif" width="5042px"/>
+      <graphic height="190px" url="thumb/1966_0067_thumb.jpg" width="138px"/>
+      <graphic height="1800px" url="web/1966_0067_web.jpg" width="1315px"/>
+    </surface>
+    <surface n="33r">
+      <graphic height="6894px" url="master/1966_0068.tif" width="5038px"/>
+      <graphic height="190px" url="thumb/1966_0068_thumb.jpg" width="139px"/>
+      <graphic height="1800px" url="web/1966_0068_web.jpg" width="1315px"/>
+    </surface>
+    <surface n="33v">
+      <graphic height="6900px" url="master/1966_0069.tif" width="5042px"/>
+      <graphic height="190px" url="thumb/1966_0069_thumb.jpg" width="138px"/>
+      <graphic height="1800px" url="web/1966_0069_web.jpg" width="1315px"/>
+    </surface>
+    <surface n="Flyleaf 1 recto">
+      <graphic height="6900px" url="master/1966_0070.tif" width="5042px"/>
+      <graphic height="190px" url="thumb/1966_0070_thumb.jpg" width="138px"/>
+      <graphic height="1800px" url="web/1966_0070_web.jpg" width="1315px"/>
+    </surface>
+    <surface n="Flyleaf 1 verso">
+      <graphic height="6900px" url="master/1966_0071.tif" width="5042px"/>
+      <graphic height="190px" url="thumb/1966_0071_thumb.jpg" width="138px"/>
+      <graphic height="1800px" url="web/1966_0071_web.jpg" width="1315px"/>
+    </surface>
+    <surface n="Inside back cover">
+      <graphic height="6900px" url="master/1966_0072.tif" width="5042px"/>
+      <graphic height="190px" url="thumb/1966_0072_thumb.jpg" width="138px"/>
+      <graphic height="1800px" url="web/1966_0072_web.jpg" width="1315px"/>
+    </surface>
+    <surface n="Back cover">
+      <graphic height="6900px" url="master/1966_0073.tif" width="5042px"/>
+      <graphic height="190px" url="thumb/1966_0073_thumb.jpg" width="138px"/>
+      <graphic height="1800px" url="web/1966_0073_web.jpg" width="1315px"/>
+    </surface>
+    <surface n="Spine">
+      <graphic height="6900px" url="master/1966_0074.tif" width="5042px"/>
+      <graphic height="190px" url="thumb/1966_0074_thumb.jpg" width="138px"/>
+      <graphic height="1800px" url="web/1966_0074_web.jpg" width="1315px"/>
+    </surface>
+  </facsimile>
+</TEI>

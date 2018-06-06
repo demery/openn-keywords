@@ -1,0 +1,226 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Description of University of Pennsylvania Ms. Coll. 742: Records of lawsuit</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>The University of Pennsylvania Libraries</publisher>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by/4.0/legalcode">
+                                This description is ©2016 University of
+                                Pennsylvania Libraries. It is licensed under a Creative Commons
+                                Attribution License version 4.0 (CC-BY-4.0
+                                https://creativecommons.org/licenses/by/4.0/legalcode. For a
+                                description of the terms of use see the Creative Commons Deed
+                                https://creativecommons.org/licenses/by/4.0/. </licence>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/"> All
+                                referenced images and their content are free of known copyright
+                                restrictions and in the public domain. See the Creative Commons
+                                Public Domain Mark page for usage details,
+                                http://creativecommons.org/publicdomain/mark/1.0/. </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <settlement>Philadelphia</settlement>
+            <institution>University of Pennsylvania</institution>
+            <repository>Rare Book &amp; Manuscript Library</repository>
+            <idno type="call-number">Ms. Coll. 742</idno>
+            <altIdentifier type="bibid">
+              <idno>4758239</idno>
+            </altIdentifier>
+            <altIdentifier type="resource">
+              <idno>http://hdl.library.upenn.edu/1017/d/medren/4758239</idno>
+            </altIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary>Records of a lawsuit by Karolus Blasii de Piccholominibus, against the heirs of Contro Niccola (Contrus Nichola), one of whom is named Mochata, over property in Siena. A sewn booklet that was probably sewn into a larger collection of documents, as its leaves are numbered 598-611 in ink by a later hand.</summary>
+            <textLang>In Latin</textLang>
+            <msItem>
+              <title>Records of lawsuit</title>
+              <author>Piccolomini, Carlo Blasii de</author>
+              <respStmt>
+                <resp>former owner</resp>
+                <persName>Phillipps, Thomas, Sir, 1792-1872</persName>
+              </respStmt>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc material="parchment.">
+                <support>
+                  <p>parchment.</p>
+                </support>
+                <extent>1</extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin/>
+            <provenance>Formerly owned by Sir Thomas Phillipps (part of ms. 20709).</provenance>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords n="subjects">
+          <term>Civil law--Italy</term>
+          <term>Real property--Italy--14th century</term>
+        </keywords>
+        <keywords n="form/genre">
+          <term>Legal documents</term>
+          <term>Notarial documents</term>
+          <term>Manuscripts, Latin--14th century</term>
+          <term>Manuscripts, Medieval</term>
+          <term>Manuscripts, Renaissance</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface n="598r =1r">
+      <graphic height="6576px" url="master/1825_0000.tif" width="4851px"/>
+      <graphic height="190px" url="thumb/1825_0000_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/1825_0000_web.jpg" width="1327px"/>
+    </surface>
+    <surface n="598v =1v">
+      <graphic height="6516px" url="master/1825_0001.tif" width="4885px"/>
+      <graphic height="190px" url="thumb/1825_0001_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/1825_0001_web.jpg" width="1350px"/>
+    </surface>
+    <surface n="599r =2r">
+      <graphic height="6516px" url="master/1825_0002.tif" width="4885px"/>
+      <graphic height="190px" url="thumb/1825_0002_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/1825_0002_web.jpg" width="1350px"/>
+    </surface>
+    <surface n="599v =2v">
+      <graphic height="6516px" url="master/1825_0003.tif" width="4885px"/>
+      <graphic height="190px" url="thumb/1825_0003_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/1825_0003_web.jpg" width="1350px"/>
+    </surface>
+    <surface n="600r =3r">
+      <graphic height="6516px" url="master/1825_0004.tif" width="4885px"/>
+      <graphic height="190px" url="thumb/1825_0004_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/1825_0004_web.jpg" width="1350px"/>
+    </surface>
+    <surface n="600v =3v">
+      <graphic height="6516px" url="master/1825_0005.tif" width="4885px"/>
+      <graphic height="190px" url="thumb/1825_0005_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/1825_0005_web.jpg" width="1350px"/>
+    </surface>
+    <surface n="601r =4r">
+      <graphic height="6516px" url="master/1825_0006.tif" width="4885px"/>
+      <graphic height="190px" url="thumb/1825_0006_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/1825_0006_web.jpg" width="1350px"/>
+    </surface>
+    <surface n="601v =4v">
+      <graphic height="6516px" url="master/1825_0007.tif" width="4885px"/>
+      <graphic height="190px" url="thumb/1825_0007_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/1825_0007_web.jpg" width="1350px"/>
+    </surface>
+    <surface n="602r =5r">
+      <graphic height="6516px" url="master/1825_0008.tif" width="4885px"/>
+      <graphic height="190px" url="thumb/1825_0008_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/1825_0008_web.jpg" width="1350px"/>
+    </surface>
+    <surface n="602v =5v">
+      <graphic height="6516px" url="master/1825_0009.tif" width="4885px"/>
+      <graphic height="190px" url="thumb/1825_0009_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/1825_0009_web.jpg" width="1350px"/>
+    </surface>
+    <surface n="603r =6r">
+      <graphic height="6516px" url="master/1825_0010.tif" width="4885px"/>
+      <graphic height="190px" url="thumb/1825_0010_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/1825_0010_web.jpg" width="1350px"/>
+    </surface>
+    <surface n="603v =6v">
+      <graphic height="6516px" url="master/1825_0011.tif" width="4885px"/>
+      <graphic height="190px" url="thumb/1825_0011_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/1825_0011_web.jpg" width="1350px"/>
+    </surface>
+    <surface n="604r =7r">
+      <graphic height="6516px" url="master/1825_0012.tif" width="4885px"/>
+      <graphic height="190px" url="thumb/1825_0012_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/1825_0012_web.jpg" width="1350px"/>
+    </surface>
+    <surface n="604v =7v">
+      <graphic height="6516px" url="master/1825_0013.tif" width="4885px"/>
+      <graphic height="190px" url="thumb/1825_0013_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/1825_0013_web.jpg" width="1350px"/>
+    </surface>
+    <surface n="605r =8r">
+      <graphic height="6516px" url="master/1825_0014.tif" width="4885px"/>
+      <graphic height="190px" url="thumb/1825_0014_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/1825_0014_web.jpg" width="1350px"/>
+    </surface>
+    <surface n="605v =8v">
+      <graphic height="6516px" url="master/1825_0015.tif" width="4885px"/>
+      <graphic height="190px" url="thumb/1825_0015_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/1825_0015_web.jpg" width="1350px"/>
+    </surface>
+    <surface n="606r =9r">
+      <graphic height="6516px" url="master/1825_0016.tif" width="4885px"/>
+      <graphic height="190px" url="thumb/1825_0016_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/1825_0016_web.jpg" width="1350px"/>
+    </surface>
+    <surface n="606v =9v">
+      <graphic height="6516px" url="master/1825_0017.tif" width="4885px"/>
+      <graphic height="190px" url="thumb/1825_0017_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/1825_0017_web.jpg" width="1350px"/>
+    </surface>
+    <surface n="607r =10r">
+      <graphic height="6516px" url="master/1825_0018.tif" width="4885px"/>
+      <graphic height="190px" url="thumb/1825_0018_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/1825_0018_web.jpg" width="1350px"/>
+    </surface>
+    <surface n="607v =10v">
+      <graphic height="6516px" url="master/1825_0019.tif" width="4885px"/>
+      <graphic height="190px" url="thumb/1825_0019_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/1825_0019_web.jpg" width="1350px"/>
+    </surface>
+    <surface n="608r =11r">
+      <graphic height="6516px" url="master/1825_0020.tif" width="4885px"/>
+      <graphic height="190px" url="thumb/1825_0020_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/1825_0020_web.jpg" width="1350px"/>
+    </surface>
+    <surface n="608v =11v">
+      <graphic height="6516px" url="master/1825_0021.tif" width="4885px"/>
+      <graphic height="190px" url="thumb/1825_0021_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/1825_0021_web.jpg" width="1350px"/>
+    </surface>
+    <surface n="609r =12r">
+      <graphic height="6516px" url="master/1825_0022.tif" width="4885px"/>
+      <graphic height="190px" url="thumb/1825_0022_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/1825_0022_web.jpg" width="1350px"/>
+    </surface>
+    <surface n="609v =12v">
+      <graphic height="6516px" url="master/1825_0023.tif" width="4885px"/>
+      <graphic height="190px" url="thumb/1825_0023_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/1825_0023_web.jpg" width="1350px"/>
+    </surface>
+    <surface n="610r =13r">
+      <graphic height="6516px" url="master/1825_0024.tif" width="4885px"/>
+      <graphic height="190px" url="thumb/1825_0024_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/1825_0024_web.jpg" width="1350px"/>
+    </surface>
+    <surface n="610v =13v">
+      <graphic height="6516px" url="master/1825_0025.tif" width="4885px"/>
+      <graphic height="190px" url="thumb/1825_0025_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/1825_0025_web.jpg" width="1350px"/>
+    </surface>
+    <surface n="611r =14r">
+      <graphic height="6516px" url="master/1825_0026.tif" width="4885px"/>
+      <graphic height="190px" url="thumb/1825_0026_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/1825_0026_web.jpg" width="1350px"/>
+    </surface>
+    <surface n="611v =14v">
+      <graphic height="6576px" url="master/1825_0027.tif" width="4851px"/>
+      <graphic height="190px" url="thumb/1825_0027_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/1825_0027_web.jpg" width="1327px"/>
+    </surface>
+  </facsimile>
+</TEI>

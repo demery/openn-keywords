@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Description of University of Pennsylvania Misc Mss (Large) Box 1 Folder 2: Miscellaneous manuscripts (Large)</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>The University of Pennsylvania Libraries</publisher>
+        <availability>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/">These images and the content of Rare Book &amp; Manuscript Library, Misc Mss (Large) Box 1 Folder 2: Miscellaneous manuscripts (Large) are free of known copyright restrictions and in the public domain. See the Creative Commons Public Domain Mark page for usage details, http://creativecommons.org/publicdomain/mark/1.0/.</licence>
+          <licence target="https://creativecommons.org/licenses/by/4.0/legalcode">Metadata is ©2018 University of Pennsylvania Books &amp; Manuscripts and licensed under a Creative Commons Attribution License version 4.0 (CC-BY-4.0 https://creativecommons.org/licenses/by/4.0/legalcode. For a description of the terms of use see the Creative Commons Deed https://creativecommons.org/licenses/by/4.0/.</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <settlement>Philadelphia</settlement>
+            <institution>University of Pennsylvania</institution>
+            <repository>Rare Book &amp; Manuscript Library</repository>
+            <idno type="call-number">Misc Mss (Large) Box 1 Folder 2</idno>
+            <altIdentifier type="bibid">
+              <idno>9958692693503681</idno>
+            </altIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary>Leaf of a large manuscript, either a homiliary or an office lectionary with readings from patristic commentary on scripture for the third nocturn of Matins. The text on this leaf comprises verses from the Gospel of John followed by extended quotations from Augustine's sermons or tractates on John, with liturgical rubrics. The recto begins with the end of a reading from Tractate 33, followed by a rubric for Feria VI, John 11:47, and passages from Tractates 49 and 50; Tractate 50 continues on the verso, followed by a rubric for the Sabbath, John 6:54, and a reading from Tractate 26. Written in Italy in the second quarter of the 12th century, in 2 columns of more than 56 lines (top of leaf is trimmed, with loss of text). Rubrication and 2 3-line initials, one at the beginning of each reading, in red ink. Trimmed corners and folds due to use in a binding, with a label attached to the verso with the title Vita dei Papi Quinti in a late 17th-century or 18th-century hand.</summary>
+            <textLang>In Latin</textLang>
+            <msItem>
+              <title>Miscellaneous manuscripts (Large)</title>
+              <author>Augustine, of Hippo, Saint, 354-430</author>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc material="mixed">
+                <support>
+                  <p>parchment</p>
+                </support>
+                <extent>1 418 x 274 mm</extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin/>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords n="form/genre">
+          <term>Fragments</term>
+          <term>Commentaries</term>
+          <term>Homiliaries</term>
+          <term>Lectionaries</term>
+          <term>Sermons</term>
+          <term>Manuscripts, Latin--12th century</term>
+          <term>Manuscripts, Medieval</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface n="1r">
+      <graphic height="10552px" url="master/5941_0000.tif" width="7077px"/>
+      <graphic height="190px" url="thumb/5941_0000_thumb.jpg" width="127px"/>
+      <graphic height="1800px" url="web/5941_0000_web.jpg" width="1207px"/>
+    </surface>
+    <surface n="1v">
+      <graphic height="10552px" url="master/5941_0001.tif" width="7077px"/>
+      <graphic height="190px" url="thumb/5941_0001_thumb.jpg" width="127px"/>
+      <graphic height="1800px" url="web/5941_0001_web.jpg" width="1207px"/>
+    </surface>
+  </facsimile>
+</TEI>

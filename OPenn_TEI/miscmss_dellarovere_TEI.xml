@@ -1,0 +1,119 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Description of University of Pennsylvania Misc Mss: Miscellaneous manuscripts</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>The University of Pennsylvania Libraries</publisher>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by/4.0/legalcode">
+                                This description is ©2016 University of
+                                Pennsylvania Libraries. It is licensed under a Creative Commons
+                                Attribution License version 4.0 (CC-BY-4.0
+                                https://creativecommons.org/licenses/by/4.0/legalcode. For a
+                                description of the terms of use see the Creative Commons Deed
+                                https://creativecommons.org/licenses/by/4.0/. </licence>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/"> All
+                                referenced images and their content are free of known copyright
+                                restrictions and in the public domain. See the Creative Commons
+                                Public Domain Mark page for usage details,
+                                http://creativecommons.org/publicdomain/mark/1.0/. </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <settlement>Philadelphia</settlement>
+            <institution>University of Pennsylvania</institution>
+            <repository>Rare Book &amp; Manuscript Library</repository>
+            <idno type="call-number">Misc Mss</idno>
+            <altIdentifier type="bibid">
+              <idno>4443110</idno>
+            </altIdentifier>
+            <altIdentifier type="resource">
+              <idno>http://hdl.library.upenn.edu/1017/d/medren/4443110</idno>
+            </altIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary>Three paper documents from the della Rovere family. The two dated 1508 are respectively from Cardinals Galeotto Franciotti della Rovere and Leonardo Grosso della Rovere, and the 1513 document is from Cardinal Sisto Gara della Rovere. The Galeotto Franciotti document is addressed to a Cardinal Alessandro, regarding a church of Saint Victor of Xanten. The Leonardo Grosso document is dated February 1, and possibly regards a Baldassar. The Sisto Gara document discusses the appointment of a bishop cardinal, choosing between two candidates named Vicentelli and Capellanius for the church of Saint Maurice. The documents from Sisto Gara and Leonardo Grosso both contain seals.</summary>
+            <textLang>In Latin</textLang>
+            <msItem>
+              <title>Miscellaneous manuscripts</title>
+              <author>Della Rovere family</author>
+              <author>Della Rovere, Sisto Gara, Cardinal, d. 1517</author>
+              <author>Della Rovere, Galeotto Franciotti, Cardinal, 1471-1507</author>
+              <author>Della Rovere, Leonardo Grosso, Cardinal, 1464-1526</author>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc>
+                <extent>3</extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin/>
+            <provenance>Sold by Libreria Antiquaria Docet (Bologna), cat. 57(March 1959), no. 193-194, 205.</provenance>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords n="subjects">
+          <term>Catholic Church--History--16th century</term>
+          <term>Catholic Church--Clergy--Appointment, call, and election</term>
+        </keywords>
+        <keywords n="form/genre">
+          <term>Manuscripts, Latin--16th century</term>
+          <term>Manuscripts, Renaissance</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface n="Item 1, Side 1">
+      <graphic height="5132px" url="master/1579_0000.tif" width="4399px"/>
+      <graphic height="190px" url="thumb/1579_0000_thumb.jpg" width="163px"/>
+      <graphic height="1800px" url="web/1579_0000_web.jpg" width="1543px"/>
+    </surface>
+    <surface n="Item 1, Side 2">
+      <graphic height="5132px" url="master/1579_0001.tif" width="4399px"/>
+      <graphic height="190px" url="thumb/1579_0001_thumb.jpg" width="163px"/>
+      <graphic height="1800px" url="web/1579_0001_web.jpg" width="1543px"/>
+    </surface>
+    <surface n="Item 2, Side 1">
+      <graphic height="5132px" url="master/1579_0002.tif" width="4399px"/>
+      <graphic height="190px" url="thumb/1579_0002_thumb.jpg" width="163px"/>
+      <graphic height="1800px" url="web/1579_0002_web.jpg" width="1543px"/>
+    </surface>
+    <surface n="Item 2, Side 2">
+      <graphic height="5132px" url="master/1579_0003.tif" width="4399px"/>
+      <graphic height="190px" url="thumb/1579_0003_thumb.jpg" width="163px"/>
+      <graphic height="1800px" url="web/1579_0003_web.jpg" width="1543px"/>
+    </surface>
+    <surface n="Item 3, 1r">
+      <graphic height="5132px" url="master/1579_0004.tif" width="4399px"/>
+      <graphic height="190px" url="thumb/1579_0004_thumb.jpg" width="163px"/>
+      <graphic height="1800px" url="web/1579_0004_web.jpg" width="1543px"/>
+    </surface>
+    <surface n="Item 3, 1v">
+      <graphic height="5132px" url="master/1579_0005.tif" width="4399px"/>
+      <graphic height="190px" url="thumb/1579_0005_thumb.jpg" width="163px"/>
+      <graphic height="1800px" url="web/1579_0005_web.jpg" width="1543px"/>
+    </surface>
+    <surface n="Item 3, 2r">
+      <graphic height="5132px" url="master/1579_0006.tif" width="4399px"/>
+      <graphic height="190px" url="thumb/1579_0006_thumb.jpg" width="163px"/>
+      <graphic height="1800px" url="web/1579_0006_web.jpg" width="1543px"/>
+    </surface>
+    <surface n="Item 3, 2v">
+      <graphic height="5132px" url="master/1579_0007.tif" width="4399px"/>
+      <graphic height="190px" url="thumb/1579_0007_thumb.jpg" width="163px"/>
+      <graphic height="1800px" url="web/1579_0007_web.jpg" width="1543px"/>
+    </surface>
+  </facsimile>
+</TEI>

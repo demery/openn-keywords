@@ -1,0 +1,97 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Description of University of Pennsylvania Ms. Coll. 764: Domenico di Bardo power of attorney</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>The University of Pennsylvania Libraries</publisher>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by/4.0/legalcode">
+                                This description is ©2016 University of
+                                Pennsylvania Libraries. It is licensed under a Creative Commons
+                                Attribution License version 4.0 (CC-BY-4.0
+                                https://creativecommons.org/licenses/by/4.0/legalcode. For a
+                                description of the terms of use see the Creative Commons Deed
+                                https://creativecommons.org/licenses/by/4.0/. </licence>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/"> All
+                                referenced images and their content are free of known copyright
+                                restrictions and in the public domain. See the Creative Commons
+                                Public Domain Mark page for usage details,
+                                http://creativecommons.org/publicdomain/mark/1.0/. </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <settlement>Philadelphia</settlement>
+            <institution>University of Pennsylvania</institution>
+            <repository>Rare Book &amp; Manuscript Library</repository>
+            <idno type="call-number">Ms. Coll. 764</idno>
+            <altIdentifier type="bibid">
+              <idno>4941566</idno>
+            </altIdentifier>
+            <altIdentifier type="resource">
+              <idno>http://hdl.library.upenn.edu/1017/d/medren/4941566</idno>
+            </altIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary>Assignment by Domenico di Bardo of Fucecchio to Giacomo di Silvestro of power of attorney to verify legal documents pertaining to Uliva, widow of Michele di Francesco. Notarized by Bartolomeo di Antonio di San Miniato on 11 January 1419. Filed with the document is a short, later summary written in Italian on paper.</summary>
+            <textLang>In Latin</textLang>
+            <msItem>
+              <title>Domenico di Bardo power of attorney</title>
+              <author>San Miniato, Bartolomeo di</author>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc material="parchment.">
+                <support>
+                  <p>parchment.</p>
+                </support>
+                <extent>1</extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin/>
+            <provenance>Sold by Renzo Rizzi (Milan).</provenance>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords n="form/genre">
+          <term>Notarial documents</term>
+          <term>Legal documents</term>
+          <term>Manuscripts, Latin--15th century</term>
+          <term>Manuscripts, Renaissance</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface n="Item 1, Side 1">
+      <graphic height="7216px" url="master/1702_0000.tif" width="3939px"/>
+      <graphic height="190px" url="thumb/1702_0000_thumb.jpg" width="103px"/>
+      <graphic height="1800px" url="web/1702_0000_web.jpg" width="982px"/>
+    </surface>
+    <surface n="Item 1, Side 2">
+      <graphic height="7216px" url="master/1702_0001.tif" width="3939px"/>
+      <graphic height="190px" url="thumb/1702_0001_thumb.jpg" width="103px"/>
+      <graphic height="1800px" url="web/1702_0001_web.jpg" width="982px"/>
+    </surface>
+    <surface n="Item 2, Side 1">
+      <graphic height="2399px" url="master/1702_0002.tif" width="3397px"/>
+      <graphic height="134px" url="thumb/1702_0002_thumb.jpg" width="190px"/>
+      <graphic height="1271px" url="web/1702_0002_web.jpg" width="1800px"/>
+    </surface>
+    <surface n="Item 2, Side 2">
+      <graphic height="2399px" url="master/1702_0003.tif" width="3397px"/>
+      <graphic height="134px" url="thumb/1702_0003_thumb.jpg" width="190px"/>
+      <graphic height="1271px" url="web/1702_0003_web.jpg" width="1800px"/>
+    </surface>
+  </facsimile>
+</TEI>

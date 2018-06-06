@@ -1,0 +1,236 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Description of University of Pennsylvania Ms. Coll. 49: Consejo de Inquisición (Spain) genealogy for Miguel Ros Pelayre</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>The University of Pennsylvania Libraries</publisher>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by/4.0/legalcode">
+                                This description is ©2016 University of
+                                Pennsylvania Libraries. It is licensed under a Creative Commons
+                                Attribution License version 4.0 (CC-BY-4.0
+                                https://creativecommons.org/licenses/by/4.0/legalcode. For a
+                                description of the terms of use see the Creative Commons Deed
+                                https://creativecommons.org/licenses/by/4.0/. </licence>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/"> All
+                                referenced images and their content are free of known copyright
+                                restrictions and in the public domain. See the Creative Commons
+                                Public Domain Mark page for usage details,
+                                http://creativecommons.org/publicdomain/mark/1.0/. </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <settlement>Philadelphia</settlement>
+            <institution>University of Pennsylvania</institution>
+            <repository>Rare Book &amp; Manuscript Library</repository>
+            <idno type="call-number">Ms. Coll. 49</idno>
+            <altIdentifier type="bibid">
+              <idno>4479104</idno>
+            </altIdentifier>
+            <altIdentifier type="resource">
+              <idno>http://hdl.library.upenn.edu/1017/d/medren/4479104</idno>
+            </altIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary>Records of the genealogical investigation of Miguel Ros Pelayre, in order to prove limpieza de sangre, or direct descent from old Christian families.</summary>
+            <textLang>In Catalan</textLang>
+            <msItem>
+              <title>Consejo de Inquisición (Spain) genealogy for Miguel Ros Pelayre</title>
+              <author>Consejo de Inquisición (Spain)</author>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc>
+                <extent>1</extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin/>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords n="subjects">
+          <term>Nobility--Spain--Early works to 1800</term>
+        </keywords>
+        <keywords n="form/genre">
+          <term>Legal documents</term>
+          <term>Genealogies</term>
+          <term>Manuscripts, Spanish--16th century</term>
+          <term>Manuscripts, Renaissance</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface n="Folder 81, 1r">
+      <graphic height="5531px" url="master/2419_0000.tif" width="4106px"/>
+      <graphic height="190px" url="thumb/2419_0000_thumb.jpg" width="141px"/>
+      <graphic height="1800px" url="web/2419_0000_web.jpg" width="1336px"/>
+    </surface>
+    <surface n="Folder 81, 1v">
+      <graphic height="5531px" url="master/2419_0001.tif" width="4106px"/>
+      <graphic height="190px" url="thumb/2419_0001_thumb.jpg" width="141px"/>
+      <graphic height="1800px" url="web/2419_0001_web.jpg" width="1336px"/>
+    </surface>
+    <surface n="Folder 81, 2r">
+      <graphic height="5531px" url="master/2419_0002.tif" width="4106px"/>
+      <graphic height="190px" url="thumb/2419_0002_thumb.jpg" width="141px"/>
+      <graphic height="1800px" url="web/2419_0002_web.jpg" width="1336px"/>
+    </surface>
+    <surface n="Folder 81, 2v">
+      <graphic height="5531px" url="master/2419_0003.tif" width="4106px"/>
+      <graphic height="190px" url="thumb/2419_0003_thumb.jpg" width="141px"/>
+      <graphic height="1800px" url="web/2419_0003_web.jpg" width="1336px"/>
+    </surface>
+    <surface n="Folder 81, 3r">
+      <graphic height="5531px" url="master/2419_0004.tif" width="4106px"/>
+      <graphic height="190px" url="thumb/2419_0004_thumb.jpg" width="141px"/>
+      <graphic height="1800px" url="web/2419_0004_web.jpg" width="1336px"/>
+    </surface>
+    <surface n="Folder 81, 3v">
+      <graphic height="5531px" url="master/2419_0005.tif" width="4106px"/>
+      <graphic height="190px" url="thumb/2419_0005_thumb.jpg" width="141px"/>
+      <graphic height="1800px" url="web/2419_0005_web.jpg" width="1336px"/>
+    </surface>
+    <surface n="Folder 81, 4r">
+      <graphic height="5531px" url="master/2419_0006.tif" width="4106px"/>
+      <graphic height="190px" url="thumb/2419_0006_thumb.jpg" width="141px"/>
+      <graphic height="1800px" url="web/2419_0006_web.jpg" width="1336px"/>
+    </surface>
+    <surface n="Folder 81, 4v">
+      <graphic height="5531px" url="master/2419_0007.tif" width="4106px"/>
+      <graphic height="190px" url="thumb/2419_0007_thumb.jpg" width="141px"/>
+      <graphic height="1800px" url="web/2419_0007_web.jpg" width="1336px"/>
+    </surface>
+    <surface n="Folder 81, 5r">
+      <graphic height="5531px" url="master/2419_0008.tif" width="4106px"/>
+      <graphic height="190px" url="thumb/2419_0008_thumb.jpg" width="141px"/>
+      <graphic height="1800px" url="web/2419_0008_web.jpg" width="1336px"/>
+    </surface>
+    <surface n="Folder 81, 5v">
+      <graphic height="5531px" url="master/2419_0009.tif" width="4106px"/>
+      <graphic height="190px" url="thumb/2419_0009_thumb.jpg" width="141px"/>
+      <graphic height="1800px" url="web/2419_0009_web.jpg" width="1336px"/>
+    </surface>
+    <surface n="Folder 81, 6r">
+      <graphic height="5531px" url="master/2419_0010.tif" width="4106px"/>
+      <graphic height="190px" url="thumb/2419_0010_thumb.jpg" width="141px"/>
+      <graphic height="1800px" url="web/2419_0010_web.jpg" width="1336px"/>
+    </surface>
+    <surface n="Folder 81, 6v">
+      <graphic height="5531px" url="master/2419_0011.tif" width="4106px"/>
+      <graphic height="190px" url="thumb/2419_0011_thumb.jpg" width="141px"/>
+      <graphic height="1800px" url="web/2419_0011_web.jpg" width="1336px"/>
+    </surface>
+    <surface n="Folder 81, 7r">
+      <graphic height="5531px" url="master/2419_0012.tif" width="4106px"/>
+      <graphic height="190px" url="thumb/2419_0012_thumb.jpg" width="141px"/>
+      <graphic height="1800px" url="web/2419_0012_web.jpg" width="1336px"/>
+    </surface>
+    <surface n="Folder 81, 7v">
+      <graphic height="5531px" url="master/2419_0013.tif" width="4106px"/>
+      <graphic height="190px" url="thumb/2419_0013_thumb.jpg" width="141px"/>
+      <graphic height="1800px" url="web/2419_0013_web.jpg" width="1336px"/>
+    </surface>
+    <surface n="Folder 81, 8r">
+      <graphic height="5531px" url="master/2419_0014.tif" width="4106px"/>
+      <graphic height="190px" url="thumb/2419_0014_thumb.jpg" width="141px"/>
+      <graphic height="1800px" url="web/2419_0014_web.jpg" width="1336px"/>
+    </surface>
+    <surface n="Folder 81, 8v">
+      <graphic height="5531px" url="master/2419_0015.tif" width="4106px"/>
+      <graphic height="190px" url="thumb/2419_0015_thumb.jpg" width="141px"/>
+      <graphic height="1800px" url="web/2419_0015_web.jpg" width="1336px"/>
+    </surface>
+    <surface n="Folder 81, 9r">
+      <graphic height="5531px" url="master/2419_0016.tif" width="4106px"/>
+      <graphic height="190px" url="thumb/2419_0016_thumb.jpg" width="141px"/>
+      <graphic height="1800px" url="web/2419_0016_web.jpg" width="1336px"/>
+    </surface>
+    <surface n="Folder 81, 9v">
+      <graphic height="5531px" url="master/2419_0017.tif" width="4106px"/>
+      <graphic height="190px" url="thumb/2419_0017_thumb.jpg" width="141px"/>
+      <graphic height="1800px" url="web/2419_0017_web.jpg" width="1336px"/>
+    </surface>
+    <surface n="Folder 81, 10r">
+      <graphic height="5531px" url="master/2419_0018.tif" width="4106px"/>
+      <graphic height="190px" url="thumb/2419_0018_thumb.jpg" width="141px"/>
+      <graphic height="1800px" url="web/2419_0018_web.jpg" width="1336px"/>
+    </surface>
+    <surface n="Folder 81, 10v">
+      <graphic height="5531px" url="master/2419_0019.tif" width="4106px"/>
+      <graphic height="190px" url="thumb/2419_0019_thumb.jpg" width="141px"/>
+      <graphic height="1800px" url="web/2419_0019_web.jpg" width="1336px"/>
+    </surface>
+    <surface n="Folder 81, 11r">
+      <graphic height="5531px" url="master/2419_0020.tif" width="4106px"/>
+      <graphic height="190px" url="thumb/2419_0020_thumb.jpg" width="141px"/>
+      <graphic height="1800px" url="web/2419_0020_web.jpg" width="1336px"/>
+    </surface>
+    <surface n="Folder 81, 11v">
+      <graphic height="5531px" url="master/2419_0021.tif" width="4106px"/>
+      <graphic height="190px" url="thumb/2419_0021_thumb.jpg" width="141px"/>
+      <graphic height="1800px" url="web/2419_0021_web.jpg" width="1336px"/>
+    </surface>
+    <surface n="Folder 81, 12r">
+      <graphic height="5531px" url="master/2419_0022.tif" width="4106px"/>
+      <graphic height="190px" url="thumb/2419_0022_thumb.jpg" width="141px"/>
+      <graphic height="1800px" url="web/2419_0022_web.jpg" width="1336px"/>
+    </surface>
+    <surface n="Folder 81, 12v">
+      <graphic height="5531px" url="master/2419_0023.tif" width="4106px"/>
+      <graphic height="190px" url="thumb/2419_0023_thumb.jpg" width="141px"/>
+      <graphic height="1800px" url="web/2419_0023_web.jpg" width="1336px"/>
+    </surface>
+    <surface n="Folder 81, 13r">
+      <graphic height="5531px" url="master/2419_0024.tif" width="4106px"/>
+      <graphic height="190px" url="thumb/2419_0024_thumb.jpg" width="141px"/>
+      <graphic height="1800px" url="web/2419_0024_web.jpg" width="1336px"/>
+    </surface>
+    <surface n="Folder 81, 13v">
+      <graphic height="5531px" url="master/2419_0025.tif" width="4106px"/>
+      <graphic height="190px" url="thumb/2419_0025_thumb.jpg" width="141px"/>
+      <graphic height="1800px" url="web/2419_0025_web.jpg" width="1336px"/>
+    </surface>
+    <surface n="Folder 81, 14r">
+      <graphic height="5531px" url="master/2419_0026.tif" width="4106px"/>
+      <graphic height="190px" url="thumb/2419_0026_thumb.jpg" width="141px"/>
+      <graphic height="1800px" url="web/2419_0026_web.jpg" width="1336px"/>
+    </surface>
+    <surface n="Folder 81, 14v">
+      <graphic height="5531px" url="master/2419_0027.tif" width="4106px"/>
+      <graphic height="190px" url="thumb/2419_0027_thumb.jpg" width="141px"/>
+      <graphic height="1800px" url="web/2419_0027_web.jpg" width="1336px"/>
+    </surface>
+    <surface n="Folder 81, 15r">
+      <graphic height="5531px" url="master/2419_0028.tif" width="4106px"/>
+      <graphic height="190px" url="thumb/2419_0028_thumb.jpg" width="141px"/>
+      <graphic height="1800px" url="web/2419_0028_web.jpg" width="1336px"/>
+    </surface>
+    <surface n="Folder 81, 15v">
+      <graphic height="5531px" url="master/2419_0029.tif" width="4106px"/>
+      <graphic height="190px" url="thumb/2419_0029_thumb.jpg" width="141px"/>
+      <graphic height="1800px" url="web/2419_0029_web.jpg" width="1336px"/>
+    </surface>
+    <surface n="Folder 81, 16r">
+      <graphic height="5531px" url="master/2419_0030.tif" width="4106px"/>
+      <graphic height="190px" url="thumb/2419_0030_thumb.jpg" width="141px"/>
+      <graphic height="1800px" url="web/2419_0030_web.jpg" width="1336px"/>
+    </surface>
+    <surface n="Folder 81, 16v">
+      <graphic height="5531px" url="master/2419_0031.tif" width="4106px"/>
+      <graphic height="190px" url="thumb/2419_0031_thumb.jpg" width="141px"/>
+      <graphic height="1800px" url="web/2419_0031_web.jpg" width="1336px"/>
+    </surface>
+  </facsimile>
+</TEI>

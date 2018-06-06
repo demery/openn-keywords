@@ -1,0 +1,133 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Description of University of Pennsylvania Ms. Coll. 591: Manuscript leaves from Defecerunt scrutantes scrutinio</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>The University of Pennsylvania Libraries</publisher>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by/4.0/legalcode">
+                                This description is ©2016 University of
+                                Pennsylvania Libraries. It is licensed under a Creative Commons
+                                Attribution License version 4.0 (CC-BY-4.0
+                                https://creativecommons.org/licenses/by/4.0/legalcode. For a
+                                description of the terms of use see the Creative Commons Deed
+                                https://creativecommons.org/licenses/by/4.0/. </licence>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/"> All
+                                referenced images and their content are free of known copyright
+                                restrictions and in the public domain. See the Creative Commons
+                                Public Domain Mark page for usage details,
+                                http://creativecommons.org/publicdomain/mark/1.0/. </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <settlement>Philadelphia</settlement>
+            <institution>University of Pennsylvania</institution>
+            <repository>Rare Book &amp; Manuscript Library</repository>
+            <idno type="call-number">Ms. Coll. 591</idno>
+            <altIdentifier type="bibid">
+              <idno>4799176</idno>
+            </altIdentifier>
+            <altIdentifier type="resource">
+              <idno>http://hdl.library.upenn.edu/1017/d/medren/4799176</idno>
+            </altIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary>Five leaves from a manual on confession. The first (p. 51-52) is from a section considering various sins and includes paragraphs on immodesty, contention, and discord. The other 4 leaves (p. [65-66], 67-68, 73-76) are probably 2 bifolia with each leaf now separate, and with the center bifolia of their gathering (p. 69-72) missing. They contain instructions for questioning different categories of individuals, including married men, secular princes and nobles, judges, and lawyers. Written in Italy, in 29 long lines of Gothic script, ruled in faint ink with vertical bounding lines. Decorated with 2-line initials in blue or red with contrasting penwork; paragraph marks alternating in blue and red; rubrication in and initials slashed with red. Pagination (trimmed away on p. 65-66) from before the leaves were removed from their codex, in ink, upper outer corners.</summary>
+            <textLang>In Latin</textLang>
+            <msItem>
+              <title>Manuscript leaves from Defecerunt scrutantes scrutinio</title>
+              <author>Antoninus, Saint, Archbishop of Florence, 1389-1459</author>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc material="parchment">
+                <support>
+                  <p>parchment</p>
+                </support>
+                <extent>1 145-151 x 110 (107 x 69) mm</extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin/>
+            <provenance>Sold by King Alfred's Notebook (Cayce, S.C.), cat. 2 (2010), nos. 31-35.</provenance>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords n="subjects">
+          <term>Catholic Church--Discipline</term>
+          <term>Confession--Early works to 1800</term>
+          <term>Confession--Catholic Church--Handbooks, manuals, etc.--Early works to 1800</term>
+        </keywords>
+        <keywords n="form/genre">
+          <term>Fragments</term>
+          <term>Manuals (instructional materials)</term>
+          <term>Penitentials</term>
+          <term>Manuscripts, Latin--15th century</term>
+          <term>Manuscripts, Renaissance</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface n="51 =1">
+      <graphic height="3810px" url="master/1855_0000.tif" width="2906px"/>
+      <graphic height="190px" url="thumb/1855_0000_thumb.jpg" width="144px"/>
+      <graphic height="1800px" url="web/1855_0000_web.jpg" width="1373px"/>
+    </surface>
+    <surface n="52 =2">
+      <graphic height="3810px" url="master/1855_0001.tif" width="2906px"/>
+      <graphic height="190px" url="thumb/1855_0001_thumb.jpg" width="144px"/>
+      <graphic height="1800px" url="web/1855_0001_web.jpg" width="1373px"/>
+    </surface>
+    <surface n="65 =3">
+      <graphic height="3810px" url="master/1855_0002.tif" width="2906px"/>
+      <graphic height="190px" url="thumb/1855_0002_thumb.jpg" width="144px"/>
+      <graphic height="1800px" url="web/1855_0002_web.jpg" width="1373px"/>
+    </surface>
+    <surface n="66 =4">
+      <graphic height="3810px" url="master/1855_0003.tif" width="2906px"/>
+      <graphic height="190px" url="thumb/1855_0003_thumb.jpg" width="144px"/>
+      <graphic height="1800px" url="web/1855_0003_web.jpg" width="1373px"/>
+    </surface>
+    <surface n="67 =5">
+      <graphic height="3810px" url="master/1855_0004.tif" width="2906px"/>
+      <graphic height="190px" url="thumb/1855_0004_thumb.jpg" width="144px"/>
+      <graphic height="1800px" url="web/1855_0004_web.jpg" width="1373px"/>
+    </surface>
+    <surface n="68 =6">
+      <graphic height="3810px" url="master/1855_0005.tif" width="2906px"/>
+      <graphic height="190px" url="thumb/1855_0005_thumb.jpg" width="144px"/>
+      <graphic height="1800px" url="web/1855_0005_web.jpg" width="1373px"/>
+    </surface>
+    <surface n="73 =7">
+      <graphic height="3810px" url="master/1855_0006.tif" width="2906px"/>
+      <graphic height="190px" url="thumb/1855_0006_thumb.jpg" width="144px"/>
+      <graphic height="1800px" url="web/1855_0006_web.jpg" width="1373px"/>
+    </surface>
+    <surface n="74 =8">
+      <graphic height="3810px" url="master/1855_0007.tif" width="2906px"/>
+      <graphic height="190px" url="thumb/1855_0007_thumb.jpg" width="144px"/>
+      <graphic height="1800px" url="web/1855_0007_web.jpg" width="1373px"/>
+    </surface>
+    <surface n="75 =9">
+      <graphic height="3810px" url="master/1855_0008.tif" width="2906px"/>
+      <graphic height="190px" url="thumb/1855_0008_thumb.jpg" width="144px"/>
+      <graphic height="1800px" url="web/1855_0008_web.jpg" width="1373px"/>
+    </surface>
+    <surface n="76 =10">
+      <graphic height="3810px" url="master/1855_0009.tif" width="2906px"/>
+      <graphic height="190px" url="thumb/1855_0009_thumb.jpg" width="144px"/>
+      <graphic height="1800px" url="web/1855_0009_web.jpg" width="1373px"/>
+    </surface>
+  </facsimile>
+</TEI>

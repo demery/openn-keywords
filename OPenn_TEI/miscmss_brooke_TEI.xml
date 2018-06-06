@@ -1,0 +1,118 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Description of University of Pennsylvania Misc Mss: Miscellaneous manuscripts</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>The University of Pennsylvania Libraries</publisher>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by/4.0/legalcode">
+                                This description is ©2016 University of
+                                Pennsylvania Libraries. It is licensed under a Creative Commons
+                                Attribution License version 4.0 (CC-BY-4.0
+                                https://creativecommons.org/licenses/by/4.0/legalcode. For a
+                                description of the terms of use see the Creative Commons Deed
+                                https://creativecommons.org/licenses/by/4.0/. </licence>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/"> All
+                                referenced images and their content are free of known copyright
+                                restrictions and in the public domain. See the Creative Commons
+                                Public Domain Mark page for usage details,
+                                http://creativecommons.org/publicdomain/mark/1.0/. </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <settlement>Philadelphia</settlement>
+            <institution>University of Pennsylvania</institution>
+            <repository>Rare Book &amp; Manuscript Library</repository>
+            <idno type="call-number">Misc Mss</idno>
+            <altIdentifier type="bibid">
+              <idno>4577678</idno>
+            </altIdentifier>
+            <altIdentifier type="resource">
+              <idno>http://hdl.library.upenn.edu/1017/d/medren/4577678</idno>
+            </altIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary>Three charters, of which two are related deeds for the manor of Weycroft (here spelled Wycroft) in the hundred of Axminister, Devonshire. The first, transferring the property from Robert Dighere of Crewkerne, Somerset, and his wife Avicia to Philip Holman (designated clericus) and John Swaldale, was written in Crewkerne and dated 1 October 1397 (first Monday after the feast of Saint Michael Archangel in the twenty-first regnal year of Richard II). The witnesses were Edmund Pyne, Philip Hampton, John Jewe, John Hunte clericus, and Hugh Sanford. It has one seal tag. The second, transferring the property from Philip Holman clericus and John Swaldale to Thomas Brooke (here Brook) Junior, was written in Weycroft and dated 20 October 1407 (first Thursday after the feast of Saint Luke Evangelist in the ninth regnal year of Henry IV). The witnesses were Sir Thomas Beauchamp, Edmund Pyne, John Peny, John Stalbrygge, and William Boteler. It has two seal tags, one of which has been tied to the seal tag of the earlier deed. The third charter is a final concord documenting the transfer of land in Castell (Castle) and Langemore (Langmoor), in Hawkchurch in east Devon, from deforciants William and Joanna Damerle to querents or plaintiffs Sir Thomas and Joanna Brooke (this Thomas Brooke may not be the same as the one of Weycroft). The transaction was made in Westminister, dated 1408 (tenth regnal year of Henry IV), and the charter has undulating top and left edges and marks written across where it was cut.</summary>
+            <textLang>In Latin, with brief endorsements in Middle English</textLang>
+            <msItem>
+              <title>Miscellaneous manuscripts</title>
+              <author>Brooke, Thomas, d. 1439</author>
+              <author>Dighere, Robert</author>
+              <author>Dighere, Avicia</author>
+              <author>Holman, Philip</author>
+              <author>Swaldale, John</author>
+              <author>Brooke, Joanna</author>
+              <author>Damerle, William</author>
+              <author>Damerle, Joanna</author>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc material="parchment.">
+                <support>
+                  <p>parchment.</p>
+                </support>
+                <extent>3</extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin/>
+            <provenance>Sold in a collection of charters at auction at Sotheby's, 7 July 2009 (lot 10).</provenance>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords n="subjects">
+          <term>Real property--England--Devon</term>
+        </keywords>
+        <keywords n="form/genre">
+          <term>Deeds</term>
+          <term>Legal documents</term>
+          <term>Manuscripts, Latin--14th century</term>
+          <term>Manuscripts, Latin--15th century</term>
+          <term>Manuscripts, Medieval</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface n="Item 1, Side 1">
+      <graphic height="4964px" url="master/1776_0000.tif" width="7070px"/>
+      <graphic height="133px" url="thumb/1776_0000_thumb.jpg" width="190px"/>
+      <graphic height="1263px" url="web/1776_0000_web.jpg" width="1800px"/>
+    </surface>
+    <surface n="Item 1, Side 2">
+      <graphic height="4964px" url="master/1776_0001.tif" width="7070px"/>
+      <graphic height="133px" url="thumb/1776_0001_thumb.jpg" width="190px"/>
+      <graphic height="1263px" url="web/1776_0001_web.jpg" width="1800px"/>
+    </surface>
+    <surface n="Item 2, Side 1">
+      <graphic height="4964px" url="master/1776_0002.tif" width="7070px"/>
+      <graphic height="133px" url="thumb/1776_0002_thumb.jpg" width="190px"/>
+      <graphic height="1263px" url="web/1776_0002_web.jpg" width="1800px"/>
+    </surface>
+    <surface n="Item 2, Side 2">
+      <graphic height="4964px" url="master/1776_0003.tif" width="7070px"/>
+      <graphic height="133px" url="thumb/1776_0003_thumb.jpg" width="190px"/>
+      <graphic height="1263px" url="web/1776_0003_web.jpg" width="1800px"/>
+    </surface>
+    <surface n="Item 3, Side 1">
+      <graphic height="4964px" url="master/1776_0004.tif" width="7070px"/>
+      <graphic height="133px" url="thumb/1776_0004_thumb.jpg" width="190px"/>
+      <graphic height="1263px" url="web/1776_0004_web.jpg" width="1800px"/>
+    </surface>
+    <surface n="Item 3, Side 2">
+      <graphic height="4964px" url="master/1776_0005.tif" width="7070px"/>
+      <graphic height="133px" url="thumb/1776_0005_thumb.jpg" width="190px"/>
+      <graphic height="1263px" url="web/1776_0005_web.jpg" width="1800px"/>
+    </surface>
+  </facsimile>
+</TEI>

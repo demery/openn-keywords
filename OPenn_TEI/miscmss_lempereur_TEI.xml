@@ -1,0 +1,101 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Description of University of Pennsylvania Misc Mss: Miscellaneous manuscripts</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>The University of Pennsylvania Libraries</publisher>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by/4.0/legalcode">
+                                This description is ©2016 University of
+                                Pennsylvania Libraries. It is licensed under a Creative Commons
+                                Attribution License version 4.0 (CC-BY-4.0
+                                https://creativecommons.org/licenses/by/4.0/legalcode. For a
+                                description of the terms of use see the Creative Commons Deed
+                                https://creativecommons.org/licenses/by/4.0/. </licence>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/"> All
+                                referenced images and their content are free of known copyright
+                                restrictions and in the public domain. See the Creative Commons
+                                Public Domain Mark page for usage details,
+                                http://creativecommons.org/publicdomain/mark/1.0/. </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <settlement>Philadelphia</settlement>
+            <institution>University of Pennsylvania</institution>
+            <repository>Rare Book &amp; Manuscript Library</repository>
+            <idno type="call-number">Misc Mss</idno>
+            <altIdentifier type="bibid">
+              <idno>4372168</idno>
+            </altIdentifier>
+            <altIdentifier type="resource">
+              <idno>http://hdl.library.upenn.edu/1017/d/medren/4372168</idno>
+            </altIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary>Two receipts of payment for military services rendered, given by two soldiers to Jacques Lempereur. The first receipt was given by Betran de Tarride on 1355 Oct. 1. The text is written in 5 long lines, in a secretary script; a piece of a wax seal depicting a coat of arms is attached to the bottom right corner of the vellum leaf. The second receipt is given by Jehan de St. Germain on 1356 Aug. 1. The text is written in 7 long lines, in a secretary script. It also has a wax seal attached to the vellum in the bottom right corner, with a different coat of arms.</summary>
+            <textLang>In French</textLang>
+            <msItem>
+              <title>Miscellaneous manuscripts</title>
+              <author>Lempereur, Jacques</author>
+              <author>Tarride, Bertran de</author>
+              <author>St. Germain, Jehan de</author>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc material="parchment.">
+                <support>
+                  <p>parchment.</p>
+                </support>
+                <extent>2</extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin/>
+            <provenance>Purchased, 1957.</provenance>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords n="subjects">
+          <term>Soldiers--France--History--14th century</term>
+        </keywords>
+        <keywords n="form/genre">
+          <term>Receipts (financial records)</term>
+          <term>Manuscripts, French--14th century</term>
+          <term>Manuscripts, Medieval</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface n="Item 1, Side 1">
+      <graphic height="2283px" url="master/1582_0000.tif" width="5581px"/>
+      <graphic height="77px" url="thumb/1582_0000_thumb.jpg" width="190px"/>
+      <graphic height="736px" url="web/1582_0000_web.jpg" width="1800px"/>
+    </surface>
+    <surface n="Item 1, Side 2">
+      <graphic height="2283px" url="master/1582_0001.tif" width="5581px"/>
+      <graphic height="77px" url="thumb/1582_0001_thumb.jpg" width="190px"/>
+      <graphic height="736px" url="web/1582_0001_web.jpg" width="1800px"/>
+    </surface>
+    <surface n="Item 2, Side 1">
+      <graphic height="2283px" url="master/1582_0002.tif" width="5581px"/>
+      <graphic height="77px" url="thumb/1582_0002_thumb.jpg" width="190px"/>
+      <graphic height="736px" url="web/1582_0002_web.jpg" width="1800px"/>
+    </surface>
+    <surface n="Item 2, Side 2">
+      <graphic height="2283px" url="master/1582_0003.tif" width="5581px"/>
+      <graphic height="77px" url="thumb/1582_0003_thumb.jpg" width="190px"/>
+      <graphic height="736px" url="web/1582_0003_web.jpg" width="1800px"/>
+    </surface>
+  </facsimile>
+</TEI>

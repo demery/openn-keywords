@@ -1,0 +1,303 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Description of University of Pennsylvania Ms. Codex 1540: Alphabetical index to Medici (?) account book</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>The University of Pennsylvania Libraries</publisher>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by/4.0/legalcode">
+                                This description is ©2015 University of
+                                Pennsylvania Libraries. It is licensed under a Creative Commons
+                                Attribution License version 4.0 (CC-BY-4.0
+                                https://creativecommons.org/licenses/by/4.0/legalcode. For a
+                                description of the terms of use see the Creative Commons Deed
+                                https://creativecommons.org/licenses/by/4.0/. </licence>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/"> All
+                                referenced images and their content are free of known copyright
+                                restrictions and in the public domain. See the Creative Commons
+                                Public Domain Mark page for usage details,
+                                http://creativecommons.org/publicdomain/mark/1.0/. </licence>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note>Ms. codex.</note>
+        <note>For a ledger of accounts (dated 1538-1539), probably similar to the one for which this index was written, containing entries for many of the individuals mentioned in the present index, and written in an almost identical hand, see Ms. Codex 1496, Rare Book &amp; Manuscript Library, University of Pennsylvania.</note>
+        <note>Title supplied by cataloger.</note>
+        <note>Forms part of: Gondi-Medici Business Records.</note>
+      </notesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <settlement>Philadelphia</settlement>
+            <institution>University of Pennsylvania</institution>
+            <repository>Rare Book &amp; Manuscript Library</repository>
+            <idno type="call-number">Ms. Codex 1540</idno>
+            <altIdentifier type="bibid">
+              <idno>4500295</idno>
+            </altIdentifier>
+            <altIdentifier type="resource">
+              <idno>http://hdl.library.upenn.edu/1017/d/medren/4500295</idno>
+            </altIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary>Alphabetical index with 18 lettered tabs, containing names of individuals and institutions that appear in an unidentified ledger of accounts, perhaps belonging to the Medici family and covering the years 1539-1540. The names of the individuals and institutions that appear in the index include Ottaviano and Cosimo de' Medici; Piero and Luigi Capponi; the heirs of Filippo Gondi; the Spedale di Santa Maria degli Innocenti; the Capitolo delle monache delle convertite, a nunnery for young women, often prostitutes, who converted to Catholicism; the Spedale di Santa Maria Novella, a Florentine church which also offered medical help to pilgrims and those in need; and the Opera di Santa Maria del Fiore. The cover is made of an early 14th-century vellum bifolium containing a passage from the treatise of medical botany, Clavis Sanationes sive Synonyma Medicinae (ca. 1290), by Simon Genuensis. This document is written in a Gothic script, in two columns, with red rubrics and blue initials and numerous marginalia.</summary>
+            <textLang>Italian</textLang>
+            <msItem>
+              <title>Alphabetical index to Medici (?) account book</title>
+              <author>Simon, Genuensis</author>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc material="paper">
+                <support>
+                  <p>paper</p>
+                  <watermark>Similar to Briquet, Enclume, 5963 (Florence, 1514-29).</watermark>
+                </support>
+                <extent>18 leaves : 333 x 226 mm. bound to 330 x 211 mm</extent>
+                <foliation>Paper, 18; [1-18]; modern foliation in pencil, upper right recto.</foliation>
+              </supportDesc>
+            </objectDesc>
+            <scriptDesc>
+              <scriptNote>Written in a cursive script, perhaps by multiple hands.</scriptNote>
+            </scriptDesc>
+            <decoDesc>
+              <decoNote n="Front cover">Reused manuscript leaf, Front cover</decoNote>
+              <decoNote n="Inside front cover">Reused manuscript leaf, Inside front cover</decoNote>
+              <decoNote n="Inside back cover">Reused manuscript leaf, Inside back cover</decoNote>
+              <decoNote n="Back cover">Reused manuscript leaf, Back cover</decoNote>
+            </decoDesc>
+            <bindingDesc>
+              <binding>
+                <p>Early 14th-century vellum (Zacour-Hirsch).</p>
+              </binding>
+            </bindingDesc>
+          </physDesc>
+          <history>
+            <origin>
+              <p>Written in Italy between 1539 (f. 1r) and 1540 (f. 16r)</p>
+              <origDate>1539-1540</origDate>
+              <origPlace>Italy</origPlace>
+            </origin>
+            <provenance>Sold by Bernard M. Rosenthal, 1963.</provenance>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords n="form/genre">
+          <term>Codices</term>
+          <term>Indexes</term>
+          <term>Manuscripts, Italian--16th century</term>
+          <term>Manuscripts, Renaissance</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface n="Front cover">
+      <graphic height="5760px" url="master/0882_0000.tif" width="3965px"/>
+      <graphic height="190px" url="thumb/0882_0000_thumb.jpg" width="130px"/>
+      <graphic height="1800px" url="web/0882_0000_web.jpg" width="1239px"/>
+    </surface>
+    <surface n="Inside front cover">
+      <graphic height="5760px" url="master/0882_0001.tif" width="3965px"/>
+      <graphic height="190px" url="thumb/0882_0001_thumb.jpg" width="130px"/>
+      <graphic height="1800px" url="web/0882_0001_web.jpg" width="1239px"/>
+    </surface>
+    <surface n="1r">
+      <graphic height="5760px" url="master/0882_0002.tif" width="3965px"/>
+      <graphic height="190px" url="thumb/0882_0002_thumb.jpg" width="130px"/>
+      <graphic height="1800px" url="web/0882_0002_web.jpg" width="1239px"/>
+    </surface>
+    <surface n="1v">
+      <graphic height="5760px" url="master/0882_0003.tif" width="3965px"/>
+      <graphic height="190px" url="thumb/0882_0003_thumb.jpg" width="130px"/>
+      <graphic height="1800px" url="web/0882_0003_web.jpg" width="1239px"/>
+    </surface>
+    <surface n="2r">
+      <graphic height="5760px" url="master/0882_0004.tif" width="3965px"/>
+      <graphic height="190px" url="thumb/0882_0004_thumb.jpg" width="130px"/>
+      <graphic height="1800px" url="web/0882_0004_web.jpg" width="1239px"/>
+    </surface>
+    <surface n="2v">
+      <graphic height="5760px" url="master/0882_0005.tif" width="3965px"/>
+      <graphic height="190px" url="thumb/0882_0005_thumb.jpg" width="130px"/>
+      <graphic height="1800px" url="web/0882_0005_web.jpg" width="1239px"/>
+    </surface>
+    <surface n="3r">
+      <graphic height="5760px" url="master/0882_0006.tif" width="3965px"/>
+      <graphic height="190px" url="thumb/0882_0006_thumb.jpg" width="130px"/>
+      <graphic height="1800px" url="web/0882_0006_web.jpg" width="1239px"/>
+    </surface>
+    <surface n="3v">
+      <graphic height="5760px" url="master/0882_0007.tif" width="3965px"/>
+      <graphic height="190px" url="thumb/0882_0007_thumb.jpg" width="130px"/>
+      <graphic height="1800px" url="web/0882_0007_web.jpg" width="1239px"/>
+    </surface>
+    <surface n="4r">
+      <graphic height="5760px" url="master/0882_0008.tif" width="3965px"/>
+      <graphic height="190px" url="thumb/0882_0008_thumb.jpg" width="130px"/>
+      <graphic height="1800px" url="web/0882_0008_web.jpg" width="1239px"/>
+    </surface>
+    <surface n="4v">
+      <graphic height="5760px" url="master/0882_0009.tif" width="3965px"/>
+      <graphic height="190px" url="thumb/0882_0009_thumb.jpg" width="130px"/>
+      <graphic height="1800px" url="web/0882_0009_web.jpg" width="1239px"/>
+    </surface>
+    <surface n="5r">
+      <graphic height="5760px" url="master/0882_0010.tif" width="3965px"/>
+      <graphic height="190px" url="thumb/0882_0010_thumb.jpg" width="130px"/>
+      <graphic height="1800px" url="web/0882_0010_web.jpg" width="1239px"/>
+    </surface>
+    <surface n="5v">
+      <graphic height="5760px" url="master/0882_0011.tif" width="3965px"/>
+      <graphic height="190px" url="thumb/0882_0011_thumb.jpg" width="130px"/>
+      <graphic height="1800px" url="web/0882_0011_web.jpg" width="1239px"/>
+    </surface>
+    <surface n="6r">
+      <graphic height="5760px" url="master/0882_0012.tif" width="3965px"/>
+      <graphic height="190px" url="thumb/0882_0012_thumb.jpg" width="130px"/>
+      <graphic height="1800px" url="web/0882_0012_web.jpg" width="1239px"/>
+    </surface>
+    <surface n="6v">
+      <graphic height="5760px" url="master/0882_0013.tif" width="3965px"/>
+      <graphic height="190px" url="thumb/0882_0013_thumb.jpg" width="130px"/>
+      <graphic height="1800px" url="web/0882_0013_web.jpg" width="1239px"/>
+    </surface>
+    <surface n="7r">
+      <graphic height="5760px" url="master/0882_0014.tif" width="3965px"/>
+      <graphic height="190px" url="thumb/0882_0014_thumb.jpg" width="130px"/>
+      <graphic height="1800px" url="web/0882_0014_web.jpg" width="1239px"/>
+    </surface>
+    <surface n="7v">
+      <graphic height="5760px" url="master/0882_0015.tif" width="3965px"/>
+      <graphic height="190px" url="thumb/0882_0015_thumb.jpg" width="130px"/>
+      <graphic height="1800px" url="web/0882_0015_web.jpg" width="1239px"/>
+    </surface>
+    <surface n="8r">
+      <graphic height="5760px" url="master/0882_0016.tif" width="3965px"/>
+      <graphic height="190px" url="thumb/0882_0016_thumb.jpg" width="130px"/>
+      <graphic height="1800px" url="web/0882_0016_web.jpg" width="1239px"/>
+    </surface>
+    <surface n="8v">
+      <graphic height="5760px" url="master/0882_0017.tif" width="3965px"/>
+      <graphic height="190px" url="thumb/0882_0017_thumb.jpg" width="130px"/>
+      <graphic height="1800px" url="web/0882_0017_web.jpg" width="1239px"/>
+    </surface>
+    <surface n="9r">
+      <graphic height="5760px" url="master/0882_0018.tif" width="3965px"/>
+      <graphic height="190px" url="thumb/0882_0018_thumb.jpg" width="130px"/>
+      <graphic height="1800px" url="web/0882_0018_web.jpg" width="1239px"/>
+    </surface>
+    <surface n="9v">
+      <graphic height="5760px" url="master/0882_0019.tif" width="3965px"/>
+      <graphic height="190px" url="thumb/0882_0019_thumb.jpg" width="130px"/>
+      <graphic height="1800px" url="web/0882_0019_web.jpg" width="1239px"/>
+    </surface>
+    <surface n="10r">
+      <graphic height="5760px" url="master/0882_0020.tif" width="3965px"/>
+      <graphic height="190px" url="thumb/0882_0020_thumb.jpg" width="130px"/>
+      <graphic height="1800px" url="web/0882_0020_web.jpg" width="1239px"/>
+    </surface>
+    <surface n="10v">
+      <graphic height="5760px" url="master/0882_0021.tif" width="3965px"/>
+      <graphic height="190px" url="thumb/0882_0021_thumb.jpg" width="130px"/>
+      <graphic height="1800px" url="web/0882_0021_web.jpg" width="1239px"/>
+    </surface>
+    <surface n="11r">
+      <graphic height="5760px" url="master/0882_0022.tif" width="3965px"/>
+      <graphic height="190px" url="thumb/0882_0022_thumb.jpg" width="130px"/>
+      <graphic height="1800px" url="web/0882_0022_web.jpg" width="1239px"/>
+    </surface>
+    <surface n="11v">
+      <graphic height="5760px" url="master/0882_0023.tif" width="3965px"/>
+      <graphic height="190px" url="thumb/0882_0023_thumb.jpg" width="130px"/>
+      <graphic height="1800px" url="web/0882_0023_web.jpg" width="1239px"/>
+    </surface>
+    <surface n="12r">
+      <graphic height="5760px" url="master/0882_0024.tif" width="3965px"/>
+      <graphic height="190px" url="thumb/0882_0024_thumb.jpg" width="130px"/>
+      <graphic height="1800px" url="web/0882_0024_web.jpg" width="1239px"/>
+    </surface>
+    <surface n="12v">
+      <graphic height="5760px" url="master/0882_0025.tif" width="3965px"/>
+      <graphic height="190px" url="thumb/0882_0025_thumb.jpg" width="130px"/>
+      <graphic height="1800px" url="web/0882_0025_web.jpg" width="1239px"/>
+    </surface>
+    <surface n="13r">
+      <graphic height="5760px" url="master/0882_0026.tif" width="3965px"/>
+      <graphic height="190px" url="thumb/0882_0026_thumb.jpg" width="130px"/>
+      <graphic height="1800px" url="web/0882_0026_web.jpg" width="1239px"/>
+    </surface>
+    <surface n="13v">
+      <graphic height="5760px" url="master/0882_0027.tif" width="3965px"/>
+      <graphic height="190px" url="thumb/0882_0027_thumb.jpg" width="130px"/>
+      <graphic height="1800px" url="web/0882_0027_web.jpg" width="1239px"/>
+    </surface>
+    <surface n="14r">
+      <graphic height="5760px" url="master/0882_0028.tif" width="3965px"/>
+      <graphic height="190px" url="thumb/0882_0028_thumb.jpg" width="130px"/>
+      <graphic height="1800px" url="web/0882_0028_web.jpg" width="1239px"/>
+    </surface>
+    <surface n="14v">
+      <graphic height="5760px" url="master/0882_0029.tif" width="3965px"/>
+      <graphic height="190px" url="thumb/0882_0029_thumb.jpg" width="130px"/>
+      <graphic height="1800px" url="web/0882_0029_web.jpg" width="1239px"/>
+    </surface>
+    <surface n="15r">
+      <graphic height="5760px" url="master/0882_0030.tif" width="3965px"/>
+      <graphic height="190px" url="thumb/0882_0030_thumb.jpg" width="130px"/>
+      <graphic height="1800px" url="web/0882_0030_web.jpg" width="1239px"/>
+    </surface>
+    <surface n="15v">
+      <graphic height="5760px" url="master/0882_0031.tif" width="3965px"/>
+      <graphic height="190px" url="thumb/0882_0031_thumb.jpg" width="130px"/>
+      <graphic height="1800px" url="web/0882_0031_web.jpg" width="1239px"/>
+    </surface>
+    <surface n="16r">
+      <graphic height="5760px" url="master/0882_0032.tif" width="3965px"/>
+      <graphic height="190px" url="thumb/0882_0032_thumb.jpg" width="130px"/>
+      <graphic height="1800px" url="web/0882_0032_web.jpg" width="1239px"/>
+    </surface>
+    <surface n="16v">
+      <graphic height="5760px" url="master/0882_0033.tif" width="3965px"/>
+      <graphic height="190px" url="thumb/0882_0033_thumb.jpg" width="130px"/>
+      <graphic height="1800px" url="web/0882_0033_web.jpg" width="1239px"/>
+    </surface>
+    <surface n="17r">
+      <graphic height="5760px" url="master/0882_0034.tif" width="3965px"/>
+      <graphic height="190px" url="thumb/0882_0034_thumb.jpg" width="130px"/>
+      <graphic height="1800px" url="web/0882_0034_web.jpg" width="1239px"/>
+    </surface>
+    <surface n="17v">
+      <graphic height="5760px" url="master/0882_0035.tif" width="3965px"/>
+      <graphic height="190px" url="thumb/0882_0035_thumb.jpg" width="130px"/>
+      <graphic height="1800px" url="web/0882_0035_web.jpg" width="1239px"/>
+    </surface>
+    <surface n="18r">
+      <graphic height="5760px" url="master/0882_0036.tif" width="3965px"/>
+      <graphic height="190px" url="thumb/0882_0036_thumb.jpg" width="130px"/>
+      <graphic height="1800px" url="web/0882_0036_web.jpg" width="1239px"/>
+    </surface>
+    <surface n="18v">
+      <graphic height="5760px" url="master/0882_0037.tif" width="3965px"/>
+      <graphic height="190px" url="thumb/0882_0037_thumb.jpg" width="130px"/>
+      <graphic height="1800px" url="web/0882_0037_web.jpg" width="1239px"/>
+    </surface>
+    <surface n="Inside back cover">
+      <graphic height="5760px" url="master/0882_0038.tif" width="3965px"/>
+      <graphic height="190px" url="thumb/0882_0038_thumb.jpg" width="130px"/>
+      <graphic height="1800px" url="web/0882_0038_web.jpg" width="1239px"/>
+    </surface>
+    <surface n="Back cover">
+      <graphic height="5760px" url="master/0882_0039.tif" width="3965px"/>
+      <graphic height="190px" url="thumb/0882_0039_thumb.jpg" width="130px"/>
+      <graphic height="1800px" url="web/0882_0039_web.jpg" width="1239px"/>
+    </surface>
+  </facsimile>
+</TEI>

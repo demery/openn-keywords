@@ -1,0 +1,349 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Description of University of Pennsylvania Ms. Codex 1516: Ledger of Medici debtors and creditors, accounts and memoranda</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>The University of Pennsylvania Libraries</publisher>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by/4.0/legalcode">
+                                This description is ©2015 University of
+                                Pennsylvania Libraries. It is licensed under a Creative Commons
+                                Attribution License version 4.0 (CC-BY-4.0
+                                https://creativecommons.org/licenses/by/4.0/legalcode. For a
+                                description of the terms of use see the Creative Commons Deed
+                                https://creativecommons.org/licenses/by/4.0/. </licence>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/"> All
+                                referenced images and their content are free of known copyright
+                                restrictions and in the public domain. See the Creative Commons
+                                Public Domain Mark page for usage details,
+                                http://creativecommons.org/publicdomain/mark/1.0/. </licence>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note>Ms. codex.</note>
+        <note>Title supplied by cataloger.</note>
+        <note>Forms part of: Gondi-Medici Business Records.</note>
+      </notesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <settlement>Philadelphia</settlement>
+            <institution>University of Pennsylvania</institution>
+            <repository>Rare Book &amp; Manuscript Library</repository>
+            <idno type="call-number">Ms. Codex 1516</idno>
+            <altIdentifier type="bibid">
+              <idno>4490799</idno>
+            </altIdentifier>
+            <altIdentifier type="resource">
+              <idno>http://hdl.library.upenn.edu/1017/d/medren/4490799</idno>
+            </altIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary>Ledger of debtors and creditors, miscellaneous accounts, and memoranda of Bernardo di Alamanno de' Medici for the years 1456-1457, written in the first person, probably by Bernardo di Alamanno himself. Entries were made in each category of accounts over the course of one year only, leaving mostly blank pages. Often includes the nature of a given credit or debt and its amount, as well as listing the names of the individuals that hold the debt or credit. Counterparts are workers, tenants and employees (e.g. millers and bakers) of Bernardo, or members of the Florentine aristocracy, such as Andrea di Matteo degli Albizzi. Memoranda contain short descriptions of the circumstances that lead to the creation of a debt or credit.</summary>
+            <textLang>Italian</textLang>
+            <msItem>
+              <title>Ledger of Medici debtors and creditors, accounts and memoranda</title>
+              <author>Medici, Bernardo de'</author>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc material="paper">
+                <support>
+                  <p>paper</p>
+                  <watermark>Similar to Briquet, Fruit 7371 (Colle, Florence, 1427).</watermark>
+                </support>
+                <extent>84 leaves : 394 x 144 mm. bound to 398 x 149 mm. +</extent>
+                <foliation>Paper, 84; contemporary foliation in ink, upper right recto (f. 5-48, 50-64, 66-73, and 79-84 are blank).</foliation>
+              </supportDesc>
+              <layoutDesc>
+                <layout>Written in 2 columns with vertical bounding lines in lead; the large column on the left with the debtor or creditor and a brief description of the credit or debt, and the smaller one on the right with the amount of the credit or debt. Usually credits are listed on the left page and debts on the right page of an opening, with the same individuals or institutions appearing as debtors or creditors on facing pages. Long lines are also used.</layout>
+              </layoutDesc>
+            </objectDesc>
+            <scriptDesc>
+              <scriptNote>Written in a cursive script.</scriptNote>
+            </scriptDesc>
+            <bindingDesc>
+              <binding>
+                <p>Contemporary vellum, no. 2 on spine; no. 211 on upper cover; lower cover wraps around upper cover with remnants of leather ties; decorative leatherwork on spine.</p>
+              </binding>
+            </bindingDesc>
+          </physDesc>
+          <history>
+            <origin>
+              <p>Written in Florence between 1456 (f. 1v) and 1457 (f. 77r).</p>
+              <origDate>1456-1457</origDate>
+              <origPlace>Florence</origPlace>
+            </origin>
+            <provenance>Sold by Bernard M. Rosenthal, 1963.</provenance>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords n="subjects">
+          <term>Accounting--Italy--15th century</term>
+        </keywords>
+        <keywords n="form/genre">
+          <term>Codices</term>
+          <term>Accounts</term>
+          <term>Credit records</term>
+          <term>Ledgers (account books)</term>
+          <term>Manuscripts, Italian--15th century</term>
+          <term>Manuscripts, Renaissance</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface n="Front cover (Flap closed)">
+      <graphic height="6586px" url="master/0865_0000.tif" width="4538px"/>
+      <graphic height="190px" url="thumb/0865_0000_thumb.jpg" width="131px"/>
+      <graphic height="1800px" url="web/0865_0000_web.jpg" width="1240px"/>
+    </surface>
+    <surface n="Front cover (Flap open)">
+      <graphic height="6586px" url="master/0865_0001.tif" width="4695px"/>
+      <graphic height="190px" url="thumb/0865_0001_thumb.jpg" width="135px"/>
+      <graphic height="1800px" url="web/0865_0001_web.jpg" width="1283px"/>
+    </surface>
+    <surface n="Flap edge">
+      <graphic height="6604px" url="master/0865_0002.tif" width="3001px"/>
+      <graphic height="190px" url="thumb/0865_0002_thumb.jpg" width="86px"/>
+      <graphic height="1800px" url="web/0865_0002_web.jpg" width="817px"/>
+    </surface>
+    <surface n="Inside front cover">
+      <graphic height="6604px" url="master/0865_0003.tif" width="3001px"/>
+      <graphic height="190px" url="thumb/0865_0003_thumb.jpg" width="86px"/>
+      <graphic height="1800px" url="web/0865_0003_web.jpg" width="817px"/>
+    </surface>
+    <surface n="1r">
+      <graphic height="6604px" url="master/0865_0004.tif" width="3001px"/>
+      <graphic height="190px" url="thumb/0865_0004_thumb.jpg" width="86px"/>
+      <graphic height="1800px" url="web/0865_0004_web.jpg" width="817px"/>
+    </surface>
+    <surface n="1v">
+      <graphic height="6604px" url="master/0865_0005.tif" width="3001px"/>
+      <graphic height="190px" url="thumb/0865_0005_thumb.jpg" width="86px"/>
+      <graphic height="1800px" url="web/0865_0005_web.jpg" width="817px"/>
+    </surface>
+    <surface n="2r">
+      <graphic height="6604px" url="master/0865_0006.tif" width="3001px"/>
+      <graphic height="190px" url="thumb/0865_0006_thumb.jpg" width="86px"/>
+      <graphic height="1800px" url="web/0865_0006_web.jpg" width="817px"/>
+    </surface>
+    <surface n="2v">
+      <graphic height="6604px" url="master/0865_0007.tif" width="3001px"/>
+      <graphic height="190px" url="thumb/0865_0007_thumb.jpg" width="86px"/>
+      <graphic height="1800px" url="web/0865_0007_web.jpg" width="817px"/>
+    </surface>
+    <surface n="3r">
+      <graphic height="6604px" url="master/0865_0008.tif" width="3001px"/>
+      <graphic height="190px" url="thumb/0865_0008_thumb.jpg" width="86px"/>
+      <graphic height="1800px" url="web/0865_0008_web.jpg" width="817px"/>
+    </surface>
+    <surface n="3v">
+      <graphic height="6604px" url="master/0865_0009.tif" width="3001px"/>
+      <graphic height="190px" url="thumb/0865_0009_thumb.jpg" width="86px"/>
+      <graphic height="1800px" url="web/0865_0009_web.jpg" width="817px"/>
+    </surface>
+    <surface n="4r">
+      <graphic height="6604px" url="master/0865_0010.tif" width="3001px"/>
+      <graphic height="190px" url="thumb/0865_0010_thumb.jpg" width="86px"/>
+      <graphic height="1800px" url="web/0865_0010_web.jpg" width="817px"/>
+    </surface>
+    <surface n="4v">
+      <graphic height="6604px" url="master/0865_0011.tif" width="3001px"/>
+      <graphic height="190px" url="thumb/0865_0011_thumb.jpg" width="86px"/>
+      <graphic height="1800px" url="web/0865_0011_web.jpg" width="817px"/>
+    </surface>
+    <surface n="5r">
+      <graphic height="6604px" url="master/0865_0012.tif" width="3001px"/>
+      <graphic height="190px" url="thumb/0865_0012_thumb.jpg" width="86px"/>
+      <graphic height="1800px" url="web/0865_0012_web.jpg" width="817px"/>
+    </surface>
+    <surface n="47v">
+      <graphic height="6604px" url="master/0865_0013.tif" width="3001px"/>
+      <graphic height="190px" url="thumb/0865_0013_thumb.jpg" width="86px"/>
+      <graphic height="1800px" url="web/0865_0013_web.jpg" width="817px"/>
+    </surface>
+    <surface n="48r">
+      <graphic height="6604px" url="master/0865_0014.tif" width="3001px"/>
+      <graphic height="190px" url="thumb/0865_0014_thumb.jpg" width="86px"/>
+      <graphic height="1800px" url="web/0865_0014_web.jpg" width="817px"/>
+    </surface>
+    <surface n="48v">
+      <graphic height="6604px" url="master/0865_0015.tif" width="3001px"/>
+      <graphic height="190px" url="thumb/0865_0015_thumb.jpg" width="86px"/>
+      <graphic height="1800px" url="web/0865_0015_web.jpg" width="817px"/>
+    </surface>
+    <surface n="49r">
+      <graphic height="6604px" url="master/0865_0016.tif" width="3001px"/>
+      <graphic height="190px" url="thumb/0865_0016_thumb.jpg" width="86px"/>
+      <graphic height="1800px" url="web/0865_0016_web.jpg" width="817px"/>
+    </surface>
+    <surface n="49v">
+      <graphic height="6604px" url="master/0865_0017.tif" width="3001px"/>
+      <graphic height="190px" url="thumb/0865_0017_thumb.jpg" width="86px"/>
+      <graphic height="1800px" url="web/0865_0017_web.jpg" width="817px"/>
+    </surface>
+    <surface n="50r">
+      <graphic height="6604px" url="master/0865_0018.tif" width="3001px"/>
+      <graphic height="190px" url="thumb/0865_0018_thumb.jpg" width="86px"/>
+      <graphic height="1800px" url="web/0865_0018_web.jpg" width="817px"/>
+    </surface>
+    <surface n="63v">
+      <graphic height="6604px" url="master/0865_0019.tif" width="3001px"/>
+      <graphic height="190px" url="thumb/0865_0019_thumb.jpg" width="86px"/>
+      <graphic height="1800px" url="web/0865_0019_web.jpg" width="817px"/>
+    </surface>
+    <surface n="64r">
+      <graphic height="6604px" url="master/0865_0020.tif" width="3001px"/>
+      <graphic height="190px" url="thumb/0865_0020_thumb.jpg" width="86px"/>
+      <graphic height="1800px" url="web/0865_0020_web.jpg" width="817px"/>
+    </surface>
+    <surface n="64v">
+      <graphic height="6604px" url="master/0865_0021.tif" width="3001px"/>
+      <graphic height="190px" url="thumb/0865_0021_thumb.jpg" width="86px"/>
+      <graphic height="1800px" url="web/0865_0021_web.jpg" width="817px"/>
+    </surface>
+    <surface n="65r">
+      <graphic height="6604px" url="master/0865_0022.tif" width="3001px"/>
+      <graphic height="190px" url="thumb/0865_0022_thumb.jpg" width="86px"/>
+      <graphic height="1800px" url="web/0865_0022_web.jpg" width="817px"/>
+    </surface>
+    <surface n="65v">
+      <graphic height="6604px" url="master/0865_0023.tif" width="3001px"/>
+      <graphic height="190px" url="thumb/0865_0023_thumb.jpg" width="86px"/>
+      <graphic height="1800px" url="web/0865_0023_web.jpg" width="817px"/>
+    </surface>
+    <surface n="66r">
+      <graphic height="6604px" url="master/0865_0024.tif" width="3001px"/>
+      <graphic height="190px" url="thumb/0865_0024_thumb.jpg" width="86px"/>
+      <graphic height="1800px" url="web/0865_0024_web.jpg" width="817px"/>
+    </surface>
+    <surface n="72v">
+      <graphic height="6604px" url="master/0865_0025.tif" width="3001px"/>
+      <graphic height="190px" url="thumb/0865_0025_thumb.jpg" width="86px"/>
+      <graphic height="1800px" url="web/0865_0025_web.jpg" width="817px"/>
+    </surface>
+    <surface n="73r">
+      <graphic height="6604px" url="master/0865_0026.tif" width="3001px"/>
+      <graphic height="190px" url="thumb/0865_0026_thumb.jpg" width="86px"/>
+      <graphic height="1800px" url="web/0865_0026_web.jpg" width="817px"/>
+    </surface>
+    <surface n="73v">
+      <graphic height="6604px" url="master/0865_0027.tif" width="3001px"/>
+      <graphic height="190px" url="thumb/0865_0027_thumb.jpg" width="86px"/>
+      <graphic height="1800px" url="web/0865_0027_web.jpg" width="817px"/>
+    </surface>
+    <surface n="74r">
+      <graphic height="6604px" url="master/0865_0028.tif" width="3001px"/>
+      <graphic height="190px" url="thumb/0865_0028_thumb.jpg" width="86px"/>
+      <graphic height="1800px" url="web/0865_0028_web.jpg" width="817px"/>
+    </surface>
+    <surface n="74v">
+      <graphic height="6604px" url="master/0865_0029.tif" width="3001px"/>
+      <graphic height="190px" url="thumb/0865_0029_thumb.jpg" width="86px"/>
+      <graphic height="1800px" url="web/0865_0029_web.jpg" width="817px"/>
+    </surface>
+    <surface n="75r">
+      <graphic height="6604px" url="master/0865_0030.tif" width="3001px"/>
+      <graphic height="190px" url="thumb/0865_0030_thumb.jpg" width="86px"/>
+      <graphic height="1800px" url="web/0865_0030_web.jpg" width="817px"/>
+    </surface>
+    <surface n="75v">
+      <graphic height="6604px" url="master/0865_0031.tif" width="3001px"/>
+      <graphic height="190px" url="thumb/0865_0031_thumb.jpg" width="86px"/>
+      <graphic height="1800px" url="web/0865_0031_web.jpg" width="817px"/>
+    </surface>
+    <surface n="76r">
+      <graphic height="6604px" url="master/0865_0032.tif" width="3001px"/>
+      <graphic height="190px" url="thumb/0865_0032_thumb.jpg" width="86px"/>
+      <graphic height="1800px" url="web/0865_0032_web.jpg" width="817px"/>
+    </surface>
+    <surface n="76v">
+      <graphic height="6604px" url="master/0865_0033.tif" width="3001px"/>
+      <graphic height="190px" url="thumb/0865_0033_thumb.jpg" width="86px"/>
+      <graphic height="1800px" url="web/0865_0033_web.jpg" width="817px"/>
+    </surface>
+    <surface n="77r">
+      <graphic height="6604px" url="master/0865_0034.tif" width="3001px"/>
+      <graphic height="190px" url="thumb/0865_0034_thumb.jpg" width="86px"/>
+      <graphic height="1800px" url="web/0865_0034_web.jpg" width="817px"/>
+    </surface>
+    <surface n="77v">
+      <graphic height="6604px" url="master/0865_0035.tif" width="3001px"/>
+      <graphic height="190px" url="thumb/0865_0035_thumb.jpg" width="86px"/>
+      <graphic height="1800px" url="web/0865_0035_web.jpg" width="817px"/>
+    </surface>
+    <surface n="78r">
+      <graphic height="6604px" url="master/0865_0036.tif" width="3001px"/>
+      <graphic height="190px" url="thumb/0865_0036_thumb.jpg" width="86px"/>
+      <graphic height="1800px" url="web/0865_0036_web.jpg" width="817px"/>
+    </surface>
+    <surface n="78v">
+      <graphic height="6604px" url="master/0865_0037.tif" width="3001px"/>
+      <graphic height="190px" url="thumb/0865_0037_thumb.jpg" width="86px"/>
+      <graphic height="1800px" url="web/0865_0037_web.jpg" width="817px"/>
+    </surface>
+    <surface n="79r; 79v-83r">
+      <graphic height="6604px" url="master/0865_0038.tif" width="3001px"/>
+      <graphic height="190px" url="thumb/0865_0038_thumb.jpg" width="86px"/>
+      <graphic height="1800px" url="web/0865_0038_web.jpg" width="817px"/>
+    </surface>
+    <surface n="83v">
+      <graphic height="6604px" url="master/0865_0039.tif" width="3001px"/>
+      <graphic height="190px" url="thumb/0865_0039_thumb.jpg" width="86px"/>
+      <graphic height="1800px" url="web/0865_0039_web.jpg" width="817px"/>
+    </surface>
+    <surface n="84r">
+      <graphic height="6604px" url="master/0865_0040.tif" width="3001px"/>
+      <graphic height="190px" url="thumb/0865_0040_thumb.jpg" width="86px"/>
+      <graphic height="1800px" url="web/0865_0040_web.jpg" width="817px"/>
+    </surface>
+    <surface n="84v">
+      <graphic height="6604px" url="master/0865_0041.tif" width="3001px"/>
+      <graphic height="190px" url="thumb/0865_0041_thumb.jpg" width="86px"/>
+      <graphic height="1800px" url="web/0865_0041_web.jpg" width="817px"/>
+    </surface>
+    <surface n="Loose note, 1 recto">
+      <graphic height="6604px" url="master/0865_0042.tif" width="3001px"/>
+      <graphic height="190px" url="thumb/0865_0042_thumb.jpg" width="86px"/>
+      <graphic height="1800px" url="web/0865_0042_web.jpg" width="817px"/>
+    </surface>
+    <surface n="Loose note. 1 verso">
+      <graphic height="6604px" url="master/0865_0043.tif" width="3001px"/>
+      <graphic height="190px" url="thumb/0865_0043_thumb.jpg" width="86px"/>
+      <graphic height="1800px" url="web/0865_0043_web.jpg" width="817px"/>
+    </surface>
+    <surface n="Loose note, 2 recto">
+      <graphic height="6604px" url="master/0865_0044.tif" width="3001px"/>
+      <graphic height="190px" url="thumb/0865_0044_thumb.jpg" width="86px"/>
+      <graphic height="1800px" url="web/0865_0044_web.jpg" width="817px"/>
+    </surface>
+    <surface n="Loose note, 2 verso">
+      <graphic height="6604px" url="master/0865_0045.tif" width="3001px"/>
+      <graphic height="190px" url="thumb/0865_0045_thumb.jpg" width="86px"/>
+      <graphic height="1800px" url="web/0865_0045_web.jpg" width="817px"/>
+    </surface>
+    <surface n="Inside back cover">
+      <graphic height="6604px" url="master/0865_0046.tif" width="3001px"/>
+      <graphic height="190px" url="thumb/0865_0046_thumb.jpg" width="86px"/>
+      <graphic height="1800px" url="web/0865_0046_web.jpg" width="817px"/>
+    </surface>
+    <surface n="Back cover">
+      <graphic height="6604px" url="master/0865_0047.tif" width="3001px"/>
+      <graphic height="190px" url="thumb/0865_0047_thumb.jpg" width="86px"/>
+      <graphic height="1800px" url="web/0865_0047_web.jpg" width="817px"/>
+    </surface>
+    <surface n="Spine">
+      <graphic height="6604px" url="master/0865_0048.tif" width="3001px"/>
+      <graphic height="190px" url="thumb/0865_0048_thumb.jpg" width="86px"/>
+      <graphic height="1800px" url="web/0865_0048_web.jpg" width="817px"/>
+    </surface>
+  </facsimile>
+</TEI>

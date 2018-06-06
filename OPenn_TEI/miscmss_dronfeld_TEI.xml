@@ -1,0 +1,96 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Description of University of Pennsylvania Misc Mss: Miscellaneous manuscripts</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>The University of Pennsylvania Libraries</publisher>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by/4.0/legalcode">
+                                This description is ©2016 University of
+                                Pennsylvania Libraries. It is licensed under a Creative Commons
+                                Attribution License version 4.0 (CC-BY-4.0
+                                https://creativecommons.org/licenses/by/4.0/legalcode. For a
+                                description of the terms of use see the Creative Commons Deed
+                                https://creativecommons.org/licenses/by/4.0/. </licence>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/"> All
+                                referenced images and their content are free of known copyright
+                                restrictions and in the public domain. See the Creative Commons
+                                Public Domain Mark page for usage details,
+                                http://creativecommons.org/publicdomain/mark/1.0/. </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <settlement>Philadelphia</settlement>
+            <institution>University of Pennsylvania</institution>
+            <repository>Rare Book &amp; Manuscript Library</repository>
+            <idno type="call-number">Misc Mss</idno>
+            <altIdentifier type="bibid">
+              <idno>5008393</idno>
+            </altIdentifier>
+            <altIdentifier type="resource">
+              <idno>http://hdl.library.upenn.edu/1017/d/medren/5008393</idno>
+            </altIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary>Deed of manumission recording the freeing of Robert, son of Adam, of Flockton, by Edmund son of Thomas de Dronfeld. The Dronfeld family had estates at West Bretton and Flockton in Yorkshire, England. Written at West Bretton, the first Sunday after the feast of Saint Michael (2 October), 1345. Witnessed by John son of John of Dronfeld, John son of Richard de West Bretton, William son of Michael of Flockton, John son of Peter of Flockton, and John del Lathes, clerk. Wax seal on parchment tag (reattached at an early period), showing a crossbow or anchor.</summary>
+            <textLang>In Latin</textLang>
+            <msItem>
+              <title>Miscellaneous manuscripts</title>
+              <author>Dronfeld, Edmund de</author>
+              <respStmt>
+                <resp>former owner</resp>
+                <persName>Phillipps, Thomas, Sir, 1792-1872</persName>
+              </respStmt>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc material="parchment">
+                <support>
+                  <p>parchment</p>
+                </support>
+                <extent>1 74 x 210 mm. +</extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin/>
+            <provenance>Formerly owned by Sir Thomas Phillipps, ms. 29224 (inscription on verso).</provenance>
+            <provenance>Sold by Samuel Gedge Ltd. (Mundesley, England), cat. 10 (2011), no. 125.</provenance>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords n="subjects">
+          <term>Serfdom--England--History</term>
+          <term>Serfs--Emancipation--England</term>
+        </keywords>
+        <keywords n="form/genre">
+          <term>Legal documents</term>
+          <term>Seals (artifacts)</term>
+          <term>Manuscripts, Latin--14th century</term>
+          <term>Manuscripts, Medieval</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface n="Side 1">
+      <graphic height="2172px" url="master/1777_0000.tif" width="3783px"/>
+      <graphic height="109px" url="thumb/1777_0000_thumb.jpg" width="190px"/>
+      <graphic height="1033px" url="web/1777_0000_web.jpg" width="1800px"/>
+    </surface>
+    <surface n="Side 2">
+      <graphic height="2172px" url="master/1777_0001.tif" width="3783px"/>
+      <graphic height="109px" url="thumb/1777_0001_thumb.jpg" width="190px"/>
+      <graphic height="1033px" url="web/1777_0001_web.jpg" width="1800px"/>
+    </surface>
+  </facsimile>
+</TEI>

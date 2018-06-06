@@ -1,0 +1,89 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Description of University of Pennsylvania Misc Mss: Miscellaneous manuscripts</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>The University of Pennsylvania Libraries</publisher>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by/4.0/legalcode">
+                                This description is ©2016 University of
+                                Pennsylvania Libraries. It is licensed under a Creative Commons
+                                Attribution License version 4.0 (CC-BY-4.0
+                                https://creativecommons.org/licenses/by/4.0/legalcode. For a
+                                description of the terms of use see the Creative Commons Deed
+                                https://creativecommons.org/licenses/by/4.0/. </licence>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/"> All
+                                referenced images and their content are free of known copyright
+                                restrictions and in the public domain. See the Creative Commons
+                                Public Domain Mark page for usage details,
+                                http://creativecommons.org/publicdomain/mark/1.0/. </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <settlement>Philadelphia</settlement>
+            <institution>University of Pennsylvania</institution>
+            <repository>Rare Book &amp; Manuscript Library</repository>
+            <idno type="call-number">Misc Mss</idno>
+            <altIdentifier type="bibid">
+              <idno>5810177</idno>
+            </altIdentifier>
+            <altIdentifier type="resource">
+              <idno>http://hdl.library.upenn.edu/1017/d/medren/5810177</idno>
+            </altIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary>Signed contract for the sale in Guatemala of an enslaved African woman transported from Guyana, to buyer Señor Juan Durán by seller Señor Fernando Paz. Later foliation suggests that this paper leaf was removed from a volume or a bound collection of documents.</summary>
+            <textLang>In Spanish</textLang>
+            <msItem>
+              <title>Miscellaneous manuscripts</title>
+              <author>Paz, Fernando, 16th cent</author>
+              <author>Durán, Juan, 16th cent</author>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc>
+                <extent>1</extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin/>
+            <provenance>Sold at auction at Bonhams (New York), 14 Apr. 2012, lot 25.</provenance>
+            <provenance>Sold by Voyager Press Rare Books &amp; Manuscripts (West Vancouver, British Columbia), Manuscripta Americana catalog (2012).</provenance>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords n="subjects">
+          <term>Slavery--Guatemala</term>
+          <term>Slavery--Guyana</term>
+        </keywords>
+        <keywords n="form/genre">
+          <term>Contracts</term>
+          <term>Manuscripts, Spanish--16th century</term>
+          <term>Manuscripts, Renaissance</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface n="1r">
+      <graphic height="5325px" url="master/1767_0000.tif" width="3814px"/>
+      <graphic height="190px" url="thumb/1767_0000_thumb.jpg" width="136px"/>
+      <graphic height="1800px" url="web/1767_0000_web.jpg" width="1289px"/>
+    </surface>
+    <surface n="1v">
+      <graphic height="5325px" url="master/1767_0001.tif" width="3814px"/>
+      <graphic height="190px" url="thumb/1767_0001_thumb.jpg" width="136px"/>
+      <graphic height="1800px" url="web/1767_0001_web.jpg" width="1289px"/>
+    </surface>
+  </facsimile>
+</TEI>

@@ -1,0 +1,104 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Description of University of Pennsylvania Ms. Indic: Aṣṭasāhasrikā prajñāpāramitā</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>The University of Pennsylvania Libraries</publisher>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by/4.0/legalcode">
+                                This description is ©2017 University of
+                                Pennsylvania Libraries. It is licensed under a Creative Commons
+                                Attribution License version 4.0 (CC-BY-4.0
+                                https://creativecommons.org/licenses/by/4.0/legalcode. For a
+                                description of the terms of use see the Creative Commons Deed
+                                https://creativecommons.org/licenses/by/4.0/. </licence>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/"> All
+                                referenced images and their content are free of known copyright
+                                restrictions and in the public domain. See the Creative Commons
+                                Public Domain Mark page for usage details,
+                                http://creativecommons.org/publicdomain/mark/1.0/. </licence>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note>Title supplied by cataloger.</note>
+        <note>Written in 5 lines per leaf.</note>
+        <note>1 leaf.</note>
+        <note>Dated 1200-1399 based on previous appraisal.</note>
+        <note>Corrected text in margins; vertical borders indicated with triple black line surrounding three paintings.</note>
+      </notesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <settlement>Philadelphia</settlement>
+            <institution>University of Pennsylvania</institution>
+            <repository>Rare Book &amp; Manuscript Library</repository>
+            <idno type="call-number">Ms. Indic</idno>
+            <altIdentifier type="bibid">
+              <idno>6957071</idno>
+            </altIdentifier>
+            <altIdentifier type="resource">
+              <idno>http://hdl.library.upenn.edu/1017/d/medren/6957071</idno>
+            </altIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary>Manuscript is from Nepal. It is a short section taken from a treatise (sūtra) of 108 verses on Mahāyāna Buddhist wisdom. There are three painted images, with a larger, central figure, likely of the bodhisattva Avalokiteśvara and with two attendants on either side.</summary>
+            <textLang>In Sanskrit</textLang>
+            <msItem>
+              <title>Aṣṭasāhasrikā prajñāpāramitā</title>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc material="mixed">
+                <support>
+                  <p>palm leaf</p>
+                </support>
+                <extent>1 48 x 5 cm</extent>
+              </supportDesc>
+            </objectDesc>
+            <decoDesc>
+              <decoNote n="1r">Illustrations, f. 1r</decoNote>
+            </decoDesc>
+          </physDesc>
+          <history>
+            <origin/>
+            <provenance>Formerly owned by Ken Robbins (Potomac, Maryland).</provenance>
+            <provenance>Gift of Ken Robbins, 2015.</provenance>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords n="subjects">
+          <term>Wisdom--Religious aspects--Buddhism--Early works to 1800</term>
+          <term>Mahayana Buddhism--Doctrines--Early works to 1800</term>
+          <term>Bodhisattvas--Art</term>
+        </keywords>
+        <keywords n="form/genre">
+          <term>Treatises</term>
+          <term>Illuminated manuscripts</term>
+          <term>Manuscripts, Sanskrit--13th century</term>
+          <term>Manuscripts, Sanskrit--14th century</term>
+          <term>Manuscripts--Nepal--13th century</term>
+          <term>Manuscripts--Nepal--14th century</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface n="1r">
+      <graphic height="1088px" url="master/3421_0000.tif" width="8829px"/>
+      <graphic height="23px" url="thumb/3421_0000_thumb.jpg" width="190px"/>
+      <graphic height="221px" url="web/3421_0000_web.jpg" width="1800px"/>
+    </surface>
+    <surface n="1v">
+      <graphic height="1088px" url="master/3421_0001.tif" width="8829px"/>
+      <graphic height="23px" url="thumb/3421_0001_thumb.jpg" width="190px"/>
+      <graphic height="221px" url="web/3421_0001_web.jpg" width="1800px"/>
+    </surface>
+  </facsimile>
+</TEI>

@@ -1,0 +1,114 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Description of University of Pennsylvania Misc Mss: Miscellaneous manuscripts</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>The University of Pennsylvania Libraries</publisher>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by/4.0/legalcode">
+                                This description is ©2016 University of
+                                Pennsylvania Libraries. It is licensed under a Creative Commons
+                                Attribution License version 4.0 (CC-BY-4.0
+                                https://creativecommons.org/licenses/by/4.0/legalcode. For a
+                                description of the terms of use see the Creative Commons Deed
+                                https://creativecommons.org/licenses/by/4.0/. </licence>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/"> All
+                                referenced images and their content are free of known copyright
+                                restrictions and in the public domain. See the Creative Commons
+                                Public Domain Mark page for usage details,
+                                http://creativecommons.org/publicdomain/mark/1.0/. </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <settlement>Philadelphia</settlement>
+            <institution>University of Pennsylvania</institution>
+            <repository>Rare Book &amp; Manuscript Library</repository>
+            <idno type="call-number">Misc Mss</idno>
+            <altIdentifier type="bibid">
+              <idno>4435616</idno>
+            </altIdentifier>
+            <altIdentifier type="resource">
+              <idno>http://hdl.library.upenn.edu/1017/d/medren/4435616</idno>
+            </altIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary>Two documents on paper in Italian from the cardinal Carlo Carafa. The November 27, 1555 document, addressed to Scipione Rebiba, the bishop of Motula and governor of Rome, discusses the prison of the "religio Hierosolymitana," another name for the Knights of Malta, and urges Rebiba to improve the condition of the prison. Both contain wax seals and signatures and were written at the Palazzo. The April 14, 1556 document refers to the granting of a studio license in Capranica to Domenico Petreo da Montorio.</summary>
+            <textLang>In Italian</textLang>
+            <msItem>
+              <title>Miscellaneous manuscripts</title>
+              <author>Carafa, Carlo, ca. 1517-1561</author>
+              <respStmt>
+                <resp>recipient</resp>
+                <persName>Rebiba, Scipione, 1504-1577</persName>
+              </respStmt>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc>
+                <extent>2</extent>
+              </supportDesc>
+            </objectDesc>
+            <decoDesc>
+              <decoNote n="2r">Embossed seal, f. 2r</decoNote>
+            </decoDesc>
+          </physDesc>
+          <history>
+            <origin/>
+            <provenance>Sold by Libreria Antiquaria Docet (Bologna), cat. 57(March 1959), no. 180.</provenance>
+            <provenance>Purchased, 1959.</provenance>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords n="subjects">
+          <term>Knights of Malta--Italy--History</term>
+          <term>Prisons--Italy--Rome--History</term>
+        </keywords>
+        <keywords n="form/genre">
+          <term>Manuscripts, Italian--16th century</term>
+          <term>Manuscripts, Renaissance</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface n="1r">
+      <graphic height="5124px" url="master/1574_0000.tif" width="4226px"/>
+      <graphic height="190px" url="thumb/1574_0000_thumb.jpg" width="156px"/>
+      <graphic height="1800px" url="web/1574_0000_web.jpg" width="1484px"/>
+    </surface>
+    <surface n="1v">
+      <graphic height="5124px" url="master/1574_0001.tif" width="4226px"/>
+      <graphic height="190px" url="thumb/1574_0001_thumb.jpg" width="156px"/>
+      <graphic height="1800px" url="web/1574_0001_web.jpg" width="1484px"/>
+    </surface>
+    <surface n="2r">
+      <graphic height="5124px" url="master/1574_0002.tif" width="4226px"/>
+      <graphic height="190px" url="thumb/1574_0002_thumb.jpg" width="156px"/>
+      <graphic height="1800px" url="web/1574_0002_web.jpg" width="1484px"/>
+    </surface>
+    <surface n="2v">
+      <graphic height="5124px" url="master/1574_0003.tif" width="4226px"/>
+      <graphic height="190px" url="thumb/1574_0003_thumb.jpg" width="156px"/>
+      <graphic height="1800px" url="web/1574_0003_web.jpg" width="1484px"/>
+    </surface>
+    <surface n="3r">
+      <graphic height="5124px" url="master/1574_0004.tif" width="4226px"/>
+      <graphic height="190px" url="thumb/1574_0004_thumb.jpg" width="156px"/>
+      <graphic height="1800px" url="web/1574_0004_web.jpg" width="1484px"/>
+    </surface>
+    <surface n="3v">
+      <graphic height="5124px" url="master/1574_0005.tif" width="4226px"/>
+      <graphic height="190px" url="thumb/1574_0005_thumb.jpg" width="156px"/>
+      <graphic height="1800px" url="web/1574_0005_web.jpg" width="1484px"/>
+    </surface>
+  </facsimile>
+</TEI>

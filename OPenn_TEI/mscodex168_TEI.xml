@@ -1,0 +1,874 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Description of University of Pennsylvania Ms. Codex 168: Carta executoria de hidalguia a pedimiento</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>The University of Pennsylvania Libraries</publisher>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by/4.0/legalcode">
+                                This description is ©2016 University of
+                                Pennsylvania Libraries. It is licensed under a Creative Commons
+                                Attribution License version 4.0 (CC-BY-4.0
+                                https://creativecommons.org/licenses/by/4.0/legalcode. For a
+                                description of the terms of use see the Creative Commons Deed
+                                https://creativecommons.org/licenses/by/4.0/. </licence>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/"> All
+                                referenced images and their content are free of known copyright
+                                restrictions and in the public domain. See the Creative Commons
+                                Public Domain Mark page for usage details,
+                                http://creativecommons.org/publicdomain/mark/1.0/. </licence>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note>Ms. codex.</note>
+        <note>Title from colophon (f. 53r).</note>
+        <note>Notes inside upper cover: "Esegutoria de Juan Burgueño, Puebla Vecino de la Vil." Below that inscription is another reading "Esegutoria de Julian Burgueño, Puebla Vecino de la Vil"; the rest is worn and difficult to read. Description taken from Zacour-Hirsch.</note>
+      </notesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <settlement>Philadelphia</settlement>
+            <institution>University of Pennsylvania</institution>
+            <repository>Rare Book &amp; Manuscript Library</repository>
+            <idno type="call-number">Ms. Codex 168</idno>
+            <altIdentifier type="bibid">
+              <idno>1551770</idno>
+            </altIdentifier>
+            <altIdentifier type="resource">
+              <idno>http://hdl.library.upenn.edu/1017/d/medren/1551770</idno>
+            </altIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary>Carta executoria, concerning the Villa de Valaderrey and the nobility of Diego Gomez, his brother Julian (or Juan) and his sons Martin and Pedro. The document is dated 1 Aug. 1583, although it refers to earlier events in 1576 (f. 4r), and is followed by later additions from September 1583 (concluding with notarial signet, f. 53v) and August 1604, with the last one issued by "los ynquisidores contra la Heretica, Pravedad, y Apostassia en la ciudad y reino de Toledo" (f. 54v and lower pastedown). An illustration possibly of St. Martin of Tours and the focus of the later texts on Martin Gomez suggests he was the owner of this volume.</summary>
+            <textLang>Spanish</textLang>
+            <msItem>
+              <title>Carta executoria de hidalguia a pedimiento</title>
+              <author>Spain</author>
+              <respStmt>
+                <resp>former owner</resp>
+                <persName>Burgueño, Juan</persName>
+              </respStmt>
+              <respStmt>
+                <resp>former owner</resp>
+                <persName>Burgueño, Julian</persName>
+              </respStmt>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc material="parchment">
+                <support>
+                  <p>parchment</p>
+                </support>
+                <extent>54 leaves : 302 x 207 (220 x 126) mm. bound to 316 x 212 mm</extent>
+                <foliation>Parchment, 54; [ii, 1], 2-52, older foliation in ink; [1-54], modern foliation in pencil, upper right recto. References in this record are to modern foliation.</foliation>
+              </supportDesc>
+              <layoutDesc>
+                <layout>Written in 34 lines; ruled in red ink.</layout>
+              </layoutDesc>
+            </objectDesc>
+            <scriptDesc>
+              <scriptNote>Main text written in a humanistic script by a single hand, with later additions in cursive and italic scripts by multiple other hands.</scriptNote>
+            </scriptDesc>
+            <decoDesc>
+              <decoNote>Two-page painted illustration of Crucifixion with Gomez family kneeling in prayer (f. 1v-2r); full-page illuminated coat of arms (f. 2v); full-page illustration of rider in landscape receiving vision of Christ (Villa de Valaderrey? St. Martin of Tours?) (f. 3r); borders decorated with painted flowers, leaves, birds, butterflies, and snails; several uncolored ink drawings and embellishments (for example, f. 38v, 39r, 48v, 49r); 9-line painted initials throughout, some with ornamentation in black ink.</decoNote>
+              <decoNote n="1v">Miniature, Crucifixion scene with Gomez family, f. 1v</decoNote>
+              <decoNote n="2r">Miniature, Crucifixion scene with Gomez family, f. 2r</decoNote>
+              <decoNote n="2v">Illustration, Coat of arms, f. 2v</decoNote>
+              <decoNote n="3r">Miniature, Rider on horseback with vision of Christ, f. 3r</decoNote>
+              <decoNote n="3v">Decorated initial, Initial R, f. 3v</decoNote>
+              <decoNote n="3v">Inhabited border, Birds and snakes, f. 3v</decoNote>
+              <decoNote n="3v">Ink drawing, Foliate decoration with face, f. 3v</decoNote>
+              <decoNote n="4r">Inhabited border, Birds, f. 4r</decoNote>
+              <decoNote n="4r">Ink drawing, Foliate design, f. 4r</decoNote>
+              <decoNote n="4v">Inhabited border, Birds, f. 4v</decoNote>
+              <decoNote n="4v">Ink drawing, Foliate design, f. 4v</decoNote>
+              <decoNote n="5r">Inhabited border, Butterflies, f. 5r</decoNote>
+              <decoNote n="5r">Ink drawing, Foliate design, f. 5r</decoNote>
+              <decoNote n="5v">Decorated border, f. 5v</decoNote>
+              <decoNote n="5v">Ink drawing, Foliate design, f. 5v</decoNote>
+              <decoNote n="6r">Decorated border, f. 6r</decoNote>
+              <decoNote n="6r">Ink drawing, Foliate design, f. 6r</decoNote>
+              <decoNote n="6v">Decorated border, Butterflies, f. 6v</decoNote>
+              <decoNote n="6v">Ink drawing, Foliate design, f. 6v</decoNote>
+              <decoNote n="7r">Decorated border, Butterfly, f. 7r</decoNote>
+              <decoNote n="7r">Ink drawing, Foliate design, f. 7r</decoNote>
+              <decoNote n="7v">Decorated initial, Initial I, f. 7v</decoNote>
+              <decoNote n="7v">Inhabited border, Butterfly, f. 7v</decoNote>
+              <decoNote n="7v">Ink drawing, Foliate design, f. 7v</decoNote>
+              <decoNote n="8r">Inhabited border, Birds, f. 8r</decoNote>
+              <decoNote n="8r">Ink drawing, Foliate design, f. 8r</decoNote>
+              <decoNote n="8v">Inhabited border, Birds, f. 8v</decoNote>
+              <decoNote n="8v">Ink drawing, Foliate design, f. 8v</decoNote>
+              <decoNote n="9r">Decorated border, f. 9r</decoNote>
+              <decoNote n="9r">Ink drawing, Foliate design and face with wings, f. 9r</decoNote>
+              <decoNote n="9v">Decorated border, f. 9v</decoNote>
+              <decoNote n="9v">Ink drawing, Foliate design, f. 9v</decoNote>
+              <decoNote n="10r">Decorated border, f. 10r</decoNote>
+              <decoNote n="10r">Ink drawing, Foliate design, f. 10r</decoNote>
+              <decoNote n="10v">Decorated border, f. 10v</decoNote>
+              <decoNote n="11r">Inhabited border, Snakes, f. 11r</decoNote>
+              <decoNote n="11v">Inhabited border, Snake, f. 11v</decoNote>
+              <decoNote n="12r">Decorated border, f. 12r</decoNote>
+              <decoNote n="12v">Decorated border, f. 12v</decoNote>
+              <decoNote n="13r">Decorated initial, Initial A, f. 13r</decoNote>
+              <decoNote n="13r">Decorated border, f. 13r</decoNote>
+              <decoNote n="13v">Inhabited border, Butterflies, f. 13v</decoNote>
+              <decoNote n="14r">Decorated border, f. 14r</decoNote>
+              <decoNote n="14v">Decorated border, f. 14v</decoNote>
+              <decoNote n="15r">Decorated border, f. 15r</decoNote>
+              <decoNote n="15v">Decorated border, f. 15v</decoNote>
+              <decoNote n="16r">Inhabited border, Birds and butterflies, f. 16r</decoNote>
+              <decoNote n="16v">Decorated border, f. 16v</decoNote>
+              <decoNote n="17r">Decorated border, f. 17r</decoNote>
+              <decoNote n="17v">Inhabited border, Bird, f. 17v</decoNote>
+              <decoNote n="18r">Inhabited border, Snail and butterfly, f. 18r</decoNote>
+              <decoNote n="18v">Decorated border, f. 18v</decoNote>
+              <decoNote n="19r">Decorated border, f. 19r</decoNote>
+              <decoNote n="19v">Decorated initial, Initial B, f. 19v</decoNote>
+              <decoNote n="19v">Decorated border, f. 19v</decoNote>
+              <decoNote n="20r">Inhabited border, Snake, f. 20r</decoNote>
+              <decoNote n="20v">Inhabited border, Bird, f. 20v</decoNote>
+              <decoNote n="21r">Inhabited border, Butterflies, f. 21r</decoNote>
+              <decoNote n="21v">Inhabited border, Butterflies, f. 21v</decoNote>
+              <decoNote n="22r">Decorated border, f. 22r</decoNote>
+              <decoNote n="22v">Decorated border, f. 22v</decoNote>
+              <decoNote n="23r">Inhabited border, Butterflies, f. 23r</decoNote>
+              <decoNote n="23v">Decorated border, f. 23v</decoNote>
+              <decoNote n="24r">Decorated border, f. 24r</decoNote>
+              <decoNote n="24v">Inhabited border, Birds, f. 24v</decoNote>
+              <decoNote n="25r">Decorated initial, Initial J, f. 25r</decoNote>
+              <decoNote n="25r">Decorated border, f. 25r</decoNote>
+              <decoNote n="25v">Decorated border, f. 25v</decoNote>
+              <decoNote n="26r">Decorated border, f. 26r</decoNote>
+              <decoNote n="26r">Ink drawing, Foliate design, f. 26r</decoNote>
+              <decoNote n="26v">Decorated border, f. 26v</decoNote>
+              <decoNote n="26v">Ink drawing, Foliate design, f. 26v</decoNote>
+              <decoNote n="27r">Decorated border, f. 27r</decoNote>
+              <decoNote n="27r">Ink drawing, f. 27r</decoNote>
+              <decoNote n="27v">Inhabited border, Snail and butterflies, f. 27v</decoNote>
+              <decoNote n="27v">Ink drawing, Foliate design, f. 27v</decoNote>
+              <decoNote n="28r">Decorated border, f. 28r</decoNote>
+              <decoNote n="28r">Ink drawing, Foliate design, f. 28r</decoNote>
+              <decoNote n="28v">Inhabited border, Butterfly and Snake, f. 28v</decoNote>
+              <decoNote n="28v">Ink drawing, Foliate design, f. 28v</decoNote>
+              <decoNote n="29r">Decorated border, f. 29r</decoNote>
+              <decoNote n="29r">Ink drawing, Foliate design, f. 29r</decoNote>
+              <decoNote n="29v">Decorated border, f. 29v</decoNote>
+              <decoNote n="29v">Ink drawing, Foliate design with birds, f. 29v</decoNote>
+              <decoNote n="30r">Inhabited border, Butterflies, f. 30r</decoNote>
+              <decoNote n="30r">Ink drawing, Foliate design with birds, f. 30r</decoNote>
+              <decoNote n="30v">Decorated initial, Initial P, f. 30v</decoNote>
+              <decoNote n="30v">Decorated border, f. 30v</decoNote>
+              <decoNote n="30v">Ink drawing, Foliate design with birds, f. 30v</decoNote>
+              <decoNote n="31r">Decorated border, f. 31r</decoNote>
+              <decoNote n="31r">Ink drawing, Foliate design with bird, f. 31r</decoNote>
+              <decoNote n="31v">Decorated border, f. 31v</decoNote>
+              <decoNote n="31v">Ink drawing, Foliate design with bird, f. 31v</decoNote>
+              <decoNote n="32r">Decorated border, f. 32r</decoNote>
+              <decoNote n="32r">Ink drawing, Foliate design with bird, f. 32r</decoNote>
+              <decoNote n="32v">Decorated border, f. 32v</decoNote>
+              <decoNote n="32v">Ink drawing, Foliate design with snake, f. 32v</decoNote>
+              <decoNote n="33r">Decorated border, f. 33r</decoNote>
+              <decoNote n="33r">Ink drawing, Foliate design with bird, f. 33r</decoNote>
+              <decoNote n="33v">Decorated border, f. 33v</decoNote>
+              <decoNote n="33v">Ink drawing, Foliate design with porcupine, bird and grotesque, f. 33v</decoNote>
+              <decoNote n="34r">Decorated border, 34r</decoNote>
+              <decoNote n="34r">Ink drawing, Foliate design with angels, f. 34r</decoNote>
+              <decoNote n="34v">Decorated border, 34v</decoNote>
+              <decoNote n="34v">Ink drawing, Foliate design with man and bird, f. 34v</decoNote>
+              <decoNote n="35r">Decorated border, f. 35r</decoNote>
+              <decoNote n="35r">Ink drawing, Foliate design with animals and angel, f. 35r</decoNote>
+              <decoNote n="35v">Decorated border, f. 35v</decoNote>
+              <decoNote n="35v">Ink drawing, Foliate design, f. 35v</decoNote>
+              <decoNote n="36r">Decorated border, f. 36r</decoNote>
+              <decoNote n="36r">Ink drawing, Foliate design and birds, f. 36r</decoNote>
+              <decoNote n="36v">Decorated initial, Initial A, f. 36v</decoNote>
+              <decoNote n="36v">Decorated border, f. 36v</decoNote>
+              <decoNote n="36v">Ink drawing, Foliate design with birds, f. 36v</decoNote>
+              <decoNote n="37r">Decorated border, f. 37r</decoNote>
+              <decoNote n="37r">Ink drawing, Foliate design, f. 37r</decoNote>
+              <decoNote n="37v">Inhabited border, Butterflies, f. 37v</decoNote>
+              <decoNote n="37v">Ink drawing, Foliate design, f. 37v</decoNote>
+              <decoNote n="38r">Decorated border, f. 38r</decoNote>
+              <decoNote n="38r">Ink drawing, Foliate design with bird, f. 38r</decoNote>
+              <decoNote n="38v">Decorated border, f. 38v</decoNote>
+              <decoNote n="38v">Ink drawing, Foliate design with bird, f. 38v</decoNote>
+              <decoNote n="39r">Inhabited border, Birds, f. 39r</decoNote>
+              <decoNote n="39r">Ink drawing, Foliate design with bird and frog, f. 39r</decoNote>
+              <decoNote n="39v">Decorated border, f. 39v</decoNote>
+              <decoNote n="39v">Ink drawing, Foliate design, f. 39v</decoNote>
+              <decoNote n="40r">Decorated initial, Initial D, f. 40r</decoNote>
+              <decoNote n="40r">Decorated border, f. 40r</decoNote>
+              <decoNote n="40r">Ink drawing, Foliate design, f. 40r</decoNote>
+              <decoNote n="40v">Decorated border, f. 40v</decoNote>
+              <decoNote n="40v">Ink drawing, Foliate design, f. 40v</decoNote>
+              <decoNote n="41r">Decorated initial, Initial E, f. 41r</decoNote>
+              <decoNote n="41r">Decorated initial, Initial F, f. 41r</decoNote>
+              <decoNote n="41r">Inhabited border, Birds, f. 41r</decoNote>
+              <decoNote n="41r">Ink drawing, Foliate design, f. 41r</decoNote>
+              <decoNote n="41r">Manicule, f. 41r</decoNote>
+              <decoNote n="41v">Decorated border, f. 41v</decoNote>
+              <decoNote n="41v">Ink drawing, Foliate design, f. 41v</decoNote>
+              <decoNote n="42r">Decorated border, f. 42r</decoNote>
+              <decoNote n="42r">Ink drawing, Foliate design, f. 42r</decoNote>
+              <decoNote n="42v">Decorated border, f. 42v</decoNote>
+              <decoNote n="42v">Ink drawing, Foliate design, f. 42v</decoNote>
+              <decoNote n="43r">Decorated initial, Initial L, f. 43r</decoNote>
+              <decoNote n="43r">Inhabited border, Birds, f. 43r</decoNote>
+              <decoNote n="43r">Ink drawing, Foliate design, f. 43r</decoNote>
+              <decoNote n="43v">Decorated border, f. 43v</decoNote>
+              <decoNote n="43v">Ink drawing, Foliate design, f. 43v</decoNote>
+              <decoNote n="44r">Decorated border, f. 44r</decoNote>
+              <decoNote n="44r">Ink drawing, Foliate design, f. 44r</decoNote>
+              <decoNote n="44v">Decorated border, f. 44v</decoNote>
+              <decoNote n="44v">Ink drawing, Foliate design, f. 44v</decoNote>
+              <decoNote n="45r">Decorated initial, Initial E, f. 45r</decoNote>
+              <decoNote n="45r">Decorated border, f. 45r</decoNote>
+              <decoNote n="45r">Ink drawing, Foliate design, f. 45r</decoNote>
+              <decoNote n="45v">Decorated initial, Initial F, f. 45v</decoNote>
+              <decoNote n="45v">Decorated border, f. 45v</decoNote>
+              <decoNote n="45v">Ink drawing, Foliate design, f. 45v</decoNote>
+              <decoNote n="45v">Manicule, f. 45v</decoNote>
+              <decoNote n="46r">Decorated border, f. 46r</decoNote>
+              <decoNote n="46r">Ink drawing, Foliate design, f. 46r</decoNote>
+              <decoNote n="46r">Manicule, f. 46r</decoNote>
+              <decoNote n="46v">Decorated border, f. 46v</decoNote>
+              <decoNote n="46v">Ink drawing, Foliate design, f. 46v</decoNote>
+              <decoNote n="47r">Decorated border, f. 47r</decoNote>
+              <decoNote n="47r">Ink drawing, Foliate design, f. 47r</decoNote>
+              <decoNote n="47v">Decorated border, f. 47v</decoNote>
+              <decoNote n="47v">Ink drawing, Foliate design, f. 47v</decoNote>
+              <decoNote n="48r">Decorated border, f. 48r</decoNote>
+              <decoNote n="48r">Ink drawing, Foliate design, f. 48r</decoNote>
+              <decoNote n="48v">Decorated initial, Initial P, f. 48v</decoNote>
+              <decoNote n="48v">Inhabited border, Bird, f. 48v</decoNote>
+              <decoNote n="48v">Ink drawing, Foliate design with face, f. 48v</decoNote>
+              <decoNote n="49r">Decorated border, f. 49r</decoNote>
+              <decoNote n="49r">Ink drawing, Design with two figures, f. 49r</decoNote>
+              <decoNote n="49v">Decorated initial, Initial L, f. 49v</decoNote>
+              <decoNote n="49v">Decorated border, f. 49v</decoNote>
+              <decoNote n="49v">Ink drawing, Foliate design, f. 49v</decoNote>
+              <decoNote n="50r">Decorated initial, Initial F, f. 50r</decoNote>
+              <decoNote n="50r">Decorated border, f. 50r</decoNote>
+              <decoNote n="50v">Decorated initial, Initial E, f. 50v</decoNote>
+              <decoNote n="50v">Decorated border, f. 50v</decoNote>
+              <decoNote n="50v">Ink drawing, Foliate design, f. 50v</decoNote>
+              <decoNote n="51r">Decorated initial, Initial F, f. 51r</decoNote>
+              <decoNote n="51r">Decorated border, f. 51r</decoNote>
+              <decoNote n="51v">Decorated initial, Initial E, f. 51v</decoNote>
+              <decoNote n="51v">Decorated border, f. 51v</decoNote>
+              <decoNote n="52r">Decorated initial, Initial F, f. 52r</decoNote>
+              <decoNote n="52r">Decorated border, f. 52r</decoNote>
+              <decoNote n="52v">Decorated initial, Initial P, f. 52v</decoNote>
+              <decoNote n="53r">Decorated border, f. 53r</decoNote>
+              <decoNote n="53v">Decorated border, f. 53v</decoNote>
+              <decoNote n="54r">Decorated border, f. 54r</decoNote>
+              <decoNote n="54v">Decorated border, f. 54v</decoNote>
+            </decoDesc>
+            <bindingDesc>
+              <binding>
+                <p>Contemporary blind-stamped leather over wooden boards; remnants of two metal clasps. Cover damaged, especially at spine. Stains. Some damage that might be due to water or mildew. Illustrations on f. 1-3 are badly worn and damaged.</p>
+              </binding>
+            </bindingDesc>
+          </physDesc>
+          <history>
+            <origin>
+              <p>Written in Granada in 1583 (colophon, f. 53r), with a few later additions.</p>
+              <origDate>1583-1604</origDate>
+              <origPlace>Granada</origPlace>
+            </origin>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords n="subjects">
+          <term>Illumination of books and manuscripts--Specimens</term>
+          <term>Law--Spain--16th century</term>
+          <term>Nobility--Spain--Early works to 1800</term>
+          <term>Inquisition--Spain--Toledo</term>
+        </keywords>
+        <keywords n="form/genre">
+          <term>Codices</term>
+          <term>Letters patent</term>
+          <term>Illuminations</term>
+          <term>Notarial documents</term>
+          <term>Manuscripts, Spanish--16th century</term>
+          <term>Manuscripts, Renaissance</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface n="Front cover">
+      <graphic height="5455px" url="master/1886_0000.tif" width="3812px"/>
+      <graphic height="190px" url="thumb/1886_0000_thumb.jpg" width="133px"/>
+      <graphic height="1800px" url="web/1886_0000_web.jpg" width="1258px"/>
+    </surface>
+    <surface n="Inside front cover">
+      <graphic height="5455px" url="master/1886_0001.tif" width="3812px"/>
+      <graphic height="190px" url="thumb/1886_0001_thumb.jpg" width="133px"/>
+      <graphic height="1800px" url="web/1886_0001_web.jpg" width="1258px"/>
+    </surface>
+    <surface n="1r">
+      <graphic height="5455px" url="master/1886_0002.tif" width="3812px"/>
+      <graphic height="190px" url="thumb/1886_0002_thumb.jpg" width="133px"/>
+      <graphic height="1800px" url="web/1886_0002_web.jpg" width="1258px"/>
+    </surface>
+    <surface n="1v">
+      <graphic height="5455px" url="master/1886_0003.tif" width="3812px"/>
+      <graphic height="190px" url="thumb/1886_0003_thumb.jpg" width="133px"/>
+      <graphic height="1800px" url="web/1886_0003_web.jpg" width="1258px"/>
+    </surface>
+    <surface n="2r">
+      <graphic height="5455px" url="master/1886_0004.tif" width="3812px"/>
+      <graphic height="190px" url="thumb/1886_0004_thumb.jpg" width="133px"/>
+      <graphic height="1800px" url="web/1886_0004_web.jpg" width="1258px"/>
+    </surface>
+    <surface n="2v">
+      <graphic height="5455px" url="master/1886_0005.tif" width="3812px"/>
+      <graphic height="190px" url="thumb/1886_0005_thumb.jpg" width="133px"/>
+      <graphic height="1800px" url="web/1886_0005_web.jpg" width="1258px"/>
+    </surface>
+    <surface n="3r">
+      <graphic height="5455px" url="master/1886_0006.tif" width="3812px"/>
+      <graphic height="190px" url="thumb/1886_0006_thumb.jpg" width="133px"/>
+      <graphic height="1800px" url="web/1886_0006_web.jpg" width="1258px"/>
+    </surface>
+    <surface n="3v">
+      <graphic height="5455px" url="master/1886_0007.tif" width="3812px"/>
+      <graphic height="190px" url="thumb/1886_0007_thumb.jpg" width="133px"/>
+      <graphic height="1800px" url="web/1886_0007_web.jpg" width="1258px"/>
+    </surface>
+    <surface n="4r">
+      <graphic height="5455px" url="master/1886_0008.tif" width="3812px"/>
+      <graphic height="190px" url="thumb/1886_0008_thumb.jpg" width="133px"/>
+      <graphic height="1800px" url="web/1886_0008_web.jpg" width="1258px"/>
+    </surface>
+    <surface n="4v">
+      <graphic height="5455px" url="master/1886_0009.tif" width="3812px"/>
+      <graphic height="190px" url="thumb/1886_0009_thumb.jpg" width="133px"/>
+      <graphic height="1800px" url="web/1886_0009_web.jpg" width="1258px"/>
+    </surface>
+    <surface n="5r">
+      <graphic height="5455px" url="master/1886_0010.tif" width="3812px"/>
+      <graphic height="190px" url="thumb/1886_0010_thumb.jpg" width="133px"/>
+      <graphic height="1800px" url="web/1886_0010_web.jpg" width="1258px"/>
+    </surface>
+    <surface n="5v">
+      <graphic height="5455px" url="master/1886_0011.tif" width="3812px"/>
+      <graphic height="190px" url="thumb/1886_0011_thumb.jpg" width="133px"/>
+      <graphic height="1800px" url="web/1886_0011_web.jpg" width="1258px"/>
+    </surface>
+    <surface n="6r">
+      <graphic height="5455px" url="master/1886_0012.tif" width="3812px"/>
+      <graphic height="190px" url="thumb/1886_0012_thumb.jpg" width="133px"/>
+      <graphic height="1800px" url="web/1886_0012_web.jpg" width="1258px"/>
+    </surface>
+    <surface n="6v">
+      <graphic height="5455px" url="master/1886_0013.tif" width="3812px"/>
+      <graphic height="190px" url="thumb/1886_0013_thumb.jpg" width="133px"/>
+      <graphic height="1800px" url="web/1886_0013_web.jpg" width="1258px"/>
+    </surface>
+    <surface n="7r">
+      <graphic height="5455px" url="master/1886_0014.tif" width="3812px"/>
+      <graphic height="190px" url="thumb/1886_0014_thumb.jpg" width="133px"/>
+      <graphic height="1800px" url="web/1886_0014_web.jpg" width="1258px"/>
+    </surface>
+    <surface n="7v">
+      <graphic height="5455px" url="master/1886_0015.tif" width="3812px"/>
+      <graphic height="190px" url="thumb/1886_0015_thumb.jpg" width="133px"/>
+      <graphic height="1800px" url="web/1886_0015_web.jpg" width="1258px"/>
+    </surface>
+    <surface n="8r">
+      <graphic height="5455px" url="master/1886_0016.tif" width="3812px"/>
+      <graphic height="190px" url="thumb/1886_0016_thumb.jpg" width="133px"/>
+      <graphic height="1800px" url="web/1886_0016_web.jpg" width="1258px"/>
+    </surface>
+    <surface n="8v">
+      <graphic height="5455px" url="master/1886_0017.tif" width="3812px"/>
+      <graphic height="190px" url="thumb/1886_0017_thumb.jpg" width="133px"/>
+      <graphic height="1800px" url="web/1886_0017_web.jpg" width="1258px"/>
+    </surface>
+    <surface n="9r">
+      <graphic height="5455px" url="master/1886_0018.tif" width="3812px"/>
+      <graphic height="190px" url="thumb/1886_0018_thumb.jpg" width="133px"/>
+      <graphic height="1800px" url="web/1886_0018_web.jpg" width="1258px"/>
+    </surface>
+    <surface n="9v">
+      <graphic height="5455px" url="master/1886_0019.tif" width="3812px"/>
+      <graphic height="190px" url="thumb/1886_0019_thumb.jpg" width="133px"/>
+      <graphic height="1800px" url="web/1886_0019_web.jpg" width="1258px"/>
+    </surface>
+    <surface n="10r">
+      <graphic height="5455px" url="master/1886_0020.tif" width="3812px"/>
+      <graphic height="190px" url="thumb/1886_0020_thumb.jpg" width="133px"/>
+      <graphic height="1800px" url="web/1886_0020_web.jpg" width="1258px"/>
+    </surface>
+    <surface n="10v">
+      <graphic height="5455px" url="master/1886_0021.tif" width="3812px"/>
+      <graphic height="190px" url="thumb/1886_0021_thumb.jpg" width="133px"/>
+      <graphic height="1800px" url="web/1886_0021_web.jpg" width="1258px"/>
+    </surface>
+    <surface n="11r">
+      <graphic height="5455px" url="master/1886_0022.tif" width="3812px"/>
+      <graphic height="190px" url="thumb/1886_0022_thumb.jpg" width="133px"/>
+      <graphic height="1800px" url="web/1886_0022_web.jpg" width="1258px"/>
+    </surface>
+    <surface n="11v">
+      <graphic height="5455px" url="master/1886_0023.tif" width="3812px"/>
+      <graphic height="190px" url="thumb/1886_0023_thumb.jpg" width="133px"/>
+      <graphic height="1800px" url="web/1886_0023_web.jpg" width="1258px"/>
+    </surface>
+    <surface n="12r">
+      <graphic height="5455px" url="master/1886_0024.tif" width="3812px"/>
+      <graphic height="190px" url="thumb/1886_0024_thumb.jpg" width="133px"/>
+      <graphic height="1800px" url="web/1886_0024_web.jpg" width="1258px"/>
+    </surface>
+    <surface n="12v">
+      <graphic height="5455px" url="master/1886_0025.tif" width="3812px"/>
+      <graphic height="190px" url="thumb/1886_0025_thumb.jpg" width="133px"/>
+      <graphic height="1800px" url="web/1886_0025_web.jpg" width="1258px"/>
+    </surface>
+    <surface n="13r">
+      <graphic height="5455px" url="master/1886_0026.tif" width="3812px"/>
+      <graphic height="190px" url="thumb/1886_0026_thumb.jpg" width="133px"/>
+      <graphic height="1800px" url="web/1886_0026_web.jpg" width="1258px"/>
+    </surface>
+    <surface n="13v">
+      <graphic height="5455px" url="master/1886_0027.tif" width="3812px"/>
+      <graphic height="190px" url="thumb/1886_0027_thumb.jpg" width="133px"/>
+      <graphic height="1800px" url="web/1886_0027_web.jpg" width="1258px"/>
+    </surface>
+    <surface n="14r">
+      <graphic height="5455px" url="master/1886_0028.tif" width="3812px"/>
+      <graphic height="190px" url="thumb/1886_0028_thumb.jpg" width="133px"/>
+      <graphic height="1800px" url="web/1886_0028_web.jpg" width="1258px"/>
+    </surface>
+    <surface n="14v">
+      <graphic height="5455px" url="master/1886_0029.tif" width="3812px"/>
+      <graphic height="190px" url="thumb/1886_0029_thumb.jpg" width="133px"/>
+      <graphic height="1800px" url="web/1886_0029_web.jpg" width="1258px"/>
+    </surface>
+    <surface n="15r">
+      <graphic height="5455px" url="master/1886_0030.tif" width="3812px"/>
+      <graphic height="190px" url="thumb/1886_0030_thumb.jpg" width="133px"/>
+      <graphic height="1800px" url="web/1886_0030_web.jpg" width="1258px"/>
+    </surface>
+    <surface n="15v">
+      <graphic height="5455px" url="master/1886_0031.tif" width="3812px"/>
+      <graphic height="190px" url="thumb/1886_0031_thumb.jpg" width="133px"/>
+      <graphic height="1800px" url="web/1886_0031_web.jpg" width="1258px"/>
+    </surface>
+    <surface n="16r">
+      <graphic height="5455px" url="master/1886_0032.tif" width="3812px"/>
+      <graphic height="190px" url="thumb/1886_0032_thumb.jpg" width="133px"/>
+      <graphic height="1800px" url="web/1886_0032_web.jpg" width="1258px"/>
+    </surface>
+    <surface n="16v">
+      <graphic height="5455px" url="master/1886_0033.tif" width="3812px"/>
+      <graphic height="190px" url="thumb/1886_0033_thumb.jpg" width="133px"/>
+      <graphic height="1800px" url="web/1886_0033_web.jpg" width="1258px"/>
+    </surface>
+    <surface n="17r">
+      <graphic height="5455px" url="master/1886_0034.tif" width="3812px"/>
+      <graphic height="190px" url="thumb/1886_0034_thumb.jpg" width="133px"/>
+      <graphic height="1800px" url="web/1886_0034_web.jpg" width="1258px"/>
+    </surface>
+    <surface n="17v">
+      <graphic height="5455px" url="master/1886_0035.tif" width="3812px"/>
+      <graphic height="190px" url="thumb/1886_0035_thumb.jpg" width="133px"/>
+      <graphic height="1800px" url="web/1886_0035_web.jpg" width="1258px"/>
+    </surface>
+    <surface n="18r">
+      <graphic height="5455px" url="master/1886_0036.tif" width="3812px"/>
+      <graphic height="190px" url="thumb/1886_0036_thumb.jpg" width="133px"/>
+      <graphic height="1800px" url="web/1886_0036_web.jpg" width="1258px"/>
+    </surface>
+    <surface n="18v">
+      <graphic height="5455px" url="master/1886_0037.tif" width="3812px"/>
+      <graphic height="190px" url="thumb/1886_0037_thumb.jpg" width="133px"/>
+      <graphic height="1800px" url="web/1886_0037_web.jpg" width="1258px"/>
+    </surface>
+    <surface n="19r">
+      <graphic height="5455px" url="master/1886_0038.tif" width="3812px"/>
+      <graphic height="190px" url="thumb/1886_0038_thumb.jpg" width="133px"/>
+      <graphic height="1800px" url="web/1886_0038_web.jpg" width="1258px"/>
+    </surface>
+    <surface n="19v">
+      <graphic height="5455px" url="master/1886_0039.tif" width="3812px"/>
+      <graphic height="190px" url="thumb/1886_0039_thumb.jpg" width="133px"/>
+      <graphic height="1800px" url="web/1886_0039_web.jpg" width="1258px"/>
+    </surface>
+    <surface n="20r">
+      <graphic height="5455px" url="master/1886_0040.tif" width="3812px"/>
+      <graphic height="190px" url="thumb/1886_0040_thumb.jpg" width="133px"/>
+      <graphic height="1800px" url="web/1886_0040_web.jpg" width="1258px"/>
+    </surface>
+    <surface n="20v">
+      <graphic height="5455px" url="master/1886_0041.tif" width="3812px"/>
+      <graphic height="190px" url="thumb/1886_0041_thumb.jpg" width="133px"/>
+      <graphic height="1800px" url="web/1886_0041_web.jpg" width="1258px"/>
+    </surface>
+    <surface n="21r">
+      <graphic height="5455px" url="master/1886_0042.tif" width="3812px"/>
+      <graphic height="190px" url="thumb/1886_0042_thumb.jpg" width="133px"/>
+      <graphic height="1800px" url="web/1886_0042_web.jpg" width="1258px"/>
+    </surface>
+    <surface n="21v">
+      <graphic height="5455px" url="master/1886_0043.tif" width="3812px"/>
+      <graphic height="190px" url="thumb/1886_0043_thumb.jpg" width="133px"/>
+      <graphic height="1800px" url="web/1886_0043_web.jpg" width="1258px"/>
+    </surface>
+    <surface n="22r">
+      <graphic height="5455px" url="master/1886_0044.tif" width="3812px"/>
+      <graphic height="190px" url="thumb/1886_0044_thumb.jpg" width="133px"/>
+      <graphic height="1800px" url="web/1886_0044_web.jpg" width="1258px"/>
+    </surface>
+    <surface n="22v">
+      <graphic height="5455px" url="master/1886_0045.tif" width="3812px"/>
+      <graphic height="190px" url="thumb/1886_0045_thumb.jpg" width="133px"/>
+      <graphic height="1800px" url="web/1886_0045_web.jpg" width="1258px"/>
+    </surface>
+    <surface n="23r">
+      <graphic height="5455px" url="master/1886_0046.tif" width="3812px"/>
+      <graphic height="190px" url="thumb/1886_0046_thumb.jpg" width="133px"/>
+      <graphic height="1800px" url="web/1886_0046_web.jpg" width="1258px"/>
+    </surface>
+    <surface n="23v">
+      <graphic height="5455px" url="master/1886_0047.tif" width="3812px"/>
+      <graphic height="190px" url="thumb/1886_0047_thumb.jpg" width="133px"/>
+      <graphic height="1800px" url="web/1886_0047_web.jpg" width="1258px"/>
+    </surface>
+    <surface n="24r">
+      <graphic height="5455px" url="master/1886_0048.tif" width="3812px"/>
+      <graphic height="190px" url="thumb/1886_0048_thumb.jpg" width="133px"/>
+      <graphic height="1800px" url="web/1886_0048_web.jpg" width="1258px"/>
+    </surface>
+    <surface n="24v">
+      <graphic height="5455px" url="master/1886_0049.tif" width="3812px"/>
+      <graphic height="190px" url="thumb/1886_0049_thumb.jpg" width="133px"/>
+      <graphic height="1800px" url="web/1886_0049_web.jpg" width="1258px"/>
+    </surface>
+    <surface n="25r">
+      <graphic height="5455px" url="master/1886_0050.tif" width="3812px"/>
+      <graphic height="190px" url="thumb/1886_0050_thumb.jpg" width="133px"/>
+      <graphic height="1800px" url="web/1886_0050_web.jpg" width="1258px"/>
+    </surface>
+    <surface n="25v">
+      <graphic height="5455px" url="master/1886_0051.tif" width="3812px"/>
+      <graphic height="190px" url="thumb/1886_0051_thumb.jpg" width="133px"/>
+      <graphic height="1800px" url="web/1886_0051_web.jpg" width="1258px"/>
+    </surface>
+    <surface n="26r">
+      <graphic height="5455px" url="master/1886_0052.tif" width="3812px"/>
+      <graphic height="190px" url="thumb/1886_0052_thumb.jpg" width="133px"/>
+      <graphic height="1800px" url="web/1886_0052_web.jpg" width="1258px"/>
+    </surface>
+    <surface n="26v">
+      <graphic height="5455px" url="master/1886_0053.tif" width="3812px"/>
+      <graphic height="190px" url="thumb/1886_0053_thumb.jpg" width="133px"/>
+      <graphic height="1800px" url="web/1886_0053_web.jpg" width="1258px"/>
+    </surface>
+    <surface n="27r">
+      <graphic height="5455px" url="master/1886_0054.tif" width="3812px"/>
+      <graphic height="190px" url="thumb/1886_0054_thumb.jpg" width="133px"/>
+      <graphic height="1800px" url="web/1886_0054_web.jpg" width="1258px"/>
+    </surface>
+    <surface n="27v">
+      <graphic height="5455px" url="master/1886_0055.tif" width="3812px"/>
+      <graphic height="190px" url="thumb/1886_0055_thumb.jpg" width="133px"/>
+      <graphic height="1800px" url="web/1886_0055_web.jpg" width="1258px"/>
+    </surface>
+    <surface n="28r">
+      <graphic height="5455px" url="master/1886_0056.tif" width="3812px"/>
+      <graphic height="190px" url="thumb/1886_0056_thumb.jpg" width="133px"/>
+      <graphic height="1800px" url="web/1886_0056_web.jpg" width="1258px"/>
+    </surface>
+    <surface n="28v">
+      <graphic height="5455px" url="master/1886_0057.tif" width="3812px"/>
+      <graphic height="190px" url="thumb/1886_0057_thumb.jpg" width="133px"/>
+      <graphic height="1800px" url="web/1886_0057_web.jpg" width="1258px"/>
+    </surface>
+    <surface n="29r">
+      <graphic height="5455px" url="master/1886_0058.tif" width="3812px"/>
+      <graphic height="190px" url="thumb/1886_0058_thumb.jpg" width="133px"/>
+      <graphic height="1800px" url="web/1886_0058_web.jpg" width="1258px"/>
+    </surface>
+    <surface n="29v">
+      <graphic height="5455px" url="master/1886_0059.tif" width="3812px"/>
+      <graphic height="190px" url="thumb/1886_0059_thumb.jpg" width="133px"/>
+      <graphic height="1800px" url="web/1886_0059_web.jpg" width="1258px"/>
+    </surface>
+    <surface n="30r">
+      <graphic height="5455px" url="master/1886_0060.tif" width="3812px"/>
+      <graphic height="190px" url="thumb/1886_0060_thumb.jpg" width="133px"/>
+      <graphic height="1800px" url="web/1886_0060_web.jpg" width="1258px"/>
+    </surface>
+    <surface n="30v">
+      <graphic height="5455px" url="master/1886_0061.tif" width="3812px"/>
+      <graphic height="190px" url="thumb/1886_0061_thumb.jpg" width="133px"/>
+      <graphic height="1800px" url="web/1886_0061_web.jpg" width="1258px"/>
+    </surface>
+    <surface n="31r">
+      <graphic height="5455px" url="master/1886_0062.tif" width="3812px"/>
+      <graphic height="190px" url="thumb/1886_0062_thumb.jpg" width="133px"/>
+      <graphic height="1800px" url="web/1886_0062_web.jpg" width="1258px"/>
+    </surface>
+    <surface n="31v">
+      <graphic height="5455px" url="master/1886_0063.tif" width="3812px"/>
+      <graphic height="190px" url="thumb/1886_0063_thumb.jpg" width="133px"/>
+      <graphic height="1800px" url="web/1886_0063_web.jpg" width="1258px"/>
+    </surface>
+    <surface n="32r">
+      <graphic height="5455px" url="master/1886_0064.tif" width="3812px"/>
+      <graphic height="190px" url="thumb/1886_0064_thumb.jpg" width="133px"/>
+      <graphic height="1800px" url="web/1886_0064_web.jpg" width="1258px"/>
+    </surface>
+    <surface n="32v">
+      <graphic height="5455px" url="master/1886_0065.tif" width="3812px"/>
+      <graphic height="190px" url="thumb/1886_0065_thumb.jpg" width="133px"/>
+      <graphic height="1800px" url="web/1886_0065_web.jpg" width="1258px"/>
+    </surface>
+    <surface n="33r">
+      <graphic height="5455px" url="master/1886_0066.tif" width="3812px"/>
+      <graphic height="190px" url="thumb/1886_0066_thumb.jpg" width="133px"/>
+      <graphic height="1800px" url="web/1886_0066_web.jpg" width="1258px"/>
+    </surface>
+    <surface n="33v">
+      <graphic height="5455px" url="master/1886_0067.tif" width="3812px"/>
+      <graphic height="190px" url="thumb/1886_0067_thumb.jpg" width="133px"/>
+      <graphic height="1800px" url="web/1886_0067_web.jpg" width="1258px"/>
+    </surface>
+    <surface n="34r">
+      <graphic height="5455px" url="master/1886_0068.tif" width="3812px"/>
+      <graphic height="190px" url="thumb/1886_0068_thumb.jpg" width="133px"/>
+      <graphic height="1800px" url="web/1886_0068_web.jpg" width="1258px"/>
+    </surface>
+    <surface n="34v">
+      <graphic height="5455px" url="master/1886_0069.tif" width="3812px"/>
+      <graphic height="190px" url="thumb/1886_0069_thumb.jpg" width="133px"/>
+      <graphic height="1800px" url="web/1886_0069_web.jpg" width="1258px"/>
+    </surface>
+    <surface n="35r">
+      <graphic height="5455px" url="master/1886_0070.tif" width="3812px"/>
+      <graphic height="190px" url="thumb/1886_0070_thumb.jpg" width="133px"/>
+      <graphic height="1800px" url="web/1886_0070_web.jpg" width="1258px"/>
+    </surface>
+    <surface n="35v">
+      <graphic height="5455px" url="master/1886_0071.tif" width="3812px"/>
+      <graphic height="190px" url="thumb/1886_0071_thumb.jpg" width="133px"/>
+      <graphic height="1800px" url="web/1886_0071_web.jpg" width="1258px"/>
+    </surface>
+    <surface n="36r">
+      <graphic height="5455px" url="master/1886_0072.tif" width="3812px"/>
+      <graphic height="190px" url="thumb/1886_0072_thumb.jpg" width="133px"/>
+      <graphic height="1800px" url="web/1886_0072_web.jpg" width="1258px"/>
+    </surface>
+    <surface n="36v">
+      <graphic height="5455px" url="master/1886_0073.tif" width="3812px"/>
+      <graphic height="190px" url="thumb/1886_0073_thumb.jpg" width="133px"/>
+      <graphic height="1800px" url="web/1886_0073_web.jpg" width="1258px"/>
+    </surface>
+    <surface n="37r">
+      <graphic height="5455px" url="master/1886_0074.tif" width="3812px"/>
+      <graphic height="190px" url="thumb/1886_0074_thumb.jpg" width="133px"/>
+      <graphic height="1800px" url="web/1886_0074_web.jpg" width="1258px"/>
+    </surface>
+    <surface n="37v">
+      <graphic height="5455px" url="master/1886_0075.tif" width="3812px"/>
+      <graphic height="190px" url="thumb/1886_0075_thumb.jpg" width="133px"/>
+      <graphic height="1800px" url="web/1886_0075_web.jpg" width="1258px"/>
+    </surface>
+    <surface n="38r">
+      <graphic height="5455px" url="master/1886_0076.tif" width="3812px"/>
+      <graphic height="190px" url="thumb/1886_0076_thumb.jpg" width="133px"/>
+      <graphic height="1800px" url="web/1886_0076_web.jpg" width="1258px"/>
+    </surface>
+    <surface n="38v">
+      <graphic height="5455px" url="master/1886_0077.tif" width="3812px"/>
+      <graphic height="190px" url="thumb/1886_0077_thumb.jpg" width="133px"/>
+      <graphic height="1800px" url="web/1886_0077_web.jpg" width="1258px"/>
+    </surface>
+    <surface n="39r">
+      <graphic height="5455px" url="master/1886_0078.tif" width="3812px"/>
+      <graphic height="190px" url="thumb/1886_0078_thumb.jpg" width="133px"/>
+      <graphic height="1800px" url="web/1886_0078_web.jpg" width="1258px"/>
+    </surface>
+    <surface n="39v">
+      <graphic height="5455px" url="master/1886_0079.tif" width="3812px"/>
+      <graphic height="190px" url="thumb/1886_0079_thumb.jpg" width="133px"/>
+      <graphic height="1800px" url="web/1886_0079_web.jpg" width="1258px"/>
+    </surface>
+    <surface n="40r">
+      <graphic height="5455px" url="master/1886_0080.tif" width="3812px"/>
+      <graphic height="190px" url="thumb/1886_0080_thumb.jpg" width="133px"/>
+      <graphic height="1800px" url="web/1886_0080_web.jpg" width="1258px"/>
+    </surface>
+    <surface n="40v">
+      <graphic height="5455px" url="master/1886_0081.tif" width="3812px"/>
+      <graphic height="190px" url="thumb/1886_0081_thumb.jpg" width="133px"/>
+      <graphic height="1800px" url="web/1886_0081_web.jpg" width="1258px"/>
+    </surface>
+    <surface n="41r">
+      <graphic height="5455px" url="master/1886_0082.tif" width="3812px"/>
+      <graphic height="190px" url="thumb/1886_0082_thumb.jpg" width="133px"/>
+      <graphic height="1800px" url="web/1886_0082_web.jpg" width="1258px"/>
+    </surface>
+    <surface n="41v">
+      <graphic height="5455px" url="master/1886_0083.tif" width="3812px"/>
+      <graphic height="190px" url="thumb/1886_0083_thumb.jpg" width="133px"/>
+      <graphic height="1800px" url="web/1886_0083_web.jpg" width="1258px"/>
+    </surface>
+    <surface n="42r">
+      <graphic height="5455px" url="master/1886_0084.tif" width="3812px"/>
+      <graphic height="190px" url="thumb/1886_0084_thumb.jpg" width="133px"/>
+      <graphic height="1800px" url="web/1886_0084_web.jpg" width="1258px"/>
+    </surface>
+    <surface n="42v">
+      <graphic height="5455px" url="master/1886_0085.tif" width="3812px"/>
+      <graphic height="190px" url="thumb/1886_0085_thumb.jpg" width="133px"/>
+      <graphic height="1800px" url="web/1886_0085_web.jpg" width="1258px"/>
+    </surface>
+    <surface n="43r">
+      <graphic height="5455px" url="master/1886_0086.tif" width="3812px"/>
+      <graphic height="190px" url="thumb/1886_0086_thumb.jpg" width="133px"/>
+      <graphic height="1800px" url="web/1886_0086_web.jpg" width="1258px"/>
+    </surface>
+    <surface n="43v">
+      <graphic height="5455px" url="master/1886_0087.tif" width="3812px"/>
+      <graphic height="190px" url="thumb/1886_0087_thumb.jpg" width="133px"/>
+      <graphic height="1800px" url="web/1886_0087_web.jpg" width="1258px"/>
+    </surface>
+    <surface n="44r">
+      <graphic height="5455px" url="master/1886_0088.tif" width="3812px"/>
+      <graphic height="190px" url="thumb/1886_0088_thumb.jpg" width="133px"/>
+      <graphic height="1800px" url="web/1886_0088_web.jpg" width="1258px"/>
+    </surface>
+    <surface n="44v">
+      <graphic height="5455px" url="master/1886_0089.tif" width="3812px"/>
+      <graphic height="190px" url="thumb/1886_0089_thumb.jpg" width="133px"/>
+      <graphic height="1800px" url="web/1886_0089_web.jpg" width="1258px"/>
+    </surface>
+    <surface n="45r">
+      <graphic height="5455px" url="master/1886_0090.tif" width="3812px"/>
+      <graphic height="190px" url="thumb/1886_0090_thumb.jpg" width="133px"/>
+      <graphic height="1800px" url="web/1886_0090_web.jpg" width="1258px"/>
+    </surface>
+    <surface n="45v">
+      <graphic height="5455px" url="master/1886_0091.tif" width="3812px"/>
+      <graphic height="190px" url="thumb/1886_0091_thumb.jpg" width="133px"/>
+      <graphic height="1800px" url="web/1886_0091_web.jpg" width="1258px"/>
+    </surface>
+    <surface n="46r">
+      <graphic height="5455px" url="master/1886_0092.tif" width="3812px"/>
+      <graphic height="190px" url="thumb/1886_0092_thumb.jpg" width="133px"/>
+      <graphic height="1800px" url="web/1886_0092_web.jpg" width="1258px"/>
+    </surface>
+    <surface n="46v">
+      <graphic height="5455px" url="master/1886_0093.tif" width="3812px"/>
+      <graphic height="190px" url="thumb/1886_0093_thumb.jpg" width="133px"/>
+      <graphic height="1800px" url="web/1886_0093_web.jpg" width="1258px"/>
+    </surface>
+    <surface n="47r">
+      <graphic height="5455px" url="master/1886_0094.tif" width="3812px"/>
+      <graphic height="190px" url="thumb/1886_0094_thumb.jpg" width="133px"/>
+      <graphic height="1800px" url="web/1886_0094_web.jpg" width="1258px"/>
+    </surface>
+    <surface n="47v">
+      <graphic height="5455px" url="master/1886_0095.tif" width="3812px"/>
+      <graphic height="190px" url="thumb/1886_0095_thumb.jpg" width="133px"/>
+      <graphic height="1800px" url="web/1886_0095_web.jpg" width="1258px"/>
+    </surface>
+    <surface n="48r">
+      <graphic height="5455px" url="master/1886_0096.tif" width="3812px"/>
+      <graphic height="190px" url="thumb/1886_0096_thumb.jpg" width="133px"/>
+      <graphic height="1800px" url="web/1886_0096_web.jpg" width="1258px"/>
+    </surface>
+    <surface n="48v">
+      <graphic height="5455px" url="master/1886_0097.tif" width="3812px"/>
+      <graphic height="190px" url="thumb/1886_0097_thumb.jpg" width="133px"/>
+      <graphic height="1800px" url="web/1886_0097_web.jpg" width="1258px"/>
+    </surface>
+    <surface n="49r">
+      <graphic height="5455px" url="master/1886_0098.tif" width="3812px"/>
+      <graphic height="190px" url="thumb/1886_0098_thumb.jpg" width="133px"/>
+      <graphic height="1800px" url="web/1886_0098_web.jpg" width="1258px"/>
+    </surface>
+    <surface n="49v">
+      <graphic height="5455px" url="master/1886_0099.tif" width="3812px"/>
+      <graphic height="190px" url="thumb/1886_0099_thumb.jpg" width="133px"/>
+      <graphic height="1800px" url="web/1886_0099_web.jpg" width="1258px"/>
+    </surface>
+    <surface n="50r">
+      <graphic height="5455px" url="master/1886_0100.tif" width="3812px"/>
+      <graphic height="190px" url="thumb/1886_0100_thumb.jpg" width="133px"/>
+      <graphic height="1800px" url="web/1886_0100_web.jpg" width="1258px"/>
+    </surface>
+    <surface n="50v">
+      <graphic height="5455px" url="master/1886_0101.tif" width="3812px"/>
+      <graphic height="190px" url="thumb/1886_0101_thumb.jpg" width="133px"/>
+      <graphic height="1800px" url="web/1886_0101_web.jpg" width="1258px"/>
+    </surface>
+    <surface n="51r">
+      <graphic height="5455px" url="master/1886_0102.tif" width="3812px"/>
+      <graphic height="190px" url="thumb/1886_0102_thumb.jpg" width="133px"/>
+      <graphic height="1800px" url="web/1886_0102_web.jpg" width="1258px"/>
+    </surface>
+    <surface n="51v">
+      <graphic height="5455px" url="master/1886_0103.tif" width="3812px"/>
+      <graphic height="190px" url="thumb/1886_0103_thumb.jpg" width="133px"/>
+      <graphic height="1800px" url="web/1886_0103_web.jpg" width="1258px"/>
+    </surface>
+    <surface n="52r">
+      <graphic height="5455px" url="master/1886_0104.tif" width="3812px"/>
+      <graphic height="190px" url="thumb/1886_0104_thumb.jpg" width="133px"/>
+      <graphic height="1800px" url="web/1886_0104_web.jpg" width="1258px"/>
+    </surface>
+    <surface n="52v">
+      <graphic height="5455px" url="master/1886_0105.tif" width="3812px"/>
+      <graphic height="190px" url="thumb/1886_0105_thumb.jpg" width="133px"/>
+      <graphic height="1800px" url="web/1886_0105_web.jpg" width="1258px"/>
+    </surface>
+    <surface n="53r">
+      <graphic height="5455px" url="master/1886_0106.tif" width="3812px"/>
+      <graphic height="190px" url="thumb/1886_0106_thumb.jpg" width="133px"/>
+      <graphic height="1800px" url="web/1886_0106_web.jpg" width="1258px"/>
+    </surface>
+    <surface n="53v">
+      <graphic height="5455px" url="master/1886_0107.tif" width="3812px"/>
+      <graphic height="190px" url="thumb/1886_0107_thumb.jpg" width="133px"/>
+      <graphic height="1800px" url="web/1886_0107_web.jpg" width="1258px"/>
+    </surface>
+    <surface n="54r">
+      <graphic height="5455px" url="master/1886_0108.tif" width="3812px"/>
+      <graphic height="190px" url="thumb/1886_0108_thumb.jpg" width="133px"/>
+      <graphic height="1800px" url="web/1886_0108_web.jpg" width="1258px"/>
+    </surface>
+    <surface n="54v">
+      <graphic height="5455px" url="master/1886_0109.tif" width="3812px"/>
+      <graphic height="190px" url="thumb/1886_0109_thumb.jpg" width="133px"/>
+      <graphic height="1800px" url="web/1886_0109_web.jpg" width="1258px"/>
+    </surface>
+    <surface n="Inside back cover">
+      <graphic height="5455px" url="master/1886_0110.tif" width="3812px"/>
+      <graphic height="190px" url="thumb/1886_0110_thumb.jpg" width="133px"/>
+      <graphic height="1800px" url="web/1886_0110_web.jpg" width="1258px"/>
+    </surface>
+    <surface n="Back cover">
+      <graphic height="5455px" url="master/1886_0111.tif" width="3812px"/>
+      <graphic height="190px" url="thumb/1886_0111_thumb.jpg" width="133px"/>
+      <graphic height="1800px" url="web/1886_0111_web.jpg" width="1258px"/>
+    </surface>
+    <surface n="Spine">
+      <graphic height="5455px" url="master/1886_0112.tif" width="3812px"/>
+      <graphic height="190px" url="thumb/1886_0112_thumb.jpg" width="133px"/>
+      <graphic height="1800px" url="web/1886_0112_web.jpg" width="1258px"/>
+    </surface>
+  </facsimile>
+</TEI>

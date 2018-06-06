@@ -1,0 +1,632 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Description of University of Pennsylvania Ms. Coll. 197: Acciaiuoli family correspondence</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>The University of Pennsylvania Libraries</publisher>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by/4.0/legalcode">
+                                This description is ©2015 University of
+                                Pennsylvania Libraries. It is licensed under a Creative Commons
+                                Attribution License version 4.0 (CC-BY-4.0
+                                https://creativecommons.org/licenses/by/4.0/legalcode. For a
+                                description of the terms of use see the Creative Commons Deed
+                                https://creativecommons.org/licenses/by/4.0/. </licence>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/"> All
+                                referenced images and their content are free of known copyright
+                                restrictions and in the public domain. See the Creative Commons
+                                Public Domain Mark page for usage details,
+                                http://creativecommons.org/publicdomain/mark/1.0/. </licence>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note>Written on various sizes of paper, some with remainders of seals.</note>
+        <note>Water damage to some items.</note>
+      </notesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <settlement>Philadelphia</settlement>
+            <institution>University of Pennsylvania</institution>
+            <repository>Rare Book &amp; Manuscript Library</repository>
+            <idno type="call-number">Ms. Coll. 197</idno>
+            <altIdentifier type="bibid">
+              <idno>2486637</idno>
+            </altIdentifier>
+            <altIdentifier type="resource">
+              <idno>http://hdl.library.upenn.edu/1017/d/medren/2486637</idno>
+            </altIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary>Correspondence of several generations of the Acciaiuoli family of Florence, concerning church and secular politics as well as family affairs. Numerous letters show their strong relationship with the Papal States and with the Medici family, as well as with some other powerful aristocrats in Florence, Naples, and Ascoli.</summary>
+            <textLang mainLang="ita" otherLangs="lat">In Italian, with some letters to Donato Acciaiuoli in Latin</textLang>
+            <msItem>
+              <title>Acciaiuoli family correspondence</title>
+              <author>Acciaiuoli family</author>
+              <author>Acciaiuoli, Niccolò, 1310-1365</author>
+              <author>Acciaiuoli, Niccolò</author>
+              <author>Acciaiuoli, Donato</author>
+              <author>Acciaiuoli, Jacopo di Donato</author>
+              <author>Acciaiuoli, Giovanni</author>
+              <author>Medici, Alessandro de'</author>
+              <author>Ricci, Giovanni de'</author>
+              <author>Acciaiuoli, Benedetto</author>
+              <author>Acciaiuoli, Lorenzo</author>
+              <author>Innocent VII, Pope, 1336-1406</author>
+            </msItem>
+            <msItem n="Folder 1, 1r">
+              <locus>Folder 1, 1r</locus>
+              <title>Niccolo? Acciaiuoli to Jacopo di Donato and Simone di Lione Acciaiuoli on business affairs (1342)</title>
+            </msItem>
+            <msItem n="Folder 2, 1r">
+              <locus>Folder 2, 1r</locus>
+              <title>Niccolo? Acciaiuoli to Jacopo di Donato Acciaiuoli and Giovanni de' Ricci on cession of Prato to Florence and founding of Certosa del Galuzzo, (1349)</title>
+            </msItem>
+            <msItem n="Folder 3, 1r">
+              <locus>Folder 3, 1r</locus>
+              <title>Niccolo? Acciaiuoli to Angelo Acciaiuoli, Jacopo di Donato Acciaiuoli and Giovanni Richi on Prato purchase (1351)</title>
+            </msItem>
+            <msItem n="Folder 4, 1r">
+              <locus>Folder 4, 1r</locus>
+              <title>Niccolo? Acciaiuoli to same on the political situation resulting from arrival of Emperor Charles IV in Italy (1354)</title>
+            </msItem>
+            <msItem n="Folder 5, 1r">
+              <locus>Folder 5, 1r</locus>
+              <title>Benedetto Acciaiuoli to Lorenzo Acciaiuoli referring to death of Lorenzo's daughter Margarita (ca. 1390)</title>
+            </msItem>
+            <msItem n="Folder 5, 2r">
+              <locus>Folder 5, 2r</locus>
+              <title>Neri di Jacopo Acciaiolo to Giovanni Acciaiuoli on family affairs (1360)</title>
+            </msItem>
+            <msItem n="Folder 6, 1r">
+              <locus>Folder 6, 1r</locus>
+              <title>Letters addressed to Donato Acciaiuoli (ca. 1384-1395)</title>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc material="paper.">
+                <support>
+                  <p>paper.</p>
+                </support>
+                <extent>48</extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin/>
+            <provenance>Letters contained in folders 1-34, purchased, 1957.</provenance>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords n="form/genre">
+          <term>Manuscripts, Italian--14th century</term>
+          <term>Manuscripts, Italian--15th century</term>
+          <term>Manuscripts, Italian--16th century</term>
+          <term>Manuscripts, Italian--17th century</term>
+          <term>Manuscripts, European</term>
+          <term>Manuscripts, Medieval</term>
+          <term>Manuscripts, Renaissance</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface n="Folder 1, 1r">
+      <graphic height="5818px" url="master/0518_0000.tif" width="5160px"/>
+      <graphic height="190px" url="thumb/0518_0000_thumb.jpg" width="168px"/>
+      <graphic height="1800px" url="web/0518_0000_web.jpg" width="1596px"/>
+    </surface>
+    <surface n="Folder 1, 1v">
+      <graphic height="5818px" url="master/0518_0001.tif" width="5160px"/>
+      <graphic height="190px" url="thumb/0518_0001_thumb.jpg" width="168px"/>
+      <graphic height="1800px" url="web/0518_0001_web.jpg" width="1596px"/>
+    </surface>
+    <surface n="Folder 1, 2r">
+      <graphic height="5818px" url="master/0518_0002.tif" width="5160px"/>
+      <graphic height="190px" url="thumb/0518_0002_thumb.jpg" width="168px"/>
+      <graphic height="1800px" url="web/0518_0002_web.jpg" width="1596px"/>
+    </surface>
+    <surface n="Folder 1, 2v">
+      <graphic height="5818px" url="master/0518_0003.tif" width="5160px"/>
+      <graphic height="190px" url="thumb/0518_0003_thumb.jpg" width="168px"/>
+      <graphic height="1800px" url="web/0518_0003_web.jpg" width="1596px"/>
+    </surface>
+    <surface n="Folder 2, 1r">
+      <graphic height="5818px" url="master/0518_0004.tif" width="5160px"/>
+      <graphic height="190px" url="thumb/0518_0004_thumb.jpg" width="168px"/>
+      <graphic height="1800px" url="web/0518_0004_web.jpg" width="1596px"/>
+    </surface>
+    <surface n="Folder 2, 1v">
+      <graphic height="5818px" url="master/0518_0005.tif" width="5160px"/>
+      <graphic height="190px" url="thumb/0518_0005_thumb.jpg" width="168px"/>
+      <graphic height="1800px" url="web/0518_0005_web.jpg" width="1596px"/>
+    </surface>
+    <surface n="Folder 3, 1r">
+      <graphic height="5818px" url="master/0518_0006.tif" width="5160px"/>
+      <graphic height="190px" url="thumb/0518_0006_thumb.jpg" width="168px"/>
+      <graphic height="1800px" url="web/0518_0006_web.jpg" width="1596px"/>
+    </surface>
+    <surface n="Folder 3, 1v">
+      <graphic height="5818px" url="master/0518_0007.tif" width="5160px"/>
+      <graphic height="190px" url="thumb/0518_0007_thumb.jpg" width="168px"/>
+      <graphic height="1800px" url="web/0518_0007_web.jpg" width="1596px"/>
+    </surface>
+    <surface n="Folder 4, 1r">
+      <graphic height="5818px" url="master/0518_0008.tif" width="5160px"/>
+      <graphic height="190px" url="thumb/0518_0008_thumb.jpg" width="168px"/>
+      <graphic height="1800px" url="web/0518_0008_web.jpg" width="1596px"/>
+    </surface>
+    <surface n="Folder 4, 1v">
+      <graphic height="5818px" url="master/0518_0009.tif" width="5160px"/>
+      <graphic height="190px" url="thumb/0518_0009_thumb.jpg" width="168px"/>
+      <graphic height="1800px" url="web/0518_0009_web.jpg" width="1596px"/>
+    </surface>
+    <surface n="Folder 5, 1r">
+      <graphic height="5818px" url="master/0518_0010.tif" width="5160px"/>
+      <graphic height="190px" url="thumb/0518_0010_thumb.jpg" width="168px"/>
+      <graphic height="1800px" url="web/0518_0010_web.jpg" width="1596px"/>
+    </surface>
+    <surface n="Folder 5, 1v">
+      <graphic height="5818px" url="master/0518_0011.tif" width="5160px"/>
+      <graphic height="190px" url="thumb/0518_0011_thumb.jpg" width="168px"/>
+      <graphic height="1800px" url="web/0518_0011_web.jpg" width="1596px"/>
+    </surface>
+    <surface n="Folder 5, 2r">
+      <graphic height="5818px" url="master/0518_0012.tif" width="5160px"/>
+      <graphic height="190px" url="thumb/0518_0012_thumb.jpg" width="168px"/>
+      <graphic height="1800px" url="web/0518_0012_web.jpg" width="1596px"/>
+    </surface>
+    <surface n="Folder 5, 2v">
+      <graphic height="5818px" url="master/0518_0013.tif" width="5160px"/>
+      <graphic height="190px" url="thumb/0518_0013_thumb.jpg" width="168px"/>
+      <graphic height="1800px" url="web/0518_0013_web.jpg" width="1596px"/>
+    </surface>
+    <surface n="Folder 6, 1r">
+      <graphic height="5818px" url="master/0518_0014.tif" width="5160px"/>
+      <graphic height="190px" url="thumb/0518_0014_thumb.jpg" width="168px"/>
+      <graphic height="1800px" url="web/0518_0014_web.jpg" width="1596px"/>
+    </surface>
+    <surface n="Folder 6, 1v">
+      <graphic height="5818px" url="master/0518_0015.tif" width="5160px"/>
+      <graphic height="190px" url="thumb/0518_0015_thumb.jpg" width="168px"/>
+      <graphic height="1800px" url="web/0518_0015_web.jpg" width="1596px"/>
+    </surface>
+    <surface n="Folder 7, 1r">
+      <graphic height="5818px" url="master/0518_0016.tif" width="5160px"/>
+      <graphic height="190px" url="thumb/0518_0016_thumb.jpg" width="168px"/>
+      <graphic height="1800px" url="web/0518_0016_web.jpg" width="1596px"/>
+    </surface>
+    <surface n="Folder 7, 1v">
+      <graphic height="5818px" url="master/0518_0017.tif" width="5160px"/>
+      <graphic height="190px" url="thumb/0518_0017_thumb.jpg" width="168px"/>
+      <graphic height="1800px" url="web/0518_0017_web.jpg" width="1596px"/>
+    </surface>
+    <surface n="Folder 8, 1r">
+      <graphic height="5818px" url="master/0518_0018.tif" width="5160px"/>
+      <graphic height="190px" url="thumb/0518_0018_thumb.jpg" width="168px"/>
+      <graphic height="1800px" url="web/0518_0018_web.jpg" width="1596px"/>
+    </surface>
+    <surface n="Folder 8, 1v">
+      <graphic height="5818px" url="master/0518_0019.tif" width="5160px"/>
+      <graphic height="190px" url="thumb/0518_0019_thumb.jpg" width="168px"/>
+      <graphic height="1800px" url="web/0518_0019_web.jpg" width="1596px"/>
+    </surface>
+    <surface n="Folder 9, 1r">
+      <graphic height="5818px" url="master/0518_0020.tif" width="5160px"/>
+      <graphic height="190px" url="thumb/0518_0020_thumb.jpg" width="168px"/>
+      <graphic height="1800px" url="web/0518_0020_web.jpg" width="1596px"/>
+    </surface>
+    <surface n="Folder 9, 1v">
+      <graphic height="5818px" url="master/0518_0021.tif" width="5160px"/>
+      <graphic height="190px" url="thumb/0518_0021_thumb.jpg" width="168px"/>
+      <graphic height="1800px" url="web/0518_0021_web.jpg" width="1596px"/>
+    </surface>
+    <surface n="Folder 10, 1r">
+      <graphic height="5818px" url="master/0518_0022.tif" width="5160px"/>
+      <graphic height="190px" url="thumb/0518_0022_thumb.jpg" width="168px"/>
+      <graphic height="1800px" url="web/0518_0022_web.jpg" width="1596px"/>
+    </surface>
+    <surface n="Folder 10, 1v">
+      <graphic height="5818px" url="master/0518_0023.tif" width="5160px"/>
+      <graphic height="190px" url="thumb/0518_0023_thumb.jpg" width="168px"/>
+      <graphic height="1800px" url="web/0518_0023_web.jpg" width="1596px"/>
+    </surface>
+    <surface n="Folder 11, 1r">
+      <graphic height="5818px" url="master/0518_0024.tif" width="5160px"/>
+      <graphic height="190px" url="thumb/0518_0024_thumb.jpg" width="168px"/>
+      <graphic height="1800px" url="web/0518_0024_web.jpg" width="1596px"/>
+    </surface>
+    <surface n="Folder 11, 1v">
+      <graphic height="5818px" url="master/0518_0025.tif" width="5160px"/>
+      <graphic height="190px" url="thumb/0518_0025_thumb.jpg" width="168px"/>
+      <graphic height="1800px" url="web/0518_0025_web.jpg" width="1596px"/>
+    </surface>
+    <surface n="Folder 12, 1r">
+      <graphic height="5818px" url="master/0518_0026.tif" width="5160px"/>
+      <graphic height="190px" url="thumb/0518_0026_thumb.jpg" width="168px"/>
+      <graphic height="1800px" url="web/0518_0026_web.jpg" width="1596px"/>
+    </surface>
+    <surface n="Folder 12, 1v">
+      <graphic height="5818px" url="master/0518_0027.tif" width="5160px"/>
+      <graphic height="190px" url="thumb/0518_0027_thumb.jpg" width="168px"/>
+      <graphic height="1800px" url="web/0518_0027_web.jpg" width="1596px"/>
+    </surface>
+    <surface n="Folder 13, 1r">
+      <graphic height="5818px" url="master/0518_0028.tif" width="5160px"/>
+      <graphic height="190px" url="thumb/0518_0028_thumb.jpg" width="168px"/>
+      <graphic height="1800px" url="web/0518_0028_web.jpg" width="1596px"/>
+    </surface>
+    <surface n="Folder 13, 1v">
+      <graphic height="5818px" url="master/0518_0029.tif" width="5160px"/>
+      <graphic height="190px" url="thumb/0518_0029_thumb.jpg" width="168px"/>
+      <graphic height="1800px" url="web/0518_0029_web.jpg" width="1596px"/>
+    </surface>
+    <surface n="Folder 14, 1r">
+      <graphic height="5818px" url="master/0518_0030.tif" width="5160px"/>
+      <graphic height="190px" url="thumb/0518_0030_thumb.jpg" width="168px"/>
+      <graphic height="1800px" url="web/0518_0030_web.jpg" width="1596px"/>
+    </surface>
+    <surface n="Folder 14, 1v">
+      <graphic height="5818px" url="master/0518_0031.tif" width="5160px"/>
+      <graphic height="190px" url="thumb/0518_0031_thumb.jpg" width="168px"/>
+      <graphic height="1800px" url="web/0518_0031_web.jpg" width="1596px"/>
+    </surface>
+    <surface n="Folder 15, 1r">
+      <graphic height="5818px" url="master/0518_0032.tif" width="5160px"/>
+      <graphic height="190px" url="thumb/0518_0032_thumb.jpg" width="168px"/>
+      <graphic height="1800px" url="web/0518_0032_web.jpg" width="1596px"/>
+    </surface>
+    <surface n="Folder 15, 1v">
+      <graphic height="5818px" url="master/0518_0033.tif" width="5160px"/>
+      <graphic height="190px" url="thumb/0518_0033_thumb.jpg" width="168px"/>
+      <graphic height="1800px" url="web/0518_0033_web.jpg" width="1596px"/>
+    </surface>
+    <surface n="Folder 16, 1r">
+      <graphic height="5818px" url="master/0518_0034.tif" width="5160px"/>
+      <graphic height="190px" url="thumb/0518_0034_thumb.jpg" width="168px"/>
+      <graphic height="1800px" url="web/0518_0034_web.jpg" width="1596px"/>
+    </surface>
+    <surface n="Folder 16, 1v">
+      <graphic height="5744px" url="master/0518_0035.tif" width="5094px"/>
+      <graphic height="190px" url="thumb/0518_0035_thumb.jpg" width="168px"/>
+      <graphic height="1800px" url="web/0518_0035_web.jpg" width="1596px"/>
+    </surface>
+    <surface n="Folder 17, 1r">
+      <graphic height="5818px" url="master/0518_0036.tif" width="5160px"/>
+      <graphic height="190px" url="thumb/0518_0036_thumb.jpg" width="168px"/>
+      <graphic height="1800px" url="web/0518_0036_web.jpg" width="1596px"/>
+    </surface>
+    <surface n="Folder 17, 1v">
+      <graphic height="5818px" url="master/0518_0037.tif" width="5160px"/>
+      <graphic height="190px" url="thumb/0518_0037_thumb.jpg" width="168px"/>
+      <graphic height="1800px" url="web/0518_0037_web.jpg" width="1596px"/>
+    </surface>
+    <surface n="Folder 18, 1r">
+      <graphic height="5818px" url="master/0518_0038.tif" width="5160px"/>
+      <graphic height="190px" url="thumb/0518_0038_thumb.jpg" width="168px"/>
+      <graphic height="1800px" url="web/0518_0038_web.jpg" width="1596px"/>
+    </surface>
+    <surface n="Folder 18, 1v">
+      <graphic height="5818px" url="master/0518_0039.tif" width="5160px"/>
+      <graphic height="190px" url="thumb/0518_0039_thumb.jpg" width="168px"/>
+      <graphic height="1800px" url="web/0518_0039_web.jpg" width="1596px"/>
+    </surface>
+    <surface n="Folder 19, 1r">
+      <graphic height="5818px" url="master/0518_0040.tif" width="5160px"/>
+      <graphic height="190px" url="thumb/0518_0040_thumb.jpg" width="168px"/>
+      <graphic height="1800px" url="web/0518_0040_web.jpg" width="1596px"/>
+    </surface>
+    <surface n="Folder 19, 1v">
+      <graphic height="5818px" url="master/0518_0041.tif" width="5160px"/>
+      <graphic height="190px" url="thumb/0518_0041_thumb.jpg" width="168px"/>
+      <graphic height="1800px" url="web/0518_0041_web.jpg" width="1596px"/>
+    </surface>
+    <surface n="Folder 20, 1r">
+      <graphic height="5741px" url="master/0518_0042.tif" width="5092px"/>
+      <graphic height="190px" url="thumb/0518_0042_thumb.jpg" width="168px"/>
+      <graphic height="1800px" url="web/0518_0042_web.jpg" width="1596px"/>
+    </surface>
+    <surface n="Folder 20, 1v">
+      <graphic height="5818px" url="master/0518_0043.tif" width="5160px"/>
+      <graphic height="190px" url="thumb/0518_0043_thumb.jpg" width="168px"/>
+      <graphic height="1800px" url="web/0518_0043_web.jpg" width="1596px"/>
+    </surface>
+    <surface n="Folder 21, 1r">
+      <graphic height="5818px" url="master/0518_0044.tif" width="5160px"/>
+      <graphic height="190px" url="thumb/0518_0044_thumb.jpg" width="168px"/>
+      <graphic height="1800px" url="web/0518_0044_web.jpg" width="1596px"/>
+    </surface>
+    <surface n="Folder 21, 1v">
+      <graphic height="5818px" url="master/0518_0045.tif" width="5160px"/>
+      <graphic height="190px" url="thumb/0518_0045_thumb.jpg" width="168px"/>
+      <graphic height="1800px" url="web/0518_0045_web.jpg" width="1596px"/>
+    </surface>
+    <surface n="Folder 22, 2r">
+      <graphic height="5818px" url="master/0518_0046.tif" width="5160px"/>
+      <graphic height="190px" url="thumb/0518_0046_thumb.jpg" width="168px"/>
+      <graphic height="1800px" url="web/0518_0046_web.jpg" width="1596px"/>
+    </surface>
+    <surface n="Folder 22, 2v">
+      <graphic height="5818px" url="master/0518_0047.tif" width="5160px"/>
+      <graphic height="190px" url="thumb/0518_0047_thumb.jpg" width="168px"/>
+      <graphic height="1800px" url="web/0518_0047_web.jpg" width="1596px"/>
+    </surface>
+    <surface n="Folder 23, 1r">
+      <graphic height="5818px" url="master/0518_0048.tif" width="5160px"/>
+      <graphic height="190px" url="thumb/0518_0048_thumb.jpg" width="168px"/>
+      <graphic height="1800px" url="web/0518_0048_web.jpg" width="1596px"/>
+    </surface>
+    <surface n="Folder 23, 1v">
+      <graphic height="5818px" url="master/0518_0049.tif" width="5160px"/>
+      <graphic height="190px" url="thumb/0518_0049_thumb.jpg" width="168px"/>
+      <graphic height="1800px" url="web/0518_0049_web.jpg" width="1596px"/>
+    </surface>
+    <surface n="Folder 24, 1r">
+      <graphic height="5818px" url="master/0518_0050.tif" width="5160px"/>
+      <graphic height="190px" url="thumb/0518_0050_thumb.jpg" width="168px"/>
+      <graphic height="1800px" url="web/0518_0050_web.jpg" width="1596px"/>
+    </surface>
+    <surface n="Folder 24, 1v">
+      <graphic height="5818px" url="master/0518_0051.tif" width="5160px"/>
+      <graphic height="190px" url="thumb/0518_0051_thumb.jpg" width="168px"/>
+      <graphic height="1800px" url="web/0518_0051_web.jpg" width="1596px"/>
+    </surface>
+    <surface n="Folder 25, 1r">
+      <graphic height="5817px" url="master/0518_0052.tif" width="5159px"/>
+      <graphic height="190px" url="thumb/0518_0052_thumb.jpg" width="168px"/>
+      <graphic height="1800px" url="web/0518_0052_web.jpg" width="1596px"/>
+    </surface>
+    <surface n="Folder 25, 1v">
+      <graphic height="5817px" url="master/0518_0053.tif" width="5159px"/>
+      <graphic height="190px" url="thumb/0518_0053_thumb.jpg" width="168px"/>
+      <graphic height="1800px" url="web/0518_0053_web.jpg" width="1596px"/>
+    </surface>
+    <surface n="Folder 26, 1r">
+      <graphic height="5817px" url="master/0518_0054.tif" width="5159px"/>
+      <graphic height="190px" url="thumb/0518_0054_thumb.jpg" width="168px"/>
+      <graphic height="1800px" url="web/0518_0054_web.jpg" width="1596px"/>
+    </surface>
+    <surface n="Folder 26, 1v">
+      <graphic height="5817px" url="master/0518_0055.tif" width="5159px"/>
+      <graphic height="190px" url="thumb/0518_0055_thumb.jpg" width="168px"/>
+      <graphic height="1800px" url="web/0518_0055_web.jpg" width="1596px"/>
+    </surface>
+    <surface n="Folder 27, 1r">
+      <graphic height="5817px" url="master/0518_0056.tif" width="5159px"/>
+      <graphic height="190px" url="thumb/0518_0056_thumb.jpg" width="168px"/>
+      <graphic height="1800px" url="web/0518_0056_web.jpg" width="1596px"/>
+    </surface>
+    <surface n="Folder 27, 1v">
+      <graphic height="5817px" url="master/0518_0057.tif" width="5159px"/>
+      <graphic height="190px" url="thumb/0518_0057_thumb.jpg" width="168px"/>
+      <graphic height="1800px" url="web/0518_0057_web.jpg" width="1596px"/>
+    </surface>
+    <surface n="Folder 28, 1r">
+      <graphic height="5817px" url="master/0518_0058.tif" width="5159px"/>
+      <graphic height="190px" url="thumb/0518_0058_thumb.jpg" width="168px"/>
+      <graphic height="1800px" url="web/0518_0058_web.jpg" width="1596px"/>
+    </surface>
+    <surface n="Folder 28, 1v">
+      <graphic height="5817px" url="master/0518_0059.tif" width="5159px"/>
+      <graphic height="190px" url="thumb/0518_0059_thumb.jpg" width="168px"/>
+      <graphic height="1800px" url="web/0518_0059_web.jpg" width="1596px"/>
+    </surface>
+    <surface n="Folder 29, 1r">
+      <graphic height="5817px" url="master/0518_0060.tif" width="5159px"/>
+      <graphic height="190px" url="thumb/0518_0060_thumb.jpg" width="168px"/>
+      <graphic height="1800px" url="web/0518_0060_web.jpg" width="1596px"/>
+    </surface>
+    <surface n="Folder 29, 1v">
+      <graphic height="5817px" url="master/0518_0061.tif" width="5159px"/>
+      <graphic height="190px" url="thumb/0518_0061_thumb.jpg" width="168px"/>
+      <graphic height="1800px" url="web/0518_0061_web.jpg" width="1596px"/>
+    </surface>
+    <surface n="Folder 30, 1r">
+      <graphic height="5817px" url="master/0518_0062.tif" width="5159px"/>
+      <graphic height="190px" url="thumb/0518_0062_thumb.jpg" width="168px"/>
+      <graphic height="1800px" url="web/0518_0062_web.jpg" width="1596px"/>
+    </surface>
+    <surface n="Folder 30, 1v">
+      <graphic height="5817px" url="master/0518_0063.tif" width="5159px"/>
+      <graphic height="190px" url="thumb/0518_0063_thumb.jpg" width="168px"/>
+      <graphic height="1800px" url="web/0518_0063_web.jpg" width="1596px"/>
+    </surface>
+    <surface n="Folder 31, 1r">
+      <graphic height="5817px" url="master/0518_0064.tif" width="5159px"/>
+      <graphic height="190px" url="thumb/0518_0064_thumb.jpg" width="168px"/>
+      <graphic height="1800px" url="web/0518_0064_web.jpg" width="1596px"/>
+    </surface>
+    <surface n="Folder 31, 1v">
+      <graphic height="5817px" url="master/0518_0065.tif" width="5159px"/>
+      <graphic height="190px" url="thumb/0518_0065_thumb.jpg" width="168px"/>
+      <graphic height="1800px" url="web/0518_0065_web.jpg" width="1596px"/>
+    </surface>
+    <surface n="Folder 32, 1r">
+      <graphic height="5817px" url="master/0518_0066.tif" width="5159px"/>
+      <graphic height="190px" url="thumb/0518_0066_thumb.jpg" width="168px"/>
+      <graphic height="1800px" url="web/0518_0066_web.jpg" width="1596px"/>
+    </surface>
+    <surface n="Folder 32, 1v">
+      <graphic height="5817px" url="master/0518_0067.tif" width="5159px"/>
+      <graphic height="190px" url="thumb/0518_0067_thumb.jpg" width="168px"/>
+      <graphic height="1800px" url="web/0518_0067_web.jpg" width="1596px"/>
+    </surface>
+    <surface n="Folder 33, 1r">
+      <graphic height="5817px" url="master/0518_0068.tif" width="5159px"/>
+      <graphic height="190px" url="thumb/0518_0068_thumb.jpg" width="168px"/>
+      <graphic height="1800px" url="web/0518_0068_web.jpg" width="1596px"/>
+    </surface>
+    <surface n="Folder 33, 1v">
+      <graphic height="5817px" url="master/0518_0069.tif" width="5159px"/>
+      <graphic height="190px" url="thumb/0518_0069_thumb.jpg" width="168px"/>
+      <graphic height="1800px" url="web/0518_0069_web.jpg" width="1596px"/>
+    </surface>
+    <surface n="Folder 34, 1r">
+      <graphic height="5817px" url="master/0518_0070.tif" width="5159px"/>
+      <graphic height="190px" url="thumb/0518_0070_thumb.jpg" width="168px"/>
+      <graphic height="1800px" url="web/0518_0070_web.jpg" width="1596px"/>
+    </surface>
+    <surface n="Folder 34, 1v">
+      <graphic height="5817px" url="master/0518_0071.tif" width="5159px"/>
+      <graphic height="190px" url="thumb/0518_0071_thumb.jpg" width="168px"/>
+      <graphic height="1800px" url="web/0518_0071_web.jpg" width="1596px"/>
+    </surface>
+    <surface n="Folder 35, 1r">
+      <graphic height="5817px" url="master/0518_0072.tif" width="5159px"/>
+      <graphic height="190px" url="thumb/0518_0072_thumb.jpg" width="168px"/>
+      <graphic height="1800px" url="web/0518_0072_web.jpg" width="1596px"/>
+    </surface>
+    <surface n="Folder 35, 1v">
+      <graphic height="5817px" url="master/0518_0073.tif" width="5159px"/>
+      <graphic height="190px" url="thumb/0518_0073_thumb.jpg" width="168px"/>
+      <graphic height="1800px" url="web/0518_0073_web.jpg" width="1596px"/>
+    </surface>
+    <surface n="Folder 36, 1r">
+      <graphic height="5817px" url="master/0518_0074.tif" width="5159px"/>
+      <graphic height="190px" url="thumb/0518_0074_thumb.jpg" width="168px"/>
+      <graphic height="1800px" url="web/0518_0074_web.jpg" width="1596px"/>
+    </surface>
+    <surface n="Folder 36, 1v">
+      <graphic height="5817px" url="master/0518_0075.tif" width="5159px"/>
+      <graphic height="190px" url="thumb/0518_0075_thumb.jpg" width="168px"/>
+      <graphic height="1800px" url="web/0518_0075_web.jpg" width="1596px"/>
+    </surface>
+    <surface n="Folder 37, 1r">
+      <graphic height="5817px" url="master/0518_0076.tif" width="5159px"/>
+      <graphic height="190px" url="thumb/0518_0076_thumb.jpg" width="168px"/>
+      <graphic height="1800px" url="web/0518_0076_web.jpg" width="1596px"/>
+    </surface>
+    <surface n="Folder 37, 1v">
+      <graphic height="5817px" url="master/0518_0077.tif" width="5159px"/>
+      <graphic height="190px" url="thumb/0518_0077_thumb.jpg" width="168px"/>
+      <graphic height="1800px" url="web/0518_0077_web.jpg" width="1596px"/>
+    </surface>
+    <surface n="Folder 38, 1r">
+      <graphic height="5817px" url="master/0518_0078.tif" width="5159px"/>
+      <graphic height="190px" url="thumb/0518_0078_thumb.jpg" width="168px"/>
+      <graphic height="1800px" url="web/0518_0078_web.jpg" width="1596px"/>
+    </surface>
+    <surface n="Folder 38, 1v">
+      <graphic height="5817px" url="master/0518_0079.tif" width="5159px"/>
+      <graphic height="190px" url="thumb/0518_0079_thumb.jpg" width="168px"/>
+      <graphic height="1800px" url="web/0518_0079_web.jpg" width="1596px"/>
+    </surface>
+    <surface n="Folder 39, 1r">
+      <graphic height="5817px" url="master/0518_0080.tif" width="5159px"/>
+      <graphic height="190px" url="thumb/0518_0080_thumb.jpg" width="168px"/>
+      <graphic height="1800px" url="web/0518_0080_web.jpg" width="1596px"/>
+    </surface>
+    <surface n="Folder 39, 1v">
+      <graphic height="5817px" url="master/0518_0081.tif" width="5159px"/>
+      <graphic height="190px" url="thumb/0518_0081_thumb.jpg" width="168px"/>
+      <graphic height="1800px" url="web/0518_0081_web.jpg" width="1596px"/>
+    </surface>
+    <surface n="Folder 40, 1r">
+      <graphic height="5817px" url="master/0518_0082.tif" width="5159px"/>
+      <graphic height="190px" url="thumb/0518_0082_thumb.jpg" width="168px"/>
+      <graphic height="1800px" url="web/0518_0082_web.jpg" width="1596px"/>
+    </surface>
+    <surface n="Folder 40, 1v">
+      <graphic height="5817px" url="master/0518_0083.tif" width="5159px"/>
+      <graphic height="190px" url="thumb/0518_0083_thumb.jpg" width="168px"/>
+      <graphic height="1800px" url="web/0518_0083_web.jpg" width="1596px"/>
+    </surface>
+    <surface n="Folder 41, 1r">
+      <graphic height="5817px" url="master/0518_0084.tif" width="5159px"/>
+      <graphic height="190px" url="thumb/0518_0084_thumb.jpg" width="168px"/>
+      <graphic height="1800px" url="web/0518_0084_web.jpg" width="1596px"/>
+    </surface>
+    <surface n="Folder 41, 1v">
+      <graphic height="5817px" url="master/0518_0085.tif" width="5159px"/>
+      <graphic height="190px" url="thumb/0518_0085_thumb.jpg" width="168px"/>
+      <graphic height="1800px" url="web/0518_0085_web.jpg" width="1596px"/>
+    </surface>
+    <surface n="Folder 42, 1r">
+      <graphic height="5817px" url="master/0518_0086.tif" width="5340px"/>
+      <graphic height="190px" url="thumb/0518_0086_thumb.jpg" width="175px"/>
+      <graphic height="1800px" url="web/0518_0086_web.jpg" width="1653px"/>
+    </surface>
+    <surface n="Folder 42, 1v">
+      <graphic height="5817px" url="master/0518_0087.tif" width="5340px"/>
+      <graphic height="190px" url="thumb/0518_0087_thumb.jpg" width="175px"/>
+      <graphic height="1800px" url="web/0518_0087_web.jpg" width="1653px"/>
+    </surface>
+    <surface n="Folder 43, 1r">
+      <graphic height="5817px" url="master/0518_0088.tif" width="5159px"/>
+      <graphic height="190px" url="thumb/0518_0088_thumb.jpg" width="168px"/>
+      <graphic height="1800px" url="web/0518_0088_web.jpg" width="1596px"/>
+    </surface>
+    <surface n="Folder 43, 1v">
+      <graphic height="5817px" url="master/0518_0089.tif" width="5159px"/>
+      <graphic height="190px" url="thumb/0518_0089_thumb.jpg" width="168px"/>
+      <graphic height="1800px" url="web/0518_0089_web.jpg" width="1596px"/>
+    </surface>
+    <surface n="Folder 44, 1r">
+      <graphic height="5817px" url="master/0518_0090.tif" width="5159px"/>
+      <graphic height="190px" url="thumb/0518_0090_thumb.jpg" width="168px"/>
+      <graphic height="1800px" url="web/0518_0090_web.jpg" width="1596px"/>
+    </surface>
+    <surface n="Folder 44, 1v">
+      <graphic height="5817px" url="master/0518_0091.tif" width="5159px"/>
+      <graphic height="190px" url="thumb/0518_0091_thumb.jpg" width="168px"/>
+      <graphic height="1800px" url="web/0518_0091_web.jpg" width="1596px"/>
+    </surface>
+    <surface n="Folder 45, 1r">
+      <graphic height="5817px" url="master/0518_0092.tif" width="5159px"/>
+      <graphic height="190px" url="thumb/0518_0092_thumb.jpg" width="168px"/>
+      <graphic height="1800px" url="web/0518_0092_web.jpg" width="1596px"/>
+    </surface>
+    <surface n="Folder 45, 1v">
+      <graphic height="5817px" url="master/0518_0093.tif" width="5159px"/>
+      <graphic height="190px" url="thumb/0518_0093_thumb.jpg" width="168px"/>
+      <graphic height="1800px" url="web/0518_0093_web.jpg" width="1596px"/>
+    </surface>
+    <surface n="Folder 46, 1r">
+      <graphic height="5817px" url="master/0518_0094.tif" width="5159px"/>
+      <graphic height="190px" url="thumb/0518_0094_thumb.jpg" width="168px"/>
+      <graphic height="1800px" url="web/0518_0094_web.jpg" width="1596px"/>
+    </surface>
+    <surface n="Folder 46, 1v">
+      <graphic height="5817px" url="master/0518_0095.tif" width="5159px"/>
+      <graphic height="190px" url="thumb/0518_0095_thumb.jpg" width="168px"/>
+      <graphic height="1800px" url="web/0518_0095_web.jpg" width="1596px"/>
+    </surface>
+    <surface n="Folder 46, 2r">
+      <graphic height="5817px" url="master/0518_0096.tif" width="5159px"/>
+      <graphic height="190px" url="thumb/0518_0096_thumb.jpg" width="168px"/>
+      <graphic height="1800px" url="web/0518_0096_web.jpg" width="1596px"/>
+    </surface>
+    <surface n="Folder 46, 2v">
+      <graphic height="5817px" url="master/0518_0097.tif" width="5159px"/>
+      <graphic height="190px" url="thumb/0518_0097_thumb.jpg" width="168px"/>
+      <graphic height="1800px" url="web/0518_0097_web.jpg" width="1596px"/>
+    </surface>
+    <surface n="Folder 47, 1r">
+      <graphic height="5817px" url="master/0518_0098.tif" width="5159px"/>
+      <graphic height="190px" url="thumb/0518_0098_thumb.jpg" width="168px"/>
+      <graphic height="1800px" url="web/0518_0098_web.jpg" width="1596px"/>
+    </surface>
+    <surface n="Folder 47, 1v">
+      <graphic height="5817px" url="master/0518_0099.tif" width="5159px"/>
+      <graphic height="190px" url="thumb/0518_0099_thumb.jpg" width="168px"/>
+      <graphic height="1800px" url="web/0518_0099_web.jpg" width="1596px"/>
+    </surface>
+    <surface n="Folder 47, 2r">
+      <graphic height="5817px" url="master/0518_0100.tif" width="5159px"/>
+      <graphic height="190px" url="thumb/0518_0100_thumb.jpg" width="168px"/>
+      <graphic height="1800px" url="web/0518_0100_web.jpg" width="1596px"/>
+    </surface>
+    <surface n="Folder 47, 2v">
+      <graphic height="5817px" url="master/0518_0101.tif" width="5159px"/>
+      <graphic height="190px" url="thumb/0518_0101_thumb.jpg" width="168px"/>
+      <graphic height="1800px" url="web/0518_0101_web.jpg" width="1596px"/>
+    </surface>
+  </facsimile>
+</TEI>

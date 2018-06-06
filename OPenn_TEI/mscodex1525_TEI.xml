@@ -1,0 +1,231 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Description of University of Pennsylvania Ms. Codex 1525: Notebook of Medici accounts</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>The University of Pennsylvania Libraries</publisher>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by/4.0/legalcode">
+                                This description is ©2015 University of
+                                Pennsylvania Libraries. It is licensed under a Creative Commons
+                                Attribution License version 4.0 (CC-BY-4.0
+                                https://creativecommons.org/licenses/by/4.0/legalcode. For a
+                                description of the terms of use see the Creative Commons Deed
+                                https://creativecommons.org/licenses/by/4.0/. </licence>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/"> All
+                                referenced images and their content are free of known copyright
+                                restrictions and in the public domain. See the Creative Commons
+                                Public Domain Mark page for usage details,
+                                http://creativecommons.org/publicdomain/mark/1.0/. </licence>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note>Ms. codex.</note>
+        <note>Title supplied by cataloger.</note>
+        <note>Forms part of: Gondi-Medici Business Records.</note>
+      </notesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <settlement>Philadelphia</settlement>
+            <institution>University of Pennsylvania</institution>
+            <repository>Rare Book &amp; Manuscript Library</repository>
+            <idno type="call-number">Ms. Codex 1525</idno>
+            <altIdentifier type="bibid">
+              <idno>4496302</idno>
+            </altIdentifier>
+            <altIdentifier type="resource">
+              <idno>http://hdl.library.upenn.edu/1017/d/medren/4496302</idno>
+            </altIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary>Notebook of accounts of the heirs of Carlo de' Medici for the year 1581 (the date 1591 appears once (f. 4r), possibly in error, since every other entry concerns the year 1581). The information contained in the notebook, referred to as riscontri, was provided by Quiricho di Jacopo Fanuchi, farmer for the estates of Bravieri and Valdinievole. The manuscript contains short descriptions of transactions related to farm management (e.g. for the purchase of seeds) as well as receipts of small payments, written in the first person, probably in the hand of the payees. The names that appear throughout the notebook are those of the heirs of Carlo de' Medici, and Lorenzo di Filippo Pelamasti(?) and Jacopo Fanuchi, farmers. The cover of the manuscript was made with a 15th-century vellum leaf containing a passage of a theological or legal work, written in a Gothic script, in two columns, and with paragraph marks in red and blue ink.</summary>
+            <textLang>Italian</textLang>
+            <msItem>
+              <title>Notebook of Medici accounts</title>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc material="paper">
+                <support>
+                  <p>paper</p>
+                  <watermark>Unidentified watermark containing a teardrop-shaped shield, a horse(?), and a rhomboidal decorative figure on top.</watermark>
+                </support>
+                <extent>48 leaves : 141 x 99 mm. bound to 151 x 102 mm</extent>
+                <foliation>Paper, 48; 1-2, [3-48]; contemporary foliation in ink, modern foliation in pencil, upper right recto.</foliation>
+              </supportDesc>
+            </objectDesc>
+            <scriptDesc>
+              <scriptNote>Written in a cursive script by multiple hands.</scriptNote>
+            </scriptDesc>
+            <decoDesc>
+              <decoNote n="Front cover">Reused manuscript leaf, Front cover</decoNote>
+              <decoNote n="Inside front cover">Reused manuscript leaf, Inside front cover</decoNote>
+              <decoNote n="Inside back cover">Reused manuscript leaf, Inside back cover</decoNote>
+              <decoNote n="Back cover">Reused manuscript leaf, Back cover</decoNote>
+            </decoDesc>
+            <bindingDesc>
+              <binding>
+                <p>15th-century vellum (Zacour-Hirsch); the heading Bravieri on upper cover; lower cover wraps around upper cover with remnants of leather tie.</p>
+              </binding>
+            </bindingDesc>
+          </physDesc>
+          <history>
+            <origin>
+              <p>Probably written in Florence in 1581 (f. 1r).</p>
+              <origDate>1581</origDate>
+              <origPlace>Florence?</origPlace>
+            </origin>
+            <provenance>Sold by Bernard M. Rosenthal, 1963.</provenance>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords n="subjects">
+          <term>Farm management--Italy</term>
+          <term>Accounting--Italy--16th century</term>
+        </keywords>
+        <keywords n="form/genre">
+          <term>Codices</term>
+          <term>Accounts</term>
+          <term>Credit records</term>
+          <term>Manuscripts, Italian--16th century</term>
+          <term>Manuscripts, Renaissance</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface n="Front cover">
+      <graphic height="4225px" url="master/0881_0000.tif" width="3235px"/>
+      <graphic height="190px" url="thumb/0881_0000_thumb.jpg" width="145px"/>
+      <graphic height="1800px" url="web/0881_0000_web.jpg" width="1378px"/>
+    </surface>
+    <surface n="Inside front cover">
+      <graphic height="4225px" url="master/0881_0001.tif" width="3235px"/>
+      <graphic height="190px" url="thumb/0881_0001_thumb.jpg" width="145px"/>
+      <graphic height="1800px" url="web/0881_0001_web.jpg" width="1378px"/>
+    </surface>
+    <surface n="1r">
+      <graphic height="4225px" url="master/0881_0002.tif" width="3235px"/>
+      <graphic height="190px" url="thumb/0881_0002_thumb.jpg" width="145px"/>
+      <graphic height="1800px" url="web/0881_0002_web.jpg" width="1378px"/>
+    </surface>
+    <surface n="1v">
+      <graphic height="4225px" url="master/0881_0003.tif" width="3235px"/>
+      <graphic height="190px" url="thumb/0881_0003_thumb.jpg" width="145px"/>
+      <graphic height="1800px" url="web/0881_0003_web.jpg" width="1378px"/>
+    </surface>
+    <surface n="2r">
+      <graphic height="4225px" url="master/0881_0004.tif" width="3235px"/>
+      <graphic height="190px" url="thumb/0881_0004_thumb.jpg" width="145px"/>
+      <graphic height="1800px" url="web/0881_0004_web.jpg" width="1378px"/>
+    </surface>
+    <surface n="2v">
+      <graphic height="4225px" url="master/0881_0005.tif" width="3235px"/>
+      <graphic height="190px" url="thumb/0881_0005_thumb.jpg" width="145px"/>
+      <graphic height="1800px" url="web/0881_0005_web.jpg" width="1378px"/>
+    </surface>
+    <surface n="3r">
+      <graphic height="4225px" url="master/0881_0006.tif" width="3235px"/>
+      <graphic height="190px" url="thumb/0881_0006_thumb.jpg" width="145px"/>
+      <graphic height="1800px" url="web/0881_0006_web.jpg" width="1378px"/>
+    </surface>
+    <surface n="3v">
+      <graphic height="4225px" url="master/0881_0007.tif" width="3235px"/>
+      <graphic height="190px" url="thumb/0881_0007_thumb.jpg" width="145px"/>
+      <graphic height="1800px" url="web/0881_0007_web.jpg" width="1378px"/>
+    </surface>
+    <surface n="4r">
+      <graphic height="4225px" url="master/0881_0008.tif" width="3235px"/>
+      <graphic height="190px" url="thumb/0881_0008_thumb.jpg" width="145px"/>
+      <graphic height="1800px" url="web/0881_0008_web.jpg" width="1378px"/>
+    </surface>
+    <surface n="4v">
+      <graphic height="4225px" url="master/0881_0009.tif" width="3235px"/>
+      <graphic height="190px" url="thumb/0881_0009_thumb.jpg" width="145px"/>
+      <graphic height="1800px" url="web/0881_0009_web.jpg" width="1378px"/>
+    </surface>
+    <surface n="5r">
+      <graphic height="4225px" url="master/0881_0010.tif" width="3235px"/>
+      <graphic height="190px" url="thumb/0881_0010_thumb.jpg" width="145px"/>
+      <graphic height="1800px" url="web/0881_0010_web.jpg" width="1378px"/>
+    </surface>
+    <surface n="5v">
+      <graphic height="4225px" url="master/0881_0011.tif" width="3235px"/>
+      <graphic height="190px" url="thumb/0881_0011_thumb.jpg" width="145px"/>
+      <graphic height="1800px" url="web/0881_0011_web.jpg" width="1378px"/>
+    </surface>
+    <surface n="6r">
+      <graphic height="4225px" url="master/0881_0012.tif" width="3235px"/>
+      <graphic height="190px" url="thumb/0881_0012_thumb.jpg" width="145px"/>
+      <graphic height="1800px" url="web/0881_0012_web.jpg" width="1378px"/>
+    </surface>
+    <surface n="6v">
+      <graphic height="4225px" url="master/0881_0013.tif" width="3235px"/>
+      <graphic height="190px" url="thumb/0881_0013_thumb.jpg" width="145px"/>
+      <graphic height="1800px" url="web/0881_0013_web.jpg" width="1378px"/>
+    </surface>
+    <surface n="7r">
+      <graphic height="4225px" url="master/0881_0014.tif" width="3235px"/>
+      <graphic height="190px" url="thumb/0881_0014_thumb.jpg" width="145px"/>
+      <graphic height="1800px" url="web/0881_0014_web.jpg" width="1378px"/>
+    </surface>
+    <surface n="7v">
+      <graphic height="4225px" url="master/0881_0015.tif" width="3235px"/>
+      <graphic height="190px" url="thumb/0881_0015_thumb.jpg" width="145px"/>
+      <graphic height="1800px" url="web/0881_0015_web.jpg" width="1378px"/>
+    </surface>
+    <surface n="8r">
+      <graphic height="4225px" url="master/0881_0016.tif" width="3235px"/>
+      <graphic height="190px" url="thumb/0881_0016_thumb.jpg" width="145px"/>
+      <graphic height="1800px" url="web/0881_0016_web.jpg" width="1378px"/>
+    </surface>
+    <surface n="8v">
+      <graphic height="4225px" url="master/0881_0017.tif" width="3235px"/>
+      <graphic height="190px" url="thumb/0881_0017_thumb.jpg" width="145px"/>
+      <graphic height="1800px" url="web/0881_0017_web.jpg" width="1378px"/>
+    </surface>
+    <surface n="9r">
+      <graphic height="4225px" url="master/0881_0018.tif" width="3235px"/>
+      <graphic height="190px" url="thumb/0881_0018_thumb.jpg" width="145px"/>
+      <graphic height="1800px" url="web/0881_0018_web.jpg" width="1378px"/>
+    </surface>
+    <surface n="47v">
+      <graphic height="4225px" url="master/0881_0019.tif" width="3235px"/>
+      <graphic height="190px" url="thumb/0881_0019_thumb.jpg" width="145px"/>
+      <graphic height="1800px" url="web/0881_0019_web.jpg" width="1378px"/>
+    </surface>
+    <surface n="48r">
+      <graphic height="4225px" url="master/0881_0020.tif" width="3235px"/>
+      <graphic height="190px" url="thumb/0881_0020_thumb.jpg" width="145px"/>
+      <graphic height="1800px" url="web/0881_0020_web.jpg" width="1378px"/>
+    </surface>
+    <surface n="48v">
+      <graphic height="4225px" url="master/0881_0021.tif" width="3235px"/>
+      <graphic height="190px" url="thumb/0881_0021_thumb.jpg" width="145px"/>
+      <graphic height="1800px" url="web/0881_0021_web.jpg" width="1378px"/>
+    </surface>
+    <surface n="Inside back cover">
+      <graphic height="4225px" url="master/0881_0022.tif" width="3235px"/>
+      <graphic height="190px" url="thumb/0881_0022_thumb.jpg" width="145px"/>
+      <graphic height="1800px" url="web/0881_0022_web.jpg" width="1378px"/>
+    </surface>
+    <surface n="Back cover">
+      <graphic height="4225px" url="master/0881_0023.tif" width="3235px"/>
+      <graphic height="190px" url="thumb/0881_0023_thumb.jpg" width="145px"/>
+      <graphic height="1800px" url="web/0881_0023_web.jpg" width="1378px"/>
+    </surface>
+    <surface n="Spine">
+      <graphic height="4225px" url="master/0881_0024.tif" width="3235px"/>
+      <graphic height="190px" url="thumb/0881_0024_thumb.jpg" width="145px"/>
+      <graphic height="1800px" url="web/0881_0024_web.jpg" width="1378px"/>
+    </surface>
+  </facsimile>
+</TEI>

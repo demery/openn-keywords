@@ -1,0 +1,227 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Description of University of Pennsylvania Ms. Codex 1247: Sale records</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>The University of Pennsylvania Libraries</publisher>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by/4.0/legalcode">
+                                This description is ©2016 University of
+                                Pennsylvania Libraries. It is licensed under a Creative Commons
+                                Attribution License version 4.0 (CC-BY-4.0
+                                https://creativecommons.org/licenses/by/4.0/legalcode. For a
+                                description of the terms of use see the Creative Commons Deed
+                                https://creativecommons.org/licenses/by/4.0/. </licence>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/"> All
+                                referenced images and their content are free of known copyright
+                                restrictions and in the public domain. See the Creative Commons
+                                Public Domain Mark page for usage details,
+                                http://creativecommons.org/publicdomain/mark/1.0/. </licence>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note>Ms. codex.</note>
+        <note>Title supplied by cataloger.</note>
+      </notesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <settlement>Philadelphia</settlement>
+            <institution>University of Pennsylvania</institution>
+            <repository>Rare Book &amp; Manuscript Library</repository>
+            <idno type="call-number">Ms. Codex 1247</idno>
+            <altIdentifier type="bibid">
+              <idno>4384415</idno>
+            </altIdentifier>
+            <altIdentifier type="resource">
+              <idno>http://hdl.library.upenn.edu/1017/d/medren/4384415</idno>
+            </altIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary>Seven notarial records of the sale of land near Siena, by Todescus Francisci de Fodio, Marcus Johannis Dominici and members of the Capolano family to Niccolo Piccolomini, and dated from 1469 to 1476. Notarized primarily by Francisco Andre̜ Ciogni. With several notarial signets (f. 2v, 3r, 6v, 8r).</summary>
+            <textLang>Latin</textLang>
+            <msItem>
+              <title>Sale records</title>
+              <author>Piccolomini, Niccolò D'Andrea</author>
+              <respStmt>
+                <resp>former owner</resp>
+                <persName>Phillipps, Thomas, Sir, 1792-1872</persName>
+              </respStmt>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc material="mixed">
+                <support>
+                  <p>parchment</p>
+                </support>
+                <extent>10 leaves : 225 x 150 mm. bound to 230 x 153 mm</extent>
+                <foliation>Parchment, 10; [1-10]; modern foliation in pencil, lower right recto.</foliation>
+              </supportDesc>
+            </objectDesc>
+            <scriptDesc>
+              <scriptNote>Written in several secretary hands.</scriptNote>
+            </scriptDesc>
+            <bindingDesc>
+              <binding>
+                <p>Bound in modern boards.</p>
+              </binding>
+            </bindingDesc>
+          </physDesc>
+          <history>
+            <origin>
+              <p>Written in Siena between 1469 and 1476 (f. 1r, 4v).</p>
+              <origDate>1469-1476</origDate>
+              <origPlace>Siena</origPlace>
+            </origin>
+            <provenance>Formerly owned by Sir Thomas Phillipps, ms. 21819.</provenance>
+            <provenance>Sold by Thomas (?), 1968.</provenance>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords n="subjects">
+          <term>Real property.--Italy--15th century</term>
+        </keywords>
+        <keywords n="form/genre">
+          <term>Codices</term>
+          <term>Notarial documents</term>
+          <term>Manuscripts, Latin--15th century</term>
+          <term>Manuscripts, Renaissance</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface n="Front cover">
+      <graphic height="5821px" url="master/2328_0000.tif" width="4050px"/>
+      <graphic height="190px" url="thumb/2328_0000_thumb.jpg" width="132px"/>
+      <graphic height="1800px" url="web/2328_0000_web.jpg" width="1252px"/>
+    </surface>
+    <surface n="Inside front cover">
+      <graphic height="5821px" url="master/2328_0001.tif" width="4050px"/>
+      <graphic height="190px" url="thumb/2328_0001_thumb.jpg" width="132px"/>
+      <graphic height="1800px" url="web/2328_0001_web.jpg" width="1252px"/>
+    </surface>
+    <surface n="1r">
+      <graphic height="5821px" url="master/2328_0002.tif" width="4050px"/>
+      <graphic height="190px" url="thumb/2328_0002_thumb.jpg" width="132px"/>
+      <graphic height="1800px" url="web/2328_0002_web.jpg" width="1252px"/>
+    </surface>
+    <surface n="1v">
+      <graphic height="5821px" url="master/2328_0003.tif" width="4050px"/>
+      <graphic height="190px" url="thumb/2328_0003_thumb.jpg" width="132px"/>
+      <graphic height="1800px" url="web/2328_0003_web.jpg" width="1252px"/>
+    </surface>
+    <surface n="2r">
+      <graphic height="5821px" url="master/2328_0004.tif" width="4050px"/>
+      <graphic height="190px" url="thumb/2328_0004_thumb.jpg" width="132px"/>
+      <graphic height="1800px" url="web/2328_0004_web.jpg" width="1252px"/>
+    </surface>
+    <surface n="2v">
+      <graphic height="5821px" url="master/2328_0005.tif" width="4050px"/>
+      <graphic height="190px" url="thumb/2328_0005_thumb.jpg" width="132px"/>
+      <graphic height="1800px" url="web/2328_0005_web.jpg" width="1252px"/>
+    </surface>
+    <surface n="3r">
+      <graphic height="5821px" url="master/2328_0006.tif" width="4050px"/>
+      <graphic height="190px" url="thumb/2328_0006_thumb.jpg" width="132px"/>
+      <graphic height="1800px" url="web/2328_0006_web.jpg" width="1252px"/>
+    </surface>
+    <surface n="3v">
+      <graphic height="5821px" url="master/2328_0007.tif" width="4050px"/>
+      <graphic height="190px" url="thumb/2328_0007_thumb.jpg" width="132px"/>
+      <graphic height="1800px" url="web/2328_0007_web.jpg" width="1252px"/>
+    </surface>
+    <surface n="4r">
+      <graphic height="5821px" url="master/2328_0008.tif" width="4050px"/>
+      <graphic height="190px" url="thumb/2328_0008_thumb.jpg" width="132px"/>
+      <graphic height="1800px" url="web/2328_0008_web.jpg" width="1252px"/>
+    </surface>
+    <surface n="4v">
+      <graphic height="5821px" url="master/2328_0009.tif" width="4050px"/>
+      <graphic height="190px" url="thumb/2328_0009_thumb.jpg" width="132px"/>
+      <graphic height="1800px" url="web/2328_0009_web.jpg" width="1252px"/>
+    </surface>
+    <surface n="5r">
+      <graphic height="5821px" url="master/2328_0010.tif" width="4050px"/>
+      <graphic height="190px" url="thumb/2328_0010_thumb.jpg" width="132px"/>
+      <graphic height="1800px" url="web/2328_0010_web.jpg" width="1252px"/>
+    </surface>
+    <surface n="5v">
+      <graphic height="5821px" url="master/2328_0011.tif" width="4050px"/>
+      <graphic height="190px" url="thumb/2328_0011_thumb.jpg" width="132px"/>
+      <graphic height="1800px" url="web/2328_0011_web.jpg" width="1252px"/>
+    </surface>
+    <surface n="6r">
+      <graphic height="5821px" url="master/2328_0012.tif" width="4050px"/>
+      <graphic height="190px" url="thumb/2328_0012_thumb.jpg" width="132px"/>
+      <graphic height="1800px" url="web/2328_0012_web.jpg" width="1252px"/>
+    </surface>
+    <surface n="6v">
+      <graphic height="5821px" url="master/2328_0013.tif" width="4050px"/>
+      <graphic height="190px" url="thumb/2328_0013_thumb.jpg" width="132px"/>
+      <graphic height="1800px" url="web/2328_0013_web.jpg" width="1252px"/>
+    </surface>
+    <surface n="7r">
+      <graphic height="5821px" url="master/2328_0014.tif" width="4050px"/>
+      <graphic height="190px" url="thumb/2328_0014_thumb.jpg" width="132px"/>
+      <graphic height="1800px" url="web/2328_0014_web.jpg" width="1252px"/>
+    </surface>
+    <surface n="7v">
+      <graphic height="5821px" url="master/2328_0015.tif" width="4050px"/>
+      <graphic height="190px" url="thumb/2328_0015_thumb.jpg" width="132px"/>
+      <graphic height="1800px" url="web/2328_0015_web.jpg" width="1252px"/>
+    </surface>
+    <surface n="8r">
+      <graphic height="5821px" url="master/2328_0016.tif" width="4050px"/>
+      <graphic height="190px" url="thumb/2328_0016_thumb.jpg" width="132px"/>
+      <graphic height="1800px" url="web/2328_0016_web.jpg" width="1252px"/>
+    </surface>
+    <surface n="8v">
+      <graphic height="5821px" url="master/2328_0017.tif" width="4050px"/>
+      <graphic height="190px" url="thumb/2328_0017_thumb.jpg" width="132px"/>
+      <graphic height="1800px" url="web/2328_0017_web.jpg" width="1252px"/>
+    </surface>
+    <surface n="9r">
+      <graphic height="5821px" url="master/2328_0018.tif" width="4050px"/>
+      <graphic height="190px" url="thumb/2328_0018_thumb.jpg" width="132px"/>
+      <graphic height="1800px" url="web/2328_0018_web.jpg" width="1252px"/>
+    </surface>
+    <surface n="9v">
+      <graphic height="5821px" url="master/2328_0019.tif" width="4050px"/>
+      <graphic height="190px" url="thumb/2328_0019_thumb.jpg" width="132px"/>
+      <graphic height="1800px" url="web/2328_0019_web.jpg" width="1252px"/>
+    </surface>
+    <surface n="10r">
+      <graphic height="5821px" url="master/2328_0020.tif" width="4050px"/>
+      <graphic height="190px" url="thumb/2328_0020_thumb.jpg" width="132px"/>
+      <graphic height="1800px" url="web/2328_0020_web.jpg" width="1252px"/>
+    </surface>
+    <surface n="10v">
+      <graphic height="5821px" url="master/2328_0021.tif" width="4050px"/>
+      <graphic height="190px" url="thumb/2328_0021_thumb.jpg" width="132px"/>
+      <graphic height="1800px" url="web/2328_0021_web.jpg" width="1252px"/>
+    </surface>
+    <surface n="Inside back cover">
+      <graphic height="5821px" url="master/2328_0022.tif" width="4050px"/>
+      <graphic height="190px" url="thumb/2328_0022_thumb.jpg" width="132px"/>
+      <graphic height="1800px" url="web/2328_0022_web.jpg" width="1252px"/>
+    </surface>
+    <surface n="Back cover">
+      <graphic height="5821px" url="master/2328_0023.tif" width="4050px"/>
+      <graphic height="190px" url="thumb/2328_0023_thumb.jpg" width="132px"/>
+      <graphic height="1800px" url="web/2328_0023_web.jpg" width="1252px"/>
+    </surface>
+    <surface n="Spine">
+      <graphic height="5821px" url="master/2328_0024.tif" width="4050px"/>
+      <graphic height="190px" url="thumb/2328_0024_thumb.jpg" width="132px"/>
+      <graphic height="1800px" url="web/2328_0024_web.jpg" width="1252px"/>
+    </surface>
+  </facsimile>
+</TEI>

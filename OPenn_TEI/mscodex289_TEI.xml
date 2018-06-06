@@ -1,0 +1,206 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Description of University of Pennsylvania Ms. Codex 289: Historia de Papa Allexandro sic et Phridrico Barba Rossa</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>The University of Pennsylvania Libraries</publisher>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by/4.0/legalcode">
+                                This description is ©2015 University of
+                                Pennsylvania Libraries. It is licensed under a Creative Commons
+                                Attribution License version 4.0 (CC-BY-4.0
+                                https://creativecommons.org/licenses/by/4.0/legalcode. For a
+                                description of the terms of use see the Creative Commons Deed
+                                https://creativecommons.org/licenses/by/4.0/. </licence>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/"> All
+                                referenced images and their content are free of known copyright
+                                restrictions and in the public domain. See the Creative Commons
+                                Public Domain Mark page for usage details,
+                                http://creativecommons.org/publicdomain/mark/1.0/. </licence>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note>Ms. codex.</note>
+        <note>Title from title page (f. 2r).</note>
+        <note>Cover title: Historia de PP. Alessandro III et Fedrico Barba Rossa I Imperatore de Romani.</note>
+        <note>Alleged to be a copy of the original found in the Venetian chancellery archives by a secretary and presented to the Doge, Francesco Dona; the copy was made at the request of Pietro Morro.</note>
+        <note>Subscription after title on f. 2r: Fu trovata da un secretario che haveva carico di regolar le scritture antiche della Duchal cancellaria di Venetia et prensentada [sic] al Serr.mo. Prin.pe Dno. Franc.o. Dona dove e sta tratta la presente copia nella istessa lengua et forma in tuto como gtta. et ame. mandata da M. Pietro Morro familiar del sudetto Principe Dona.</note>
+        <note>Incipit (f. 3r): Hec sunt iurisditiones, &amp; regalie quibus urbs Veneta claruit donis ab Alexandro qui tertius fuit papa anno mileno centeno septeno in quo regnabat Cesar Augustus scilicit Barba Rossa vocatus ...</note>
+        <note>Cover worn and abraded; cover title partly worn away. Folios 6-9 are uncut at the top. Some stains and smudges. Indications of possible slight worm and mouse damage.</note>
+      </notesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <settlement>Philadelphia</settlement>
+            <institution>University of Pennsylvania</institution>
+            <repository>Rare Book &amp; Manuscript Library</repository>
+            <idno type="call-number">Ms. Codex 289</idno>
+            <altIdentifier type="bibid">
+              <idno>1580900</idno>
+            </altIdentifier>
+            <altIdentifier type="resource">
+              <idno>http://hdl.library.upenn.edu/1017/d/medren/1580900</idno>
+            </altIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary>Account of Pope Alexander III and Emperor Frederick I (Barbarossa). Text occupies f. 2r-5v; f. 6-10 are blank.</summary>
+            <textLang mainLang="ita" otherLangs="lat">Italian, with short introduction in Latin</textLang>
+            <msItem>
+              <title>Historia de Papa Allexandro sic et Phridrico Barba Rossa</title>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc material="paper">
+                <support>
+                  <p>paper</p>
+                </support>
+                <extent>10 leaves : 119 x 145 (166 x 120) mm. bound to 196 x 145 mm</extent>
+                <foliation>Paper, 10; [1-10]; modern foliation in pencil, upper right recto.</foliation>
+              </supportDesc>
+            </objectDesc>
+            <scriptDesc>
+              <scriptNote>Written in a humanistic script by a single hand, except possibly for the title and title-page subscription.</scriptNote>
+            </scriptDesc>
+            <bindingDesc>
+              <binding>
+                <p>Contemporary vellum.</p>
+              </binding>
+            </bindingDesc>
+          </physDesc>
+          <history>
+            <origin>
+              <p>Written in Venice in the middle of the 16th century (Zacour-Hirsch).</p>
+              <origDate>between 1525 and 1575</origDate>
+              <origPlace>Venice</origPlace>
+            </origin>
+            <provenance>Acquired, 1959.</provenance>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords n="subjects">
+          <term>Catholic Church--Foreign relations--12th century</term>
+        </keywords>
+        <keywords n="form/genre">
+          <term>Codices</term>
+          <term>Histories</term>
+          <term>Manuscripts, Italian--16th century</term>
+          <term>Manuscripts, Renaissance</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface n="Front cover">
+      <graphic height="5109px" url="master/0562_0000.tif" width="3923px"/>
+      <graphic height="190px" url="thumb/0562_0000_thumb.jpg" width="146px"/>
+      <graphic height="1800px" url="web/0562_0000_web.jpg" width="1382px"/>
+    </surface>
+    <surface n="Inside front cover">
+      <graphic height="5109px" url="master/0562_0001.tif" width="3923px"/>
+      <graphic height="190px" url="thumb/0562_0001_thumb.jpg" width="146px"/>
+      <graphic height="1800px" url="web/0562_0001_web.jpg" width="1382px"/>
+    </surface>
+    <surface n="1r">
+      <graphic height="5109px" url="master/0562_0002.tif" width="3923px"/>
+      <graphic height="190px" url="thumb/0562_0002_thumb.jpg" width="146px"/>
+      <graphic height="1800px" url="web/0562_0002_web.jpg" width="1382px"/>
+    </surface>
+    <surface n="1v">
+      <graphic height="5109px" url="master/0562_0003.tif" width="3923px"/>
+      <graphic height="190px" url="thumb/0562_0003_thumb.jpg" width="146px"/>
+      <graphic height="1800px" url="web/0562_0003_web.jpg" width="1382px"/>
+    </surface>
+    <surface n="2r">
+      <graphic height="5109px" url="master/0562_0004.tif" width="3923px"/>
+      <graphic height="190px" url="thumb/0562_0004_thumb.jpg" width="146px"/>
+      <graphic height="1800px" url="web/0562_0004_web.jpg" width="1382px"/>
+    </surface>
+    <surface n="2v">
+      <graphic height="5109px" url="master/0562_0005.tif" width="3923px"/>
+      <graphic height="190px" url="thumb/0562_0005_thumb.jpg" width="146px"/>
+      <graphic height="1800px" url="web/0562_0005_web.jpg" width="1382px"/>
+    </surface>
+    <surface n="3r">
+      <graphic height="5109px" url="master/0562_0006.tif" width="3923px"/>
+      <graphic height="190px" url="thumb/0562_0006_thumb.jpg" width="146px"/>
+      <graphic height="1800px" url="web/0562_0006_web.jpg" width="1382px"/>
+    </surface>
+    <surface n="3v">
+      <graphic height="5109px" url="master/0562_0007.tif" width="3923px"/>
+      <graphic height="190px" url="thumb/0562_0007_thumb.jpg" width="146px"/>
+      <graphic height="1800px" url="web/0562_0007_web.jpg" width="1382px"/>
+    </surface>
+    <surface n="4r">
+      <graphic height="5109px" url="master/0562_0008.tif" width="3923px"/>
+      <graphic height="190px" url="thumb/0562_0008_thumb.jpg" width="146px"/>
+      <graphic height="1800px" url="web/0562_0008_web.jpg" width="1382px"/>
+    </surface>
+    <surface n="4v">
+      <graphic height="5109px" url="master/0562_0009.tif" width="3923px"/>
+      <graphic height="190px" url="thumb/0562_0009_thumb.jpg" width="146px"/>
+      <graphic height="1800px" url="web/0562_0009_web.jpg" width="1382px"/>
+    </surface>
+    <surface n="5r">
+      <graphic height="5109px" url="master/0562_0010.tif" width="3923px"/>
+      <graphic height="190px" url="thumb/0562_0010_thumb.jpg" width="146px"/>
+      <graphic height="1800px" url="web/0562_0010_web.jpg" width="1382px"/>
+    </surface>
+    <surface n="5v">
+      <graphic height="5109px" url="master/0562_0011.tif" width="3923px"/>
+      <graphic height="190px" url="thumb/0562_0011_thumb.jpg" width="146px"/>
+      <graphic height="1800px" url="web/0562_0011_web.jpg" width="1382px"/>
+    </surface>
+    <surface n="6r (folios 6-7 uncut, 6v-7r blank, not shot)">
+      <graphic height="5109px" url="master/0562_0012.tif" width="3923px"/>
+      <graphic height="190px" url="thumb/0562_0012_thumb.jpg" width="146px"/>
+      <graphic height="1800px" url="web/0562_0012_web.jpg" width="1382px"/>
+    </surface>
+    <surface n="7v">
+      <graphic height="5109px" url="master/0562_0013.tif" width="3923px"/>
+      <graphic height="190px" url="thumb/0562_0013_thumb.jpg" width="146px"/>
+      <graphic height="1800px" url="web/0562_0013_web.jpg" width="1382px"/>
+    </surface>
+    <surface n="8r (folios 8-9 uncut, 8v-9r blank, not shot)">
+      <graphic height="5109px" url="master/0562_0014.tif" width="3923px"/>
+      <graphic height="190px" url="thumb/0562_0014_thumb.jpg" width="146px"/>
+      <graphic height="1800px" url="web/0562_0014_web.jpg" width="1382px"/>
+    </surface>
+    <surface n="9v">
+      <graphic height="5109px" url="master/0562_0015.tif" width="3923px"/>
+      <graphic height="190px" url="thumb/0562_0015_thumb.jpg" width="146px"/>
+      <graphic height="1800px" url="web/0562_0015_web.jpg" width="1382px"/>
+    </surface>
+    <surface n="10r">
+      <graphic height="5109px" url="master/0562_0016.tif" width="3923px"/>
+      <graphic height="190px" url="thumb/0562_0016_thumb.jpg" width="146px"/>
+      <graphic height="1800px" url="web/0562_0016_web.jpg" width="1382px"/>
+    </surface>
+    <surface n="10v">
+      <graphic height="5109px" url="master/0562_0017.tif" width="3923px"/>
+      <graphic height="190px" url="thumb/0562_0017_thumb.jpg" width="146px"/>
+      <graphic height="1800px" url="web/0562_0017_web.jpg" width="1382px"/>
+    </surface>
+    <surface n="Inside back cover">
+      <graphic height="5109px" url="master/0562_0018.tif" width="3923px"/>
+      <graphic height="190px" url="thumb/0562_0018_thumb.jpg" width="146px"/>
+      <graphic height="1800px" url="web/0562_0018_web.jpg" width="1382px"/>
+    </surface>
+    <surface n="Back cover">
+      <graphic height="5109px" url="master/0562_0019.tif" width="3923px"/>
+      <graphic height="190px" url="thumb/0562_0019_thumb.jpg" width="146px"/>
+      <graphic height="1800px" url="web/0562_0019_web.jpg" width="1382px"/>
+    </surface>
+    <surface n="No spine">
+      <graphic height="5398px" url="master/0562_0020.tif" width="3897px"/>
+      <graphic height="190px" url="thumb/0562_0020_thumb.jpg" width="137px"/>
+      <graphic height="1800px" url="web/0562_0020_web.jpg" width="1299px"/>
+    </surface>
+  </facsimile>
+</TEI>

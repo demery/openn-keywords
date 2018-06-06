@@ -1,0 +1,301 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Description of University of Pennsylvania Ms. Codex 91: Statutes and ordinances</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>The University of Pennsylvania Libraries</publisher>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by/4.0/legalcode">
+                                This description is ©2015 University of
+                                Pennsylvania Libraries. It is licensed under a Creative Commons
+                                Attribution License version 4.0 (CC-BY-4.0
+                                https://creativecommons.org/licenses/by/4.0/legalcode. For a
+                                description of the terms of use see the Creative Commons Deed
+                                https://creativecommons.org/licenses/by/4.0/. </licence>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/"> All
+                                referenced images and their content are free of known copyright
+                                restrictions and in the public domain. See the Creative Commons
+                                Public Domain Mark page for usage details,
+                                http://creativecommons.org/publicdomain/mark/1.0/. </licence>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note>Ms. codex.</note>
+        <note>Title supplied by cataloger (Zacour-Hirsch).</note>
+        <note>Extant second folio bears the contemporary folio number 11. This was probably f. 11 of the first quire, presumably a quire of six bifolia. The conjoint of f. 11 (i.e., the extant first folio) would thus have been f. 2 of the manuscript. The remaining two quires are numbered f. 21-36, and the extant back cover is numbered f. 37. Thus one quire of 4 bifolia (8 f.) is missing, in addition to 10 folios of the first quire.</note>
+        <note>First fragment is a single bifolium; its first folio (f. 2 of the manuscript) is torn in half vertically. The second and third fragments are quires. Original cover was limp vellum; only the back is extant (= f. 37). All the fragments are wrapped in two 19th-century paper leaves.</note>
+        <note>Some worm holes in first fragment.</note>
+      </notesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <settlement>Philadelphia</settlement>
+            <institution>University of Pennsylvania</institution>
+            <repository>Rare Book &amp; Manuscript Library</repository>
+            <idno type="call-number">Ms. Codex 91</idno>
+            <altIdentifier type="bibid">
+              <idno>1580407</idno>
+            </altIdentifier>
+            <altIdentifier type="resource">
+              <idno>http://hdl.library.upenn.edu/1017/d/medren/1580407</idno>
+            </altIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary>Miscellaneous collection of laws, statutes and ordinances of Città di Castello, in Umbria in Italy. Also includes lists of holidays; roll of citizens by parish (parishes listed are St. Floridus, St. Jacobus and St. Egidius); record of fees collected, ranging in date 1514-1566; notarial documents; etc.</summary>
+            <textLang mainLang="lat" otherLangs="ita">Latin, with many 16th- and 17th-century entries and marginalia in Italian</textLang>
+            <msItem>
+              <title>Statutes and ordinances</title>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc material="parchment">
+                <support>
+                  <p>parchment</p>
+                </support>
+                <extent>19 leaves : 318 x 239 mm</extent>
+                <collation>
+                  <p>Paper, 19; 1¹²(-10), [2⁸], 3-4⁸; [2?], 11, 21-37; contemporary foliation in ink, upper right recto. Quire 2 is missing, as is all but one bifolium of quire 1. References in this record are to contemporary foliation.</p>
+                  <p>
+                    <signatures>Contemporary arabic numerals, lower left corner, first recto of quire. The two extant quires (second and third fragments) have the signatures 3 and 4.</signatures>
+                  </p>
+                </collation>
+              </supportDesc>
+            </objectDesc>
+            <scriptDesc>
+              <scriptNote>Written in Gothic cursive and humanistic scripts by many different hands. Much of the text has faded and is difficult to read.</scriptNote>
+            </scriptDesc>
+            <decoDesc>
+              <decoNote>Some use of red and blue ink (f. 2r-2v); manicules (f. 29r); notarial signets (f. 29r, 29v).</decoNote>
+              <decoNote n="29r =11r">Manicule, f. 29r [=11r]</decoNote>
+              <decoNote n="29r =11r">Notarial signet, f. 29r [=11r]</decoNote>
+              <decoNote n="29v =11v">Notarial signet, f. 29v [=11v]</decoNote>
+            </decoDesc>
+          </physDesc>
+          <history>
+            <origin>
+              <p>Written in Città di Castello (Italy) in the early and late 15th century, with some 16th- and 17th-century notes, additions and marginalia.</p>
+              <origDate>14--</origDate>
+              <origPlace>Città di Castello, Italy</origPlace>
+            </origin>
+            <provenance>Purchased, 1954.</provenance>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords n="subjects">
+          <term>Law--Italy--Città di Castello</term>
+        </keywords>
+        <keywords n="form/genre">
+          <term>Codices</term>
+          <term>Notarial documents</term>
+          <term>Statutes</term>
+          <term>Manuscripts, Latin--15th century</term>
+          <term>Manuscripts, Renaissance</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface n="1r">
+      <graphic height="5493px" url="master/0525_0000.tif" width="4462px"/>
+      <graphic height="190px" url="thumb/0525_0000_thumb.jpg" width="154px"/>
+      <graphic height="1800px" url="web/0525_0000_web.jpg" width="1462px"/>
+    </surface>
+    <surface n="1v">
+      <graphic height="5493px" url="master/0525_0001.tif" width="4462px"/>
+      <graphic height="190px" url="thumb/0525_0001_thumb.jpg" width="154px"/>
+      <graphic height="1800px" url="web/0525_0001_web.jpg" width="1462px"/>
+    </surface>
+    <surface n="11r =2r">
+      <graphic height="5493px" url="master/0525_0002.tif" width="4462px"/>
+      <graphic height="190px" url="thumb/0525_0002_thumb.jpg" width="154px"/>
+      <graphic height="1800px" url="web/0525_0002_web.jpg" width="1462px"/>
+    </surface>
+    <surface n="11v =2v">
+      <graphic height="5493px" url="master/0525_0003.tif" width="4462px"/>
+      <graphic height="190px" url="thumb/0525_0003_thumb.jpg" width="154px"/>
+      <graphic height="1800px" url="web/0525_0003_web.jpg" width="1462px"/>
+    </surface>
+    <surface n="21r =3r">
+      <graphic height="5493px" url="master/0525_0004.tif" width="4462px"/>
+      <graphic height="190px" url="thumb/0525_0004_thumb.jpg" width="154px"/>
+      <graphic height="1800px" url="web/0525_0004_web.jpg" width="1462px"/>
+    </surface>
+    <surface n="21v =3v">
+      <graphic height="5493px" url="master/0525_0005.tif" width="4462px"/>
+      <graphic height="190px" url="thumb/0525_0005_thumb.jpg" width="154px"/>
+      <graphic height="1800px" url="web/0525_0005_web.jpg" width="1462px"/>
+    </surface>
+    <surface n="22r =4r">
+      <graphic height="5493px" url="master/0525_0006.tif" width="4462px"/>
+      <graphic height="190px" url="thumb/0525_0006_thumb.jpg" width="154px"/>
+      <graphic height="1800px" url="web/0525_0006_web.jpg" width="1462px"/>
+    </surface>
+    <surface n="22v =4v">
+      <graphic height="5493px" url="master/0525_0007.tif" width="4462px"/>
+      <graphic height="190px" url="thumb/0525_0007_thumb.jpg" width="154px"/>
+      <graphic height="1800px" url="web/0525_0007_web.jpg" width="1462px"/>
+    </surface>
+    <surface n="23r =5r">
+      <graphic height="5493px" url="master/0525_0008.tif" width="4462px"/>
+      <graphic height="190px" url="thumb/0525_0008_thumb.jpg" width="154px"/>
+      <graphic height="1800px" url="web/0525_0008_web.jpg" width="1462px"/>
+    </surface>
+    <surface n="23v =5v">
+      <graphic height="5493px" url="master/0525_0009.tif" width="4462px"/>
+      <graphic height="190px" url="thumb/0525_0009_thumb.jpg" width="154px"/>
+      <graphic height="1800px" url="web/0525_0009_web.jpg" width="1462px"/>
+    </surface>
+    <surface n="24r =6r">
+      <graphic height="5493px" url="master/0525_0010.tif" width="4462px"/>
+      <graphic height="190px" url="thumb/0525_0010_thumb.jpg" width="154px"/>
+      <graphic height="1800px" url="web/0525_0010_web.jpg" width="1462px"/>
+    </surface>
+    <surface n="24v =6v">
+      <graphic height="5493px" url="master/0525_0011.tif" width="4462px"/>
+      <graphic height="190px" url="thumb/0525_0011_thumb.jpg" width="154px"/>
+      <graphic height="1800px" url="web/0525_0011_web.jpg" width="1462px"/>
+    </surface>
+    <surface n="25r =7r">
+      <graphic height="5493px" url="master/0525_0012.tif" width="4462px"/>
+      <graphic height="190px" url="thumb/0525_0012_thumb.jpg" width="154px"/>
+      <graphic height="1800px" url="web/0525_0012_web.jpg" width="1462px"/>
+    </surface>
+    <surface n="25v =7v">
+      <graphic height="5493px" url="master/0525_0013.tif" width="4462px"/>
+      <graphic height="190px" url="thumb/0525_0013_thumb.jpg" width="154px"/>
+      <graphic height="1800px" url="web/0525_0013_web.jpg" width="1462px"/>
+    </surface>
+    <surface n="26r =8r">
+      <graphic height="5493px" url="master/0525_0014.tif" width="4462px"/>
+      <graphic height="190px" url="thumb/0525_0014_thumb.jpg" width="154px"/>
+      <graphic height="1800px" url="web/0525_0014_web.jpg" width="1462px"/>
+    </surface>
+    <surface n="26v =8v">
+      <graphic height="5493px" url="master/0525_0015.tif" width="4462px"/>
+      <graphic height="190px" url="thumb/0525_0015_thumb.jpg" width="154px"/>
+      <graphic height="1800px" url="web/0525_0015_web.jpg" width="1462px"/>
+    </surface>
+    <surface n="27r =9r">
+      <graphic height="5493px" url="master/0525_0016.tif" width="4462px"/>
+      <graphic height="190px" url="thumb/0525_0016_thumb.jpg" width="154px"/>
+      <graphic height="1800px" url="web/0525_0016_web.jpg" width="1462px"/>
+    </surface>
+    <surface n="27v =9v">
+      <graphic height="5493px" url="master/0525_0017.tif" width="4462px"/>
+      <graphic height="190px" url="thumb/0525_0017_thumb.jpg" width="154px"/>
+      <graphic height="1800px" url="web/0525_0017_web.jpg" width="1462px"/>
+    </surface>
+    <surface n="28r =10r">
+      <graphic height="5493px" url="master/0525_0018.tif" width="4462px"/>
+      <graphic height="190px" url="thumb/0525_0018_thumb.jpg" width="154px"/>
+      <graphic height="1800px" url="web/0525_0018_web.jpg" width="1462px"/>
+    </surface>
+    <surface n="28v =10v">
+      <graphic height="5493px" url="master/0525_0019.tif" width="4462px"/>
+      <graphic height="190px" url="thumb/0525_0019_thumb.jpg" width="154px"/>
+      <graphic height="1800px" url="web/0525_0019_web.jpg" width="1462px"/>
+    </surface>
+    <surface n="29r =11r">
+      <graphic height="5493px" url="master/0525_0020.tif" width="4462px"/>
+      <graphic height="190px" url="thumb/0525_0020_thumb.jpg" width="154px"/>
+      <graphic height="1800px" url="web/0525_0020_web.jpg" width="1462px"/>
+    </surface>
+    <surface n="29v =11v">
+      <graphic height="5493px" url="master/0525_0021.tif" width="4462px"/>
+      <graphic height="190px" url="thumb/0525_0021_thumb.jpg" width="154px"/>
+      <graphic height="1800px" url="web/0525_0021_web.jpg" width="1462px"/>
+    </surface>
+    <surface n="30r =12r">
+      <graphic height="5493px" url="master/0525_0022.tif" width="4462px"/>
+      <graphic height="190px" url="thumb/0525_0022_thumb.jpg" width="154px"/>
+      <graphic height="1800px" url="web/0525_0022_web.jpg" width="1462px"/>
+    </surface>
+    <surface n="30v =12v">
+      <graphic height="5493px" url="master/0525_0023.tif" width="4462px"/>
+      <graphic height="190px" url="thumb/0525_0023_thumb.jpg" width="154px"/>
+      <graphic height="1800px" url="web/0525_0023_web.jpg" width="1462px"/>
+    </surface>
+    <surface n="31r =13r">
+      <graphic height="5493px" url="master/0525_0024.tif" width="4462px"/>
+      <graphic height="190px" url="thumb/0525_0024_thumb.jpg" width="154px"/>
+      <graphic height="1800px" url="web/0525_0024_web.jpg" width="1462px"/>
+    </surface>
+    <surface n="31v =13v">
+      <graphic height="5493px" url="master/0525_0025.tif" width="4462px"/>
+      <graphic height="190px" url="thumb/0525_0025_thumb.jpg" width="154px"/>
+      <graphic height="1800px" url="web/0525_0025_web.jpg" width="1462px"/>
+    </surface>
+    <surface n="32r =14r">
+      <graphic height="5493px" url="master/0525_0026.tif" width="4462px"/>
+      <graphic height="190px" url="thumb/0525_0026_thumb.jpg" width="154px"/>
+      <graphic height="1800px" url="web/0525_0026_web.jpg" width="1462px"/>
+    </surface>
+    <surface n="32v =14v">
+      <graphic height="5493px" url="master/0525_0027.tif" width="4462px"/>
+      <graphic height="190px" url="thumb/0525_0027_thumb.jpg" width="154px"/>
+      <graphic height="1800px" url="web/0525_0027_web.jpg" width="1462px"/>
+    </surface>
+    <surface n="33r =15r">
+      <graphic height="5493px" url="master/0525_0028.tif" width="4462px"/>
+      <graphic height="190px" url="thumb/0525_0028_thumb.jpg" width="154px"/>
+      <graphic height="1800px" url="web/0525_0028_web.jpg" width="1462px"/>
+    </surface>
+    <surface n="33v =15v">
+      <graphic height="5493px" url="master/0525_0029.tif" width="4462px"/>
+      <graphic height="190px" url="thumb/0525_0029_thumb.jpg" width="154px"/>
+      <graphic height="1800px" url="web/0525_0029_web.jpg" width="1462px"/>
+    </surface>
+    <surface n="34r =16r">
+      <graphic height="5493px" url="master/0525_0030.tif" width="4462px"/>
+      <graphic height="190px" url="thumb/0525_0030_thumb.jpg" width="154px"/>
+      <graphic height="1800px" url="web/0525_0030_web.jpg" width="1462px"/>
+    </surface>
+    <surface n="34v =16v">
+      <graphic height="5493px" url="master/0525_0031.tif" width="4462px"/>
+      <graphic height="190px" url="thumb/0525_0031_thumb.jpg" width="154px"/>
+      <graphic height="1800px" url="web/0525_0031_web.jpg" width="1462px"/>
+    </surface>
+    <surface n="35r =17r">
+      <graphic height="5493px" url="master/0525_0032.tif" width="4462px"/>
+      <graphic height="190px" url="thumb/0525_0032_thumb.jpg" width="154px"/>
+      <graphic height="1800px" url="web/0525_0032_web.jpg" width="1462px"/>
+    </surface>
+    <surface n="35v =17v">
+      <graphic height="5493px" url="master/0525_0033.tif" width="4462px"/>
+      <graphic height="190px" url="thumb/0525_0033_thumb.jpg" width="154px"/>
+      <graphic height="1800px" url="web/0525_0033_web.jpg" width="1462px"/>
+    </surface>
+    <surface n="36r =18r">
+      <graphic height="5493px" url="master/0525_0034.tif" width="4462px"/>
+      <graphic height="190px" url="thumb/0525_0034_thumb.jpg" width="154px"/>
+      <graphic height="1800px" url="web/0525_0034_web.jpg" width="1462px"/>
+    </surface>
+    <surface n="36v =18v">
+      <graphic height="5493px" url="master/0525_0035.tif" width="4462px"/>
+      <graphic height="190px" url="thumb/0525_0035_thumb.jpg" width="154px"/>
+      <graphic height="1800px" url="web/0525_0035_web.jpg" width="1462px"/>
+    </surface>
+    <surface n="37r =19r">
+      <graphic height="5493px" url="master/0525_0036.tif" width="4462px"/>
+      <graphic height="190px" url="thumb/0525_0036_thumb.jpg" width="154px"/>
+      <graphic height="1800px" url="web/0525_0036_web.jpg" width="1462px"/>
+    </surface>
+    <surface n="37v =19v">
+      <graphic height="5493px" url="master/0525_0037.tif" width="4462px"/>
+      <graphic height="190px" url="thumb/0525_0037_thumb.jpg" width="154px"/>
+      <graphic height="1800px" url="web/0525_0037_web.jpg" width="1462px"/>
+    </surface>
+    <surface n="No spine">
+      <graphic height="5609px" url="master/0525_0038.tif" width="4500px"/>
+      <graphic height="190px" url="thumb/0525_0038_thumb.jpg" width="152px"/>
+      <graphic height="1800px" url="web/0525_0038_web.jpg" width="1444px"/>
+    </surface>
+  </facsimile>
+</TEI>

@@ -1,0 +1,235 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Description of University of Pennsylvania Ms. Codex 1179: Document concerning property rights dispute</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>The University of Pennsylvania Libraries</publisher>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by/4.0/legalcode">
+                                This description is ©2016 University of
+                                Pennsylvania Libraries. It is licensed under a Creative Commons
+                                Attribution License version 4.0 (CC-BY-4.0
+                                https://creativecommons.org/licenses/by/4.0/legalcode. For a
+                                description of the terms of use see the Creative Commons Deed
+                                https://creativecommons.org/licenses/by/4.0/. </licence>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/"> All
+                                referenced images and their content are free of known copyright
+                                restrictions and in the public domain. See the Creative Commons
+                                Public Domain Mark page for usage details,
+                                http://creativecommons.org/publicdomain/mark/1.0/. </licence>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note>Ms. gathering.</note>
+        <note>Title supplied by cataloger.</note>
+      </notesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <settlement>Philadelphia</settlement>
+            <institution>University of Pennsylvania</institution>
+            <repository>Rare Book &amp; Manuscript Library</repository>
+            <idno type="call-number">Ms. Codex 1179</idno>
+            <altIdentifier type="bibid">
+              <idno>4311092</idno>
+            </altIdentifier>
+            <altIdentifier type="resource">
+              <idno>http://hdl.library.upenn.edu/1017/d/medren/4311092</idno>
+            </altIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary>Copy of notarial document contesting the rights to the property of Francesco and Giovanni (or Johannes) di Leone of Ferrara(?) in the Venetian province of Rovigo, made on behalf of the republic of Venice by Antonius Ferro. The first half of the document consists of a review of six earlier documents (instrumenta) produced in relation to the dispute, the earliest being from 1399. The latest date in the document overall is 1485.</summary>
+            <textLang>Latin</textLang>
+            <msItem>
+              <title>Document concerning property rights dispute</title>
+              <author>Ferro, Antonius</author>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc material="paper">
+                <support>
+                  <p>paper</p>
+                </support>
+                <extent>9 leaves : 317 x 208 (265 x 158) mm. bound to 320 x 215 mm</extent>
+                <collation>
+                  <p>Paper, i (modern paper) + 9 + i (modern paper); 1¹⁰ (-10); [1-9]; modern foliation in pencil, lower right recto.</p>
+                </collation>
+              </supportDesc>
+              <layoutDesc>
+                <layout>Written in 23-27 long lines, with each page having a margin on the left side and none on the right side.</layout>
+              </layoutDesc>
+            </objectDesc>
+            <scriptDesc>
+              <scriptNote>Written in an italic script.</scriptNote>
+            </scriptDesc>
+            <bindingDesc>
+              <binding>
+                <p>20th-century paper, sewn.</p>
+              </binding>
+            </bindingDesc>
+          </physDesc>
+          <history>
+            <origin>
+              <p>Written in Lombardy (Zacour-Hirsch) after 1485 (f. 6r).</p>
+              <origDate>after 1485</origDate>
+              <origPlace>Lombardy</origPlace>
+            </origin>
+            <provenance>Sold by Leo S. Olschki (Florence, Italy), 1962.</provenance>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords n="form/genre">
+          <term>Codices</term>
+          <term>Legal documents</term>
+          <term>Notarial documents</term>
+          <term>Manuscripts, Latin--15th century</term>
+          <term>Manuscripts, Renaissance</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface n="Front cover">
+      <graphic height="7805px" url="master/1437_0000.tif" width="5548px"/>
+      <graphic height="190px" url="thumb/1437_0000_thumb.jpg" width="135px"/>
+      <graphic height="1800px" url="web/1437_0000_web.jpg" width="1279px"/>
+    </surface>
+    <surface n="Inside front cover">
+      <graphic height="7805px" url="master/1437_0001.tif" width="5548px"/>
+      <graphic height="190px" url="thumb/1437_0001_thumb.jpg" width="135px"/>
+      <graphic height="1800px" url="web/1437_0001_web.jpg" width="1279px"/>
+    </surface>
+    <surface n="Flyleaf 1 recto">
+      <graphic height="7805px" url="master/1437_0002.tif" width="5548px"/>
+      <graphic height="190px" url="thumb/1437_0002_thumb.jpg" width="135px"/>
+      <graphic height="1800px" url="web/1437_0002_web.jpg" width="1279px"/>
+    </surface>
+    <surface n="Flyleaf 1 verso">
+      <graphic height="7805px" url="master/1437_0003.tif" width="5548px"/>
+      <graphic height="190px" url="thumb/1437_0003_thumb.jpg" width="135px"/>
+      <graphic height="1800px" url="web/1437_0003_web.jpg" width="1279px"/>
+    </surface>
+    <surface n="1r">
+      <graphic height="7805px" url="master/1437_0004.tif" width="5548px"/>
+      <graphic height="190px" url="thumb/1437_0004_thumb.jpg" width="135px"/>
+      <graphic height="1800px" url="web/1437_0004_web.jpg" width="1279px"/>
+    </surface>
+    <surface n="1v">
+      <graphic height="7805px" url="master/1437_0005.tif" width="5548px"/>
+      <graphic height="190px" url="thumb/1437_0005_thumb.jpg" width="135px"/>
+      <graphic height="1800px" url="web/1437_0005_web.jpg" width="1279px"/>
+    </surface>
+    <surface n="2r">
+      <graphic height="7805px" url="master/1437_0006.tif" width="5548px"/>
+      <graphic height="190px" url="thumb/1437_0006_thumb.jpg" width="135px"/>
+      <graphic height="1800px" url="web/1437_0006_web.jpg" width="1279px"/>
+    </surface>
+    <surface n="2v">
+      <graphic height="7805px" url="master/1437_0007.tif" width="5548px"/>
+      <graphic height="190px" url="thumb/1437_0007_thumb.jpg" width="135px"/>
+      <graphic height="1800px" url="web/1437_0007_web.jpg" width="1279px"/>
+    </surface>
+    <surface n="3r">
+      <graphic height="7805px" url="master/1437_0008.tif" width="5548px"/>
+      <graphic height="190px" url="thumb/1437_0008_thumb.jpg" width="135px"/>
+      <graphic height="1800px" url="web/1437_0008_web.jpg" width="1279px"/>
+    </surface>
+    <surface n="3v">
+      <graphic height="7805px" url="master/1437_0009.tif" width="5548px"/>
+      <graphic height="190px" url="thumb/1437_0009_thumb.jpg" width="135px"/>
+      <graphic height="1800px" url="web/1437_0009_web.jpg" width="1279px"/>
+    </surface>
+    <surface n="4r">
+      <graphic height="7805px" url="master/1437_0010.tif" width="5548px"/>
+      <graphic height="190px" url="thumb/1437_0010_thumb.jpg" width="135px"/>
+      <graphic height="1800px" url="web/1437_0010_web.jpg" width="1279px"/>
+    </surface>
+    <surface n="4v">
+      <graphic height="7805px" url="master/1437_0011.tif" width="5548px"/>
+      <graphic height="190px" url="thumb/1437_0011_thumb.jpg" width="135px"/>
+      <graphic height="1800px" url="web/1437_0011_web.jpg" width="1279px"/>
+    </surface>
+    <surface n="5r">
+      <graphic height="7805px" url="master/1437_0012.tif" width="5548px"/>
+      <graphic height="190px" url="thumb/1437_0012_thumb.jpg" width="135px"/>
+      <graphic height="1800px" url="web/1437_0012_web.jpg" width="1279px"/>
+    </surface>
+    <surface n="5v">
+      <graphic height="7805px" url="master/1437_0013.tif" width="5548px"/>
+      <graphic height="190px" url="thumb/1437_0013_thumb.jpg" width="135px"/>
+      <graphic height="1800px" url="web/1437_0013_web.jpg" width="1279px"/>
+    </surface>
+    <surface n="6r">
+      <graphic height="7805px" url="master/1437_0014.tif" width="5548px"/>
+      <graphic height="190px" url="thumb/1437_0014_thumb.jpg" width="135px"/>
+      <graphic height="1800px" url="web/1437_0014_web.jpg" width="1279px"/>
+    </surface>
+    <surface n="6v">
+      <graphic height="7805px" url="master/1437_0015.tif" width="5548px"/>
+      <graphic height="190px" url="thumb/1437_0015_thumb.jpg" width="135px"/>
+      <graphic height="1800px" url="web/1437_0015_web.jpg" width="1279px"/>
+    </surface>
+    <surface n="7r">
+      <graphic height="7805px" url="master/1437_0016.tif" width="5548px"/>
+      <graphic height="190px" url="thumb/1437_0016_thumb.jpg" width="135px"/>
+      <graphic height="1800px" url="web/1437_0016_web.jpg" width="1279px"/>
+    </surface>
+    <surface n="7v">
+      <graphic height="7805px" url="master/1437_0017.tif" width="5548px"/>
+      <graphic height="190px" url="thumb/1437_0017_thumb.jpg" width="135px"/>
+      <graphic height="1800px" url="web/1437_0017_web.jpg" width="1279px"/>
+    </surface>
+    <surface n="8r">
+      <graphic height="7805px" url="master/1437_0018.tif" width="5548px"/>
+      <graphic height="190px" url="thumb/1437_0018_thumb.jpg" width="135px"/>
+      <graphic height="1800px" url="web/1437_0018_web.jpg" width="1279px"/>
+    </surface>
+    <surface n="8v">
+      <graphic height="7805px" url="master/1437_0019.tif" width="5548px"/>
+      <graphic height="190px" url="thumb/1437_0019_thumb.jpg" width="135px"/>
+      <graphic height="1800px" url="web/1437_0019_web.jpg" width="1279px"/>
+    </surface>
+    <surface n="9r">
+      <graphic height="7805px" url="master/1437_0020.tif" width="5548px"/>
+      <graphic height="190px" url="thumb/1437_0020_thumb.jpg" width="135px"/>
+      <graphic height="1800px" url="web/1437_0020_web.jpg" width="1279px"/>
+    </surface>
+    <surface n="9v">
+      <graphic height="7805px" url="master/1437_0021.tif" width="5548px"/>
+      <graphic height="190px" url="thumb/1437_0021_thumb.jpg" width="135px"/>
+      <graphic height="1800px" url="web/1437_0021_web.jpg" width="1279px"/>
+    </surface>
+    <surface n="Flyleaf 1 recto">
+      <graphic height="7805px" url="master/1437_0022.tif" width="5548px"/>
+      <graphic height="190px" url="thumb/1437_0022_thumb.jpg" width="135px"/>
+      <graphic height="1800px" url="web/1437_0022_web.jpg" width="1279px"/>
+    </surface>
+    <surface n="Flyleaf 1 verso">
+      <graphic height="7805px" url="master/1437_0023.tif" width="5548px"/>
+      <graphic height="190px" url="thumb/1437_0023_thumb.jpg" width="135px"/>
+      <graphic height="1800px" url="web/1437_0023_web.jpg" width="1279px"/>
+    </surface>
+    <surface n="Inside back cover">
+      <graphic height="7805px" url="master/1437_0024.tif" width="5548px"/>
+      <graphic height="190px" url="thumb/1437_0024_thumb.jpg" width="135px"/>
+      <graphic height="1800px" url="web/1437_0024_web.jpg" width="1279px"/>
+    </surface>
+    <surface n="Back cover">
+      <graphic height="7805px" url="master/1437_0025.tif" width="5548px"/>
+      <graphic height="190px" url="thumb/1437_0025_thumb.jpg" width="135px"/>
+      <graphic height="1800px" url="web/1437_0025_web.jpg" width="1279px"/>
+    </surface>
+    <surface n="No spine">
+      <graphic height="7805px" url="master/1437_0026.tif" width="5548px"/>
+      <graphic height="190px" url="thumb/1437_0026_thumb.jpg" width="135px"/>
+      <graphic height="1800px" url="web/1437_0026_web.jpg" width="1279px"/>
+    </surface>
+  </facsimile>
+</TEI>

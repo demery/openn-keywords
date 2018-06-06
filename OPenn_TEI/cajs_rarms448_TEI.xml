@@ -1,0 +1,117 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Description of University of Pennsylvania CAJS Rar Ms 448: Manuscript leaves from an Ashkenazic Maḥzor for the High Holidays.</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>The University of Pennsylvania Libraries</publisher>
+        <availability>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/">These images and the content of Library at the Herbert D. Katz Center for Advanced Judaic Studies, CAJS Rar Ms 448: Manuscript leaves from an Ashkenazic Maḥzor for the High Holidays. are free of known copyright restrictions and in the public domain. See the Creative Commons Public Domain Mark page for usage details, http://creativecommons.org/publicdomain/mark/1.0/.</licence>
+          <licence target="https://creativecommons.org/licenses/by/4.0/legalcode">Metadata is ©2017 University of Pennsylvania Books &amp; Manuscripts and licensed under a Creative Commons Attribution License version 4.0 (CC-BY-4.0 https://creativecommons.org/licenses/by/4.0/legalcode. For a description of the terms of use see the Creative Commons Deed https://creativecommons.org/licenses/by/4.0/.</licence>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note>Ms. leaves.</note>
+        <note>Title supplied by cataloger.</note>
+        <note>Item cataloged from digital facsimile and existing description.</note>
+      </notesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <settlement>Philadelphia</settlement>
+            <institution>University of Pennsylvania</institution>
+            <repository>Library at the Herbert D. Katz Center for Advanced Judaic Studies</repository>
+            <idno type="call-number">CAJS Rar Ms 448</idno>
+            <altIdentifier type="bibid">
+              <idno>2429215</idno>
+            </altIdentifier>
+            <altIdentifier type="resource">
+              <idno>http://hdl.library.upenn.edu/1017/d/medren/2429215</idno>
+            </altIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary>Leaves 1-2 consist of part of the Kedushta from morning prayers on the first day of Rosh ha-Shanah; leaf 3 contains seliḥot from Maʻariv of Yom Kippur.</summary>
+            <textLang>Hebrew</textLang>
+            <msItem>
+              <title>Manuscript leaves from an Ashkenazic Maḥzor for the High Holidays.</title>
+              <respStmt>
+                <resp>former owner</resp>
+                <persName>Amram, David Werner, 1866-1939</persName>
+              </respStmt>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc material="mixed">
+                <support>
+                  <p>parchment</p>
+                </support>
+                <extent>3 leaves : 430 x 310 mm</extent>
+              </supportDesc>
+            </objectDesc>
+            <scriptDesc>
+              <scriptNote>Writen in Ashkenazic square script.</scriptNote>
+            </scriptDesc>
+          </physDesc>
+          <history>
+            <origin>
+              <p>Written in Western Europe in the 13th or 14th centuries?</p>
+              <origPlace>between 1200 and 1399?</origPlace>
+            </origin>
+            <provenance>Formerly held in the Library of Dropsie College for Hebrew and Cognate Learning; given to Dropsie College by David Werner Amram in 1924.</provenance>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords n="subjects">
+          <term>High Holidays--Liturgy--Texts</term>
+          <term>Jewish religious poetry</term>
+          <term>Piyutim</term>
+        </keywords>
+        <keywords n="form/genre">
+          <term>Prayers</term>
+          <term>Detached leaves</term>
+          <term>Manuscripts, Medieval</term>
+          <term>Manuscripts, Hebrew--13th century</term>
+          <term>Manuscripts, Hebrew--14th century</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface n="1r">
+      <graphic height="9237px" url="master/5097_0000.tif" width="7451px"/>
+      <graphic height="190px" url="thumb/5097_0000_thumb.jpg" width="153px"/>
+      <graphic height="1800px" url="web/5097_0000_web.jpg" width="1452px"/>
+    </surface>
+    <surface n="1v">
+      <graphic height="9235px" url="master/5097_0001.tif" width="7449px"/>
+      <graphic height="190px" url="thumb/5097_0001_thumb.jpg" width="153px"/>
+      <graphic height="1800px" url="web/5097_0001_web.jpg" width="1452px"/>
+    </surface>
+    <surface n="2r">
+      <graphic height="9719px" url="master/5097_0002.tif" width="7380px"/>
+      <graphic height="190px" url="thumb/5097_0002_thumb.jpg" width="144px"/>
+      <graphic height="1800px" url="web/5097_0002_web.jpg" width="1367px"/>
+    </surface>
+    <surface n="2v">
+      <graphic height="9719px" url="master/5097_0003.tif" width="7380px"/>
+      <graphic height="190px" url="thumb/5097_0003_thumb.jpg" width="144px"/>
+      <graphic height="1800px" url="web/5097_0003_web.jpg" width="1367px"/>
+    </surface>
+    <surface n="3r">
+      <graphic height="9483px" url="master/5097_0004.tif" width="7380px"/>
+      <graphic height="190px" url="thumb/5097_0004_thumb.jpg" width="147px"/>
+      <graphic height="1800px" url="web/5097_0004_web.jpg" width="1401px"/>
+    </surface>
+    <surface n="3v">
+      <graphic height="9483px" url="master/5097_0005.tif" width="7380px"/>
+      <graphic height="190px" url="thumb/5097_0005_thumb.jpg" width="147px"/>
+      <graphic height="1800px" url="web/5097_0005_web.jpg" width="1401px"/>
+    </surface>
+  </facsimile>
+</TEI>

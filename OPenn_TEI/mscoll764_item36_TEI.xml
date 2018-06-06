@@ -1,0 +1,101 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Description of University of Pennsylvania Ms. Coll. 764: Ventura di Baronto will</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>The University of Pennsylvania Libraries</publisher>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by/4.0/legalcode">
+                                This description is ©2016 University of
+                                Pennsylvania Libraries. It is licensed under a Creative Commons
+                                Attribution License version 4.0 (CC-BY-4.0
+                                https://creativecommons.org/licenses/by/4.0/legalcode. For a
+                                description of the terms of use see the Creative Commons Deed
+                                https://creativecommons.org/licenses/by/4.0/. </licence>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/"> All
+                                referenced images and their content are free of known copyright
+                                restrictions and in the public domain. See the Creative Commons
+                                Public Domain Mark page for usage details,
+                                http://creativecommons.org/publicdomain/mark/1.0/. </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <settlement>Philadelphia</settlement>
+            <institution>University of Pennsylvania</institution>
+            <repository>Rare Book &amp; Manuscript Library</repository>
+            <idno type="call-number">Ms. Coll. 764</idno>
+            <altIdentifier type="bibid">
+              <idno>4941190</idno>
+            </altIdentifier>
+            <altIdentifier type="resource">
+              <idno>http://hdl.library.upenn.edu/1017/d/medren/4941190</idno>
+            </altIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary>Will of Ventura di Baronto from Pistoia, notarized by Braccio di Michele di Braccio in the presence of the witnesses Bartolomeo di Benedetto and Giovanni di Jacopo on 4 December 1385. The testator asked to be buried in the church of Sant'Andrea a Pistoia and have his property divided among his wife Francesca, his brother Michele, and his nephews Taddeo and Barontolo. Filed with the document is a later summary written in Italian on paper.</summary>
+            <textLang>In Latin</textLang>
+            <msItem>
+              <title>Ventura di Baronto will</title>
+              <author>Braccio, Braccio di</author>
+              <author>Jacopo, Giovanni di</author>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc material="parchment.">
+                <support>
+                  <p>parchment.</p>
+                </support>
+                <extent>1</extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin/>
+            <provenance>Sold by Renzo Rizzi (Milan).</provenance>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords n="subjects">
+          <term>Inheritance and succession--Italy</term>
+        </keywords>
+        <keywords n="form/genre">
+          <term>Wills</term>
+          <term>Notarial documents</term>
+          <term>Manuscripts, Latin--14th century</term>
+          <term>Manuscripts, Renaissance</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface n="Item 1, Side 1">
+      <graphic height="6637px" url="master/1319_0000.tif" width="3663px"/>
+      <graphic height="190px" url="thumb/1319_0000_thumb.jpg" width="104px"/>
+      <graphic height="1800px" url="web/1319_0000_web.jpg" width="993px"/>
+    </surface>
+    <surface n="Item 1, Side 2">
+      <graphic height="6637px" url="master/1319_0001.tif" width="3663px"/>
+      <graphic height="190px" url="thumb/1319_0001_thumb.jpg" width="104px"/>
+      <graphic height="1800px" url="web/1319_0001_web.jpg" width="993px"/>
+    </surface>
+    <surface n="Item 2, Side 1">
+      <graphic height="2967px" url="master/1319_0002.tif" width="4117px"/>
+      <graphic height="136px" url="thumb/1319_0002_thumb.jpg" width="190px"/>
+      <graphic height="1297px" url="web/1319_0002_web.jpg" width="1800px"/>
+    </surface>
+    <surface n="Item 2, Side 2">
+      <graphic height="2967px" url="master/1319_0003.tif" width="4117px"/>
+      <graphic height="136px" url="thumb/1319_0003_thumb.jpg" width="190px"/>
+      <graphic height="1297px" url="web/1319_0003_web.jpg" width="1800px"/>
+    </surface>
+  </facsimile>
+</TEI>

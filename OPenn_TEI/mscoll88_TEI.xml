@@ -1,0 +1,95 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Description of University of Pennsylvania Ms. Coll. 88: Letter to Don Juan Ponce de Leon :</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>The University of Pennsylvania Libraries</publisher>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by/4.0/legalcode">
+                                This description is ©2016 University of
+                                Pennsylvania Libraries. It is licensed under a Creative Commons
+                                Attribution License version 4.0 (CC-BY-4.0
+                                https://creativecommons.org/licenses/by/4.0/legalcode. For a
+                                description of the terms of use see the Creative Commons Deed
+                                https://creativecommons.org/licenses/by/4.0/. </licence>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/"> All
+                                referenced images and their content are free of known copyright
+                                restrictions and in the public domain. See the Creative Commons
+                                Public Domain Mark page for usage details,
+                                http://creativecommons.org/publicdomain/mark/1.0/. </licence>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note>Valladolid; 15 September 1449. Place and date given in line 7. Date also given in later note on verso.</note>
+        <note>Spanish notarial hand.</note>
+      </notesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <settlement>Philadelphia</settlement>
+            <institution>University of Pennsylvania</institution>
+            <repository>Rare Book &amp; Manuscript Library</repository>
+            <idno type="call-number">Ms. Coll. 88</idno>
+            <altIdentifier type="bibid">
+              <idno>1580404</idno>
+            </altIdentifier>
+            <altIdentifier type="resource">
+              <idno>http://hdl.library.upenn.edu/1017/d/medren/1580404</idno>
+            </altIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary>Letter from King Juan II of Castile to Don Juan Ponce de Leon, appointing Pedro de Pinos magistrate of the parish of San Miguel.</summary>
+            <textLang>In Spanish</textLang>
+            <msItem>
+              <title>Letter to Don Juan Ponce de Leon :</title>
+              <author>Juan II, King of Castile and Leon, 1405-1454</author>
+              <author>Ponce de Leon, Juan</author>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc material="mixed">
+                <support>
+                  <p>paper</p>
+                </support>
+                <extent>1 15 x 21 cm</extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin/>
+            <provenance>Acquired, 1956.</provenance>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords n="form/genre">
+          <term>Manuscripts, Spanish--15th century</term>
+          <term>Manuscripts, Renaissance</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface n="Side 1">
+      <graphic height="3958px" url="master/2292_0000.tif" width="5399px"/>
+      <graphic height="139px" url="thumb/2292_0000_thumb.jpg" width="190px"/>
+      <graphic height="1319px" url="web/2292_0000_web.jpg" width="1800px"/>
+    </surface>
+    <surface n="Side 2 (Unrotated)">
+      <graphic height="5399px" url="master/2292_0001.tif" width="3958px"/>
+      <graphic height="190px" url="thumb/2292_0001_thumb.jpg" width="139px"/>
+      <graphic height="1800px" url="web/2292_0001_web.jpg" width="1319px"/>
+    </surface>
+    <surface n="Side 2 (Rotated)">
+      <graphic height="5399px" url="master/2292_0002.tif" width="3958px"/>
+      <graphic height="190px" url="thumb/2292_0002_thumb.jpg" width="139px"/>
+      <graphic height="1800px" url="web/2292_0002_web.jpg" width="1319px"/>
+    </surface>
+  </facsimile>
+</TEI>

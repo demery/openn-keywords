@@ -1,0 +1,178 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Description of University of Pennsylvania Ms. Indic 6: Kammavācā</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>The University of Pennsylvania Libraries</publisher>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by/4.0/legalcode">
+                                This description is ©2016 University of
+                                Pennsylvania Libraries. It is licensed under a Creative Commons
+                                Attribution License version 4.0 (CC-BY-4.0
+                                https://creativecommons.org/licenses/by/4.0/legalcode. For a
+                                description of the terms of use see the Creative Commons Deed
+                                https://creativecommons.org/licenses/by/4.0/. </licence>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/"> All
+                                referenced images and their content are free of known copyright
+                                restrictions and in the public domain. See the Creative Commons
+                                Public Domain Mark page for usage details,
+                                http://creativecommons.org/publicdomain/mark/1.0/. </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <settlement>Philadelphia</settlement>
+            <institution>University of Pennsylvania</institution>
+            <repository>Rare Book &amp; Manuscript Library</repository>
+            <idno type="call-number">Ms. Indic 6</idno>
+            <altIdentifier type="bibid">
+              <idno>3537565</idno>
+            </altIdentifier>
+            <altIdentifier type="resource">
+              <idno>http://hdl.library.upenn.edu/1017/d/medren/3537565</idno>
+            </altIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary>Khandakas (rules of conduct and ritual readings for Theravada Buddhist monks) copied in a late 19th- or early 20th-century manuscript probably commissioned to be presented to a monastery when a son entered the novitiate or was ordained as a monk. Leaves of folded cloth with red lacquer and silver leaf and black lacquered lettering in 6 lines per leaf. Covers of wood with beveled edges, decorated with gold and red lacquer.</summary>
+            <textLang>In Pali</textLang>
+            <msItem>
+              <title>Kammavācā</title>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc material="mixed">
+                <support>
+                  <p>lacquered cloth</p>
+                </support>
+                <extent>1 13 x 56 cm</extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin/>
+            <provenance>Purchased, 2004.</provenance>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords n="subjects">
+          <term>Buddhism--Rituals--Texts</term>
+          <term>Monastic and religious life (Buddhism)</term>
+        </keywords>
+        <keywords n="form/genre">
+          <term>Manuscripts, Pali--19th century</term>
+          <term>Manuscripts, Pali--20th century</term>
+          <term>Manuscripts, Burmese--19th century</term>
+          <term>Manuscripts, Burmese--20th century</term>
+          <term>Manuscripts--Burma--19th century</term>
+          <term>Manuscripts--Burma--20th century</term>
+          <term>Manuscripts, Digital</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface n="Outside front cover =1r">
+      <graphic height="2231px" url="master/2836_0000.tif" width="8135px"/>
+      <graphic height="52px" url="thumb/2836_0000_thumb.jpg" width="190px"/>
+      <graphic height="493px" url="web/2836_0000_web.jpg" width="1800px"/>
+    </surface>
+    <surface n="Inside front cover =1v-1r =2r">
+      <graphic height="4320px" url="master/2836_0001.tif" width="8135px"/>
+      <graphic height="100px" url="thumb/2836_0001_thumb.jpg" width="190px"/>
+      <graphic height="955px" url="web/2836_0001_web.jpg" width="1800px"/>
+    </surface>
+    <surface n="1v =2v-2r =3r">
+      <graphic height="4320px" url="master/2836_0002.tif" width="8135px"/>
+      <graphic height="100px" url="thumb/2836_0002_thumb.jpg" width="190px"/>
+      <graphic height="955px" url="web/2836_0002_web.jpg" width="1800px"/>
+    </surface>
+    <surface n="2v =3v-3r =4r">
+      <graphic height="4320px" url="master/2836_0003.tif" width="8135px"/>
+      <graphic height="100px" url="thumb/2836_0003_thumb.jpg" width="190px"/>
+      <graphic height="955px" url="web/2836_0003_web.jpg" width="1800px"/>
+    </surface>
+    <surface n="3v =4v-4r =5r">
+      <graphic height="4320px" url="master/2836_0004.tif" width="8135px"/>
+      <graphic height="100px" url="thumb/2836_0004_thumb.jpg" width="190px"/>
+      <graphic height="955px" url="web/2836_0004_web.jpg" width="1800px"/>
+    </surface>
+    <surface n="4v =5v-5r =6r">
+      <graphic height="4320px" url="master/2836_0005.tif" width="8135px"/>
+      <graphic height="100px" url="thumb/2836_0005_thumb.jpg" width="190px"/>
+      <graphic height="955px" url="web/2836_0005_web.jpg" width="1800px"/>
+    </surface>
+    <surface n="5v =6v-6r =7r">
+      <graphic height="4320px" url="master/2836_0006.tif" width="8135px"/>
+      <graphic height="100px" url="thumb/2836_0006_thumb.jpg" width="190px"/>
+      <graphic height="955px" url="web/2836_0006_web.jpg" width="1800px"/>
+    </surface>
+    <surface n="6v =7v-7r =8r">
+      <graphic height="4320px" url="master/2836_0007.tif" width="8135px"/>
+      <graphic height="100px" url="thumb/2836_0007_thumb.jpg" width="190px"/>
+      <graphic height="955px" url="web/2836_0007_web.jpg" width="1800px"/>
+    </surface>
+    <surface n="7v =8v-8r =9r">
+      <graphic height="4320px" url="master/2836_0008.tif" width="8135px"/>
+      <graphic height="100px" url="thumb/2836_0008_thumb.jpg" width="190px"/>
+      <graphic height="955px" url="web/2836_0008_web.jpg" width="1800px"/>
+    </surface>
+    <surface n="8v =9v-9r =10r">
+      <graphic height="4320px" url="master/2836_0009.tif" width="8135px"/>
+      <graphic height="100px" url="thumb/2836_0009_thumb.jpg" width="190px"/>
+      <graphic height="955px" url="web/2836_0009_web.jpg" width="1800px"/>
+    </surface>
+    <surface n="9v =10v-10r =11r">
+      <graphic height="4320px" url="master/2836_0010.tif" width="8135px"/>
+      <graphic height="100px" url="thumb/2836_0010_thumb.jpg" width="190px"/>
+      <graphic height="955px" url="web/2836_0010_web.jpg" width="1800px"/>
+    </surface>
+    <surface n="10v =11v-11r =12r">
+      <graphic height="4320px" url="master/2836_0011.tif" width="8135px"/>
+      <graphic height="100px" url="thumb/2836_0011_thumb.jpg" width="190px"/>
+      <graphic height="955px" url="web/2836_0011_web.jpg" width="1800px"/>
+    </surface>
+    <surface n="11v =12v-12r =13r">
+      <graphic height="4320px" url="master/2836_0012.tif" width="8135px"/>
+      <graphic height="100px" url="thumb/2836_0012_thumb.jpg" width="190px"/>
+      <graphic height="955px" url="web/2836_0012_web.jpg" width="1800px"/>
+    </surface>
+    <surface n="12v =13v-13r =14r">
+      <graphic height="4320px" url="master/2836_0013.tif" width="8135px"/>
+      <graphic height="100px" url="thumb/2836_0013_thumb.jpg" width="190px"/>
+      <graphic height="955px" url="web/2836_0013_web.jpg" width="1800px"/>
+    </surface>
+    <surface n="13v =14v-14r =15r">
+      <graphic height="4320px" url="master/2836_0014.tif" width="8135px"/>
+      <graphic height="100px" url="thumb/2836_0014_thumb.jpg" width="190px"/>
+      <graphic height="955px" url="web/2836_0014_web.jpg" width="1800px"/>
+    </surface>
+    <surface n="14v =15v-15r =16r">
+      <graphic height="4320px" url="master/2836_0015.tif" width="8135px"/>
+      <graphic height="100px" url="thumb/2836_0015_thumb.jpg" width="190px"/>
+      <graphic height="955px" url="web/2836_0015_web.jpg" width="1800px"/>
+    </surface>
+    <surface n="15v =16v-16r =17r">
+      <graphic height="4320px" url="master/2836_0016.tif" width="8135px"/>
+      <graphic height="100px" url="thumb/2836_0016_thumb.jpg" width="190px"/>
+      <graphic height="955px" url="web/2836_0016_web.jpg" width="1800px"/>
+    </surface>
+    <surface n="16v =17v-Inside back cover =18r">
+      <graphic height="4320px" url="master/2836_0017.tif" width="8135px"/>
+      <graphic height="100px" url="thumb/2836_0017_thumb.jpg" width="190px"/>
+      <graphic height="955px" url="web/2836_0017_web.jpg" width="1800px"/>
+    </surface>
+    <surface n="Outside back cover =18v">
+      <graphic height="2231px" url="master/2836_0018.tif" width="8135px"/>
+      <graphic height="52px" url="thumb/2836_0018_thumb.jpg" width="190px"/>
+      <graphic height="493px" url="web/2836_0018_web.jpg" width="1800px"/>
+    </surface>
+  </facsimile>
+</TEI>

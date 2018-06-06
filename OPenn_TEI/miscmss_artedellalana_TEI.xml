@@ -1,0 +1,113 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Description of University of Pennsylvania Misc Mss: Miscellaneous manuscripts</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>The University of Pennsylvania Libraries</publisher>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by/4.0/legalcode">
+                                This description is ©2016 University of
+                                Pennsylvania Libraries. It is licensed under a Creative Commons
+                                Attribution License version 4.0 (CC-BY-4.0
+                                https://creativecommons.org/licenses/by/4.0/legalcode. For a
+                                description of the terms of use see the Creative Commons Deed
+                                https://creativecommons.org/licenses/by/4.0/. </licence>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/"> All
+                                referenced images and their content are free of known copyright
+                                restrictions and in the public domain. See the Creative Commons
+                                Public Domain Mark page for usage details,
+                                http://creativecommons.org/publicdomain/mark/1.0/. </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <settlement>Philadelphia</settlement>
+            <institution>University of Pennsylvania</institution>
+            <repository>Rare Book &amp; Manuscript Library</repository>
+            <idno type="call-number">Misc Mss</idno>
+            <altIdentifier type="bibid">
+              <idno>4493748</idno>
+            </altIdentifier>
+            <altIdentifier type="resource">
+              <idno>http://hdl.library.upenn.edu/1017/d/medren/4493748</idno>
+            </altIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary>Three letters, written to the grand-duke of Tuscany, Cosimo I, in the second half of the 16th century, from officers of the Arte della Lana. The first two letters, written in 1552, concern a dispute over an unpaid debt by Giovanbattista Bettini, a marruffino, or wool worker, who left Florence to tend to the affairs of his late brother without paying his outstanding balance with the guild. The guild tried to resolve the case internally by contacting Luigi Bettini and Amerigo Carnesecchi, respectively brother and close friend of Giovanbattista, but without success. The case was also brought to the Podestà and, at the date of writing, it was still pending. At the same time, Giovanbattista's family appealed to have the case dropped altogether. The third letter is a petition written by Nicolo and Fabrizio de' Medici, members of the Arte della Lana, concerning a mill that belonged to their deceased aunt Camilla that was being abandoned . The mill had been used as a guarantee for a loan in the past and still had pending debt attached to it. The two Medici brothers saw potential for economic gain derived from the mill and, for that reason, filed a petition with the grand-duke to have the lien against the property canceled or reduced. They also suggested the renovation of the property, so that it could be donated to the Arte. The two brothers also informed the grand-duke that the Arte could help cover some of the costs associated with the renovation process of the mill if the debts associated with it were cancelled.</summary>
+            <textLang>In Italian</textLang>
+            <msItem>
+              <title>Miscellaneous manuscripts</title>
+              <author>Arte della lana (Guild : Florence, Italy)</author>
+              <author>Medici, Fabrizio de'</author>
+              <author>Medici, Nicolo de'</author>
+              <respStmt>
+                <resp>recipient</resp>
+                <persName>Cosimo I, Grand-Duke of Tuscany, 1519-1574</persName>
+              </respStmt>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc>
+                <extent>3</extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin/>
+            <provenance>Sold by Bernard M. Rosenthal, 1961.</provenance>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords n="subjects">
+          <term>Textile industry--Italy--Early works to 1800</term>
+          <term>Woolen and worsted manufacture--Italy--History</term>
+          <term>Debt cancellation--Italy--Early works to 1800</term>
+        </keywords>
+        <keywords n="form/genre">
+          <term>Manuscripts, Italian--16th century</term>
+          <term>Manuscripts, Renaissance</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface n="Item 1, Side 1">
+      <graphic height="5250px" url="master/1908_0000.tif" width="4034px"/>
+      <graphic height="190px" url="thumb/1908_0000_thumb.jpg" width="146px"/>
+      <graphic height="1800px" url="web/1908_0000_web.jpg" width="1383px"/>
+    </surface>
+    <surface n="Item 1, Side 2">
+      <graphic height="5250px" url="master/1908_0001.tif" width="4034px"/>
+      <graphic height="190px" url="thumb/1908_0001_thumb.jpg" width="146px"/>
+      <graphic height="1800px" url="web/1908_0001_web.jpg" width="1383px"/>
+    </surface>
+    <surface n="Item 2, Side 1">
+      <graphic height="5250px" url="master/1908_0002.tif" width="4034px"/>
+      <graphic height="190px" url="thumb/1908_0002_thumb.jpg" width="146px"/>
+      <graphic height="1800px" url="web/1908_0002_web.jpg" width="1383px"/>
+    </surface>
+    <surface n="Item 2, Side 2">
+      <graphic height="5250px" url="master/1908_0003.tif" width="4034px"/>
+      <graphic height="190px" url="thumb/1908_0003_thumb.jpg" width="146px"/>
+      <graphic height="1800px" url="web/1908_0003_web.jpg" width="1383px"/>
+    </surface>
+    <surface n="Item 3, Side 1">
+      <graphic height="5250px" url="master/1908_0004.tif" width="4034px"/>
+      <graphic height="190px" url="thumb/1908_0004_thumb.jpg" width="146px"/>
+      <graphic height="1800px" url="web/1908_0004_web.jpg" width="1383px"/>
+    </surface>
+    <surface n="Item 3, Side 2">
+      <graphic height="5250px" url="master/1908_0005.tif" width="4034px"/>
+      <graphic height="190px" url="thumb/1908_0005_thumb.jpg" width="146px"/>
+      <graphic height="1800px" url="web/1908_0005_web.jpg" width="1383px"/>
+    </surface>
+  </facsimile>
+</TEI>

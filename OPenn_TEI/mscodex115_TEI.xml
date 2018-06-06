@@ -1,0 +1,431 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Description of University of Pennsylvania Ms. Codex 115: Ricettario</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>The University of Pennsylvania Libraries</publisher>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by/4.0/legalcode">
+                                This description is ©2015 University of
+                                Pennsylvania Libraries. It is licensed under a Creative Commons
+                                Attribution License version 4.0 (CC-BY-4.0
+                                https://creativecommons.org/licenses/by/4.0/legalcode. For a
+                                description of the terms of use see the Creative Commons Deed
+                                https://creativecommons.org/licenses/by/4.0/. </licence>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/"> All
+                                referenced images and their content are free of known copyright
+                                restrictions and in the public domain. See the Creative Commons
+                                Public Domain Mark page for usage details,
+                                http://creativecommons.org/publicdomain/mark/1.0/. </licence>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note>Ms. codex.</note>
+        <note>Title and attribution supplied by cataloger (Zacour-Hirsch); p. 61 attributes it to Johannes de Nola. This might be the 16th-century writer Giovanni Andrea Nola.</note>
+        <note>Badly stained in upper inner corner of each page; this stain has caused some text on each page to become faded or obliterated. Possible mildew damage on upper inner edge of parchment cover. Dealer's description suggests this might be due to a chemical spilled on the manuscript by an alchemist.</note>
+        <note>Short dealer's description in Italian on file in the Library; probably from Olschki catalogue, 9/26/1957.</note>
+        <note>Forms part of: Edgar F. Smith Memorial Collection.</note>
+      </notesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <settlement>Philadelphia</settlement>
+            <institution>University of Pennsylvania</institution>
+            <repository>Rare Book &amp; Manuscript Library</repository>
+            <idno type="call-number">Ms. Codex 115</idno>
+            <altIdentifier type="bibid">
+              <idno>1580513</idno>
+            </altIdentifier>
+            <altIdentifier type="resource">
+              <idno>http://hdl.library.upenn.edu/1017/d/medren/1580513</idno>
+            </altIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary>Collection of remedies against a great variety of ills, sometimes indicating the source of the information. Begins imperfectly. Several sources are indicated: Alcuin (p. 3); Conte De'Altavilla (p. 12); Conte de Urbino (p. 17); Raynaldo de Villanova (p. 22); and Duca de Calabria (pp. 48, 50). The last two recipes are slightly later additions (p. 62).</summary>
+            <textLang mainLang="ita" otherLangs="lat">Italian and Latin</textLang>
+            <msItem>
+              <title>Ricettario</title>
+              <author>Nola, Giovanni da</author>
+              <author>Bernardinus, scribe</author>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc material="paper">
+                <support>
+                  <p>paper</p>
+                </support>
+                <extent>29 leaves : 147 x 110 (110 x 80) mm. bound to 151 x 113 mm</extent>
+                <collation>
+                  <p>Paper, 29; 1³⁰(-1); 3-40, 43-62; contemporary pagination in ink, upper right recto.</p>
+                </collation>
+              </supportDesc>
+            </objectDesc>
+            <scriptDesc>
+              <scriptNote>Written in a humanistic cursive script by a single hand; scribe was named Bernardinus (p. 61).</scriptNote>
+            </scriptDesc>
+            <decoDesc>
+              <decoNote>Red used for headings.</decoNote>
+              <decoNote n="Inside front cover">Bookplate, Inside front cover</decoNote>
+              <decoNote n="33 =31">Manicule, p. 33 [=31]</decoNote>
+              <decoNote n="57 =53">Manicule, p. 57 [=53]</decoNote>
+            </decoDesc>
+            <bindingDesc>
+              <binding>
+                <p>bound in a parchment manuscript fragment of an unnoted hymnal, German, mid 13th century (includes St. Elizabeth of Hungary, canonized in 1235). Binding work appears to be contemporary with the manuscripts.</p>
+              </binding>
+            </bindingDesc>
+          </physDesc>
+          <history>
+            <origin>
+              <p>Written in Italy, ca. 1530 (Zacour-Hirsch).</p>
+              <origDate>ca. 1530</origDate>
+              <origPlace>Italy</origPlace>
+            </origin>
+            <provenance>Leo S. Olschki (Florence):  bookseller's bookplate inner front cover, inv. no. 47428, appears in catalog 54 (26 Sept. 1957), no. 5; old shelf number (16) on front cover.</provenance>
+            <provenance>Acquired, 1957.</provenance>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords n="subjects">
+          <term>Chemistry--History</term>
+          <term>Materia medica--Early works to 1800</term>
+          <term>Medicine--Formulae, receipts, prescriptions--Early works to 1800</term>
+          <term>Pharmacognosy</term>
+          <term>Pharmacy--Early works to 1800</term>
+        </keywords>
+        <keywords n="form/genre">
+          <term>Hymnals</term>
+          <term>Recipes</term>
+          <term>Codices</term>
+          <term>Manuscripts, Italian--16th century</term>
+          <term>Manuscripts, Latin--16th century</term>
+          <term>Manuscripts, Renaissance</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface n="Front cover">
+      <graphic height="3854px" url="master/0552_0000.tif" width="3177px"/>
+      <graphic height="190px" url="thumb/0552_0000_thumb.jpg" width="156px"/>
+      <graphic height="1800px" url="web/0552_0000_web.jpg" width="1484px"/>
+    </surface>
+    <surface n="Inside front cover">
+      <graphic height="3829px" url="master/0552_0001.tif" width="3020px"/>
+      <graphic height="190px" url="thumb/0552_0001_thumb.jpg" width="150px"/>
+      <graphic height="1800px" url="web/0552_0001_web.jpg" width="1419px"/>
+    </surface>
+    <surface n="3 =1">
+      <graphic height="3829px" url="master/0552_0002.tif" width="3020px"/>
+      <graphic height="190px" url="thumb/0552_0002_thumb.jpg" width="150px"/>
+      <graphic height="1800px" url="web/0552_0002_web.jpg" width="1419px"/>
+    </surface>
+    <surface n="4 =2">
+      <graphic height="3829px" url="master/0552_0003.tif" width="3020px"/>
+      <graphic height="190px" url="thumb/0552_0003_thumb.jpg" width="150px"/>
+      <graphic height="1800px" url="web/0552_0003_web.jpg" width="1419px"/>
+    </surface>
+    <surface n="5 =3">
+      <graphic height="3829px" url="master/0552_0004.tif" width="3020px"/>
+      <graphic height="190px" url="thumb/0552_0004_thumb.jpg" width="150px"/>
+      <graphic height="1800px" url="web/0552_0004_web.jpg" width="1419px"/>
+    </surface>
+    <surface n="6 =4">
+      <graphic height="3829px" url="master/0552_0005.tif" width="3020px"/>
+      <graphic height="190px" url="thumb/0552_0005_thumb.jpg" width="150px"/>
+      <graphic height="1800px" url="web/0552_0005_web.jpg" width="1419px"/>
+    </surface>
+    <surface n="7 =5">
+      <graphic height="3829px" url="master/0552_0006.tif" width="3020px"/>
+      <graphic height="190px" url="thumb/0552_0006_thumb.jpg" width="150px"/>
+      <graphic height="1800px" url="web/0552_0006_web.jpg" width="1419px"/>
+    </surface>
+    <surface n="8 =6">
+      <graphic height="3829px" url="master/0552_0007.tif" width="3020px"/>
+      <graphic height="190px" url="thumb/0552_0007_thumb.jpg" width="150px"/>
+      <graphic height="1800px" url="web/0552_0007_web.jpg" width="1419px"/>
+    </surface>
+    <surface n="9 =7">
+      <graphic height="3829px" url="master/0552_0008.tif" width="3020px"/>
+      <graphic height="190px" url="thumb/0552_0008_thumb.jpg" width="150px"/>
+      <graphic height="1800px" url="web/0552_0008_web.jpg" width="1419px"/>
+    </surface>
+    <surface n="10 =8">
+      <graphic height="3829px" url="master/0552_0009.tif" width="3020px"/>
+      <graphic height="190px" url="thumb/0552_0009_thumb.jpg" width="150px"/>
+      <graphic height="1800px" url="web/0552_0009_web.jpg" width="1419px"/>
+    </surface>
+    <surface n="11 =9">
+      <graphic height="3829px" url="master/0552_0010.tif" width="3020px"/>
+      <graphic height="190px" url="thumb/0552_0010_thumb.jpg" width="150px"/>
+      <graphic height="1800px" url="web/0552_0010_web.jpg" width="1419px"/>
+    </surface>
+    <surface n="12 =10">
+      <graphic height="3829px" url="master/0552_0011.tif" width="3020px"/>
+      <graphic height="190px" url="thumb/0552_0011_thumb.jpg" width="150px"/>
+      <graphic height="1800px" url="web/0552_0011_web.jpg" width="1419px"/>
+    </surface>
+    <surface n="13 =11">
+      <graphic height="3829px" url="master/0552_0012.tif" width="3020px"/>
+      <graphic height="190px" url="thumb/0552_0012_thumb.jpg" width="150px"/>
+      <graphic height="1800px" url="web/0552_0012_web.jpg" width="1419px"/>
+    </surface>
+    <surface n="14 =12">
+      <graphic height="3829px" url="master/0552_0013.tif" width="3020px"/>
+      <graphic height="190px" url="thumb/0552_0013_thumb.jpg" width="150px"/>
+      <graphic height="1800px" url="web/0552_0013_web.jpg" width="1419px"/>
+    </surface>
+    <surface n="15 =13">
+      <graphic height="3829px" url="master/0552_0014.tif" width="3020px"/>
+      <graphic height="190px" url="thumb/0552_0014_thumb.jpg" width="150px"/>
+      <graphic height="1800px" url="web/0552_0014_web.jpg" width="1419px"/>
+    </surface>
+    <surface n="16 =14">
+      <graphic height="3829px" url="master/0552_0015.tif" width="3020px"/>
+      <graphic height="190px" url="thumb/0552_0015_thumb.jpg" width="150px"/>
+      <graphic height="1800px" url="web/0552_0015_web.jpg" width="1419px"/>
+    </surface>
+    <surface n="17 =15">
+      <graphic height="3829px" url="master/0552_0016.tif" width="3020px"/>
+      <graphic height="190px" url="thumb/0552_0016_thumb.jpg" width="150px"/>
+      <graphic height="1800px" url="web/0552_0016_web.jpg" width="1419px"/>
+    </surface>
+    <surface n="18 =16">
+      <graphic height="3829px" url="master/0552_0017.tif" width="3020px"/>
+      <graphic height="190px" url="thumb/0552_0017_thumb.jpg" width="150px"/>
+      <graphic height="1800px" url="web/0552_0017_web.jpg" width="1419px"/>
+    </surface>
+    <surface n="19 =17">
+      <graphic height="3829px" url="master/0552_0018.tif" width="3020px"/>
+      <graphic height="190px" url="thumb/0552_0018_thumb.jpg" width="150px"/>
+      <graphic height="1800px" url="web/0552_0018_web.jpg" width="1419px"/>
+    </surface>
+    <surface n="20 =18">
+      <graphic height="3829px" url="master/0552_0019.tif" width="3020px"/>
+      <graphic height="190px" url="thumb/0552_0019_thumb.jpg" width="150px"/>
+      <graphic height="1800px" url="web/0552_0019_web.jpg" width="1419px"/>
+    </surface>
+    <surface n="21 =19">
+      <graphic height="3829px" url="master/0552_0020.tif" width="3020px"/>
+      <graphic height="190px" url="thumb/0552_0020_thumb.jpg" width="150px"/>
+      <graphic height="1800px" url="web/0552_0020_web.jpg" width="1419px"/>
+    </surface>
+    <surface n="22 =20">
+      <graphic height="3829px" url="master/0552_0021.tif" width="3020px"/>
+      <graphic height="190px" url="thumb/0552_0021_thumb.jpg" width="150px"/>
+      <graphic height="1800px" url="web/0552_0021_web.jpg" width="1419px"/>
+    </surface>
+    <surface n="23 =21">
+      <graphic height="3829px" url="master/0552_0022.tif" width="3020px"/>
+      <graphic height="190px" url="thumb/0552_0022_thumb.jpg" width="150px"/>
+      <graphic height="1800px" url="web/0552_0022_web.jpg" width="1419px"/>
+    </surface>
+    <surface n="24 =22">
+      <graphic height="3829px" url="master/0552_0023.tif" width="3020px"/>
+      <graphic height="190px" url="thumb/0552_0023_thumb.jpg" width="150px"/>
+      <graphic height="1800px" url="web/0552_0023_web.jpg" width="1419px"/>
+    </surface>
+    <surface n="25 =23">
+      <graphic height="3829px" url="master/0552_0024.tif" width="3020px"/>
+      <graphic height="190px" url="thumb/0552_0024_thumb.jpg" width="150px"/>
+      <graphic height="1800px" url="web/0552_0024_web.jpg" width="1419px"/>
+    </surface>
+    <surface n="26 =24">
+      <graphic height="3829px" url="master/0552_0025.tif" width="3020px"/>
+      <graphic height="190px" url="thumb/0552_0025_thumb.jpg" width="150px"/>
+      <graphic height="1800px" url="web/0552_0025_web.jpg" width="1419px"/>
+    </surface>
+    <surface n="27 =25">
+      <graphic height="3829px" url="master/0552_0026.tif" width="3020px"/>
+      <graphic height="190px" url="thumb/0552_0026_thumb.jpg" width="150px"/>
+      <graphic height="1800px" url="web/0552_0026_web.jpg" width="1419px"/>
+    </surface>
+    <surface n="28 =26">
+      <graphic height="3829px" url="master/0552_0027.tif" width="3020px"/>
+      <graphic height="190px" url="thumb/0552_0027_thumb.jpg" width="150px"/>
+      <graphic height="1800px" url="web/0552_0027_web.jpg" width="1419px"/>
+    </surface>
+    <surface n="29 =27">
+      <graphic height="3829px" url="master/0552_0028.tif" width="3020px"/>
+      <graphic height="190px" url="thumb/0552_0028_thumb.jpg" width="150px"/>
+      <graphic height="1800px" url="web/0552_0028_web.jpg" width="1419px"/>
+    </surface>
+    <surface n="30 =28">
+      <graphic height="3829px" url="master/0552_0029.tif" width="3020px"/>
+      <graphic height="190px" url="thumb/0552_0029_thumb.jpg" width="150px"/>
+      <graphic height="1800px" url="web/0552_0029_web.jpg" width="1419px"/>
+    </surface>
+    <surface n="31 =29">
+      <graphic height="3829px" url="master/0552_0030.tif" width="3020px"/>
+      <graphic height="190px" url="thumb/0552_0030_thumb.jpg" width="150px"/>
+      <graphic height="1800px" url="web/0552_0030_web.jpg" width="1419px"/>
+    </surface>
+    <surface n="32 =30">
+      <graphic height="3829px" url="master/0552_0031.tif" width="3020px"/>
+      <graphic height="190px" url="thumb/0552_0031_thumb.jpg" width="150px"/>
+      <graphic height="1800px" url="web/0552_0031_web.jpg" width="1419px"/>
+    </surface>
+    <surface n="33 =31">
+      <graphic height="3829px" url="master/0552_0032.tif" width="3020px"/>
+      <graphic height="190px" url="thumb/0552_0032_thumb.jpg" width="150px"/>
+      <graphic height="1800px" url="web/0552_0032_web.jpg" width="1419px"/>
+    </surface>
+    <surface n="34 =32">
+      <graphic height="3829px" url="master/0552_0033.tif" width="3020px"/>
+      <graphic height="190px" url="thumb/0552_0033_thumb.jpg" width="150px"/>
+      <graphic height="1800px" url="web/0552_0033_web.jpg" width="1419px"/>
+    </surface>
+    <surface n="35 =33">
+      <graphic height="3829px" url="master/0552_0034.tif" width="3020px"/>
+      <graphic height="190px" url="thumb/0552_0034_thumb.jpg" width="150px"/>
+      <graphic height="1800px" url="web/0552_0034_web.jpg" width="1419px"/>
+    </surface>
+    <surface n="36 =34">
+      <graphic height="3829px" url="master/0552_0035.tif" width="3020px"/>
+      <graphic height="190px" url="thumb/0552_0035_thumb.jpg" width="150px"/>
+      <graphic height="1800px" url="web/0552_0035_web.jpg" width="1419px"/>
+    </surface>
+    <surface n="37 =35">
+      <graphic height="3829px" url="master/0552_0036.tif" width="3020px"/>
+      <graphic height="190px" url="thumb/0552_0036_thumb.jpg" width="150px"/>
+      <graphic height="1800px" url="web/0552_0036_web.jpg" width="1419px"/>
+    </surface>
+    <surface n="38 =36">
+      <graphic height="3829px" url="master/0552_0037.tif" width="3020px"/>
+      <graphic height="190px" url="thumb/0552_0037_thumb.jpg" width="150px"/>
+      <graphic height="1800px" url="web/0552_0037_web.jpg" width="1419px"/>
+    </surface>
+    <surface n="39 =37">
+      <graphic height="3829px" url="master/0552_0038.tif" width="3020px"/>
+      <graphic height="190px" url="thumb/0552_0038_thumb.jpg" width="150px"/>
+      <graphic height="1800px" url="web/0552_0038_web.jpg" width="1419px"/>
+    </surface>
+    <surface n="40 =38">
+      <graphic height="3829px" url="master/0552_0039.tif" width="3020px"/>
+      <graphic height="190px" url="thumb/0552_0039_thumb.jpg" width="150px"/>
+      <graphic height="1800px" url="web/0552_0039_web.jpg" width="1419px"/>
+    </surface>
+    <surface n="43 =39">
+      <graphic height="3829px" url="master/0552_0040.tif" width="3020px"/>
+      <graphic height="190px" url="thumb/0552_0040_thumb.jpg" width="150px"/>
+      <graphic height="1800px" url="web/0552_0040_web.jpg" width="1419px"/>
+    </surface>
+    <surface n="44 =40">
+      <graphic height="3829px" url="master/0552_0041.tif" width="3020px"/>
+      <graphic height="190px" url="thumb/0552_0041_thumb.jpg" width="150px"/>
+      <graphic height="1800px" url="web/0552_0041_web.jpg" width="1419px"/>
+    </surface>
+    <surface n="45 =41">
+      <graphic height="3829px" url="master/0552_0042.tif" width="3020px"/>
+      <graphic height="190px" url="thumb/0552_0042_thumb.jpg" width="150px"/>
+      <graphic height="1800px" url="web/0552_0042_web.jpg" width="1419px"/>
+    </surface>
+    <surface n="46 =42">
+      <graphic height="3829px" url="master/0552_0043.tif" width="3020px"/>
+      <graphic height="190px" url="thumb/0552_0043_thumb.jpg" width="150px"/>
+      <graphic height="1800px" url="web/0552_0043_web.jpg" width="1419px"/>
+    </surface>
+    <surface n="47 =43">
+      <graphic height="3829px" url="master/0552_0044.tif" width="3020px"/>
+      <graphic height="190px" url="thumb/0552_0044_thumb.jpg" width="150px"/>
+      <graphic height="1800px" url="web/0552_0044_web.jpg" width="1419px"/>
+    </surface>
+    <surface n="48 =44">
+      <graphic height="3829px" url="master/0552_0045.tif" width="3020px"/>
+      <graphic height="190px" url="thumb/0552_0045_thumb.jpg" width="150px"/>
+      <graphic height="1800px" url="web/0552_0045_web.jpg" width="1419px"/>
+    </surface>
+    <surface n="49 =45">
+      <graphic height="3829px" url="master/0552_0046.tif" width="3020px"/>
+      <graphic height="190px" url="thumb/0552_0046_thumb.jpg" width="150px"/>
+      <graphic height="1800px" url="web/0552_0046_web.jpg" width="1419px"/>
+    </surface>
+    <surface n="50 =46">
+      <graphic height="3829px" url="master/0552_0047.tif" width="3020px"/>
+      <graphic height="190px" url="thumb/0552_0047_thumb.jpg" width="150px"/>
+      <graphic height="1800px" url="web/0552_0047_web.jpg" width="1419px"/>
+    </surface>
+    <surface n="51 =47">
+      <graphic height="3829px" url="master/0552_0048.tif" width="3020px"/>
+      <graphic height="190px" url="thumb/0552_0048_thumb.jpg" width="150px"/>
+      <graphic height="1800px" url="web/0552_0048_web.jpg" width="1419px"/>
+    </surface>
+    <surface n="52 =48">
+      <graphic height="3829px" url="master/0552_0049.tif" width="3020px"/>
+      <graphic height="190px" url="thumb/0552_0049_thumb.jpg" width="150px"/>
+      <graphic height="1800px" url="web/0552_0049_web.jpg" width="1419px"/>
+    </surface>
+    <surface n="53 =49">
+      <graphic height="3829px" url="master/0552_0050.tif" width="3020px"/>
+      <graphic height="190px" url="thumb/0552_0050_thumb.jpg" width="150px"/>
+      <graphic height="1800px" url="web/0552_0050_web.jpg" width="1419px"/>
+    </surface>
+    <surface n="54 =50">
+      <graphic height="3829px" url="master/0552_0051.tif" width="3020px"/>
+      <graphic height="190px" url="thumb/0552_0051_thumb.jpg" width="150px"/>
+      <graphic height="1800px" url="web/0552_0051_web.jpg" width="1419px"/>
+    </surface>
+    <surface n="55 =51">
+      <graphic height="3829px" url="master/0552_0052.tif" width="3020px"/>
+      <graphic height="190px" url="thumb/0552_0052_thumb.jpg" width="150px"/>
+      <graphic height="1800px" url="web/0552_0052_web.jpg" width="1419px"/>
+    </surface>
+    <surface n="56 =52">
+      <graphic height="3829px" url="master/0552_0053.tif" width="3020px"/>
+      <graphic height="190px" url="thumb/0552_0053_thumb.jpg" width="150px"/>
+      <graphic height="1800px" url="web/0552_0053_web.jpg" width="1419px"/>
+    </surface>
+    <surface n="57 =53">
+      <graphic height="3829px" url="master/0552_0054.tif" width="3020px"/>
+      <graphic height="190px" url="thumb/0552_0054_thumb.jpg" width="150px"/>
+      <graphic height="1800px" url="web/0552_0054_web.jpg" width="1419px"/>
+    </surface>
+    <surface n="58 =54">
+      <graphic height="3829px" url="master/0552_0055.tif" width="3020px"/>
+      <graphic height="190px" url="thumb/0552_0055_thumb.jpg" width="150px"/>
+      <graphic height="1800px" url="web/0552_0055_web.jpg" width="1419px"/>
+    </surface>
+    <surface n="59 =55">
+      <graphic height="3829px" url="master/0552_0056.tif" width="3020px"/>
+      <graphic height="190px" url="thumb/0552_0056_thumb.jpg" width="150px"/>
+      <graphic height="1800px" url="web/0552_0056_web.jpg" width="1419px"/>
+    </surface>
+    <surface n="60 =56">
+      <graphic height="3829px" url="master/0552_0057.tif" width="3020px"/>
+      <graphic height="190px" url="thumb/0552_0057_thumb.jpg" width="150px"/>
+      <graphic height="1800px" url="web/0552_0057_web.jpg" width="1419px"/>
+    </surface>
+    <surface n="61 =57">
+      <graphic height="3829px" url="master/0552_0058.tif" width="3020px"/>
+      <graphic height="190px" url="thumb/0552_0058_thumb.jpg" width="150px"/>
+      <graphic height="1800px" url="web/0552_0058_web.jpg" width="1419px"/>
+    </surface>
+    <surface n="62 =58">
+      <graphic height="3829px" url="master/0552_0059.tif" width="3020px"/>
+      <graphic height="190px" url="thumb/0552_0059_thumb.jpg" width="150px"/>
+      <graphic height="1800px" url="web/0552_0059_web.jpg" width="1419px"/>
+    </surface>
+    <surface n="Inside back cover">
+      <graphic height="3829px" url="master/0552_0060.tif" width="3902px"/>
+      <graphic height="186px" url="thumb/0552_0060_thumb.jpg" width="190px"/>
+      <graphic height="1766px" url="web/0552_0060_web.jpg" width="1800px"/>
+    </surface>
+    <surface n="Back cover">
+      <graphic height="3854px" url="master/0552_0061.tif" width="4005px"/>
+      <graphic height="182px" url="thumb/0552_0061_thumb.jpg" width="190px"/>
+      <graphic height="1732px" url="web/0552_0061_web.jpg" width="1800px"/>
+    </surface>
+    <surface n="Spine">
+      <graphic height="3854px" url="master/0552_0062.tif" width="3177px"/>
+      <graphic height="190px" url="thumb/0552_0062_thumb.jpg" width="156px"/>
+      <graphic height="1800px" url="web/0552_0062_web.jpg" width="1484px"/>
+    </surface>
+  </facsimile>
+</TEI>

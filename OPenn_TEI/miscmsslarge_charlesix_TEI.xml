@@ -1,0 +1,115 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Description of University of Pennsylvania Misc Mss (Large) Box 1 Folder 21: Miscellaneous manuscripts, (Large)</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>The University of Pennsylvania Libraries</publisher>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by/4.0/legalcode">
+                                This description is ©2016 University of
+                                Pennsylvania Libraries. It is licensed under a Creative Commons
+                                Attribution License version 4.0 (CC-BY-4.0
+                                https://creativecommons.org/licenses/by/4.0/legalcode. For a
+                                description of the terms of use see the Creative Commons Deed
+                                https://creativecommons.org/licenses/by/4.0/. </licence>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/"> All
+                                referenced images and their content are free of known copyright
+                                restrictions and in the public domain. See the Creative Commons
+                                Public Domain Mark page for usage details,
+                                http://creativecommons.org/publicdomain/mark/1.0/. </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <settlement>Philadelphia</settlement>
+            <institution>University of Pennsylvania</institution>
+            <repository>Rare Book &amp; Manuscript Library</repository>
+            <idno type="call-number">Misc Mss (Large) Box 1 Folder 21</idno>
+            <altIdentifier type="bibid">
+              <idno>4322652</idno>
+            </altIdentifier>
+            <altIdentifier type="resource">
+              <idno>http://hdl.library.upenn.edu/1017/d/medren/4322652</idno>
+            </altIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary>Original letter from Charles IX to Raymond de Rouer, sieur de Fourquevaux, his ambassador at the Spanish court of Phillip II. The French king claims to be pressured by his subjects in Provence and Languedoc to ransom a number of Frenchmen who had been captured by privateers in Algiers, Bone, and Tripoli. Charles IX reports that at first his ambassador to Constantinople was not able to meet with the traveling Suleiman I but was redirected to Belgrade, where he found himself in danger of being beheaded because the French had given assistance to the Knights of Malta and to the Spanish king. Despite the initial setback, the ambassador was able to gain favors with certain Pashas; Charles IX appears optimistic about the return of the captives. The report also contains intelligence on the Ottoman army, which is numbered at 300,000 men with a high quantity of artillery and other munitions. Charles IX claims that Suleiman plans to attack Agria and Transylvania by land, while his naval plans remain unknown. The letter is signed by Charles and countersigned by Florimond Robertet, his secretary of State. The letter is dated 20 August 1566, with the location indicated as Orcan. The text, written in a secretary script, appears on one half of the folded leaf; the other half of the leaf has the name of the addressee and a wax seal. Watermark of Charles IX depicts two intertwined columns topped with a crown and identifies the name of papermaker as Edmon Denise (Briquet, Colonne 4433, Mezières, 1564). A modern transcription of parts of the letter is included along with a detached piece of seal.</summary>
+            <textLang>In French</textLang>
+            <msItem>
+              <title>Miscellaneous manuscripts, (Large)</title>
+              <author>Charles IX, King of France, 1550-1574</author>
+              <respStmt>
+                <resp>recipient</resp>
+                <persName>Fourquevaux, baron de 1508-1574</persName>
+              </respStmt>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc material="paper">
+                <support>
+                  <p>paper</p>
+                </support>
+                <extent>1 325 x 440 mm (unfolded)</extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin/>
+            <provenance>Formerly held at the Château de Fourquevaux (Zacour-Hirsch).</provenance>
+            <provenance>Purchased in 1965.</provenance>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords n="subjects">
+          <term>International relations--History--16th century</term>
+          <term>Ambassadors--France--16th century</term>
+        </keywords>
+        <keywords n="form/genre">
+          <term>Reports</term>
+          <term>Manuscripts, French--16th century</term>
+          <term>Manuscripts, Renaissance</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface n="1r">
+      <graphic height="6163px" url="master/1750_0000.tif" width="4311px"/>
+      <graphic height="190px" url="thumb/1750_0000_thumb.jpg" width="133px"/>
+      <graphic height="1800px" url="web/1750_0000_web.jpg" width="1259px"/>
+    </surface>
+    <surface n="1v">
+      <graphic height="6163px" url="master/1750_0001.tif" width="4311px"/>
+      <graphic height="190px" url="thumb/1750_0001_thumb.jpg" width="133px"/>
+      <graphic height="1800px" url="web/1750_0001_web.jpg" width="1259px"/>
+    </surface>
+    <surface n="2r">
+      <graphic height="6163px" url="master/1750_0002.tif" width="4311px"/>
+      <graphic height="190px" url="thumb/1750_0002_thumb.jpg" width="133px"/>
+      <graphic height="1800px" url="web/1750_0002_web.jpg" width="1259px"/>
+    </surface>
+    <surface n="2v">
+      <graphic height="6163px" url="master/1750_0003.tif" width="4311px"/>
+      <graphic height="190px" url="thumb/1750_0003_thumb.jpg" width="133px"/>
+      <graphic height="1800px" url="web/1750_0003_web.jpg" width="1259px"/>
+    </surface>
+    <surface n="Wax seal, Side 1">
+      <graphic height="6163px" url="master/1750_0004.tif" width="4311px"/>
+      <graphic height="190px" url="thumb/1750_0004_thumb.jpg" width="133px"/>
+      <graphic height="1800px" url="web/1750_0004_web.jpg" width="1259px"/>
+    </surface>
+    <surface n="Wax seal, Side 2">
+      <graphic height="6163px" url="master/1750_0005.tif" width="4311px"/>
+      <graphic height="190px" url="thumb/1750_0005_thumb.jpg" width="133px"/>
+      <graphic height="1800px" url="web/1750_0005_web.jpg" width="1259px"/>
+    </surface>
+  </facsimile>
+</TEI>

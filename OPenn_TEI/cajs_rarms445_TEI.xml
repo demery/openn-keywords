@@ -1,0 +1,89 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Description of University of Pennsylvania CAJS Rar Ms 445: Manuscript leaf from the Book of Numbers.</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>The University of Pennsylvania Libraries</publisher>
+        <availability>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/">These images and the content of Library at the Herbert D. Katz Center for Advanced Judaic Studies, CAJS Rar Ms 445: Manuscript leaf from the Book of Numbers. are free of known copyright restrictions and in the public domain. See the Creative Commons Public Domain Mark page for usage details, http://creativecommons.org/publicdomain/mark/1.0/.</licence>
+          <licence target="https://creativecommons.org/licenses/by/4.0/legalcode">Metadata is ©2017 University of Pennsylvania Books &amp; Manuscripts and licensed under a Creative Commons Attribution License version 4.0 (CC-BY-4.0 https://creativecommons.org/licenses/by/4.0/legalcode. For a description of the terms of use see the Creative Commons Deed https://creativecommons.org/licenses/by/4.0/.</licence>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note>Ms. leaf.</note>
+        <note>Title supplied by cataloger.</note>
+        <note>Item cataloged from digital facsimile and existing description.</note>
+      </notesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <settlement>Philadelphia</settlement>
+            <institution>University of Pennsylvania</institution>
+            <repository>Library at the Herbert D. Katz Center for Advanced Judaic Studies</repository>
+            <idno type="call-number">CAJS Rar Ms 445</idno>
+            <altIdentifier type="bibid">
+              <idno>6854127</idno>
+            </altIdentifier>
+            <altIdentifier type="resource">
+              <idno>http://hdl.library.upenn.edu/1017/d/medren/6854127</idno>
+            </altIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary>Leaf with text of Numbers 21:32-22:27 in Ashkenazic square script; rectangular section cut from one corner with loss of text.</summary>
+            <textLang>Hebrew (vocalized)</textLang>
+            <msItem>
+              <title>Manuscript leaf from the Book of Numbers.</title>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc material="mixed">
+                <support>
+                  <p>parchment</p>
+                </support>
+                <extent>1 leaf : 296 x 200 mm</extent>
+              </supportDesc>
+              <layoutDesc>
+                <layout>Written in 22 lines.</layout>
+              </layoutDesc>
+            </objectDesc>
+            <scriptDesc>
+              <scriptNote>Written in Ashkenazic square script.</scriptNote>
+            </scriptDesc>
+          </physDesc>
+          <history>
+            <origin>
+              <p>Written in Germany in the 14th century?</p>
+              <origDate>between 1300 and 1399?</origDate>
+              <origPlace>Germany</origPlace>
+            </origin>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords n="form/genre">
+          <term>Detached leaves</term>
+          <term>Manuscripts, Medieval</term>
+          <term>Manuscripts, Hebrew--14th century</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface n="1r">
+      <graphic height="7879px" url="master/5094_0000.tif" width="5568px"/>
+      <graphic height="190px" url="thumb/5094_0000_thumb.jpg" width="134px"/>
+      <graphic height="1800px" url="web/5094_0000_web.jpg" width="1272px"/>
+    </surface>
+    <surface n="1v">
+      <graphic height="7879px" url="master/5094_0001.tif" width="5568px"/>
+      <graphic height="190px" url="thumb/5094_0001_thumb.jpg" width="134px"/>
+      <graphic height="1800px" url="web/5094_0001_web.jpg" width="1272px"/>
+    </surface>
+  </facsimile>
+</TEI>

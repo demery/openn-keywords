@@ -1,0 +1,101 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Description of University of Pennsylvania Misc Mss (Large) Box 1 Folder 15: Miscellaneous manuscripts (Large)</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>The University of Pennsylvania Libraries</publisher>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by/4.0/legalcode">
+                                This description is ©2017 University of
+                                Pennsylvania Libraries. It is licensed under a Creative Commons
+                                Attribution License version 4.0 (CC-BY-4.0
+                                https://creativecommons.org/licenses/by/4.0/legalcode. For a
+                                description of the terms of use see the Creative Commons Deed
+                                https://creativecommons.org/licenses/by/4.0/. </licence>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/"> All
+                                referenced images and their content are free of known copyright
+                                restrictions and in the public domain. See the Creative Commons
+                                Public Domain Mark page for usage details,
+                                http://creativecommons.org/publicdomain/mark/1.0/. </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <settlement>Philadelphia</settlement>
+            <institution>University of Pennsylvania</institution>
+            <repository>Rare Book &amp; Manuscript Library</repository>
+            <idno type="call-number">Misc Mss (Large) Box 1 Folder 15</idno>
+            <altIdentifier type="bibid">
+              <idno>4799169</idno>
+            </altIdentifier>
+            <altIdentifier type="resource">
+              <idno>http://hdl.library.upenn.edu/1017/d/medren/4799169</idno>
+            </altIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary>Leaf from a Cistercian missal containing texts from the Mass for Septuagesima Sunday, including readings from 1 Corinthians (9:24-10:4) and Matthew (20:1-10, incomplete). Written in Austria or southern Germany, in 24 long lines of a protogothic script. Decorated with 3 4-line initials, one each in red, green, and blue with a green checkerboard; 1 2-line initial in red; 1-line initials alternating red and green throughout; initials slashed with red; rubrics in red. Bound in full calf over boards with marbled endsheets by Edward Bayntun of Bayntun's of Bath.</summary>
+            <textLang>In Latin</textLang>
+            <msItem>
+              <title>Miscellaneous manuscripts (Large)</title>
+              <author>Catholic Church</author>
+              <respStmt>
+                <resp>former owner</resp>
+                <persName>Mettler, Arnold</persName>
+              </respStmt>
+              <respStmt>
+                <resp>former owner</resp>
+                <persName>Ege, Otto F</persName>
+              </respStmt>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc material="mixed">
+                <support>
+                  <p>parchment</p>
+                </support>
+                <extent>1 349 x 236 (250 x 163) mm</extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin/>
+            <provenance>Parent manuscript sold as part of the residue of the estate of Arnold Mettler of St. Gall at auction at Parke-Bernet Galleries, 30 Nov. 1948, lot 317, to Otto F. Ege.</provenance>
+            <provenance>Leaf described in this record sold by the family of Cleveland manuscripts dealer Otto F. Ege at auction at Sotheby's, 26 Nov. 1985, lot 44.</provenance>
+            <provenance>Sold by King Alfred's Notebook (Cayce, S.C.), cat. 2 (2010), no. 7.</provenance>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords n="subjects">
+          <term>Cistercians--Liturgy--Texts</term>
+          <term>Missals--Specimens</term>
+        </keywords>
+        <keywords n="form/genre">
+          <term>Fragments</term>
+          <term>Missals</term>
+          <term>Manuscripts, Latin--12th century</term>
+          <term>Manuscripts, Medieval</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface n="1r">
+      <graphic height="6561px" url="master/3371_0000.tif" width="4595px"/>
+      <graphic height="190px" url="thumb/3371_0000_thumb.jpg" width="133px"/>
+      <graphic height="1800px" url="web/3371_0000_web.jpg" width="1260px"/>
+    </surface>
+    <surface n="1v">
+      <graphic height="6561px" url="master/3371_0001.tif" width="4595px"/>
+      <graphic height="190px" url="thumb/3371_0001_thumb.jpg" width="133px"/>
+      <graphic height="1800px" url="web/3371_0001_web.jpg" width="1260px"/>
+    </surface>
+  </facsimile>
+</TEI>

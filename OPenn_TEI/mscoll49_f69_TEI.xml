@@ -1,0 +1,97 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Description of University of Pennsylvania Ms. Coll. 49: Consejo de Inquisición (Spain) genealogy for Rosa Cols y Esparagueras</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>The University of Pennsylvania Libraries</publisher>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by/4.0/legalcode">
+                                This description is ©2016 University of
+                                Pennsylvania Libraries. It is licensed under a Creative Commons
+                                Attribution License version 4.0 (CC-BY-4.0
+                                https://creativecommons.org/licenses/by/4.0/legalcode. For a
+                                description of the terms of use see the Creative Commons Deed
+                                https://creativecommons.org/licenses/by/4.0/. </licence>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/"> All
+                                referenced images and their content are free of known copyright
+                                restrictions and in the public domain. See the Creative Commons
+                                Public Domain Mark page for usage details,
+                                http://creativecommons.org/publicdomain/mark/1.0/. </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <settlement>Philadelphia</settlement>
+            <institution>University of Pennsylvania</institution>
+            <repository>Rare Book &amp; Manuscript Library</repository>
+            <idno type="call-number">Ms. Coll. 49</idno>
+            <altIdentifier type="bibid">
+              <idno>4479007</idno>
+            </altIdentifier>
+            <altIdentifier type="resource">
+              <idno>http://hdl.library.upenn.edu/1017/d/medren/4479007</idno>
+            </altIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary>Records of the genealogical investigation of Rosa Cols y Esparagueras, in order to prove limpieza de sangre, or direct descent from old Christian families.</summary>
+            <textLang>In Spanish</textLang>
+            <msItem>
+              <title>Consejo de Inquisición (Spain) genealogy for Rosa Cols y Esparagueras</title>
+              <author>Consejo de Inquisición (Spain)</author>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc>
+                <extent>1</extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin/>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords n="subjects">
+          <term>Nobility--Spain--Early works to 1800</term>
+        </keywords>
+        <keywords n="form/genre">
+          <term>Legal documents</term>
+          <term>Genealogies</term>
+          <term>Manuscripts, Spanish--17th century</term>
+          <term>Manuscripts, Spanish--18th century</term>
+          <term>Manuscripts, European</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface n="Folder 69, 1r">
+      <graphic height="6112px" url="master/2416_0000.tif" width="4151px"/>
+      <graphic height="190px" url="thumb/2416_0000_thumb.jpg" width="129px"/>
+      <graphic height="1800px" url="web/2416_0000_web.jpg" width="1222px"/>
+    </surface>
+    <surface n="Folder 69, 1v">
+      <graphic height="6112px" url="master/2416_0001.tif" width="4151px"/>
+      <graphic height="190px" url="thumb/2416_0001_thumb.jpg" width="129px"/>
+      <graphic height="1800px" url="web/2416_0001_web.jpg" width="1222px"/>
+    </surface>
+    <surface n="Folder 69, 2r">
+      <graphic height="6112px" url="master/2416_0002.tif" width="4151px"/>
+      <graphic height="190px" url="thumb/2416_0002_thumb.jpg" width="129px"/>
+      <graphic height="1800px" url="web/2416_0002_web.jpg" width="1222px"/>
+    </surface>
+    <surface n="Folder 69, 2v">
+      <graphic height="6112px" url="master/2416_0003.tif" width="4151px"/>
+      <graphic height="190px" url="thumb/2416_0003_thumb.jpg" width="129px"/>
+      <graphic height="1800px" url="web/2416_0003_web.jpg" width="1222px"/>
+    </surface>
+  </facsimile>
+</TEI>

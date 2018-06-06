@@ -1,0 +1,101 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Description of University of Pennsylvania Misc Mss (Large) Box 1 Folder 13: Miscellaneous manuscripts (Large)</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>The University of Pennsylvania Libraries</publisher>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by/4.0/legalcode">
+                                This description is ©2016 University of
+                                Pennsylvania Libraries. It is licensed under a Creative Commons
+                                Attribution License version 4.0 (CC-BY-4.0
+                                https://creativecommons.org/licenses/by/4.0/legalcode. For a
+                                description of the terms of use see the Creative Commons Deed
+                                https://creativecommons.org/licenses/by/4.0/. </licence>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/"> All
+                                referenced images and their content are free of known copyright
+                                restrictions and in the public domain. See the Creative Commons
+                                Public Domain Mark page for usage details,
+                                http://creativecommons.org/publicdomain/mark/1.0/. </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <settlement>Philadelphia</settlement>
+            <institution>University of Pennsylvania</institution>
+            <repository>Rare Book &amp; Manuscript Library</repository>
+            <idno type="call-number">Misc Mss (Large) Box 1 Folder 13</idno>
+            <altIdentifier type="bibid">
+              <idno>4549078</idno>
+            </altIdentifier>
+            <altIdentifier type="resource">
+              <idno>http://hdl.library.upenn.edu/1017/d/medren/4549078</idno>
+            </altIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary>Two copies of a contract of marriage between Richard Burdet and Isabella Shirwode, made at the Mitre Tavern in Cheapside (London), 22 November 1478, and witnessed by notary Nicholas Colles, Robert Caylboys, Hugh Tylney, Thomas Shirwode (brother of the bride), Richard Palmer, and Leticia Corbet. One copy, probably the original, is on paper; on the lower left recto is a note by Thomas Shirwode stating that the marriage would be registered before the official of Chester and that the banns were asked in the church of St. Botulph-without-Bishopsgate, just outside the walls of the City of London, signed with his name and mark; on the verso is another note stating that the contract was written and read before William, abbot of Vale Royal Abbey (Cheshire), several other named monks, and Thomas Bulkeley and Radulph Brereton, gentlemen, and Nicholas Cokesay, esquire. The other copy is a smaller fair copy on vellum, abbreviated somewhat differently, with both the note of Thomas Shirwode (without name and mark) and the note about Vale Royal Abbey copied on the verso.</summary>
+            <textLang>In Latin, with the words of the bride and groom and the note of the bride's brother in Middle English</textLang>
+            <msItem>
+              <title>Miscellaneous manuscripts (Large)</title>
+              <author>Burdet, Richard</author>
+              <author>Shirwode, Isabella</author>
+              <author>Shirwode, Thomas</author>
+              <author>Colles, Nicholas</author>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc>
+                <extent>2</extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin/>
+            <provenance>Sold in a collection of charters at auction at Sotheby's, 7 July 2009 (lot 10).</provenance>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords n="subjects">
+          <term>Marriage--England--Early works to 1800</term>
+        </keywords>
+        <keywords n="form/genre">
+          <term>Marriage certificates</term>
+          <term>Notarial documents</term>
+          <term>Manuscripts, Latin--15th century</term>
+          <term>Manuscripts, English (Middle)--15th century</term>
+          <term>Manuscripts, Renaissance</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface n="Item 1, Side 1">
+      <graphic height="5126px" url="master/1748_0000.tif" width="6743px"/>
+      <graphic height="144px" url="thumb/1748_0000_thumb.jpg" width="190px"/>
+      <graphic height="1368px" url="web/1748_0000_web.jpg" width="1800px"/>
+    </surface>
+    <surface n="Item 1, Side 2">
+      <graphic height="5126px" url="master/1748_0001.tif" width="6743px"/>
+      <graphic height="144px" url="thumb/1748_0001_thumb.jpg" width="190px"/>
+      <graphic height="1368px" url="web/1748_0001_web.jpg" width="1800px"/>
+    </surface>
+    <surface n="Item 2, Side 1">
+      <graphic height="6749px" url="master/1748_0002.tif" width="5126px"/>
+      <graphic height="190px" url="thumb/1748_0002_thumb.jpg" width="144px"/>
+      <graphic height="1800px" url="web/1748_0002_web.jpg" width="1367px"/>
+    </surface>
+    <surface n="Item 2, Side 2">
+      <graphic height="6749px" url="master/1748_0003.tif" width="5126px"/>
+      <graphic height="190px" url="thumb/1748_0003_thumb.jpg" width="144px"/>
+      <graphic height="1800px" url="web/1748_0003_web.jpg" width="1367px"/>
+    </surface>
+  </facsimile>
+</TEI>

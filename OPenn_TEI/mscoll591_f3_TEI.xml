@@ -1,0 +1,91 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Description of University of Pennsylvania Ms. Coll. 591: Breviary fragments</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>The University of Pennsylvania Libraries</publisher>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by/4.0/legalcode">
+                                This description is ©2015 University of
+                                Pennsylvania Libraries. It is licensed under a Creative Commons
+                                Attribution License version 4.0 (CC-BY-4.0
+                                https://creativecommons.org/licenses/by/4.0/legalcode. For a
+                                description of the terms of use see the Creative Commons Deed
+                                https://creativecommons.org/licenses/by/4.0/. </licence>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/"> All
+                                referenced images and their content are free of known copyright
+                                restrictions and in the public domain. See the Creative Commons
+                                Public Domain Mark page for usage details,
+                                http://creativecommons.org/publicdomain/mark/1.0/. </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <settlement>Philadelphia</settlement>
+            <institution>University of Pennsylvania</institution>
+            <repository>Rare Book &amp; Manuscript Library</repository>
+            <idno type="call-number">Ms. Coll. 591</idno>
+            <altIdentifier type="bibid">
+              <idno>3882405</idno>
+            </altIdentifier>
+            <altIdentifier type="resource">
+              <idno>http://hdl.library.upenn.edu/1017/d/medren/3882405</idno>
+            </altIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary>Two vellum fragments from a breviary, mostly containing texts and chant for September 8, the nativity of the Virgin Mary. If the two fragments are the top and bottom of the same leaf, there has been some loss of text between them. The text is laid out in two columns, with neumes above the chant texts, as well as rubrication and red initials.</summary>
+            <textLang>Latin</textLang>
+            <msItem>
+              <title>Breviary fragments</title>
+              <author>Catholic Church</author>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc material="parchment">
+                <support>
+                  <p>parchment</p>
+                </support>
+                <extent>1 135 x 196 mm., 133 x 196 mm</extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin/>
+            <provenance>Sold by William Salloch, 1979.</provenance>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords n="subjects">
+          <term>Catholic Church--Liturgy--Texts</term>
+          <term>Breviaries--Texts--Early works to 1800</term>
+        </keywords>
+        <keywords n="form/genre">
+          <term>Breviaries</term>
+          <term>Fragments</term>
+          <term>Manuscripts, Latin--12th century</term>
+          <term>Manuscripts, Medieval</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface n="1r">
+      <graphic height="6620px" url="master/0510_0000.tif" width="4921px"/>
+      <graphic height="190px" url="thumb/0510_0000_thumb.jpg" width="141px"/>
+      <graphic height="1800px" url="web/0510_0000_web.jpg" width="1338px"/>
+    </surface>
+    <surface n="1v">
+      <graphic height="6620px" url="master/0510_0001.tif" width="4921px"/>
+      <graphic height="190px" url="thumb/0510_0001_thumb.jpg" width="141px"/>
+      <graphic height="1800px" url="web/0510_0001_web.jpg" width="1338px"/>
+    </surface>
+  </facsimile>
+</TEI>

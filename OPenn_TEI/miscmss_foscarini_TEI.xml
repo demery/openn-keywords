@@ -1,0 +1,89 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Description of University of Pennsylvania Misc Mss: Miscellaneous manuscripts</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>The University of Pennsylvania Libraries</publisher>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by/4.0/legalcode">
+                                This description is ©2016 University of
+                                Pennsylvania Libraries. It is licensed under a Creative Commons
+                                Attribution License version 4.0 (CC-BY-4.0
+                                https://creativecommons.org/licenses/by/4.0/legalcode. For a
+                                description of the terms of use see the Creative Commons Deed
+                                https://creativecommons.org/licenses/by/4.0/. </licence>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/"> All
+                                referenced images and their content are free of known copyright
+                                restrictions and in the public domain. See the Creative Commons
+                                Public Domain Mark page for usage details,
+                                http://creativecommons.org/publicdomain/mark/1.0/. </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <settlement>Philadelphia</settlement>
+            <institution>University of Pennsylvania</institution>
+            <repository>Rare Book &amp; Manuscript Library</repository>
+            <idno type="call-number">Misc Mss</idno>
+            <altIdentifier type="bibid">
+              <idno>4497714</idno>
+            </altIdentifier>
+            <altIdentifier type="resource">
+              <idno>http://hdl.library.upenn.edu/1017/d/medren/4497714</idno>
+            </altIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary>Personal letter to Damiano dal Borgo, a Veronese patrician, from Lodovico Foscarini of Venice, also called Ludovicus Foscarenus. Possibly written from Mantua. Primarily discusses Pope Pius II and peace efforts in Pannonia (Hungary), referring to the conflict with Venice and Turkey as madness. Foscarini weighs the various options available in dealing with Hungary, and emerges clearly favoring the peace efforts of the Pope, which Foscarini believes will come about partially due to the Pope's wisdom, virtue and piety. Also mentions the King of Bohemia, who at the time was Jiří Poděbrad. Written in 43 long lines. Stored within a near-contemporary paper bifolium.</summary>
+            <textLang>In Latin</textLang>
+            <msItem>
+              <title>Miscellaneous manuscripts</title>
+              <author>Foscarini, Lodovico</author>
+              <respStmt>
+                <resp>recipient</resp>
+                <persName>Dal Borgo, Damiano</persName>
+              </respStmt>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc material="paper">
+                <support>
+                  <p>paper</p>
+                </support>
+                <extent>1 312 x 210 mm</extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin/>
+            <provenance>Purchased, 1964.</provenance>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords n="form/genre">
+          <term>Manuscripts, Italian--15th century</term>
+          <term>Manuscripts, Renaissance</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface n="Side 1">
+      <graphic height="5356px" url="master/2157_0000.tif" width="3672px"/>
+      <graphic height="190px" url="thumb/2157_0000_thumb.jpg" width="130px"/>
+      <graphic height="1800px" url="web/2157_0000_web.jpg" width="1234px"/>
+    </surface>
+    <surface n="Side 2">
+      <graphic height="5356px" url="master/2157_0001.tif" width="3672px"/>
+      <graphic height="190px" url="thumb/2157_0001_thumb.jpg" width="130px"/>
+      <graphic height="1800px" url="web/2157_0001_web.jpg" width="1234px"/>
+    </surface>
+  </facsimile>
+</TEI>

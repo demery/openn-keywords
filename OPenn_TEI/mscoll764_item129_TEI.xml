@@ -1,0 +1,114 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Description of University of Pennsylvania Ms. Coll. 764: Bartolomea Villani deed</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>The University of Pennsylvania Libraries</publisher>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by/4.0/legalcode">
+                                This description is ©2016 University of
+                                Pennsylvania Libraries. It is licensed under a Creative Commons
+                                Attribution License version 4.0 (CC-BY-4.0
+                                https://creativecommons.org/licenses/by/4.0/legalcode. For a
+                                description of the terms of use see the Creative Commons Deed
+                                https://creativecommons.org/licenses/by/4.0/. </licence>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/"> All
+                                referenced images and their content are free of known copyright
+                                restrictions and in the public domain. See the Creative Commons
+                                Public Domain Mark page for usage details,
+                                http://creativecommons.org/publicdomain/mark/1.0/. </licence>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note>Long rolled document shelved at the end of the collection.</note>
+      </notesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <settlement>Philadelphia</settlement>
+            <institution>University of Pennsylvania</institution>
+            <repository>Rare Book &amp; Manuscript Library</repository>
+            <idno type="call-number">Ms. Coll. 764</idno>
+            <altIdentifier type="bibid">
+              <idno>5001994</idno>
+            </altIdentifier>
+            <altIdentifier type="resource">
+              <idno>http://hdl.library.upenn.edu/1017/d/medren/5001994</idno>
+            </altIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary>Long rolled document containing the deed of sale of a piece of land to Piero di Domenico Pieri by Donna Bartolomea, daughter of Angiolo Ridolfi of Prato and widow of Benozzo Bonaccorti, currently married to Francesco d'Andrea Villani. The land was located in Prato. Notarized by Tommaso di Pietro of Florence on 20 August 1432. Filed with the document is a short, later summary written in Italian on paper.</summary>
+            <textLang>In Latin</textLang>
+            <msItem>
+              <title>Bartolomea Villani deed</title>
+              <author>Pietro, Tommaso di</author>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc material="parchment.">
+                <support>
+                  <p>parchment.</p>
+                </support>
+                <extent>1</extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin/>
+            <provenance>Sold by Renzo Rizzi (Milan).</provenance>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords n="subjects">
+          <term>Real property--Italy--15th century</term>
+        </keywords>
+        <keywords n="form/genre">
+          <term>Notarial documents</term>
+          <term>Deeds</term>
+          <term>Scrolls (information artifacts)</term>
+          <term>Manuscripts, Latin--15th century</term>
+          <term>Manuscripts, Renaissance</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface n="Membrane 1, Side 1">
+      <graphic height="6200px" url="master/1871_0000.tif" width="2700px"/>
+      <graphic height="190px" url="thumb/1871_0000_thumb.jpg" width="82px"/>
+      <graphic height="1800px" url="web/1871_0000_web.jpg" width="783px"/>
+    </surface>
+    <surface n="Membrane 2, Side 1">
+      <graphic height="5415px" url="master/1871_0001.tif" width="2663px"/>
+      <graphic height="190px" url="thumb/1871_0001_thumb.jpg" width="93px"/>
+      <graphic height="1800px" url="web/1871_0001_web.jpg" width="885px"/>
+    </surface>
+    <surface n="Membrane 1, Side 2">
+      <graphic height="6200px" url="master/1871_0002.tif" width="2670px"/>
+      <graphic height="190px" url="thumb/1871_0002_thumb.jpg" width="81px"/>
+      <graphic height="1800px" url="web/1871_0002_web.jpg" width="775px"/>
+    </surface>
+    <surface n="Membrane 2, Side 2">
+      <graphic height="5552px" url="master/1871_0003.tif" width="2670px"/>
+      <graphic height="190px" url="thumb/1871_0003_thumb.jpg" width="91px"/>
+      <graphic height="1800px" url="web/1871_0003_web.jpg" width="865px"/>
+    </surface>
+    <surface n="Note 1, Side 1">
+      <graphic height="2914px" url="master/1871_0004.tif" width="4130px"/>
+      <graphic height="134px" url="thumb/1871_0004_thumb.jpg" width="190px"/>
+      <graphic height="1270px" url="web/1871_0004_web.jpg" width="1800px"/>
+    </surface>
+    <surface n="Note 1, Side 2">
+      <graphic height="2914px" url="master/1871_0005.tif" width="4130px"/>
+      <graphic height="134px" url="thumb/1871_0005_thumb.jpg" width="190px"/>
+      <graphic height="1270px" url="web/1871_0005_web.jpg" width="1800px"/>
+    </surface>
+  </facsimile>
+</TEI>

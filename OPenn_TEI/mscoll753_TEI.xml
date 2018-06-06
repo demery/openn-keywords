@@ -1,0 +1,470 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Description of University of Pennsylvania Ms. Coll. 753: Uguccioni family papers</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>The University of Pennsylvania Libraries</publisher>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by/4.0/legalcode">
+                                This description is ©2016 University of
+                                Pennsylvania Libraries. It is licensed under a Creative Commons
+                                Attribution License version 4.0 (CC-BY-4.0
+                                https://creativecommons.org/licenses/by/4.0/legalcode. For a
+                                description of the terms of use see the Creative Commons Deed
+                                https://creativecommons.org/licenses/by/4.0/. </licence>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/"> All
+                                referenced images and their content are free of known copyright
+                                restrictions and in the public domain. See the Creative Commons
+                                Public Domain Mark page for usage details,
+                                http://creativecommons.org/publicdomain/mark/1.0/. </licence>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note>Written on various sizes of paper, some with seals and remainders of seals.</note>
+      </notesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <settlement>Philadelphia</settlement>
+            <institution>University of Pennsylvania</institution>
+            <repository>Rare Book &amp; Manuscript Library</repository>
+            <idno type="call-number">Ms. Coll. 753</idno>
+            <altIdentifier type="bibid">
+              <idno>4546512</idno>
+            </altIdentifier>
+            <altIdentifier type="resource">
+              <idno>http://hdl.library.upenn.edu/1017/d/medren/4546512</idno>
+            </altIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary>Collection of letters written by various members of the Uguccioni family (in particular Carlo), covering the years 1520-1534 . Folders 1-4 contain correspondence to Carlo (also referred to as Charlo) Uguccioni, arranged chronologically, sent by various individuals, probably business counterparts like Stagio Barducci and, in certain cases, family members, such as Pierfilippo and Pierfrancesco Uguccioni. Most letters are rather informal and business topics (including production and sale of oil and other farm produce, as well as bills of exchange) are touched on briefly, often combined with comments on family matters. Names such as Roberto Acciaiuoli and Guglielmo Gondi, probably also business counterparts, appear occasionally, although their exact relationship to the Uguccioni family is not very clear. In certain cases, short accounts are incorporated in the letters. It is likely that Carlo Uguccioni was involved in a wide range of activities, from farm management to financial speculations. Folder 5 contains 2 short autograph letters of Carlo Uguccioni, concerning business matters (perhaps a sale of textile products). Folder 6 contains 2 autograph letters, the first from Pierfilippo Uguccioni to Benedetto del Monte, which includes accounts for the salaries(?) of employees of an unspecified business, and mentions of an outstanding debt with the commune (Florence?); the second, written in Spanish, is from Bernado Uguccioni to Benedetto Uguccioni, also covering business matters and pending payments.</summary>
+            <textLang mainLang="ita" otherLangs="spa">Italian, with one letter in Spanish</textLang>
+            <msItem>
+              <title>Uguccioni family papers</title>
+              <author>Uguccioni family</author>
+              <author>Uguccioni, Pierfilippo</author>
+              <author>Uguccioni, Pierfrancesco</author>
+              <author>Uguccioni, Giovanbattista</author>
+              <author>Uguccioni, Carlo</author>
+              <author>Uguccioni, Benedetto</author>
+              <author>Uguccioni, Bernardo</author>
+              <author>Buondelmonti, Benedetto</author>
+              <author>Barducci, Stagio</author>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc>
+                <extent>31</extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin/>
+            <provenance>Sold by Bernard M. Rosenthal, 1963.</provenance>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords n="subjects">
+          <term>Merchants--Italy</term>
+          <term>Accounting--Italy--16th century</term>
+          <term>Textile industry--Italy--Early works to 1800</term>
+          <term>Farm management--Italy</term>
+        </keywords>
+        <keywords n="form/genre">
+          <term>Manuscripts, Italian--16th century</term>
+          <term>Manuscripts, Spanish--16th century</term>
+          <term>Manuscripts, Renaissance</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface n="Folder 1, 1r">
+      <graphic height="6089px" url="master/1402_0000.tif" width="4427px"/>
+      <graphic height="190px" url="thumb/1402_0000_thumb.jpg" width="138px"/>
+      <graphic height="1800px" url="web/1402_0000_web.jpg" width="1309px"/>
+    </surface>
+    <surface n="Folder 1, 1v">
+      <graphic height="6089px" url="master/1402_0001.tif" width="4427px"/>
+      <graphic height="190px" url="thumb/1402_0001_thumb.jpg" width="138px"/>
+      <graphic height="1800px" url="web/1402_0001_web.jpg" width="1309px"/>
+    </surface>
+    <surface n="Folder 1, 2r">
+      <graphic height="6089px" url="master/1402_0002.tif" width="4427px"/>
+      <graphic height="190px" url="thumb/1402_0002_thumb.jpg" width="138px"/>
+      <graphic height="1800px" url="web/1402_0002_web.jpg" width="1309px"/>
+    </surface>
+    <surface n="Folder 1, 2v">
+      <graphic height="6089px" url="master/1402_0003.tif" width="4427px"/>
+      <graphic height="190px" url="thumb/1402_0003_thumb.jpg" width="138px"/>
+      <graphic height="1800px" url="web/1402_0003_web.jpg" width="1309px"/>
+    </surface>
+    <surface n="Folder 1, 3r">
+      <graphic height="6089px" url="master/1402_0004.tif" width="4427px"/>
+      <graphic height="190px" url="thumb/1402_0004_thumb.jpg" width="138px"/>
+      <graphic height="1800px" url="web/1402_0004_web.jpg" width="1309px"/>
+    </surface>
+    <surface n="Folder 1, 3v">
+      <graphic height="6089px" url="master/1402_0005.tif" width="4427px"/>
+      <graphic height="190px" url="thumb/1402_0005_thumb.jpg" width="138px"/>
+      <graphic height="1800px" url="web/1402_0005_web.jpg" width="1309px"/>
+    </surface>
+    <surface n="Folder 1, 4r">
+      <graphic height="6089px" url="master/1402_0006.tif" width="4427px"/>
+      <graphic height="190px" url="thumb/1402_0006_thumb.jpg" width="138px"/>
+      <graphic height="1800px" url="web/1402_0006_web.jpg" width="1309px"/>
+    </surface>
+    <surface n="Folder 1, 4v">
+      <graphic height="6089px" url="master/1402_0007.tif" width="4427px"/>
+      <graphic height="190px" url="thumb/1402_0007_thumb.jpg" width="138px"/>
+      <graphic height="1800px" url="web/1402_0007_web.jpg" width="1309px"/>
+    </surface>
+    <surface n="Folder 1, 5r">
+      <graphic height="6089px" url="master/1402_0008.tif" width="4427px"/>
+      <graphic height="190px" url="thumb/1402_0008_thumb.jpg" width="138px"/>
+      <graphic height="1800px" url="web/1402_0008_web.jpg" width="1309px"/>
+    </surface>
+    <surface n="Folder 1, 5v">
+      <graphic height="6089px" url="master/1402_0009.tif" width="4427px"/>
+      <graphic height="190px" url="thumb/1402_0009_thumb.jpg" width="138px"/>
+      <graphic height="1800px" url="web/1402_0009_web.jpg" width="1309px"/>
+    </surface>
+    <surface n="Folder 1, 6r">
+      <graphic height="6089px" url="master/1402_0010.tif" width="4427px"/>
+      <graphic height="190px" url="thumb/1402_0010_thumb.jpg" width="138px"/>
+      <graphic height="1800px" url="web/1402_0010_web.jpg" width="1309px"/>
+    </surface>
+    <surface n="Folder 1, 6v">
+      <graphic height="6089px" url="master/1402_0011.tif" width="4427px"/>
+      <graphic height="190px" url="thumb/1402_0011_thumb.jpg" width="138px"/>
+      <graphic height="1800px" url="web/1402_0011_web.jpg" width="1309px"/>
+    </surface>
+    <surface n="Folder 1, 7r">
+      <graphic height="6089px" url="master/1402_0012.tif" width="4427px"/>
+      <graphic height="190px" url="thumb/1402_0012_thumb.jpg" width="138px"/>
+      <graphic height="1800px" url="web/1402_0012_web.jpg" width="1309px"/>
+    </surface>
+    <surface n="Folder 1, 7v">
+      <graphic height="6089px" url="master/1402_0013.tif" width="4427px"/>
+      <graphic height="190px" url="thumb/1402_0013_thumb.jpg" width="138px"/>
+      <graphic height="1800px" url="web/1402_0013_web.jpg" width="1309px"/>
+    </surface>
+    <surface n="Folder 1, 8r">
+      <graphic height="6089px" url="master/1402_0014.tif" width="4427px"/>
+      <graphic height="190px" url="thumb/1402_0014_thumb.jpg" width="138px"/>
+      <graphic height="1800px" url="web/1402_0014_web.jpg" width="1309px"/>
+    </surface>
+    <surface n="Folder 1, 8v">
+      <graphic height="6089px" url="master/1402_0015.tif" width="4427px"/>
+      <graphic height="190px" url="thumb/1402_0015_thumb.jpg" width="138px"/>
+      <graphic height="1800px" url="web/1402_0015_web.jpg" width="1309px"/>
+    </surface>
+    <surface n="Folder 2, 1r">
+      <graphic height="6089px" url="master/1402_0016.tif" width="4427px"/>
+      <graphic height="190px" url="thumb/1402_0016_thumb.jpg" width="138px"/>
+      <graphic height="1800px" url="web/1402_0016_web.jpg" width="1309px"/>
+    </surface>
+    <surface n="Folder 2, 1v">
+      <graphic height="6089px" url="master/1402_0017.tif" width="4427px"/>
+      <graphic height="190px" url="thumb/1402_0017_thumb.jpg" width="138px"/>
+      <graphic height="1800px" url="web/1402_0017_web.jpg" width="1309px"/>
+    </surface>
+    <surface n="Folder 2, 2r">
+      <graphic height="6089px" url="master/1402_0018.tif" width="4427px"/>
+      <graphic height="190px" url="thumb/1402_0018_thumb.jpg" width="138px"/>
+      <graphic height="1800px" url="web/1402_0018_web.jpg" width="1309px"/>
+    </surface>
+    <surface n="Folder 2, v">
+      <graphic height="6089px" url="master/1402_0019.tif" width="4427px"/>
+      <graphic height="190px" url="thumb/1402_0019_thumb.jpg" width="138px"/>
+      <graphic height="1800px" url="web/1402_0019_web.jpg" width="1309px"/>
+    </surface>
+    <surface n="Folder 2, 3r">
+      <graphic height="6089px" url="master/1402_0020.tif" width="4427px"/>
+      <graphic height="190px" url="thumb/1402_0020_thumb.jpg" width="138px"/>
+      <graphic height="1800px" url="web/1402_0020_web.jpg" width="1309px"/>
+    </surface>
+    <surface n="Folder 2, 3v">
+      <graphic height="6089px" url="master/1402_0021.tif" width="4427px"/>
+      <graphic height="190px" url="thumb/1402_0021_thumb.jpg" width="138px"/>
+      <graphic height="1800px" url="web/1402_0021_web.jpg" width="1309px"/>
+    </surface>
+    <surface n="Folder 2, 4r">
+      <graphic height="6089px" url="master/1402_0022.tif" width="4427px"/>
+      <graphic height="190px" url="thumb/1402_0022_thumb.jpg" width="138px"/>
+      <graphic height="1800px" url="web/1402_0022_web.jpg" width="1309px"/>
+    </surface>
+    <surface n="Folder 2, 4v">
+      <graphic height="6089px" url="master/1402_0023.tif" width="4427px"/>
+      <graphic height="190px" url="thumb/1402_0023_thumb.jpg" width="138px"/>
+      <graphic height="1800px" url="web/1402_0023_web.jpg" width="1309px"/>
+    </surface>
+    <surface n="Folder 2, 5r">
+      <graphic height="6089px" url="master/1402_0024.tif" width="4427px"/>
+      <graphic height="190px" url="thumb/1402_0024_thumb.jpg" width="138px"/>
+      <graphic height="1800px" url="web/1402_0024_web.jpg" width="1309px"/>
+    </surface>
+    <surface n="Folder 2, 5v">
+      <graphic height="6089px" url="master/1402_0025.tif" width="4427px"/>
+      <graphic height="190px" url="thumb/1402_0025_thumb.jpg" width="138px"/>
+      <graphic height="1800px" url="web/1402_0025_web.jpg" width="1309px"/>
+    </surface>
+    <surface n="Folder 2, 6r">
+      <graphic height="6089px" url="master/1402_0026.tif" width="4427px"/>
+      <graphic height="190px" url="thumb/1402_0026_thumb.jpg" width="138px"/>
+      <graphic height="1800px" url="web/1402_0026_web.jpg" width="1309px"/>
+    </surface>
+    <surface n="Folder 2, 6v">
+      <graphic height="6089px" url="master/1402_0027.tif" width="4427px"/>
+      <graphic height="190px" url="thumb/1402_0027_thumb.jpg" width="138px"/>
+      <graphic height="1800px" url="web/1402_0027_web.jpg" width="1309px"/>
+    </surface>
+    <surface n="Folder 2, 7r">
+      <graphic height="6089px" url="master/1402_0028.tif" width="4427px"/>
+      <graphic height="190px" url="thumb/1402_0028_thumb.jpg" width="138px"/>
+      <graphic height="1800px" url="web/1402_0028_web.jpg" width="1309px"/>
+    </surface>
+    <surface n="Folder 2, 7v">
+      <graphic height="6089px" url="master/1402_0029.tif" width="4427px"/>
+      <graphic height="190px" url="thumb/1402_0029_thumb.jpg" width="138px"/>
+      <graphic height="1800px" url="web/1402_0029_web.jpg" width="1309px"/>
+    </surface>
+    <surface n="Folder 2, 8r">
+      <graphic height="6089px" url="master/1402_0030.tif" width="4427px"/>
+      <graphic height="190px" url="thumb/1402_0030_thumb.jpg" width="138px"/>
+      <graphic height="1800px" url="web/1402_0030_web.jpg" width="1309px"/>
+    </surface>
+    <surface n="Folder 2, 8v">
+      <graphic height="6089px" url="master/1402_0031.tif" width="4427px"/>
+      <graphic height="190px" url="thumb/1402_0031_thumb.jpg" width="138px"/>
+      <graphic height="1800px" url="web/1402_0031_web.jpg" width="1309px"/>
+    </surface>
+    <surface n="Folder 2, 9r">
+      <graphic height="6089px" url="master/1402_0032.tif" width="4427px"/>
+      <graphic height="190px" url="thumb/1402_0032_thumb.jpg" width="138px"/>
+      <graphic height="1800px" url="web/1402_0032_web.jpg" width="1309px"/>
+    </surface>
+    <surface n="Folder 2, 9v">
+      <graphic height="6089px" url="master/1402_0033.tif" width="4427px"/>
+      <graphic height="190px" url="thumb/1402_0033_thumb.jpg" width="138px"/>
+      <graphic height="1800px" url="web/1402_0033_web.jpg" width="1309px"/>
+    </surface>
+    <surface n="Folder 2, 10r">
+      <graphic height="6089px" url="master/1402_0034.tif" width="4427px"/>
+      <graphic height="190px" url="thumb/1402_0034_thumb.jpg" width="138px"/>
+      <graphic height="1800px" url="web/1402_0034_web.jpg" width="1309px"/>
+    </surface>
+    <surface n="Folder 2, 10v">
+      <graphic height="6089px" url="master/1402_0035.tif" width="4427px"/>
+      <graphic height="190px" url="thumb/1402_0035_thumb.jpg" width="138px"/>
+      <graphic height="1800px" url="web/1402_0035_web.jpg" width="1309px"/>
+    </surface>
+    <surface n="Folder 2, 11r">
+      <graphic height="6089px" url="master/1402_0036.tif" width="4427px"/>
+      <graphic height="190px" url="thumb/1402_0036_thumb.jpg" width="138px"/>
+      <graphic height="1800px" url="web/1402_0036_web.jpg" width="1309px"/>
+    </surface>
+    <surface n="Folder 2, 11v">
+      <graphic height="6089px" url="master/1402_0037.tif" width="4427px"/>
+      <graphic height="190px" url="thumb/1402_0037_thumb.jpg" width="138px"/>
+      <graphic height="1800px" url="web/1402_0037_web.jpg" width="1309px"/>
+    </surface>
+    <surface n="Folder 2, 12r">
+      <graphic height="6089px" url="master/1402_0038.tif" width="4427px"/>
+      <graphic height="190px" url="thumb/1402_0038_thumb.jpg" width="138px"/>
+      <graphic height="1800px" url="web/1402_0038_web.jpg" width="1309px"/>
+    </surface>
+    <surface n="Folder 2, 12v">
+      <graphic height="6089px" url="master/1402_0039.tif" width="4427px"/>
+      <graphic height="190px" url="thumb/1402_0039_thumb.jpg" width="138px"/>
+      <graphic height="1800px" url="web/1402_0039_web.jpg" width="1309px"/>
+    </surface>
+    <surface n="Folder 2, 13r">
+      <graphic height="6089px" url="master/1402_0040.tif" width="4427px"/>
+      <graphic height="190px" url="thumb/1402_0040_thumb.jpg" width="138px"/>
+      <graphic height="1800px" url="web/1402_0040_web.jpg" width="1309px"/>
+    </surface>
+    <surface n="Folder 2, 13v">
+      <graphic height="6089px" url="master/1402_0041.tif" width="4427px"/>
+      <graphic height="190px" url="thumb/1402_0041_thumb.jpg" width="138px"/>
+      <graphic height="1800px" url="web/1402_0041_web.jpg" width="1309px"/>
+    </surface>
+    <surface n="Folder 3, 1r">
+      <graphic height="6089px" url="master/1402_0042.tif" width="4427px"/>
+      <graphic height="190px" url="thumb/1402_0042_thumb.jpg" width="138px"/>
+      <graphic height="1800px" url="web/1402_0042_web.jpg" width="1309px"/>
+    </surface>
+    <surface n="Folder 3, 1v">
+      <graphic height="6089px" url="master/1402_0043.tif" width="4427px"/>
+      <graphic height="190px" url="thumb/1402_0043_thumb.jpg" width="138px"/>
+      <graphic height="1800px" url="web/1402_0043_web.jpg" width="1309px"/>
+    </surface>
+    <surface n="Folder 3, 2r">
+      <graphic height="6089px" url="master/1402_0044.tif" width="4427px"/>
+      <graphic height="190px" url="thumb/1402_0044_thumb.jpg" width="138px"/>
+      <graphic height="1800px" url="web/1402_0044_web.jpg" width="1309px"/>
+    </surface>
+    <surface n="Folder 3, 2v">
+      <graphic height="6089px" url="master/1402_0045.tif" width="4427px"/>
+      <graphic height="190px" url="thumb/1402_0045_thumb.jpg" width="138px"/>
+      <graphic height="1800px" url="web/1402_0045_web.jpg" width="1309px"/>
+    </surface>
+    <surface n="Folder 3, 3r">
+      <graphic height="6089px" url="master/1402_0046.tif" width="4427px"/>
+      <graphic height="190px" url="thumb/1402_0046_thumb.jpg" width="138px"/>
+      <graphic height="1800px" url="web/1402_0046_web.jpg" width="1309px"/>
+    </surface>
+    <surface n="Folder 3, 3v">
+      <graphic height="6089px" url="master/1402_0047.tif" width="4427px"/>
+      <graphic height="190px" url="thumb/1402_0047_thumb.jpg" width="138px"/>
+      <graphic height="1800px" url="web/1402_0047_web.jpg" width="1309px"/>
+    </surface>
+    <surface n="Folder 3, 4r">
+      <graphic height="6089px" url="master/1402_0048.tif" width="4427px"/>
+      <graphic height="190px" url="thumb/1402_0048_thumb.jpg" width="138px"/>
+      <graphic height="1800px" url="web/1402_0048_web.jpg" width="1309px"/>
+    </surface>
+    <surface n="Folder 3, 4v">
+      <graphic height="6089px" url="master/1402_0049.tif" width="4427px"/>
+      <graphic height="190px" url="thumb/1402_0049_thumb.jpg" width="138px"/>
+      <graphic height="1800px" url="web/1402_0049_web.jpg" width="1309px"/>
+    </surface>
+    <surface n="Folder 3, 5r">
+      <graphic height="6089px" url="master/1402_0050.tif" width="4427px"/>
+      <graphic height="190px" url="thumb/1402_0050_thumb.jpg" width="138px"/>
+      <graphic height="1800px" url="web/1402_0050_web.jpg" width="1309px"/>
+    </surface>
+    <surface n="Folder 3, 5v">
+      <graphic height="6089px" url="master/1402_0051.tif" width="4427px"/>
+      <graphic height="190px" url="thumb/1402_0051_thumb.jpg" width="138px"/>
+      <graphic height="1800px" url="web/1402_0051_web.jpg" width="1309px"/>
+    </surface>
+    <surface n="Folder 3, 6r">
+      <graphic height="6089px" url="master/1402_0052.tif" width="4427px"/>
+      <graphic height="190px" url="thumb/1402_0052_thumb.jpg" width="138px"/>
+      <graphic height="1800px" url="web/1402_0052_web.jpg" width="1309px"/>
+    </surface>
+    <surface n="Folder 3, 6v">
+      <graphic height="6089px" url="master/1402_0053.tif" width="4427px"/>
+      <graphic height="190px" url="thumb/1402_0053_thumb.jpg" width="138px"/>
+      <graphic height="1800px" url="web/1402_0053_web.jpg" width="1309px"/>
+    </surface>
+    <surface n="Folder 3, 7r">
+      <graphic height="6089px" url="master/1402_0054.tif" width="4427px"/>
+      <graphic height="190px" url="thumb/1402_0054_thumb.jpg" width="138px"/>
+      <graphic height="1800px" url="web/1402_0054_web.jpg" width="1309px"/>
+    </surface>
+    <surface n="Folder 3, 7v">
+      <graphic height="6089px" url="master/1402_0055.tif" width="4427px"/>
+      <graphic height="190px" url="thumb/1402_0055_thumb.jpg" width="138px"/>
+      <graphic height="1800px" url="web/1402_0055_web.jpg" width="1309px"/>
+    </surface>
+    <surface n="Folder 3, 8r">
+      <graphic height="6089px" url="master/1402_0056.tif" width="4427px"/>
+      <graphic height="190px" url="thumb/1402_0056_thumb.jpg" width="138px"/>
+      <graphic height="1800px" url="web/1402_0056_web.jpg" width="1309px"/>
+    </surface>
+    <surface n="Folder 3, 8v">
+      <graphic height="6089px" url="master/1402_0057.tif" width="4427px"/>
+      <graphic height="190px" url="thumb/1402_0057_thumb.jpg" width="138px"/>
+      <graphic height="1800px" url="web/1402_0057_web.jpg" width="1309px"/>
+    </surface>
+    <surface n="Folder 3, 9r">
+      <graphic height="6089px" url="master/1402_0058.tif" width="4427px"/>
+      <graphic height="190px" url="thumb/1402_0058_thumb.jpg" width="138px"/>
+      <graphic height="1800px" url="web/1402_0058_web.jpg" width="1309px"/>
+    </surface>
+    <surface n="Folder 3, 9v">
+      <graphic height="6089px" url="master/1402_0059.tif" width="4427px"/>
+      <graphic height="190px" url="thumb/1402_0059_thumb.jpg" width="138px"/>
+      <graphic height="1800px" url="web/1402_0059_web.jpg" width="1309px"/>
+    </surface>
+    <surface n="Folder 4, 1r">
+      <graphic height="6089px" url="master/1402_0060.tif" width="4427px"/>
+      <graphic height="190px" url="thumb/1402_0060_thumb.jpg" width="138px"/>
+      <graphic height="1800px" url="web/1402_0060_web.jpg" width="1309px"/>
+    </surface>
+    <surface n="Folder 4, 1v">
+      <graphic height="6089px" url="master/1402_0061.tif" width="4427px"/>
+      <graphic height="190px" url="thumb/1402_0061_thumb.jpg" width="138px"/>
+      <graphic height="1800px" url="web/1402_0061_web.jpg" width="1309px"/>
+    </surface>
+    <surface n="Folder 4, 2r">
+      <graphic height="6089px" url="master/1402_0062.tif" width="4427px"/>
+      <graphic height="190px" url="thumb/1402_0062_thumb.jpg" width="138px"/>
+      <graphic height="1800px" url="web/1402_0062_web.jpg" width="1309px"/>
+    </surface>
+    <surface n="Folder 4, 2v">
+      <graphic height="6089px" url="master/1402_0063.tif" width="4427px"/>
+      <graphic height="190px" url="thumb/1402_0063_thumb.jpg" width="138px"/>
+      <graphic height="1800px" url="web/1402_0063_web.jpg" width="1309px"/>
+    </surface>
+    <surface n="Folder 4, 3r">
+      <graphic height="6089px" url="master/1402_0064.tif" width="4427px"/>
+      <graphic height="190px" url="thumb/1402_0064_thumb.jpg" width="138px"/>
+      <graphic height="1800px" url="web/1402_0064_web.jpg" width="1309px"/>
+    </surface>
+    <surface n="Folder 4, 3v">
+      <graphic height="6089px" url="master/1402_0065.tif" width="4427px"/>
+      <graphic height="190px" url="thumb/1402_0065_thumb.jpg" width="138px"/>
+      <graphic height="1800px" url="web/1402_0065_web.jpg" width="1309px"/>
+    </surface>
+    <surface n="Folder 5, 1r">
+      <graphic height="6089px" url="master/1402_0066.tif" width="4427px"/>
+      <graphic height="190px" url="thumb/1402_0066_thumb.jpg" width="138px"/>
+      <graphic height="1800px" url="web/1402_0066_web.jpg" width="1309px"/>
+    </surface>
+    <surface n="Folder 5, 1v">
+      <graphic height="6089px" url="master/1402_0067.tif" width="4427px"/>
+      <graphic height="190px" url="thumb/1402_0067_thumb.jpg" width="138px"/>
+      <graphic height="1800px" url="web/1402_0067_web.jpg" width="1309px"/>
+    </surface>
+    <surface n="Folder 5, 2r">
+      <graphic height="6089px" url="master/1402_0068.tif" width="4427px"/>
+      <graphic height="190px" url="thumb/1402_0068_thumb.jpg" width="138px"/>
+      <graphic height="1800px" url="web/1402_0068_web.jpg" width="1309px"/>
+    </surface>
+    <surface n="Folder 5, 2v">
+      <graphic height="6089px" url="master/1402_0069.tif" width="4427px"/>
+      <graphic height="190px" url="thumb/1402_0069_thumb.jpg" width="138px"/>
+      <graphic height="1800px" url="web/1402_0069_web.jpg" width="1309px"/>
+    </surface>
+    <surface n="Folder 6, 1r">
+      <graphic height="6089px" url="master/1402_0070.tif" width="4427px"/>
+      <graphic height="190px" url="thumb/1402_0070_thumb.jpg" width="138px"/>
+      <graphic height="1800px" url="web/1402_0070_web.jpg" width="1309px"/>
+    </surface>
+    <surface n="Folder 6, 1v">
+      <graphic height="6089px" url="master/1402_0071.tif" width="4427px"/>
+      <graphic height="190px" url="thumb/1402_0071_thumb.jpg" width="138px"/>
+      <graphic height="1800px" url="web/1402_0071_web.jpg" width="1309px"/>
+    </surface>
+    <surface n="Folder 6, 2r">
+      <graphic height="6089px" url="master/1402_0072.tif" width="4427px"/>
+      <graphic height="190px" url="thumb/1402_0072_thumb.jpg" width="138px"/>
+      <graphic height="1800px" url="web/1402_0072_web.jpg" width="1309px"/>
+    </surface>
+    <surface n="Folder 6, 2v">
+      <graphic height="6089px" url="master/1402_0073.tif" width="4427px"/>
+      <graphic height="190px" url="thumb/1402_0073_thumb.jpg" width="138px"/>
+      <graphic height="1800px" url="web/1402_0073_web.jpg" width="1309px"/>
+    </surface>
+    <surface n="Folder 6, 3r">
+      <graphic height="6089px" url="master/1402_0074.tif" width="4427px"/>
+      <graphic height="190px" url="thumb/1402_0074_thumb.jpg" width="138px"/>
+      <graphic height="1800px" url="web/1402_0074_web.jpg" width="1309px"/>
+    </surface>
+    <surface n="Folder 6, 3v">
+      <graphic height="6089px" url="master/1402_0075.tif" width="4427px"/>
+      <graphic height="190px" url="thumb/1402_0075_thumb.jpg" width="138px"/>
+      <graphic height="1800px" url="web/1402_0075_web.jpg" width="1309px"/>
+    </surface>
+  </facsimile>
+</TEI>

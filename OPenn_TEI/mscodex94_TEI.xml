@@ -1,0 +1,404 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Description of University of Pennsylvania Ms. Codex 94: Transaction dated July 4, 1447, relating to the disagreement between the clergy of the cathedral church of Arles and the vicar Dr. Jean Albalet</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>The University of Pennsylvania Libraries</publisher>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by/4.0/legalcode">
+                                This description is ©2015 University of
+                                Pennsylvania Libraries. It is licensed under a Creative Commons
+                                Attribution License version 4.0 (CC-BY-4.0
+                                https://creativecommons.org/licenses/by/4.0/legalcode. For a
+                                description of the terms of use see the Creative Commons Deed
+                                https://creativecommons.org/licenses/by/4.0/. </licence>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/"> All
+                                referenced images and their content are free of known copyright
+                                restrictions and in the public domain. See the Creative Commons
+                                Public Domain Mark page for usage details,
+                                http://creativecommons.org/publicdomain/mark/1.0/. </licence>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note>Ms. codex.</note>
+        <note>Title on f. [i]r: Copia transactionis inter Reverendum[?] dominum prepositum et venerabilis domino canonicos privilegium[?] Arlatensis ecclesie super administratione.</note>
+        <note>Copy notarized by Petrus Agarius, after the original by Blasius Boysserius (f. 21v).</note>
+        <note>Description of the manuscript in French, probably 19th-century in date, bound in before f. [i].</note>
+        <note>Generally in good condition. Some staining on corners. Last folio slightly torn.</note>
+        <note>According to Zacour-Hirsch, Jean Albalet is really Jean Arbelète.</note>
+      </notesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <settlement>Philadelphia</settlement>
+            <institution>University of Pennsylvania</institution>
+            <repository>Rare Book &amp; Manuscript Library</repository>
+            <idno type="call-number">Ms. Codex 94</idno>
+            <altIdentifier type="bibid">
+              <idno>1580411</idno>
+            </altIdentifier>
+            <altIdentifier type="resource">
+              <idno>http://hdl.library.upenn.edu/1017/d/medren/1580411</idno>
+            </altIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary>Transaction relating to the disagreement between the clergy of the cathedral Church of Arles and the vicar Dr. Jean Albalet over administrative jurisdiction, especially of the "mensa communis," brought to terms by the intercession of the papal legate Cardinal de Foix.</summary>
+            <textLang>Latin</textLang>
+            <msItem>
+              <title>Transaction dated July 4, 1447, relating to the disagreement between the clergy of the cathedral church of Arles and the vicar Dr. Jean Albalet</title>
+              <author>Catholic Church</author>
+              <author>Boysserius, Blasius</author>
+              <respStmt>
+                <resp>scribe</resp>
+                <persName>Agarius, Petrus</persName>
+              </respStmt>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc material="paper">
+                <support>
+                  <p>paper</p>
+                  <watermark>Similar to Briquet 3536 (France, 1448-1472).</watermark>
+                </support>
+                <extent>22 leaves : 308 x 218 (212 x 115) mm. bound to 320 x 223 mm</extent>
+                <collation>
+                  <p>Paper, i (modern paper) + ii (19th-century paper) + 22 + i (modern paper); 1²²; [i], 1-21; near-contemporary foliation in ink, lower left recto.</p>
+                </collation>
+              </supportDesc>
+              <layoutDesc>
+                <layout>Written in 27-30 long lines by first hand (f. 1r-4v); written in 24 long lines by second hand (f. 5r-21v).</layout>
+              </layoutDesc>
+            </objectDesc>
+            <scriptDesc>
+              <scriptNote>Written in a bâtarde script by two hands (first hand, f. 1r-4v; second hand, f. 5r-21v).</scriptNote>
+            </scriptDesc>
+            <decoDesc>
+              <decoNote>Black strapwork initial (f. 1r).</decoNote>
+              <decoNote n="Note 1, 1r">Seller's description, Note 1, 1r</decoNote>
+              <decoNote n="1r">Decorated initial, Initial I, f. 1r</decoNote>
+            </decoDesc>
+            <bindingDesc>
+              <binding>
+                <p>Modern blue cloth over cardboard.</p>
+              </binding>
+            </bindingDesc>
+          </physDesc>
+          <history>
+            <origin>
+              <p>Written in Arles, France (f. 1r), 4 July 1447 (f. 1r).</p>
+              <origDate>1447</origDate>
+              <origPlace>Arles</origPlace>
+            </origin>
+            <provenance>Old shelf number in lower left corner of f. [i]: No. 336.</provenance>
+            <provenance>Acquired, 1966.</provenance>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords n="subjects">
+          <term>Catholic Church--Administration</term>
+          <term>Catholic Church--Clergy</term>
+        </keywords>
+        <keywords n="form/genre">
+          <term>Codices</term>
+          <term>Manuscripts, Latin--15th century</term>
+          <term>Manuscripts, Medieval</term>
+          <term>Manuscripts, Renaissance</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface n="Front cover">
+      <graphic height="5417px" url="master/0550_0000.tif" width="4026px"/>
+      <graphic height="190px" url="thumb/0550_0000_thumb.jpg" width="141px"/>
+      <graphic height="1800px" url="web/0550_0000_web.jpg" width="1338px"/>
+    </surface>
+    <surface n="Inside front cover">
+      <graphic height="5337px" url="master/0550_0001.tif" width="3960px"/>
+      <graphic height="190px" url="thumb/0550_0001_thumb.jpg" width="141px"/>
+      <graphic height="1800px" url="web/0550_0001_web.jpg" width="1336px"/>
+    </surface>
+    <surface n="Flyleaf 1 recto">
+      <graphic height="5337px" url="master/0550_0002.tif" width="3960px"/>
+      <graphic height="190px" url="thumb/0550_0002_thumb.jpg" width="141px"/>
+      <graphic height="1800px" url="web/0550_0002_web.jpg" width="1336px"/>
+    </surface>
+    <surface n="Flyleaf 1 verso">
+      <graphic height="5337px" url="master/0550_0003.tif" width="3960px"/>
+      <graphic height="190px" url="thumb/0550_0003_thumb.jpg" width="141px"/>
+      <graphic height="1800px" url="web/0550_0003_web.jpg" width="1336px"/>
+    </surface>
+    <surface n="Note 1, 1r">
+      <graphic height="5337px" url="master/0550_0004.tif" width="3960px"/>
+      <graphic height="190px" url="thumb/0550_0004_thumb.jpg" width="141px"/>
+      <graphic height="1800px" url="web/0550_0004_web.jpg" width="1336px"/>
+    </surface>
+    <surface n="Note 1, 1v">
+      <graphic height="5337px" url="master/0550_0005.tif" width="3960px"/>
+      <graphic height="190px" url="thumb/0550_0005_thumb.jpg" width="141px"/>
+      <graphic height="1800px" url="web/0550_0005_web.jpg" width="1336px"/>
+    </surface>
+    <surface n="Note 1, 2r">
+      <graphic height="5337px" url="master/0550_0006.tif" width="3960px"/>
+      <graphic height="190px" url="thumb/0550_0006_thumb.jpg" width="141px"/>
+      <graphic height="1800px" url="web/0550_0006_web.jpg" width="1336px"/>
+    </surface>
+    <surface n="Note 1, 2v">
+      <graphic height="5337px" url="master/0550_0007.tif" width="3960px"/>
+      <graphic height="190px" url="thumb/0550_0007_thumb.jpg" width="141px"/>
+      <graphic height="1800px" url="web/0550_0007_web.jpg" width="1336px"/>
+    </surface>
+    <surface n="i recto">
+      <graphic height="5337px" url="master/0550_0008.tif" width="3960px"/>
+      <graphic height="190px" url="thumb/0550_0008_thumb.jpg" width="141px"/>
+      <graphic height="1800px" url="web/0550_0008_web.jpg" width="1336px"/>
+    </surface>
+    <surface n="i verso">
+      <graphic height="5337px" url="master/0550_0009.tif" width="3960px"/>
+      <graphic height="190px" url="thumb/0550_0009_thumb.jpg" width="141px"/>
+      <graphic height="1800px" url="web/0550_0009_web.jpg" width="1336px"/>
+    </surface>
+    <surface n="1r">
+      <graphic height="5337px" url="master/0550_0010.tif" width="3960px"/>
+      <graphic height="190px" url="thumb/0550_0010_thumb.jpg" width="141px"/>
+      <graphic height="1800px" url="web/0550_0010_web.jpg" width="1336px"/>
+    </surface>
+    <surface n="1v">
+      <graphic height="5337px" url="master/0550_0011.tif" width="3960px"/>
+      <graphic height="190px" url="thumb/0550_0011_thumb.jpg" width="141px"/>
+      <graphic height="1800px" url="web/0550_0011_web.jpg" width="1336px"/>
+    </surface>
+    <surface n="2r">
+      <graphic height="5337px" url="master/0550_0012.tif" width="3960px"/>
+      <graphic height="190px" url="thumb/0550_0012_thumb.jpg" width="141px"/>
+      <graphic height="1800px" url="web/0550_0012_web.jpg" width="1336px"/>
+    </surface>
+    <surface n="2v">
+      <graphic height="5337px" url="master/0550_0013.tif" width="3960px"/>
+      <graphic height="190px" url="thumb/0550_0013_thumb.jpg" width="141px"/>
+      <graphic height="1800px" url="web/0550_0013_web.jpg" width="1336px"/>
+    </surface>
+    <surface n="3r">
+      <graphic height="5337px" url="master/0550_0014.tif" width="3960px"/>
+      <graphic height="190px" url="thumb/0550_0014_thumb.jpg" width="141px"/>
+      <graphic height="1800px" url="web/0550_0014_web.jpg" width="1336px"/>
+    </surface>
+    <surface n="3v">
+      <graphic height="5337px" url="master/0550_0015.tif" width="3960px"/>
+      <graphic height="190px" url="thumb/0550_0015_thumb.jpg" width="141px"/>
+      <graphic height="1800px" url="web/0550_0015_web.jpg" width="1336px"/>
+    </surface>
+    <surface n="4r">
+      <graphic height="5337px" url="master/0550_0016.tif" width="3960px"/>
+      <graphic height="190px" url="thumb/0550_0016_thumb.jpg" width="141px"/>
+      <graphic height="1800px" url="web/0550_0016_web.jpg" width="1336px"/>
+    </surface>
+    <surface n="4v">
+      <graphic height="5337px" url="master/0550_0017.tif" width="3960px"/>
+      <graphic height="190px" url="thumb/0550_0017_thumb.jpg" width="141px"/>
+      <graphic height="1800px" url="web/0550_0017_web.jpg" width="1336px"/>
+    </surface>
+    <surface n="5r">
+      <graphic height="5337px" url="master/0550_0018.tif" width="3960px"/>
+      <graphic height="190px" url="thumb/0550_0018_thumb.jpg" width="141px"/>
+      <graphic height="1800px" url="web/0550_0018_web.jpg" width="1336px"/>
+    </surface>
+    <surface n="5v">
+      <graphic height="5337px" url="master/0550_0019.tif" width="3960px"/>
+      <graphic height="190px" url="thumb/0550_0019_thumb.jpg" width="141px"/>
+      <graphic height="1800px" url="web/0550_0019_web.jpg" width="1336px"/>
+    </surface>
+    <surface n="6r">
+      <graphic height="5337px" url="master/0550_0020.tif" width="3960px"/>
+      <graphic height="190px" url="thumb/0550_0020_thumb.jpg" width="141px"/>
+      <graphic height="1800px" url="web/0550_0020_web.jpg" width="1336px"/>
+    </surface>
+    <surface n="6v">
+      <graphic height="5337px" url="master/0550_0021.tif" width="3960px"/>
+      <graphic height="190px" url="thumb/0550_0021_thumb.jpg" width="141px"/>
+      <graphic height="1800px" url="web/0550_0021_web.jpg" width="1336px"/>
+    </surface>
+    <surface n="7r">
+      <graphic height="5337px" url="master/0550_0022.tif" width="3960px"/>
+      <graphic height="190px" url="thumb/0550_0022_thumb.jpg" width="141px"/>
+      <graphic height="1800px" url="web/0550_0022_web.jpg" width="1336px"/>
+    </surface>
+    <surface n="7v">
+      <graphic height="5337px" url="master/0550_0023.tif" width="3960px"/>
+      <graphic height="190px" url="thumb/0550_0023_thumb.jpg" width="141px"/>
+      <graphic height="1800px" url="web/0550_0023_web.jpg" width="1336px"/>
+    </surface>
+    <surface n="8r">
+      <graphic height="5337px" url="master/0550_0024.tif" width="3960px"/>
+      <graphic height="190px" url="thumb/0550_0024_thumb.jpg" width="141px"/>
+      <graphic height="1800px" url="web/0550_0024_web.jpg" width="1336px"/>
+    </surface>
+    <surface n="8v">
+      <graphic height="5337px" url="master/0550_0025.tif" width="3960px"/>
+      <graphic height="190px" url="thumb/0550_0025_thumb.jpg" width="141px"/>
+      <graphic height="1800px" url="web/0550_0025_web.jpg" width="1336px"/>
+    </surface>
+    <surface n="9r">
+      <graphic height="5337px" url="master/0550_0026.tif" width="3960px"/>
+      <graphic height="190px" url="thumb/0550_0026_thumb.jpg" width="141px"/>
+      <graphic height="1800px" url="web/0550_0026_web.jpg" width="1336px"/>
+    </surface>
+    <surface n="9v">
+      <graphic height="5337px" url="master/0550_0027.tif" width="3960px"/>
+      <graphic height="190px" url="thumb/0550_0027_thumb.jpg" width="141px"/>
+      <graphic height="1800px" url="web/0550_0027_web.jpg" width="1336px"/>
+    </surface>
+    <surface n="10r">
+      <graphic height="5337px" url="master/0550_0028.tif" width="3960px"/>
+      <graphic height="190px" url="thumb/0550_0028_thumb.jpg" width="141px"/>
+      <graphic height="1800px" url="web/0550_0028_web.jpg" width="1336px"/>
+    </surface>
+    <surface n="10v">
+      <graphic height="5337px" url="master/0550_0029.tif" width="3960px"/>
+      <graphic height="190px" url="thumb/0550_0029_thumb.jpg" width="141px"/>
+      <graphic height="1800px" url="web/0550_0029_web.jpg" width="1336px"/>
+    </surface>
+    <surface n="11r">
+      <graphic height="5337px" url="master/0550_0030.tif" width="3960px"/>
+      <graphic height="190px" url="thumb/0550_0030_thumb.jpg" width="141px"/>
+      <graphic height="1800px" url="web/0550_0030_web.jpg" width="1336px"/>
+    </surface>
+    <surface n="11v">
+      <graphic height="5337px" url="master/0550_0031.tif" width="3960px"/>
+      <graphic height="190px" url="thumb/0550_0031_thumb.jpg" width="141px"/>
+      <graphic height="1800px" url="web/0550_0031_web.jpg" width="1336px"/>
+    </surface>
+    <surface n="12r">
+      <graphic height="5337px" url="master/0550_0032.tif" width="3960px"/>
+      <graphic height="190px" url="thumb/0550_0032_thumb.jpg" width="141px"/>
+      <graphic height="1800px" url="web/0550_0032_web.jpg" width="1336px"/>
+    </surface>
+    <surface n="12v">
+      <graphic height="5337px" url="master/0550_0033.tif" width="3960px"/>
+      <graphic height="190px" url="thumb/0550_0033_thumb.jpg" width="141px"/>
+      <graphic height="1800px" url="web/0550_0033_web.jpg" width="1336px"/>
+    </surface>
+    <surface n="13r">
+      <graphic height="5337px" url="master/0550_0034.tif" width="3960px"/>
+      <graphic height="190px" url="thumb/0550_0034_thumb.jpg" width="141px"/>
+      <graphic height="1800px" url="web/0550_0034_web.jpg" width="1336px"/>
+    </surface>
+    <surface n="13v">
+      <graphic height="5337px" url="master/0550_0035.tif" width="3960px"/>
+      <graphic height="190px" url="thumb/0550_0035_thumb.jpg" width="141px"/>
+      <graphic height="1800px" url="web/0550_0035_web.jpg" width="1336px"/>
+    </surface>
+    <surface n="14r">
+      <graphic height="5337px" url="master/0550_0036.tif" width="3960px"/>
+      <graphic height="190px" url="thumb/0550_0036_thumb.jpg" width="141px"/>
+      <graphic height="1800px" url="web/0550_0036_web.jpg" width="1336px"/>
+    </surface>
+    <surface n="14v">
+      <graphic height="5337px" url="master/0550_0037.tif" width="3960px"/>
+      <graphic height="190px" url="thumb/0550_0037_thumb.jpg" width="141px"/>
+      <graphic height="1800px" url="web/0550_0037_web.jpg" width="1336px"/>
+    </surface>
+    <surface n="15r">
+      <graphic height="5337px" url="master/0550_0038.tif" width="3960px"/>
+      <graphic height="190px" url="thumb/0550_0038_thumb.jpg" width="141px"/>
+      <graphic height="1800px" url="web/0550_0038_web.jpg" width="1336px"/>
+    </surface>
+    <surface n="15v">
+      <graphic height="5337px" url="master/0550_0039.tif" width="3960px"/>
+      <graphic height="190px" url="thumb/0550_0039_thumb.jpg" width="141px"/>
+      <graphic height="1800px" url="web/0550_0039_web.jpg" width="1336px"/>
+    </surface>
+    <surface n="16r">
+      <graphic height="5337px" url="master/0550_0040.tif" width="3960px"/>
+      <graphic height="190px" url="thumb/0550_0040_thumb.jpg" width="141px"/>
+      <graphic height="1800px" url="web/0550_0040_web.jpg" width="1336px"/>
+    </surface>
+    <surface n="16v">
+      <graphic height="5337px" url="master/0550_0041.tif" width="3960px"/>
+      <graphic height="190px" url="thumb/0550_0041_thumb.jpg" width="141px"/>
+      <graphic height="1800px" url="web/0550_0041_web.jpg" width="1336px"/>
+    </surface>
+    <surface n="17r">
+      <graphic height="5337px" url="master/0550_0042.tif" width="3960px"/>
+      <graphic height="190px" url="thumb/0550_0042_thumb.jpg" width="141px"/>
+      <graphic height="1800px" url="web/0550_0042_web.jpg" width="1336px"/>
+    </surface>
+    <surface n="17v">
+      <graphic height="5337px" url="master/0550_0043.tif" width="3960px"/>
+      <graphic height="190px" url="thumb/0550_0043_thumb.jpg" width="141px"/>
+      <graphic height="1800px" url="web/0550_0043_web.jpg" width="1336px"/>
+    </surface>
+    <surface n="18r">
+      <graphic height="5337px" url="master/0550_0044.tif" width="3960px"/>
+      <graphic height="190px" url="thumb/0550_0044_thumb.jpg" width="141px"/>
+      <graphic height="1800px" url="web/0550_0044_web.jpg" width="1336px"/>
+    </surface>
+    <surface n="18v">
+      <graphic height="5337px" url="master/0550_0045.tif" width="3960px"/>
+      <graphic height="190px" url="thumb/0550_0045_thumb.jpg" width="141px"/>
+      <graphic height="1800px" url="web/0550_0045_web.jpg" width="1336px"/>
+    </surface>
+    <surface n="19r">
+      <graphic height="5337px" url="master/0550_0046.tif" width="3960px"/>
+      <graphic height="190px" url="thumb/0550_0046_thumb.jpg" width="141px"/>
+      <graphic height="1800px" url="web/0550_0046_web.jpg" width="1336px"/>
+    </surface>
+    <surface n="19v">
+      <graphic height="5337px" url="master/0550_0047.tif" width="3960px"/>
+      <graphic height="190px" url="thumb/0550_0047_thumb.jpg" width="141px"/>
+      <graphic height="1800px" url="web/0550_0047_web.jpg" width="1336px"/>
+    </surface>
+    <surface n="20r">
+      <graphic height="5337px" url="master/0550_0048.tif" width="3960px"/>
+      <graphic height="190px" url="thumb/0550_0048_thumb.jpg" width="141px"/>
+      <graphic height="1800px" url="web/0550_0048_web.jpg" width="1336px"/>
+    </surface>
+    <surface n="20v">
+      <graphic height="5337px" url="master/0550_0049.tif" width="3960px"/>
+      <graphic height="190px" url="thumb/0550_0049_thumb.jpg" width="141px"/>
+      <graphic height="1800px" url="web/0550_0049_web.jpg" width="1336px"/>
+    </surface>
+    <surface n="21r">
+      <graphic height="5337px" url="master/0550_0050.tif" width="3960px"/>
+      <graphic height="190px" url="thumb/0550_0050_thumb.jpg" width="141px"/>
+      <graphic height="1800px" url="web/0550_0050_web.jpg" width="1336px"/>
+    </surface>
+    <surface n="21v">
+      <graphic height="5337px" url="master/0550_0051.tif" width="3960px"/>
+      <graphic height="190px" url="thumb/0550_0051_thumb.jpg" width="141px"/>
+      <graphic height="1800px" url="web/0550_0051_web.jpg" width="1336px"/>
+    </surface>
+    <surface n="Flyleaf 1 recto">
+      <graphic height="5337px" url="master/0550_0052.tif" width="3960px"/>
+      <graphic height="190px" url="thumb/0550_0052_thumb.jpg" width="141px"/>
+      <graphic height="1800px" url="web/0550_0052_web.jpg" width="1336px"/>
+    </surface>
+    <surface n="Flyleaf 1 verso">
+      <graphic height="5337px" url="master/0550_0053.tif" width="3960px"/>
+      <graphic height="190px" url="thumb/0550_0053_thumb.jpg" width="141px"/>
+      <graphic height="1800px" url="web/0550_0053_web.jpg" width="1336px"/>
+    </surface>
+    <surface n="Inside back cover">
+      <graphic height="5337px" url="master/0550_0054.tif" width="3960px"/>
+      <graphic height="190px" url="thumb/0550_0054_thumb.jpg" width="141px"/>
+      <graphic height="1800px" url="web/0550_0054_web.jpg" width="1336px"/>
+    </surface>
+    <surface n="Back cover">
+      <graphic height="5417px" url="master/0550_0055.tif" width="4026px"/>
+      <graphic height="190px" url="thumb/0550_0055_thumb.jpg" width="141px"/>
+      <graphic height="1800px" url="web/0550_0055_web.jpg" width="1338px"/>
+    </surface>
+    <surface n="Spine">
+      <graphic height="5417px" url="master/0550_0056.tif" width="4026px"/>
+      <graphic height="190px" url="thumb/0550_0056_thumb.jpg" width="141px"/>
+      <graphic height="1800px" url="web/0550_0056_web.jpg" width="1338px"/>
+    </surface>
+  </facsimile>
+</TEI>

@@ -1,0 +1,220 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Description of University of Pennsylvania Ms. Codex 249: Carmine alla Beata Vergine Maria</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>The University of Pennsylvania Libraries</publisher>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by/4.0/legalcode">
+                                This description is ©2015 University of
+                                Pennsylvania Libraries. It is licensed under a Creative Commons
+                                Attribution License version 4.0 (CC-BY-4.0
+                                https://creativecommons.org/licenses/by/4.0/legalcode. For a
+                                description of the terms of use see the Creative Commons Deed
+                                https://creativecommons.org/licenses/by/4.0/. </licence>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/"> All
+                                referenced images and their content are free of known copyright
+                                restrictions and in the public domain. See the Creative Commons
+                                Public Domain Mark page for usage details,
+                                http://creativecommons.org/publicdomain/mark/1.0/. </licence>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note>Ms. codex.</note>
+        <note>Title supplied by cataloger (Zacour-Hirsch).</note>
+        <note>Incipit: O gloriosa vergene Maria / Regina dellu celu et de omne gente / Prestame gratia nella mente mea / Che io te pocza ludare digniamente / Tu che sei Mater del filiolu de deu.... (f. 1r).</note>
+        <note>Explicit: Et ihesu christu volliate pregare / Che se vollia dignare per vostro amore[?] / De perdonareme ca so peccatore. De[o] gratias. (f. 7v).</note>
+        <note>Cover boards slightly warped. Some smudges and stains, possibly some water damage. No left margin on the versos; the leaves appear to have been trimmed after the text was written. Leaves originally folded in half.</note>
+      </notesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <settlement>Philadelphia</settlement>
+            <institution>University of Pennsylvania</institution>
+            <repository>Rare Book &amp; Manuscript Library</repository>
+            <idno type="call-number">Ms. Codex 249</idno>
+            <altIdentifier type="bibid">
+              <idno>1580858</idno>
+            </altIdentifier>
+            <altIdentifier type="resource">
+              <idno>http://hdl.library.upenn.edu/1017/d/medren/1580858</idno>
+            </altIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary>Poem to the Blessed Virgin. Consists of 236 six-line stanzas, plus another 27 lines that have been crossed out (f. 5v).</summary>
+            <textLang>Italian</textLang>
+            <msItem>
+              <title>Carmine alla Beata Vergine Maria</title>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc material="paper">
+                <support>
+                  <p>paper</p>
+                </support>
+                <extent>7 leaves : 264 x 206 mm. bound to 266 x 201 mm</extent>
+                <foliation>Paper, i (modern paper) + 7 + i (modern paper); [1-7]; modern foliation in pencil, lower right recto.</foliation>
+              </supportDesc>
+              <layoutDesc>
+                <layout>Written in 2 columns of 55-60 lines.</layout>
+              </layoutDesc>
+            </objectDesc>
+            <scriptDesc>
+              <scriptNote>Written in a Gothic cursive script by a single hand.</scriptNote>
+            </scriptDesc>
+            <bindingDesc>
+              <binding>
+                <p>Modern vellum over boards.</p>
+              </binding>
+            </bindingDesc>
+          </physDesc>
+          <history>
+            <origin>
+              <p>Written in southern[?] Italy in the 15th century. The orthography and the many endings in -u suggest this.</p>
+              <origDate>14--</origDate>
+              <origPlace>Italy</origPlace>
+            </origin>
+            <provenance>Sold by Bernard M. Rosenthal, Inc., 1950.</provenance>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords n="subjects">
+          <term>Christian poetry--Early works to 1800</term>
+          <term>Devotional literature--Early works to 1800</term>
+          <term>Italian poetry--15th century</term>
+          <term>Religious poetry, Italian--To 1500</term>
+        </keywords>
+        <keywords n="form/genre">
+          <term>Codices</term>
+          <term>Poems</term>
+          <term>Manuscripts, Italian--15th century</term>
+          <term>Manuscripts, Renaissance</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface n="Front cover">
+      <graphic height="4501px" url="master/0527_0000.tif" width="3540px"/>
+      <graphic height="190px" url="thumb/0527_0000_thumb.jpg" width="149px"/>
+      <graphic height="1800px" url="web/0527_0000_web.jpg" width="1416px"/>
+    </surface>
+    <surface n="Inside front cover">
+      <graphic height="4501px" url="master/0527_0001.tif" width="3540px"/>
+      <graphic height="190px" url="thumb/0527_0001_thumb.jpg" width="149px"/>
+      <graphic height="1800px" url="web/0527_0001_web.jpg" width="1416px"/>
+    </surface>
+    <surface n="Flyleaf 1 recto">
+      <graphic height="4501px" url="master/0527_0002.tif" width="3540px"/>
+      <graphic height="190px" url="thumb/0527_0002_thumb.jpg" width="149px"/>
+      <graphic height="1800px" url="web/0527_0002_web.jpg" width="1416px"/>
+    </surface>
+    <surface n="Flyleaf 1 verso">
+      <graphic height="4501px" url="master/0527_0003.tif" width="3540px"/>
+      <graphic height="190px" url="thumb/0527_0003_thumb.jpg" width="149px"/>
+      <graphic height="1800px" url="web/0527_0003_web.jpg" width="1416px"/>
+    </surface>
+    <surface n="1r">
+      <graphic height="4501px" url="master/0527_0004.tif" width="3540px"/>
+      <graphic height="190px" url="thumb/0527_0004_thumb.jpg" width="149px"/>
+      <graphic height="1800px" url="web/0527_0004_web.jpg" width="1416px"/>
+    </surface>
+    <surface n="1v">
+      <graphic height="4501px" url="master/0527_0005.tif" width="3540px"/>
+      <graphic height="190px" url="thumb/0527_0005_thumb.jpg" width="149px"/>
+      <graphic height="1800px" url="web/0527_0005_web.jpg" width="1416px"/>
+    </surface>
+    <surface n="2r">
+      <graphic height="4501px" url="master/0527_0006.tif" width="3540px"/>
+      <graphic height="190px" url="thumb/0527_0006_thumb.jpg" width="149px"/>
+      <graphic height="1800px" url="web/0527_0006_web.jpg" width="1416px"/>
+    </surface>
+    <surface n="2v">
+      <graphic height="4501px" url="master/0527_0007.tif" width="3540px"/>
+      <graphic height="190px" url="thumb/0527_0007_thumb.jpg" width="149px"/>
+      <graphic height="1800px" url="web/0527_0007_web.jpg" width="1416px"/>
+    </surface>
+    <surface n="3r">
+      <graphic height="4501px" url="master/0527_0008.tif" width="3540px"/>
+      <graphic height="190px" url="thumb/0527_0008_thumb.jpg" width="149px"/>
+      <graphic height="1800px" url="web/0527_0008_web.jpg" width="1416px"/>
+    </surface>
+    <surface n="3v">
+      <graphic height="4501px" url="master/0527_0009.tif" width="3540px"/>
+      <graphic height="190px" url="thumb/0527_0009_thumb.jpg" width="149px"/>
+      <graphic height="1800px" url="web/0527_0009_web.jpg" width="1416px"/>
+    </surface>
+    <surface n="4r">
+      <graphic height="4501px" url="master/0527_0010.tif" width="3540px"/>
+      <graphic height="190px" url="thumb/0527_0010_thumb.jpg" width="149px"/>
+      <graphic height="1800px" url="web/0527_0010_web.jpg" width="1416px"/>
+    </surface>
+    <surface n="4v">
+      <graphic height="4501px" url="master/0527_0011.tif" width="3540px"/>
+      <graphic height="190px" url="thumb/0527_0011_thumb.jpg" width="149px"/>
+      <graphic height="1800px" url="web/0527_0011_web.jpg" width="1416px"/>
+    </surface>
+    <surface n="5r">
+      <graphic height="4501px" url="master/0527_0012.tif" width="3540px"/>
+      <graphic height="190px" url="thumb/0527_0012_thumb.jpg" width="149px"/>
+      <graphic height="1800px" url="web/0527_0012_web.jpg" width="1416px"/>
+    </surface>
+    <surface n="5v">
+      <graphic height="4501px" url="master/0527_0013.tif" width="3540px"/>
+      <graphic height="190px" url="thumb/0527_0013_thumb.jpg" width="149px"/>
+      <graphic height="1800px" url="web/0527_0013_web.jpg" width="1416px"/>
+    </surface>
+    <surface n="6r">
+      <graphic height="4501px" url="master/0527_0014.tif" width="3540px"/>
+      <graphic height="190px" url="thumb/0527_0014_thumb.jpg" width="149px"/>
+      <graphic height="1800px" url="web/0527_0014_web.jpg" width="1416px"/>
+    </surface>
+    <surface n="6v">
+      <graphic height="4501px" url="master/0527_0015.tif" width="3540px"/>
+      <graphic height="190px" url="thumb/0527_0015_thumb.jpg" width="149px"/>
+      <graphic height="1800px" url="web/0527_0015_web.jpg" width="1416px"/>
+    </surface>
+    <surface n="7r">
+      <graphic height="4501px" url="master/0527_0016.tif" width="3540px"/>
+      <graphic height="190px" url="thumb/0527_0016_thumb.jpg" width="149px"/>
+      <graphic height="1800px" url="web/0527_0016_web.jpg" width="1416px"/>
+    </surface>
+    <surface n="7v">
+      <graphic height="4501px" url="master/0527_0017.tif" width="3540px"/>
+      <graphic height="190px" url="thumb/0527_0017_thumb.jpg" width="149px"/>
+      <graphic height="1800px" url="web/0527_0017_web.jpg" width="1416px"/>
+    </surface>
+    <surface n="Flyleaf 1 recto">
+      <graphic height="4501px" url="master/0527_0018.tif" width="3540px"/>
+      <graphic height="190px" url="thumb/0527_0018_thumb.jpg" width="149px"/>
+      <graphic height="1800px" url="web/0527_0018_web.jpg" width="1416px"/>
+    </surface>
+    <surface n="Flyleaf 1 verso">
+      <graphic height="4501px" url="master/0527_0019.tif" width="3540px"/>
+      <graphic height="190px" url="thumb/0527_0019_thumb.jpg" width="149px"/>
+      <graphic height="1800px" url="web/0527_0019_web.jpg" width="1416px"/>
+    </surface>
+    <surface n="Inside back cover">
+      <graphic height="4501px" url="master/0527_0020.tif" width="3540px"/>
+      <graphic height="190px" url="thumb/0527_0020_thumb.jpg" width="149px"/>
+      <graphic height="1800px" url="web/0527_0020_web.jpg" width="1416px"/>
+    </surface>
+    <surface n="Back cover">
+      <graphic height="4501px" url="master/0527_0021.tif" width="3540px"/>
+      <graphic height="190px" url="thumb/0527_0021_thumb.jpg" width="149px"/>
+      <graphic height="1800px" url="web/0527_0021_web.jpg" width="1416px"/>
+    </surface>
+    <surface n="Spine">
+      <graphic height="4501px" url="master/0527_0022.tif" width="3540px"/>
+      <graphic height="190px" url="thumb/0527_0022_thumb.jpg" width="149px"/>
+      <graphic height="1800px" url="web/0527_0022_web.jpg" width="1416px"/>
+    </surface>
+  </facsimile>
+</TEI>

@@ -1,0 +1,305 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Description of University of Pennsylvania Ms. Codex 842: Orationes legatorum Caroli VIII, regis Francorum ... etc.</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>The University of Pennsylvania Libraries</publisher>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by/4.0/legalcode">
+                                This description is ©2016 University of
+                                Pennsylvania Libraries. It is licensed under a Creative Commons
+                                Attribution License version 4.0 (CC-BY-4.0
+                                https://creativecommons.org/licenses/by/4.0/legalcode. For a
+                                description of the terms of use see the Creative Commons Deed
+                                https://creativecommons.org/licenses/by/4.0/. </licence>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/"> All
+                                referenced images and their content are free of known copyright
+                                restrictions and in the public domain. See the Creative Commons
+                                Public Domain Mark page for usage details,
+                                http://creativecommons.org/publicdomain/mark/1.0/. </licence>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note>Ms. codex.</note>
+        <note>Title from caption heading (f. 1r).</note>
+        <note>Incipit (1st work): Orationes legatorum ad Venetos Caroli Francorum regis oratoribus Anno 1495 die quinto Aprilis.</note>
+        <note>Incipit (2nd work): Oratio Doctoris Martini Mellerstadt pro recommendatione Rectoris Gregorii Meninge Anno 1500 primo Maii.</note>
+        <note>Incipit (3rd work): Incipiunt recepte magistri Petri Tusignano super nono Almansoris.</note>
+      </notesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <settlement>Philadelphia</settlement>
+            <institution>University of Pennsylvania</institution>
+            <repository>Rare Book &amp; Manuscript Library</repository>
+            <idno type="call-number">Ms. Codex 842</idno>
+            <altIdentifier type="bibid">
+              <idno>3177987</idno>
+            </altIdentifier>
+            <altIdentifier type="resource">
+              <idno>http://hdl.library.upenn.edu/1017/d/medren/3177987</idno>
+            </altIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary>A miscellany of speeches and medicinal recipes (including one for protection from the plague, f. 12r), half being devoted to the (fictitious, according to Zacour-Hirsch) speeches of the envoys of Charles VIII of France to representatives of various Italian states, with their responses.</summary>
+            <textLang>Latin</textLang>
+            <msItem>
+              <title>Orationes legatorum Caroli VIII, regis Francorum ... etc.</title>
+              <author>Mellerstadt, Martinus</author>
+              <author>Tossignano, Pietro da, d. 1401</author>
+              <respStmt>
+                <resp>former owner</resp>
+                <persName>Schulz, Ernst</persName>
+              </respStmt>
+            </msItem>
+            <msItem n="1r">
+              <locus>1r</locus>
+              <title>Orationes legatorum Caroli VIII, regis Francorum, f. 1r</title>
+            </msItem>
+            <msItem n="6v">
+              <locus>6v</locus>
+              <title>Oratio pro recommendatione rectoris Gregorii Meninge, f. 6v</title>
+            </msItem>
+            <msItem n="7v">
+              <locus>7v</locus>
+              <title>Recipe, f. 7v</title>
+            </msItem>
+            <msItem n="8r">
+              <locus>8r</locus>
+              <title>Recepte super nono Almansoris, f. 8r</title>
+            </msItem>
+            <msItem n="11v">
+              <locus>11v</locus>
+              <title>Recipe, f. 11v</title>
+            </msItem>
+            <msItem n="12r">
+              <locus>12r</locus>
+              <title>Recipe, f. 12r</title>
+            </msItem>
+            <msItem n="12v">
+              <locus>12v</locus>
+              <title>Recipe, f. 12v</title>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc material="paper">
+                <support>
+                  <p>paper</p>
+                </support>
+                <extent>12 leaves : 204 x 151 (145 x 108) mm. bound to 210 x 147 mm</extent>
+                <foliation>Paper, i (modern paper) + 12 + i (modern paper); [1-12]; modern foliation in pencil, upper right recto.</foliation>
+              </supportDesc>
+            </objectDesc>
+            <scriptDesc>
+              <scriptNote>Written in cursive document script by at least three hands.</scriptNote>
+            </scriptDesc>
+            <decoDesc>
+              <decoNote>Red used for titles and underlining in first two works. Red used for capital strokes in first work, with additional marks in green (f. 4v, 5r).</decoNote>
+              <decoNote n="11v">Manicule, f. 11v</decoNote>
+            </decoDesc>
+            <bindingDesc>
+              <binding>
+                <p>Modern boards.</p>
+              </binding>
+            </bindingDesc>
+          </physDesc>
+          <history>
+            <origin>
+              <p>Written in Leipzig, 1500-1510 (Zacour-Hirsch).</p>
+              <origDate>1500-1510</origDate>
+              <origPlace>Germany</origPlace>
+            </origin>
+            <provenance>Formerly owned by Ernst Schulz (Zacour-Hirsch).</provenance>
+            <provenance>Sold by Helmuth Domizlaff (Munich), 1952.</provenance>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords n="subjects">
+          <term>Speeches, addresses, etc., Latin--Early works to 1800</term>
+          <term>Medicine--Formulae, receipts, prescriptions--Early works to 1800</term>
+        </keywords>
+        <keywords n="form/genre">
+          <term>Codices</term>
+          <term>Speeches</term>
+          <term>Recipes</term>
+          <term>Manuscripts, Latin--16th century</term>
+          <term>Manuscripts, Renaissance</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface n="Front cover">
+      <graphic height="5277px" url="master/1543_0000.tif" width="4109px"/>
+      <graphic height="190px" url="thumb/1543_0000_thumb.jpg" width="147px"/>
+      <graphic height="1800px" url="web/1543_0000_web.jpg" width="1401px"/>
+    </surface>
+    <surface n="Inside front cover">
+      <graphic height="5257px" url="master/1543_0001.tif" width="4094px"/>
+      <graphic height="190px" url="thumb/1543_0001_thumb.jpg" width="148px"/>
+      <graphic height="1800px" url="web/1543_0001_web.jpg" width="1401px"/>
+    </surface>
+    <surface n="Flyleaf 1 recto">
+      <graphic height="5257px" url="master/1543_0002.tif" width="4094px"/>
+      <graphic height="190px" url="thumb/1543_0002_thumb.jpg" width="148px"/>
+      <graphic height="1800px" url="web/1543_0002_web.jpg" width="1401px"/>
+    </surface>
+    <surface n="Flyleaf 1 verso">
+      <graphic height="5257px" url="master/1543_0003.tif" width="4094px"/>
+      <graphic height="190px" url="thumb/1543_0003_thumb.jpg" width="148px"/>
+      <graphic height="1800px" url="web/1543_0003_web.jpg" width="1401px"/>
+    </surface>
+    <surface n="1r">
+      <graphic height="5257px" url="master/1543_0004.tif" width="4094px"/>
+      <graphic height="190px" url="thumb/1543_0004_thumb.jpg" width="148px"/>
+      <graphic height="1800px" url="web/1543_0004_web.jpg" width="1401px"/>
+    </surface>
+    <surface n="1v">
+      <graphic height="5282px" url="master/1543_0005.tif" width="4113px"/>
+      <graphic height="190px" url="thumb/1543_0005_thumb.jpg" width="147px"/>
+      <graphic height="1800px" url="web/1543_0005_web.jpg" width="1401px"/>
+    </surface>
+    <surface n="2r">
+      <graphic height="5257px" url="master/1543_0006.tif" width="4094px"/>
+      <graphic height="190px" url="thumb/1543_0006_thumb.jpg" width="148px"/>
+      <graphic height="1800px" url="web/1543_0006_web.jpg" width="1401px"/>
+    </surface>
+    <surface n="2v">
+      <graphic height="5257px" url="master/1543_0007.tif" width="4094px"/>
+      <graphic height="190px" url="thumb/1543_0007_thumb.jpg" width="148px"/>
+      <graphic height="1800px" url="web/1543_0007_web.jpg" width="1401px"/>
+    </surface>
+    <surface n="3r">
+      <graphic height="5257px" url="master/1543_0008.tif" width="4094px"/>
+      <graphic height="190px" url="thumb/1543_0008_thumb.jpg" width="148px"/>
+      <graphic height="1800px" url="web/1543_0008_web.jpg" width="1401px"/>
+    </surface>
+    <surface n="3v">
+      <graphic height="5257px" url="master/1543_0009.tif" width="4094px"/>
+      <graphic height="190px" url="thumb/1543_0009_thumb.jpg" width="148px"/>
+      <graphic height="1800px" url="web/1543_0009_web.jpg" width="1401px"/>
+    </surface>
+    <surface n="4r">
+      <graphic height="5249px" url="master/1543_0010.tif" width="4087px"/>
+      <graphic height="190px" url="thumb/1543_0010_thumb.jpg" width="147px"/>
+      <graphic height="1800px" url="web/1543_0010_web.jpg" width="1401px"/>
+    </surface>
+    <surface n="4v">
+      <graphic height="5257px" url="master/1543_0011.tif" width="4094px"/>
+      <graphic height="190px" url="thumb/1543_0011_thumb.jpg" width="148px"/>
+      <graphic height="1800px" url="web/1543_0011_web.jpg" width="1401px"/>
+    </surface>
+    <surface n="5r">
+      <graphic height="5257px" url="master/1543_0012.tif" width="4094px"/>
+      <graphic height="190px" url="thumb/1543_0012_thumb.jpg" width="148px"/>
+      <graphic height="1800px" url="web/1543_0012_web.jpg" width="1401px"/>
+    </surface>
+    <surface n="5v">
+      <graphic height="5257px" url="master/1543_0013.tif" width="4094px"/>
+      <graphic height="190px" url="thumb/1543_0013_thumb.jpg" width="148px"/>
+      <graphic height="1800px" url="web/1543_0013_web.jpg" width="1401px"/>
+    </surface>
+    <surface n="6r">
+      <graphic height="5197px" url="master/1543_0014.tif" width="4047px"/>
+      <graphic height="190px" url="thumb/1543_0014_thumb.jpg" width="148px"/>
+      <graphic height="1800px" url="web/1543_0014_web.jpg" width="1401px"/>
+    </surface>
+    <surface n="6v">
+      <graphic height="5257px" url="master/1543_0015.tif" width="4094px"/>
+      <graphic height="190px" url="thumb/1543_0015_thumb.jpg" width="148px"/>
+      <graphic height="1800px" url="web/1543_0015_web.jpg" width="1401px"/>
+    </surface>
+    <surface n="7r">
+      <graphic height="5169px" url="master/1543_0016.tif" width="4026px"/>
+      <graphic height="190px" url="thumb/1543_0016_thumb.jpg" width="148px"/>
+      <graphic height="1800px" url="web/1543_0016_web.jpg" width="1401px"/>
+    </surface>
+    <surface n="7v">
+      <graphic height="5257px" url="master/1543_0017.tif" width="4094px"/>
+      <graphic height="190px" url="thumb/1543_0017_thumb.jpg" width="148px"/>
+      <graphic height="1800px" url="web/1543_0017_web.jpg" width="1401px"/>
+    </surface>
+    <surface n="8r">
+      <graphic height="5257px" url="master/1543_0018.tif" width="4094px"/>
+      <graphic height="190px" url="thumb/1543_0018_thumb.jpg" width="148px"/>
+      <graphic height="1800px" url="web/1543_0018_web.jpg" width="1401px"/>
+    </surface>
+    <surface n="8v">
+      <graphic height="5242px" url="master/1543_0019.tif" width="4082px"/>
+      <graphic height="190px" url="thumb/1543_0019_thumb.jpg" width="148px"/>
+      <graphic height="1800px" url="web/1543_0019_web.jpg" width="1401px"/>
+    </surface>
+    <surface n="9r">
+      <graphic height="5257px" url="master/1543_0020.tif" width="4094px"/>
+      <graphic height="190px" url="thumb/1543_0020_thumb.jpg" width="148px"/>
+      <graphic height="1800px" url="web/1543_0020_web.jpg" width="1401px"/>
+    </surface>
+    <surface n="9v">
+      <graphic height="5243px" url="master/1543_0021.tif" width="4083px"/>
+      <graphic height="190px" url="thumb/1543_0021_thumb.jpg" width="148px"/>
+      <graphic height="1800px" url="web/1543_0021_web.jpg" width="1401px"/>
+    </surface>
+    <surface n="10r">
+      <graphic height="5257px" url="master/1543_0022.tif" width="4094px"/>
+      <graphic height="190px" url="thumb/1543_0022_thumb.jpg" width="148px"/>
+      <graphic height="1800px" url="web/1543_0022_web.jpg" width="1401px"/>
+    </surface>
+    <surface n="10v">
+      <graphic height="5257px" url="master/1543_0023.tif" width="4094px"/>
+      <graphic height="190px" url="thumb/1543_0023_thumb.jpg" width="148px"/>
+      <graphic height="1800px" url="web/1543_0023_web.jpg" width="1401px"/>
+    </surface>
+    <surface n="11r">
+      <graphic height="5228px" url="master/1543_0024.tif" width="4071px"/>
+      <graphic height="190px" url="thumb/1543_0024_thumb.jpg" width="148px"/>
+      <graphic height="1800px" url="web/1543_0024_web.jpg" width="1401px"/>
+    </surface>
+    <surface n="11v">
+      <graphic height="5257px" url="master/1543_0025.tif" width="4094px"/>
+      <graphic height="190px" url="thumb/1543_0025_thumb.jpg" width="148px"/>
+      <graphic height="1800px" url="web/1543_0025_web.jpg" width="1401px"/>
+    </surface>
+    <surface n="12r">
+      <graphic height="5222px" url="master/1543_0026.tif" width="4066px"/>
+      <graphic height="190px" url="thumb/1543_0026_thumb.jpg" width="147px"/>
+      <graphic height="1800px" url="web/1543_0026_web.jpg" width="1401px"/>
+    </surface>
+    <surface n="12v">
+      <graphic height="5257px" url="master/1543_0027.tif" width="4094px"/>
+      <graphic height="190px" url="thumb/1543_0027_thumb.jpg" width="148px"/>
+      <graphic height="1800px" url="web/1543_0027_web.jpg" width="1401px"/>
+    </surface>
+    <surface n="Flyleaf 1 recto">
+      <graphic height="5254px" url="master/1543_0028.tif" width="4089px"/>
+      <graphic height="190px" url="thumb/1543_0028_thumb.jpg" width="147px"/>
+      <graphic height="1800px" url="web/1543_0028_web.jpg" width="1401px"/>
+    </surface>
+    <surface n="Flyleaf 1 verso">
+      <graphic height="5257px" url="master/1543_0029.tif" width="4094px"/>
+      <graphic height="190px" url="thumb/1543_0029_thumb.jpg" width="148px"/>
+      <graphic height="1800px" url="web/1543_0029_web.jpg" width="1401px"/>
+    </surface>
+    <surface n="Inside back cover">
+      <graphic height="5191px" url="master/1543_0030.tif" width="4043px"/>
+      <graphic height="190px" url="thumb/1543_0030_thumb.jpg" width="148px"/>
+      <graphic height="1800px" url="web/1543_0030_web.jpg" width="1401px"/>
+    </surface>
+    <surface n="Back cover">
+      <graphic height="5257px" url="master/1543_0031.tif" width="4094px"/>
+      <graphic height="190px" url="thumb/1543_0031_thumb.jpg" width="148px"/>
+      <graphic height="1800px" url="web/1543_0031_web.jpg" width="1401px"/>
+    </surface>
+    <surface n="Spine">
+      <graphic height="5261px" url="master/1543_0032.tif" width="4094px"/>
+      <graphic height="190px" url="thumb/1543_0032_thumb.jpg" width="147px"/>
+      <graphic height="1800px" url="web/1543_0032_web.jpg" width="1400px"/>
+    </surface>
+  </facsimile>
+</TEI>

@@ -1,0 +1,101 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Description of University of Pennsylvania Ms. Coll. 106: Letter to the Duke of Arcos :</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>The University of Pennsylvania Libraries</publisher>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by/4.0/legalcode">
+                                This description is ©2016 University of
+                                Pennsylvania Libraries. It is licensed under a Creative Commons
+                                Attribution License version 4.0 (CC-BY-4.0
+                                https://creativecommons.org/licenses/by/4.0/legalcode. For a
+                                description of the terms of use see the Creative Commons Deed
+                                https://creativecommons.org/licenses/by/4.0/. </licence>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/"> All
+                                referenced images and their content are free of known copyright
+                                restrictions and in the public domain. See the Creative Commons
+                                Public Domain Mark page for usage details,
+                                http://creativecommons.org/publicdomain/mark/1.0/. </licence>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note>Toledo; 20 February 1529.</note>
+        <note>Item description taken from Zacour-Hirsch Catalogue and from identified dealer's description on file in the Library.</note>
+        <note>Consists of a single bifolium, making 2 ff. There are 63 lines of text on f. 1r-v.</note>
+        <note>Unidentified dealer's description in English on file in the Library. Also on file is a typewritten description of the item in French, with no indication of author.</note>
+      </notesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <settlement>Philadelphia</settlement>
+            <institution>University of Pennsylvania</institution>
+            <repository>Rare Book &amp; Manuscript Library</repository>
+            <idno type="call-number">Ms. Coll. 106</idno>
+            <altIdentifier type="bibid">
+              <idno>1580560</idno>
+            </altIdentifier>
+            <altIdentifier type="resource">
+              <idno>http://hdl.library.upenn.edu/1017/d/medren/1580560</idno>
+            </altIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary>Letter from Emperor Charles V, writing as King of Spain, to the Duke of Arcos. Charles states that it is well known how greatly he desires a universal peace in Christendom and how much he has worked to achieve it by setting at liberty the King of France and in other ways not to his advantage, but far from attaining his end his enemies grow bolder every day and are at present blockading the Kingdom of Naples and preparing to occupy Sicily. His ministers impolore his personal intervention to save these countries of his inheritance from the infidel, and he has therefore decided to go to aid them and the King of Hungary who is likewise threatened, and his gives his orders to the Duke to make the necessary preparations for a campaign before the end of April.</summary>
+            <textLang>In Spanish</textLang>
+            <msItem>
+              <title>Letter to the Duke of Arcos :</title>
+              <author>Charles V, Holy Roman Emperor, 1500-1558</author>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc material="mixed">
+                <support>
+                  <p>paper</p>
+                </support>
+                <extent>1 30 x 44 cm. folded to 30 x 22 cm</extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin/>
+            <provenance>Acquired 1961.</provenance>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords n="form/genre">
+          <term>Manuscripts, Spanish--16th century</term>
+          <term>Manuscripts, Renaissance</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface n="1r">
+      <graphic height="5253px" url="master/2904_0000.tif" width="4122px"/>
+      <graphic height="190px" url="thumb/2904_0000_thumb.jpg" width="149px"/>
+      <graphic height="1800px" url="web/2904_0000_web.jpg" width="1412px"/>
+    </surface>
+    <surface n="1v">
+      <graphic height="5253px" url="master/2904_0001.tif" width="4122px"/>
+      <graphic height="190px" url="thumb/2904_0001_thumb.jpg" width="149px"/>
+      <graphic height="1800px" url="web/2904_0001_web.jpg" width="1412px"/>
+    </surface>
+    <surface n="2r">
+      <graphic height="5253px" url="master/2904_0002.tif" width="4122px"/>
+      <graphic height="190px" url="thumb/2904_0002_thumb.jpg" width="149px"/>
+      <graphic height="1800px" url="web/2904_0002_web.jpg" width="1412px"/>
+    </surface>
+    <surface n="2v">
+      <graphic height="5253px" url="master/2904_0003.tif" width="4122px"/>
+      <graphic height="190px" url="thumb/2904_0003_thumb.jpg" width="149px"/>
+      <graphic height="1800px" url="web/2904_0003_web.jpg" width="1412px"/>
+    </surface>
+  </facsimile>
+</TEI>

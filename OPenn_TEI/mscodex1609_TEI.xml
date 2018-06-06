@@ -1,0 +1,220 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Description of University of Pennsylvania Ms. Codex 1609: Correspondence of Wilhelm IV</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>The University of Pennsylvania Libraries</publisher>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by/4.0/legalcode">
+                                This description is ©2016 University of
+                                Pennsylvania Libraries. It is licensed under a Creative Commons
+                                Attribution License version 4.0 (CC-BY-4.0
+                                https://creativecommons.org/licenses/by/4.0/legalcode. For a
+                                description of the terms of use see the Creative Commons Deed
+                                https://creativecommons.org/licenses/by/4.0/. </licence>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/"> All
+                                referenced images and their content are free of known copyright
+                                restrictions and in the public domain. See the Creative Commons
+                                Public Domain Mark page for usage details,
+                                http://creativecommons.org/publicdomain/mark/1.0/. </licence>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note>Ms. codex.</note>
+        <note>Title supplied by cataloger.</note>
+        <note>Manuscript bound with a printed edition of Bedencken auffs Interim des ehrwirdigen und hochgelarten Herrn Philippi Melanthonis (1548), in which Melancthon expresses reservations and objections to the Augsburg Interim of 1548; from prison, Philipp I unsuccessfully urged the clergy of Hesse to accept the Interim; minimal marginal annotations. For a fuller description of this printed work, search the title Bedencken auffs Interim Des Ehrwirdigen vnd Hochgelarten Herrn Philippi Melanthonis.</note>
+      </notesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <settlement>Philadelphia</settlement>
+            <institution>University of Pennsylvania</institution>
+            <repository>Rare Book &amp; Manuscript Library</repository>
+            <idno type="call-number">Ms. Codex 1609</idno>
+            <altIdentifier type="bibid">
+              <idno>5315401</idno>
+            </altIdentifier>
+            <altIdentifier type="resource">
+              <idno>http://hdl.library.upenn.edu/1017/d/medren/5315401</idno>
+            </altIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary>Collection of documents related to the aftermath of the Schmalkaldic War in Hesse in Saxony. The manuscript contents comprise copies of 2 letters: a letter dated 24 Feb. 1552 from Wilhelm IV to Maurice, Elector of Saxony, requesting a meeting to negotiate the release of Wilhelm's father, Philipp I, who was a leader of the Schmalkaldic League and imprisoned by Charles V as a traitor after the League's defeat; and a response dated 4 Mar. 1552 from the political leaders (Landschaft) of Saxony, asking Wilhelm to be patient.</summary>
+            <textLang>German</textLang>
+            <msItem>
+              <title>Correspondence of Wilhelm IV</title>
+              <author>Wilhelm IV, Landgrave of Hesse, 1532-1592</author>
+              <author>Maurice, Elector of Saxony, 1521-1553</author>
+              <author>Melanchthon, Philipp, 1497-1560</author>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc material="mixed">
+                <support>
+                  <p>paper</p>
+                  <watermark>Similar to Briquet Couronne 4960 (Siegen, 1515) and 4962 (Waiblingen, 1519), but with a small cross and quartered circle below the circle supporting the crown.</watermark>
+                </support>
+                <extent>7 leaves : 187 x 143 (165 x 100) mm. bound to 190 x 147 mm</extent>
+                <foliation>Paper, 7; [1-7], modern foliation in pencil, lower right recto.</foliation>
+              </supportDesc>
+              <layoutDesc>
+                <layout>Written in 20-23 long lines.</layout>
+              </layoutDesc>
+            </objectDesc>
+            <scriptDesc>
+              <scriptNote>Written in German cursive script.</scriptNote>
+            </scriptDesc>
+            <bindingDesc>
+              <binding>
+                <p>Boards, with manuscript spine label Melanchton (printed work) and inscription on upper cover also concerning printed work.</p>
+              </binding>
+            </bindingDesc>
+          </physDesc>
+          <history>
+            <origin>
+              <p>Written in Germany after 1552 (date of correspondence, f. 3v, 6v).</p>
+              <origDate>after 1552</origDate>
+              <origPlace>Germany</origPlace>
+            </origin>
+            <provenance>Sold by Haus der Bücher (Basel, Switzerland), 1952.</provenance>
+            <provenance>Transferred from Culture Class collection, University of Pennsylvania, 2011.</provenance>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords n="subjects">
+          <term>Schmalkaldic War, 1546-1547--Early works to 1800</term>
+        </keywords>
+        <keywords n="form/genre">
+          <term>Codices</term>
+          <term>Hybrid books</term>
+          <term>Manuscripts, German--16th century</term>
+          <term>Manuscripts, Renaissance</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface n="Front cover">
+      <graphic height="5243px" url="master/2411_0000.tif" width="4174px"/>
+      <graphic height="190px" url="thumb/2411_0000_thumb.jpg" width="151px"/>
+      <graphic height="1800px" url="web/2411_0000_web.jpg" width="1433px"/>
+    </surface>
+    <surface n="Inside front cover">
+      <graphic height="5243px" url="master/2411_0001.tif" width="4174px"/>
+      <graphic height="190px" url="thumb/2411_0001_thumb.jpg" width="151px"/>
+      <graphic height="1800px" url="web/2411_0001_web.jpg" width="1433px"/>
+    </surface>
+    <surface n="Flyleaf 1 recto">
+      <graphic height="5243px" url="master/2411_0002.tif" width="4174px"/>
+      <graphic height="190px" url="thumb/2411_0002_thumb.jpg" width="151px"/>
+      <graphic height="1800px" url="web/2411_0002_web.jpg" width="1433px"/>
+    </surface>
+    <surface n="Flyleaf 1 verso (printed matter not shot)">
+      <graphic height="5243px" url="master/2411_0003.tif" width="4174px"/>
+      <graphic height="190px" url="thumb/2411_0003_thumb.jpg" width="151px"/>
+      <graphic height="1800px" url="web/2411_0003_web.jpg" width="1433px"/>
+    </surface>
+    <surface n="1r">
+      <graphic height="5243px" url="master/2411_0004.tif" width="4174px"/>
+      <graphic height="190px" url="thumb/2411_0004_thumb.jpg" width="151px"/>
+      <graphic height="1800px" url="web/2411_0004_web.jpg" width="1433px"/>
+    </surface>
+    <surface n="1v">
+      <graphic height="5243px" url="master/2411_0005.tif" width="4174px"/>
+      <graphic height="190px" url="thumb/2411_0005_thumb.jpg" width="151px"/>
+      <graphic height="1800px" url="web/2411_0005_web.jpg" width="1433px"/>
+    </surface>
+    <surface n="2r">
+      <graphic height="5243px" url="master/2411_0006.tif" width="4174px"/>
+      <graphic height="190px" url="thumb/2411_0006_thumb.jpg" width="151px"/>
+      <graphic height="1800px" url="web/2411_0006_web.jpg" width="1433px"/>
+    </surface>
+    <surface n="2v">
+      <graphic height="5243px" url="master/2411_0007.tif" width="4174px"/>
+      <graphic height="190px" url="thumb/2411_0007_thumb.jpg" width="151px"/>
+      <graphic height="1800px" url="web/2411_0007_web.jpg" width="1433px"/>
+    </surface>
+    <surface n="3r">
+      <graphic height="5243px" url="master/2411_0008.tif" width="4174px"/>
+      <graphic height="190px" url="thumb/2411_0008_thumb.jpg" width="151px"/>
+      <graphic height="1800px" url="web/2411_0008_web.jpg" width="1433px"/>
+    </surface>
+    <surface n="3v">
+      <graphic height="5243px" url="master/2411_0009.tif" width="4174px"/>
+      <graphic height="190px" url="thumb/2411_0009_thumb.jpg" width="151px"/>
+      <graphic height="1800px" url="web/2411_0009_web.jpg" width="1433px"/>
+    </surface>
+    <surface n="4r">
+      <graphic height="5243px" url="master/2411_0010.tif" width="4174px"/>
+      <graphic height="190px" url="thumb/2411_0010_thumb.jpg" width="151px"/>
+      <graphic height="1800px" url="web/2411_0010_web.jpg" width="1433px"/>
+    </surface>
+    <surface n="4v">
+      <graphic height="5243px" url="master/2411_0011.tif" width="4174px"/>
+      <graphic height="190px" url="thumb/2411_0011_thumb.jpg" width="151px"/>
+      <graphic height="1800px" url="web/2411_0011_web.jpg" width="1433px"/>
+    </surface>
+    <surface n="5r">
+      <graphic height="5243px" url="master/2411_0012.tif" width="4174px"/>
+      <graphic height="190px" url="thumb/2411_0012_thumb.jpg" width="151px"/>
+      <graphic height="1800px" url="web/2411_0012_web.jpg" width="1433px"/>
+    </surface>
+    <surface n="5v">
+      <graphic height="5243px" url="master/2411_0013.tif" width="4174px"/>
+      <graphic height="190px" url="thumb/2411_0013_thumb.jpg" width="151px"/>
+      <graphic height="1800px" url="web/2411_0013_web.jpg" width="1433px"/>
+    </surface>
+    <surface n="6r">
+      <graphic height="5243px" url="master/2411_0014.tif" width="4174px"/>
+      <graphic height="190px" url="thumb/2411_0014_thumb.jpg" width="151px"/>
+      <graphic height="1800px" url="web/2411_0014_web.jpg" width="1433px"/>
+    </surface>
+    <surface n="6v">
+      <graphic height="5243px" url="master/2411_0015.tif" width="4174px"/>
+      <graphic height="190px" url="thumb/2411_0015_thumb.jpg" width="151px"/>
+      <graphic height="1800px" url="web/2411_0015_web.jpg" width="1433px"/>
+    </surface>
+    <surface n="7r">
+      <graphic height="5243px" url="master/2411_0016.tif" width="4174px"/>
+      <graphic height="190px" url="thumb/2411_0016_thumb.jpg" width="151px"/>
+      <graphic height="1800px" url="web/2411_0016_web.jpg" width="1433px"/>
+    </surface>
+    <surface n="7v">
+      <graphic height="5243px" url="master/2411_0017.tif" width="4174px"/>
+      <graphic height="190px" url="thumb/2411_0017_thumb.jpg" width="151px"/>
+      <graphic height="1800px" url="web/2411_0017_web.jpg" width="1433px"/>
+    </surface>
+    <surface n="Flyleaf 1 recto">
+      <graphic height="5243px" url="master/2411_0018.tif" width="4174px"/>
+      <graphic height="190px" url="thumb/2411_0018_thumb.jpg" width="151px"/>
+      <graphic height="1800px" url="web/2411_0018_web.jpg" width="1433px"/>
+    </surface>
+    <surface n="Flyleaf 1 verso">
+      <graphic height="5243px" url="master/2411_0019.tif" width="4174px"/>
+      <graphic height="190px" url="thumb/2411_0019_thumb.jpg" width="151px"/>
+      <graphic height="1800px" url="web/2411_0019_web.jpg" width="1433px"/>
+    </surface>
+    <surface n="Inside back cover">
+      <graphic height="5243px" url="master/2411_0020.tif" width="4174px"/>
+      <graphic height="190px" url="thumb/2411_0020_thumb.jpg" width="151px"/>
+      <graphic height="1800px" url="web/2411_0020_web.jpg" width="1433px"/>
+    </surface>
+    <surface n="Back cover">
+      <graphic height="5243px" url="master/2411_0021.tif" width="4174px"/>
+      <graphic height="190px" url="thumb/2411_0021_thumb.jpg" width="151px"/>
+      <graphic height="1800px" url="web/2411_0021_web.jpg" width="1433px"/>
+    </surface>
+    <surface n="Spine">
+      <graphic height="5243px" url="master/2411_0022.tif" width="4174px"/>
+      <graphic height="190px" url="thumb/2411_0022_thumb.jpg" width="151px"/>
+      <graphic height="1800px" url="web/2411_0022_web.jpg" width="1433px"/>
+    </surface>
+  </facsimile>
+</TEI>

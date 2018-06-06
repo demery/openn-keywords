@@ -1,0 +1,222 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Description of University of Pennsylvania Ms. Codex 1625: Gospel lessons for the Office of the Dead</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>The University of Pennsylvania Libraries</publisher>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by/4.0/legalcode">
+                                This description is ©2016 University of
+                                Pennsylvania Libraries. It is licensed under a Creative Commons
+                                Attribution License version 4.0 (CC-BY-4.0
+                                https://creativecommons.org/licenses/by/4.0/legalcode. For a
+                                description of the terms of use see the Creative Commons Deed
+                                https://creativecommons.org/licenses/by/4.0/. </licence>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/"> All
+                                referenced images and their content are free of known copyright
+                                restrictions and in the public domain. See the Creative Commons
+                                Public Domain Mark page for usage details,
+                                http://creativecommons.org/publicdomain/mark/1.0/. </licence>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note>Ms. codex.</note>
+        <note>Title supplied by cataloger.</note>
+      </notesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <settlement>Philadelphia</settlement>
+            <institution>University of Pennsylvania</institution>
+            <repository>Rare Book &amp; Manuscript Library</repository>
+            <idno type="call-number">Ms. Codex 1625</idno>
+            <altIdentifier type="bibid">
+              <idno>5809959</idno>
+            </altIdentifier>
+            <altIdentifier type="resource">
+              <idno>http://hdl.library.upenn.edu/1017/d/medren/5809959</idno>
+            </altIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary>Six conjugate folios on which are written lessons from the Gospels of Luke (the Annunciation) and Mark (the Resurrection) and an abbreviated version of the Passion from the Gospel of John. These originally followed the Office of the Dead (Officium pro defunctis) in a book of hours, use of Chartres, now dispersed. These texts rarely appear in books of hours.</summary>
+            <textLang>Latin</textLang>
+            <msItem>
+              <title>Gospel lessons for the Office of the Dead</title>
+              <author>Catholic Church</author>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc material="parchment">
+                <support>
+                  <p>parchment</p>
+                </support>
+                <extent>6 leaves : 147 x 109 (80 x 53) mm. bound to 154 x 118 mm</extent>
+                <foliation>Parchment, i (modern) + 6 + i (modern); 1⁶; [1-6], modern foliation in pencil, lower right recto.</foliation>
+              </supportDesc>
+              <layoutDesc>
+                <layout>Written in 12 long lines; frame-ruled in faint red ink, with double upper horizontal bounding line.</layout>
+              </layoutDesc>
+            </objectDesc>
+            <scriptDesc>
+              <scriptNote>Written in Gothic script, with versicles and responses in a slightly smaller Gothic script (f. 1r-1v).</scriptNote>
+            </scriptDesc>
+            <decoDesc>
+              <decoNote>4 2-line initials on gold grounds infilled with vine tendrils, with vine extensions in margins (f. 2r, 3v, 4v, 6r); 8 1-line initials in gold on colored grounds with short tendril extensions (f. 1r, 1v, 6r); rubrication in red.</decoNote>
+              <decoNote n="1r">Illuminated initial, Initial I, f. 1r</decoNote>
+              <decoNote n="1r">Illuminated initial, Initial L, f. 1r</decoNote>
+              <decoNote n="1r">Illuminated initial, Initial E, f. 1r</decoNote>
+              <decoNote n="1v">Illuminated initial, Initial I, f. 1v</decoNote>
+              <decoNote n="1v">Illuminated initial, Initial D, f. 1v</decoNote>
+              <decoNote n="1v">Illuminated initial, Initial F, f. 1v</decoNote>
+              <decoNote n="2r">Illuminated initial, Initial I, f. 2r</decoNote>
+              <decoNote n="3v">Illuminated initial, Initial I, f. 3v</decoNote>
+              <decoNote n="4v">Illuminated initial, Initial I, f. 4v</decoNote>
+              <decoNote n="6r">Illuminated initial, Initial D, f. 6r</decoNote>
+              <decoNote n="6r">Illuminated initial, Initial E, f. 6r</decoNote>
+            </decoDesc>
+            <bindingDesc>
+              <binding>
+                <p>Modern leather (Don Etherington, Summerfield, N.C.).</p>
+              </binding>
+            </bindingDesc>
+          </physDesc>
+          <history>
+            <origin>
+              <p>Written in western France, possibly Chartres or Poitiers, ca. 1390 (King Alfred's Notebook).</p>
+              <origDate>ca. 1390</origDate>
+              <origPlace>France</origPlace>
+            </origin>
+            <provenance>Parent manuscript sold at auction at Sotheby's, 8 Jul. 2008, lot 28; broken in Germany (King Alfred's Notebook).</provenance>
+            <provenance>Sold by King Alfred's Notebook (Cayce, S.C.), cat. 10 (2012), no. 51.</provenance>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords n="subjects">
+          <term>Catholic Church--Prayers and devotions--Early works to 1800</term>
+        </keywords>
+        <keywords n="form/genre">
+          <term>Codices</term>
+          <term>Books of hours</term>
+          <term>Fragments</term>
+          <term>Illuminations</term>
+          <term>Manuscripts, Latin--14th century</term>
+          <term>Manuscripts, Medieval</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface n="Front cover">
+      <graphic height="3937px" url="master/1369_0000.tif" width="3084px"/>
+      <graphic height="190px" url="thumb/1369_0000_thumb.jpg" width="149px"/>
+      <graphic height="1800px" url="web/1369_0000_web.jpg" width="1410px"/>
+    </surface>
+    <surface n="Inside front cover">
+      <graphic height="3937px" url="master/1369_0001.tif" width="3084px"/>
+      <graphic height="190px" url="thumb/1369_0001_thumb.jpg" width="149px"/>
+      <graphic height="1800px" url="web/1369_0001_web.jpg" width="1410px"/>
+    </surface>
+    <surface n="Flyleaf 1 recto">
+      <graphic height="3937px" url="master/1369_0002.tif" width="3084px"/>
+      <graphic height="190px" url="thumb/1369_0002_thumb.jpg" width="149px"/>
+      <graphic height="1800px" url="web/1369_0002_web.jpg" width="1410px"/>
+    </surface>
+    <surface n="Flyleaf 1 verso">
+      <graphic height="3937px" url="master/1369_0003.tif" width="3084px"/>
+      <graphic height="190px" url="thumb/1369_0003_thumb.jpg" width="149px"/>
+      <graphic height="1800px" url="web/1369_0003_web.jpg" width="1410px"/>
+    </surface>
+    <surface n="1r">
+      <graphic height="3937px" url="master/1369_0004.tif" width="3084px"/>
+      <graphic height="190px" url="thumb/1369_0004_thumb.jpg" width="149px"/>
+      <graphic height="1800px" url="web/1369_0004_web.jpg" width="1410px"/>
+    </surface>
+    <surface n="1v">
+      <graphic height="3937px" url="master/1369_0005.tif" width="3084px"/>
+      <graphic height="190px" url="thumb/1369_0005_thumb.jpg" width="149px"/>
+      <graphic height="1800px" url="web/1369_0005_web.jpg" width="1410px"/>
+    </surface>
+    <surface n="2r">
+      <graphic height="3937px" url="master/1369_0006.tif" width="3084px"/>
+      <graphic height="190px" url="thumb/1369_0006_thumb.jpg" width="149px"/>
+      <graphic height="1800px" url="web/1369_0006_web.jpg" width="1410px"/>
+    </surface>
+    <surface n="2v">
+      <graphic height="3937px" url="master/1369_0007.tif" width="3084px"/>
+      <graphic height="190px" url="thumb/1369_0007_thumb.jpg" width="149px"/>
+      <graphic height="1800px" url="web/1369_0007_web.jpg" width="1410px"/>
+    </surface>
+    <surface n="3r">
+      <graphic height="3937px" url="master/1369_0008.tif" width="3084px"/>
+      <graphic height="190px" url="thumb/1369_0008_thumb.jpg" width="149px"/>
+      <graphic height="1800px" url="web/1369_0008_web.jpg" width="1410px"/>
+    </surface>
+    <surface n="3v">
+      <graphic height="3937px" url="master/1369_0009.tif" width="3084px"/>
+      <graphic height="190px" url="thumb/1369_0009_thumb.jpg" width="149px"/>
+      <graphic height="1800px" url="web/1369_0009_web.jpg" width="1410px"/>
+    </surface>
+    <surface n="4r">
+      <graphic height="3937px" url="master/1369_0010.tif" width="3084px"/>
+      <graphic height="190px" url="thumb/1369_0010_thumb.jpg" width="149px"/>
+      <graphic height="1800px" url="web/1369_0010_web.jpg" width="1410px"/>
+    </surface>
+    <surface n="4v">
+      <graphic height="3937px" url="master/1369_0011.tif" width="3084px"/>
+      <graphic height="190px" url="thumb/1369_0011_thumb.jpg" width="149px"/>
+      <graphic height="1800px" url="web/1369_0011_web.jpg" width="1410px"/>
+    </surface>
+    <surface n="5r">
+      <graphic height="3937px" url="master/1369_0012.tif" width="3084px"/>
+      <graphic height="190px" url="thumb/1369_0012_thumb.jpg" width="149px"/>
+      <graphic height="1800px" url="web/1369_0012_web.jpg" width="1410px"/>
+    </surface>
+    <surface n="5v">
+      <graphic height="3937px" url="master/1369_0013.tif" width="3084px"/>
+      <graphic height="190px" url="thumb/1369_0013_thumb.jpg" width="149px"/>
+      <graphic height="1800px" url="web/1369_0013_web.jpg" width="1410px"/>
+    </surface>
+    <surface n="6r">
+      <graphic height="3937px" url="master/1369_0014.tif" width="3084px"/>
+      <graphic height="190px" url="thumb/1369_0014_thumb.jpg" width="149px"/>
+      <graphic height="1800px" url="web/1369_0014_web.jpg" width="1410px"/>
+    </surface>
+    <surface n="6v">
+      <graphic height="3937px" url="master/1369_0015.tif" width="3084px"/>
+      <graphic height="190px" url="thumb/1369_0015_thumb.jpg" width="149px"/>
+      <graphic height="1800px" url="web/1369_0015_web.jpg" width="1410px"/>
+    </surface>
+    <surface n="Flyleaf 1 recto">
+      <graphic height="3937px" url="master/1369_0016.tif" width="3084px"/>
+      <graphic height="190px" url="thumb/1369_0016_thumb.jpg" width="149px"/>
+      <graphic height="1800px" url="web/1369_0016_web.jpg" width="1410px"/>
+    </surface>
+    <surface n="Flyleaf 1 verso">
+      <graphic height="3937px" url="master/1369_0017.tif" width="3084px"/>
+      <graphic height="190px" url="thumb/1369_0017_thumb.jpg" width="149px"/>
+      <graphic height="1800px" url="web/1369_0017_web.jpg" width="1410px"/>
+    </surface>
+    <surface n="Inside back cover">
+      <graphic height="3937px" url="master/1369_0018.tif" width="3084px"/>
+      <graphic height="190px" url="thumb/1369_0018_thumb.jpg" width="149px"/>
+      <graphic height="1800px" url="web/1369_0018_web.jpg" width="1410px"/>
+    </surface>
+    <surface n="Back cover">
+      <graphic height="3937px" url="master/1369_0019.tif" width="3084px"/>
+      <graphic height="190px" url="thumb/1369_0019_thumb.jpg" width="149px"/>
+      <graphic height="1800px" url="web/1369_0019_web.jpg" width="1410px"/>
+    </surface>
+    <surface n="Spine">
+      <graphic height="3937px" url="master/1369_0020.tif" width="3084px"/>
+      <graphic height="190px" url="thumb/1369_0020_thumb.jpg" width="149px"/>
+      <graphic height="1800px" url="web/1369_0020_web.jpg" width="1410px"/>
+    </surface>
+  </facsimile>
+</TEI>

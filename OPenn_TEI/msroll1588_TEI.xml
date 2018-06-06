@@ -1,0 +1,114 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Description of University of Pennsylvania Ms. Roll 1588: Genealogical chronicle fragment of the kings of England to Kimbelinus and Arvigarus</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>The University of Pennsylvania Libraries</publisher>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by/4.0/legalcode">
+                                This description is ©2016 University of
+                                Pennsylvania Libraries. It is licensed under a Creative Commons
+                                Attribution License version 4.0 (CC-BY-4.0
+                                https://creativecommons.org/licenses/by/4.0/legalcode. For a
+                                description of the terms of use see the Creative Commons Deed
+                                https://creativecommons.org/licenses/by/4.0/. </licence>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/"> All
+                                referenced images and their content are free of known copyright
+                                restrictions and in the public domain. See the Creative Commons
+                                Public Domain Mark page for usage details,
+                                http://creativecommons.org/publicdomain/mark/1.0/. </licence>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note>Ms. roll.</note>
+        <note>Title supplied by cataloger.</note>
+        <note>Incipit: "Iste Nemroth erat gigas ... " (text at top next to Noah roundel); "[Ab isto] Strephes filio Iapheth fratre..." (top of left column); "[Ab] hiis trib[us] filiis Noe texuntur generaciones septuaginte ..." (top of right column).</note>
+        <note>Edges damaged, with some loss of text on left edge; mounted on modern vellum before sale in 2010.</note>
+      </notesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <settlement>Philadelphia</settlement>
+            <institution>University of Pennsylvania</institution>
+            <repository>Rare Book &amp; Manuscript Library</repository>
+            <idno type="call-number">Ms. Roll 1588</idno>
+            <altIdentifier type="bibid">
+              <idno>4934331</idno>
+            </altIdentifier>
+            <altIdentifier type="resource">
+              <idno>http://hdl.library.upenn.edu/1017/d/medren/4934331</idno>
+            </altIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary>A chronicle with diagram from the first reign of Henry VI tracing the descent of the kings of England from Noah, through Brut, and breaking off after the kings Kimbelinus and Arvigarus in the central line of descent and the kings Ingils and Offa in another line left of center. The birth of Christ is marked just before the end of the fragment. Earlier the line of descent on the left includes the descent of northern peoples such as the Danes, Jutes, and Geates from Steldius, also known as Scyld Scefing from the poem Beowulf. On the verso (outer surface of roll) is an 18th-century inscription, Genealogy, Noa to [the kings] of England.</summary>
+            <textLang>Latin</textLang>
+            <msItem>
+              <title>Genealogical chronicle fragment of the kings of England to Kimbelinus and Arvigarus</title>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc material="parchment">
+                <support>
+                  <p>parchment</p>
+                </support>
+                <extent>1 roll (2 membranes) : 1620 x 260 mm</extent>
+              </supportDesc>
+            </objectDesc>
+            <scriptDesc>
+              <scriptNote>Written in secretary script.</scriptNote>
+            </scriptDesc>
+          </physDesc>
+          <history>
+            <origin>
+              <p>Written and illustrated in England in the second quarter of the 15th century (Sotheby's).</p>
+              <origDate>between 1425 and 1450</origDate>
+              <origPlace>England</origPlace>
+            </origin>
+            <provenance>Sold at auction at Sotheby's, 7 December 2010, lot 16.</provenance>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords n="subjects">
+          <term>World history--Early works to 1800</term>
+          <term>Scyld (Legendary character)</term>
+        </keywords>
+        <keywords n="form/genre">
+          <term>Chronicles</term>
+          <term>Genealogies</term>
+          <term>Scrolls (information artifacts)</term>
+          <term>Manuscripts, Latin--15th century</term>
+          <term>Manuscripts, Renaissance</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface n="Membrane 1, Side 1">
+      <graphic height="14369px" url="master/1727_0000.tif" width="5006px"/>
+      <graphic height="190px" url="thumb/1727_0000_thumb.jpg" width="66px"/>
+      <graphic height="1800px" url="web/1727_0000_web.jpg" width="627px"/>
+    </surface>
+    <surface n="Membrane 2, Side 1">
+      <graphic height="15453px" url="master/1727_0001.tif" width="5092px"/>
+      <graphic height="190px" url="thumb/1727_0001_thumb.jpg" width="62px"/>
+      <graphic height="1800px" url="web/1727_0001_web.jpg" width="593px"/>
+    </surface>
+    <surface n="Membrane 1, Side 2">
+      <graphic height="14238px" url="master/1727_0002.tif" width="5018px"/>
+      <graphic height="190px" url="thumb/1727_0002_thumb.jpg" width="66px"/>
+      <graphic height="1800px" url="web/1727_0002_web.jpg" width="634px"/>
+    </surface>
+    <surface n="Membrane 2, Side 2">
+      <graphic height="16776px" url="master/1727_0003.tif" width="5424px"/>
+      <graphic height="190px" url="thumb/1727_0003_thumb.jpg" width="61px"/>
+      <graphic height="1800px" url="web/1727_0003_web.jpg" width="582px"/>
+    </surface>
+  </facsimile>
+</TEI>

@@ -1,0 +1,389 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Description of University of Pennsylvania Ms. Codex 133: De coloribus urinae ... etc.</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>The University of Pennsylvania Libraries</publisher>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by/4.0/legalcode">
+                                This description is ©2015 University of
+                                Pennsylvania Libraries. It is licensed under a Creative Commons
+                                Attribution License version 4.0 (CC-BY-4.0
+                                https://creativecommons.org/licenses/by/4.0/legalcode. For a
+                                description of the terms of use see the Creative Commons Deed
+                                https://creativecommons.org/licenses/by/4.0/. </licence>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/"> All
+                                referenced images and their content are free of known copyright
+                                restrictions and in the public domain. See the Creative Commons
+                                Public Domain Mark page for usage details,
+                                http://creativecommons.org/publicdomain/mark/1.0/. </licence>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note>Ms. codex.</note>
+        <note>Title supplied by cataloger (Zacour-Hirsch).</note>
+        <note>Translator's name given in colophon (f. 9r) as Gioan Francesco Ymolensis. In the description of this manuscript by the dealer H. P. Kraus he is called Giovanni Francesco Imolensis. Zacour-Hirsch gives the latinized form Johannes Franciscus Imolensis. He could not be further identified under any of these names.</note>
+        <note>First work, incipit and explicit: (f. 1r) Lo medico voglando havere cognicione dele orine ... (f. 9r) una fiada se demostra terma natura.</note>
+        <note>First work, colophon: (f. 9r) Le conpido uno belissimo libro trattado de orine, el quale yo Gioan Francesco Ymolensis de Latino lo trasforido in volgare de lo anno del nostro Senior 1429. Indicione una addi ultimo de mayo in millesimo sopra scri[?]tto per uso de maistro bonissimo cirviano.</note>
+        <note>Second work, incipit and explicit: (f. 9v) Recipe de questa polvere ... (f. 11r) in una gamba in crobavia eitraura.</note>
+        <note>Third work, incipit and explicit: (f. 13r) Recipe agarico masticis ... (f. 13v) de guma dragante.</note>
+        <note>Fourth work, incipit and explicit: (f. 14r) Inguento baselicon. Recipe cera bianca ... (f. 17v) et fauno sachetto.</note>
+        <note>Many smudges and stains. The leaves appear to have been trimmed before the manuscript was bound; the folio numbers are clipped, and some folios show traces of a heading on the upper recto that was trimmed away.</note>
+      </notesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <settlement>Philadelphia</settlement>
+            <institution>University of Pennsylvania</institution>
+            <repository>Rare Book &amp; Manuscript Library</repository>
+            <idno type="call-number">Ms. Codex 133</idno>
+            <altIdentifier type="bibid">
+              <idno>1551758</idno>
+            </altIdentifier>
+            <altIdentifier type="resource">
+              <idno>http://hdl.library.upenn.edu/1017/d/medren/1551758</idno>
+            </altIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary>Treatise on urine, translated from Latin by Gioan Francesco Ymolensis. About 100 paragraphs in length. Consists of medical instructions that are diagnostic, therapeutic and medicative in nature. Lists diagnostic symptoms which a physician should observe in the urine of his patient, and the conclusions to be drawn about the patient's condition from its color, consistency and peculiar appearance. According to the colophon (f. 9r), which the writer took from an older manuscript, this "very beautiful treatise" was originally written in Latin "for the use of an accomplished surgeon" (per uso di maistro bonissimo cirviano), and translated into the Venetian (or Northeast Italian) vernacular, on 31 March 1429, by a doctor from Imola who calls himself Gioan Francesco Ymolensis (f. 9r). Also includes three other short medical texts: Ad amazare li vermi in lo corpo dele creature (on destroying parasitic worms in the intestines; f. 9v-11r); Pillole de agarico (f. 13r-v; with a second section titled Pillores aureis); and Inguenti (title from Zacour-Hirsch), a collection of unguents and medical recipes, beginning with Inguento baselicon and including remedies against syphilis and the plague (f. 14r-[17]v). These additions were evidently added by the copyist and were not part of the original treatise on urine.</summary>
+            <textLang mainLang="ita">Italian, in the Northeastern (Venetian?) vernacular</textLang>
+            <msItem>
+              <title>De coloribus urinae ... etc.</title>
+              <respStmt>
+                <resp>translator</resp>
+                <persName>Johannes Franciscus, da Imola</persName>
+              </respStmt>
+              <respStmt>
+                <resp>former owner</resp>
+                <persName>Franz Josef II, Prince of Liechtenstein, 1906-1989</persName>
+              </respStmt>
+            </msItem>
+            <msItem n="1r">
+              <locus>1r</locus>
+              <title>De coloribus urinae, f. 1r</title>
+            </msItem>
+            <msItem n="9v">
+              <locus>9v</locus>
+              <title>Ad amazare le vermi in lo corpo dele creature, f. 9v</title>
+            </msItem>
+            <msItem n="13r =12r">
+              <locus>13r [=12r]</locus>
+              <title>Pillole de agarico, f. 13r</title>
+            </msItem>
+            <msItem n="14r =13r">
+              <locus>14r [=13r]</locus>
+              <title>Inguenti, f. 14r</title>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc material="paper">
+                <support>
+                  <p>paper</p>
+                  <watermark>Anchor and monogram PM with star.</watermark>
+                </support>
+                <extent>21 leaves : 208 x 153 (162 x 97) mm. bound to 218 x 153 mm</extent>
+                <collation>
+                  <p>Paper, 21; 1²²( -1); [v], 1-11, 13-16, [17]; contemporary foliation in ink, upper right recto. Last folio appears to be numbered 12; however, it does not seem to out of place.</p>
+                </collation>
+              </supportDesc>
+            </objectDesc>
+            <scriptDesc>
+              <scriptNote>Written in a northern Italian cancelleresca script by what appears to be a single hand.</scriptNote>
+            </scriptDesc>
+            <bindingDesc>
+              <binding>
+                <p>18th-century Italian paper over cardboard with vellum spine.</p>
+              </binding>
+            </bindingDesc>
+          </physDesc>
+          <history>
+            <origin>
+              <p>Written in northern Italy in the mid-16th century (ca. 1540-1550?).</p>
+              <origDate>between 1525 and 1575</origDate>
+              <origPlace>Italy</origPlace>
+            </origin>
+            <provenance>Sold by Franz Josef II of Liechtenstein as part of a large collection from the Prince Liechtenstein Library to H. P. Kraus (New York), 1949.</provenance>
+            <provenance>Sold by H. P. Kraus to the E. F. Smith Memorial Collection, University of Pennsylvania; transferred to the Rare Book &amp; Manuscript Library as part of the E. F. Smith Memorial Collection, 1969.</provenance>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords n="subjects">
+          <term>Chemistry--History</term>
+          <term>Medicine--History</term>
+          <term>Urine--Analysis--Early works to 1800</term>
+        </keywords>
+        <keywords n="form/genre">
+          <term>Codices</term>
+          <term>Prescriptions</term>
+          <term>Recipes</term>
+          <term>Manuscripts, Renaissance</term>
+          <term>Manuscripts, Italian--16th century</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface n="Front cover">
+      <graphic height="5789px" url="master/0898_0000.tif" width="4313px"/>
+      <graphic height="190px" url="thumb/0898_0000_thumb.jpg" width="141px"/>
+      <graphic height="1800px" url="web/0898_0000_web.jpg" width="1341px"/>
+    </surface>
+    <surface n="Inside front cover">
+      <graphic height="5789px" url="master/0898_0001.tif" width="4313px"/>
+      <graphic height="190px" url="thumb/0898_0001_thumb.jpg" width="141px"/>
+      <graphic height="1800px" url="web/0898_0001_web.jpg" width="1341px"/>
+    </surface>
+    <surface n="Flyleaf 1 recto">
+      <graphic height="5789px" url="master/0898_0002.tif" width="4313px"/>
+      <graphic height="190px" url="thumb/0898_0002_thumb.jpg" width="141px"/>
+      <graphic height="1800px" url="web/0898_0002_web.jpg" width="1341px"/>
+    </surface>
+    <surface n="Flyleaf 1 verso">
+      <graphic height="5789px" url="master/0898_0003.tif" width="4313px"/>
+      <graphic height="190px" url="thumb/0898_0003_thumb.jpg" width="141px"/>
+      <graphic height="1800px" url="web/0898_0003_web.jpg" width="1341px"/>
+    </surface>
+    <surface n="i recto">
+      <graphic height="5789px" url="master/0898_0004.tif" width="4313px"/>
+      <graphic height="190px" url="thumb/0898_0004_thumb.jpg" width="141px"/>
+      <graphic height="1800px" url="web/0898_0004_web.jpg" width="1341px"/>
+    </surface>
+    <surface n="i verso">
+      <graphic height="5789px" url="master/0898_0005.tif" width="4313px"/>
+      <graphic height="190px" url="thumb/0898_0005_thumb.jpg" width="141px"/>
+      <graphic height="1800px" url="web/0898_0005_web.jpg" width="1341px"/>
+    </surface>
+    <surface n="ii recto">
+      <graphic height="5789px" url="master/0898_0006.tif" width="4313px"/>
+      <graphic height="190px" url="thumb/0898_0006_thumb.jpg" width="141px"/>
+      <graphic height="1800px" url="web/0898_0006_web.jpg" width="1341px"/>
+    </surface>
+    <surface n="ii verso">
+      <graphic height="5789px" url="master/0898_0007.tif" width="4313px"/>
+      <graphic height="190px" url="thumb/0898_0007_thumb.jpg" width="141px"/>
+      <graphic height="1800px" url="web/0898_0007_web.jpg" width="1341px"/>
+    </surface>
+    <surface n="iii recto">
+      <graphic height="5789px" url="master/0898_0008.tif" width="4313px"/>
+      <graphic height="190px" url="thumb/0898_0008_thumb.jpg" width="141px"/>
+      <graphic height="1800px" url="web/0898_0008_web.jpg" width="1341px"/>
+    </surface>
+    <surface n="iii verso">
+      <graphic height="5789px" url="master/0898_0009.tif" width="4313px"/>
+      <graphic height="190px" url="thumb/0898_0009_thumb.jpg" width="141px"/>
+      <graphic height="1800px" url="web/0898_0009_web.jpg" width="1341px"/>
+    </surface>
+    <surface n="iv recto">
+      <graphic height="5789px" url="master/0898_0010.tif" width="4313px"/>
+      <graphic height="190px" url="thumb/0898_0010_thumb.jpg" width="141px"/>
+      <graphic height="1800px" url="web/0898_0010_web.jpg" width="1341px"/>
+    </surface>
+    <surface n="iv verso">
+      <graphic height="5789px" url="master/0898_0011.tif" width="4313px"/>
+      <graphic height="190px" url="thumb/0898_0011_thumb.jpg" width="141px"/>
+      <graphic height="1800px" url="web/0898_0011_web.jpg" width="1341px"/>
+    </surface>
+    <surface n="v recto">
+      <graphic height="5789px" url="master/0898_0012.tif" width="4313px"/>
+      <graphic height="190px" url="thumb/0898_0012_thumb.jpg" width="141px"/>
+      <graphic height="1800px" url="web/0898_0012_web.jpg" width="1341px"/>
+    </surface>
+    <surface n="v verso">
+      <graphic height="5789px" url="master/0898_0013.tif" width="4313px"/>
+      <graphic height="190px" url="thumb/0898_0013_thumb.jpg" width="141px"/>
+      <graphic height="1800px" url="web/0898_0013_web.jpg" width="1341px"/>
+    </surface>
+    <surface n="1r">
+      <graphic height="5789px" url="master/0898_0014.tif" width="4313px"/>
+      <graphic height="190px" url="thumb/0898_0014_thumb.jpg" width="141px"/>
+      <graphic height="1800px" url="web/0898_0014_web.jpg" width="1341px"/>
+    </surface>
+    <surface n="1v">
+      <graphic height="5789px" url="master/0898_0015.tif" width="4313px"/>
+      <graphic height="190px" url="thumb/0898_0015_thumb.jpg" width="141px"/>
+      <graphic height="1800px" url="web/0898_0015_web.jpg" width="1341px"/>
+    </surface>
+    <surface n="2r">
+      <graphic height="5789px" url="master/0898_0016.tif" width="4313px"/>
+      <graphic height="190px" url="thumb/0898_0016_thumb.jpg" width="141px"/>
+      <graphic height="1800px" url="web/0898_0016_web.jpg" width="1341px"/>
+    </surface>
+    <surface n="2v">
+      <graphic height="5789px" url="master/0898_0017.tif" width="4313px"/>
+      <graphic height="190px" url="thumb/0898_0017_thumb.jpg" width="141px"/>
+      <graphic height="1800px" url="web/0898_0017_web.jpg" width="1341px"/>
+    </surface>
+    <surface n="3r">
+      <graphic height="5789px" url="master/0898_0018.tif" width="4313px"/>
+      <graphic height="190px" url="thumb/0898_0018_thumb.jpg" width="141px"/>
+      <graphic height="1800px" url="web/0898_0018_web.jpg" width="1341px"/>
+    </surface>
+    <surface n="3v">
+      <graphic height="5789px" url="master/0898_0019.tif" width="4313px"/>
+      <graphic height="190px" url="thumb/0898_0019_thumb.jpg" width="141px"/>
+      <graphic height="1800px" url="web/0898_0019_web.jpg" width="1341px"/>
+    </surface>
+    <surface n="4r">
+      <graphic height="5789px" url="master/0898_0020.tif" width="4313px"/>
+      <graphic height="190px" url="thumb/0898_0020_thumb.jpg" width="141px"/>
+      <graphic height="1800px" url="web/0898_0020_web.jpg" width="1341px"/>
+    </surface>
+    <surface n="4v">
+      <graphic height="5789px" url="master/0898_0021.tif" width="4313px"/>
+      <graphic height="190px" url="thumb/0898_0021_thumb.jpg" width="141px"/>
+      <graphic height="1800px" url="web/0898_0021_web.jpg" width="1341px"/>
+    </surface>
+    <surface n="5r">
+      <graphic height="5789px" url="master/0898_0022.tif" width="4313px"/>
+      <graphic height="190px" url="thumb/0898_0022_thumb.jpg" width="141px"/>
+      <graphic height="1800px" url="web/0898_0022_web.jpg" width="1341px"/>
+    </surface>
+    <surface n="5v">
+      <graphic height="5789px" url="master/0898_0023.tif" width="4313px"/>
+      <graphic height="190px" url="thumb/0898_0023_thumb.jpg" width="141px"/>
+      <graphic height="1800px" url="web/0898_0023_web.jpg" width="1341px"/>
+    </surface>
+    <surface n="6r">
+      <graphic height="5789px" url="master/0898_0024.tif" width="4313px"/>
+      <graphic height="190px" url="thumb/0898_0024_thumb.jpg" width="141px"/>
+      <graphic height="1800px" url="web/0898_0024_web.jpg" width="1341px"/>
+    </surface>
+    <surface n="6v">
+      <graphic height="5789px" url="master/0898_0025.tif" width="4313px"/>
+      <graphic height="190px" url="thumb/0898_0025_thumb.jpg" width="141px"/>
+      <graphic height="1800px" url="web/0898_0025_web.jpg" width="1341px"/>
+    </surface>
+    <surface n="7r">
+      <graphic height="5789px" url="master/0898_0026.tif" width="4313px"/>
+      <graphic height="190px" url="thumb/0898_0026_thumb.jpg" width="141px"/>
+      <graphic height="1800px" url="web/0898_0026_web.jpg" width="1341px"/>
+    </surface>
+    <surface n="7v">
+      <graphic height="5789px" url="master/0898_0027.tif" width="4313px"/>
+      <graphic height="190px" url="thumb/0898_0027_thumb.jpg" width="141px"/>
+      <graphic height="1800px" url="web/0898_0027_web.jpg" width="1341px"/>
+    </surface>
+    <surface n="8r">
+      <graphic height="5789px" url="master/0898_0028.tif" width="4313px"/>
+      <graphic height="190px" url="thumb/0898_0028_thumb.jpg" width="141px"/>
+      <graphic height="1800px" url="web/0898_0028_web.jpg" width="1341px"/>
+    </surface>
+    <surface n="8v">
+      <graphic height="5789px" url="master/0898_0029.tif" width="4313px"/>
+      <graphic height="190px" url="thumb/0898_0029_thumb.jpg" width="141px"/>
+      <graphic height="1800px" url="web/0898_0029_web.jpg" width="1341px"/>
+    </surface>
+    <surface n="9r">
+      <graphic height="5789px" url="master/0898_0030.tif" width="4313px"/>
+      <graphic height="190px" url="thumb/0898_0030_thumb.jpg" width="141px"/>
+      <graphic height="1800px" url="web/0898_0030_web.jpg" width="1341px"/>
+    </surface>
+    <surface n="9v">
+      <graphic height="5789px" url="master/0898_0031.tif" width="4313px"/>
+      <graphic height="190px" url="thumb/0898_0031_thumb.jpg" width="141px"/>
+      <graphic height="1800px" url="web/0898_0031_web.jpg" width="1341px"/>
+    </surface>
+    <surface n="10r">
+      <graphic height="5789px" url="master/0898_0032.tif" width="4313px"/>
+      <graphic height="190px" url="thumb/0898_0032_thumb.jpg" width="141px"/>
+      <graphic height="1800px" url="web/0898_0032_web.jpg" width="1341px"/>
+    </surface>
+    <surface n="10v">
+      <graphic height="5789px" url="master/0898_0033.tif" width="4313px"/>
+      <graphic height="190px" url="thumb/0898_0033_thumb.jpg" width="141px"/>
+      <graphic height="1800px" url="web/0898_0033_web.jpg" width="1341px"/>
+    </surface>
+    <surface n="11r">
+      <graphic height="5789px" url="master/0898_0034.tif" width="4313px"/>
+      <graphic height="190px" url="thumb/0898_0034_thumb.jpg" width="141px"/>
+      <graphic height="1800px" url="web/0898_0034_web.jpg" width="1341px"/>
+    </surface>
+    <surface n="11v">
+      <graphic height="5789px" url="master/0898_0035.tif" width="4313px"/>
+      <graphic height="190px" url="thumb/0898_0035_thumb.jpg" width="141px"/>
+      <graphic height="1800px" url="web/0898_0035_web.jpg" width="1341px"/>
+    </surface>
+    <surface n="13r =12r">
+      <graphic height="5789px" url="master/0898_0036.tif" width="4313px"/>
+      <graphic height="190px" url="thumb/0898_0036_thumb.jpg" width="141px"/>
+      <graphic height="1800px" url="web/0898_0036_web.jpg" width="1341px"/>
+    </surface>
+    <surface n="13v =12v">
+      <graphic height="5789px" url="master/0898_0037.tif" width="4313px"/>
+      <graphic height="190px" url="thumb/0898_0037_thumb.jpg" width="141px"/>
+      <graphic height="1800px" url="web/0898_0037_web.jpg" width="1341px"/>
+    </surface>
+    <surface n="14r =13r">
+      <graphic height="5789px" url="master/0898_0038.tif" width="4313px"/>
+      <graphic height="190px" url="thumb/0898_0038_thumb.jpg" width="141px"/>
+      <graphic height="1800px" url="web/0898_0038_web.jpg" width="1341px"/>
+    </surface>
+    <surface n="14v =13v">
+      <graphic height="5789px" url="master/0898_0039.tif" width="4313px"/>
+      <graphic height="190px" url="thumb/0898_0039_thumb.jpg" width="141px"/>
+      <graphic height="1800px" url="web/0898_0039_web.jpg" width="1341px"/>
+    </surface>
+    <surface n="15r =14r">
+      <graphic height="5789px" url="master/0898_0040.tif" width="4313px"/>
+      <graphic height="190px" url="thumb/0898_0040_thumb.jpg" width="141px"/>
+      <graphic height="1800px" url="web/0898_0040_web.jpg" width="1341px"/>
+    </surface>
+    <surface n="15v =14v">
+      <graphic height="5789px" url="master/0898_0041.tif" width="4313px"/>
+      <graphic height="190px" url="thumb/0898_0041_thumb.jpg" width="141px"/>
+      <graphic height="1800px" url="web/0898_0041_web.jpg" width="1341px"/>
+    </surface>
+    <surface n="16r =15r">
+      <graphic height="5789px" url="master/0898_0042.tif" width="4313px"/>
+      <graphic height="190px" url="thumb/0898_0042_thumb.jpg" width="141px"/>
+      <graphic height="1800px" url="web/0898_0042_web.jpg" width="1341px"/>
+    </surface>
+    <surface n="16v =15v">
+      <graphic height="5789px" url="master/0898_0043.tif" width="4313px"/>
+      <graphic height="190px" url="thumb/0898_0043_thumb.jpg" width="141px"/>
+      <graphic height="1800px" url="web/0898_0043_web.jpg" width="1341px"/>
+    </surface>
+    <surface n="17r =16r">
+      <graphic height="5789px" url="master/0898_0044.tif" width="4313px"/>
+      <graphic height="190px" url="thumb/0898_0044_thumb.jpg" width="141px"/>
+      <graphic height="1800px" url="web/0898_0044_web.jpg" width="1341px"/>
+    </surface>
+    <surface n="17v =16v">
+      <graphic height="5789px" url="master/0898_0045.tif" width="4313px"/>
+      <graphic height="190px" url="thumb/0898_0045_thumb.jpg" width="141px"/>
+      <graphic height="1800px" url="web/0898_0045_web.jpg" width="1341px"/>
+    </surface>
+    <surface n="Flyleaf 1 recto">
+      <graphic height="5789px" url="master/0898_0046.tif" width="4313px"/>
+      <graphic height="190px" url="thumb/0898_0046_thumb.jpg" width="141px"/>
+      <graphic height="1800px" url="web/0898_0046_web.jpg" width="1341px"/>
+    </surface>
+    <surface n="Flyleaf 1 verso">
+      <graphic height="5789px" url="master/0898_0047.tif" width="4313px"/>
+      <graphic height="190px" url="thumb/0898_0047_thumb.jpg" width="141px"/>
+      <graphic height="1800px" url="web/0898_0047_web.jpg" width="1341px"/>
+    </surface>
+    <surface n="Inside back cover">
+      <graphic height="5789px" url="master/0898_0048.tif" width="4313px"/>
+      <graphic height="190px" url="thumb/0898_0048_thumb.jpg" width="141px"/>
+      <graphic height="1800px" url="web/0898_0048_web.jpg" width="1341px"/>
+    </surface>
+    <surface n="Back cover">
+      <graphic height="5789px" url="master/0898_0049.tif" width="4313px"/>
+      <graphic height="190px" url="thumb/0898_0049_thumb.jpg" width="141px"/>
+      <graphic height="1800px" url="web/0898_0049_web.jpg" width="1341px"/>
+    </surface>
+    <surface n="Spine">
+      <graphic height="5789px" url="master/0898_0050.tif" width="4313px"/>
+      <graphic height="190px" url="thumb/0898_0050_thumb.jpg" width="141px"/>
+      <graphic height="1800px" url="web/0898_0050_web.jpg" width="1341px"/>
+    </surface>
+  </facsimile>
+</TEI>

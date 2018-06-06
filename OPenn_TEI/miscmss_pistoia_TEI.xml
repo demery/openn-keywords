@@ -1,0 +1,90 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Description of University of Pennsylvania Misc Mss: Miscellaneous manuscripts</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>The University of Pennsylvania Libraries</publisher>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by/4.0/legalcode">
+                                This description is ©2016 University of
+                                Pennsylvania Libraries. It is licensed under a Creative Commons
+                                Attribution License version 4.0 (CC-BY-4.0
+                                https://creativecommons.org/licenses/by/4.0/legalcode. For a
+                                description of the terms of use see the Creative Commons Deed
+                                https://creativecommons.org/licenses/by/4.0/. </licence>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/"> All
+                                referenced images and their content are free of known copyright
+                                restrictions and in the public domain. See the Creative Commons
+                                Public Domain Mark page for usage details,
+                                http://creativecommons.org/publicdomain/mark/1.0/. </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <settlement>Philadelphia</settlement>
+            <institution>University of Pennsylvania</institution>
+            <repository>Rare Book &amp; Manuscript Library</repository>
+            <idno type="call-number">Misc Mss</idno>
+            <altIdentifier type="bibid">
+              <idno>4493742</idno>
+            </altIdentifier>
+            <altIdentifier type="resource">
+              <idno>http://hdl.library.upenn.edu/1017/d/medren/4493742</idno>
+            </altIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary>Two copies of letters the second of which incomplete (it would have continued on the following leaf, which was torn) written in Pistoia in 1539. The first was written by the Commissari del sale, possibly addressed to the grand-duke of Tuscany. In the letter, the officers complain about the fact that many citizens tend to buy salt outside of their jurisdiction, which was considered illegal at the time, and try and offer a solution. They recommended that the salt extracted from the salt-mines of Pistoia be distributed to the various villages in the area for a small price, to prevent people from buying it elsewhere. The second letter, perhaps written by an officer of the grand-duke, addresses the problem raised by the Commissari, acknowledges the excessive taxation on salt, and gives a partial approval on the measures promoted by the Commissari.</summary>
+            <textLang>In Italian</textLang>
+            <msItem>
+              <title>Miscellaneous manuscripts</title>
+              <author>Pistoia (Italy)</author>
+              <respStmt>
+                <resp>recipient</resp>
+                <persName>Cosimo I, Grand-Duke of Tuscany, 1519-1574</persName>
+              </respStmt>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc>
+                <extent>1</extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin/>
+            <provenance>Sold by Bernard M. Rosenthal, 1961.</provenance>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords n="subjects">
+          <term>Salt industry and trade--Law and legislation--Italy</term>
+          <term>Salt--Taxation--Italy--Pistoia</term>
+        </keywords>
+        <keywords n="form/genre">
+          <term>Manuscripts, Italian--16th century</term>
+          <term>Manuscripts, Renaissance</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface n="Side 1">
+      <graphic height="5767px" url="master/1586_0000.tif" width="4446px"/>
+      <graphic height="190px" url="thumb/1586_0000_thumb.jpg" width="146px"/>
+      <graphic height="1800px" url="web/1586_0000_web.jpg" width="1388px"/>
+    </surface>
+    <surface n="Side 2">
+      <graphic height="5767px" url="master/1586_0001.tif" width="4446px"/>
+      <graphic height="190px" url="thumb/1586_0001_thumb.jpg" width="146px"/>
+      <graphic height="1800px" url="web/1586_0001_web.jpg" width="1388px"/>
+    </surface>
+  </facsimile>
+</TEI>

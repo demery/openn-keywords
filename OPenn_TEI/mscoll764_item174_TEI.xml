@@ -1,0 +1,102 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Description of University of Pennsylvania Ms. Coll. 764: Sebastiano Benivieni will</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>The University of Pennsylvania Libraries</publisher>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by/4.0/legalcode">
+                                This description is ©2015 University of
+                                Pennsylvania Libraries. It is licensed under a Creative Commons
+                                Attribution License version 4.0 (CC-BY-4.0
+                                https://creativecommons.org/licenses/by/4.0/legalcode. For a
+                                description of the terms of use see the Creative Commons Deed
+                                https://creativecommons.org/licenses/by/4.0/. </licence>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/"> All
+                                referenced images and their content are free of known copyright
+                                restrictions and in the public domain. See the Creative Commons
+                                Public Domain Mark page for usage details,
+                                http://creativecommons.org/publicdomain/mark/1.0/. </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <settlement>Philadelphia</settlement>
+            <institution>University of Pennsylvania</institution>
+            <repository>Rare Book &amp; Manuscript Library</repository>
+            <idno type="call-number">Ms. Coll. 764</idno>
+            <altIdentifier type="bibid">
+              <idno>4957145</idno>
+            </altIdentifier>
+            <altIdentifier type="resource">
+              <idno>http://hdl.library.upenn.edu/1017/d/medren/4957145</idno>
+            </altIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary>Will of Sebastiano Benivieni, student at the University of Padua and son of Florentine doctor Antonio Benivieni, asking to be buried in the church of SS. Annunziata in Florence (referred to as Santa Maria dei Servi), unless he died in a city other than Florence. Notarized by Antonio da Verona of Padua on 13 October 1506 in the church of SS. Annuziata in Florence in the presence of the witnesses Don Domenico Doti, Don Petronio Ulivieri, Don Alberto di Francesco, and Don Giovanbattista di Carlo. Filed with the document is a short, later summary written in Italian on paper.</summary>
+            <textLang>In Latin</textLang>
+            <msItem>
+              <title>Sebastiano Benivieni will</title>
+              <author>Verona, Antonio da</author>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc material="parchment.">
+                <support>
+                  <p>parchment.</p>
+                </support>
+                <extent>1</extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin/>
+            <provenance>Sold by Renzo Rizzi (Milan).</provenance>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords n="subjects">
+          <term>SS. Annunziata (Church : Florence, Italy)</term>
+          <term>Inheritance and succession--Italy</term>
+          <term>Wills--Italy</term>
+        </keywords>
+        <keywords n="form/genre">
+          <term>Notarial documents</term>
+          <term>Wills</term>
+          <term>Manuscripts, Latin--16th century</term>
+          <term>Manuscripts, Renaissance</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface n="Item 1, Side 1">
+      <graphic height="4950px" url="master/1139_0000.tif" width="1500px"/>
+      <graphic height="190px" url="thumb/1139_0000_thumb.jpg" width="57px"/>
+      <graphic height="1800px" url="web/1139_0000_web.jpg" width="545px"/>
+    </surface>
+    <surface n="Item 1, Side 2">
+      <graphic height="4950px" url="master/1139_0001.tif" width="1500px"/>
+      <graphic height="190px" url="thumb/1139_0001_thumb.jpg" width="57px"/>
+      <graphic height="1800px" url="web/1139_0001_web.jpg" width="545px"/>
+    </surface>
+    <surface n="Item 2, Side 1">
+      <graphic height="2927px" url="master/1139_0002.tif" width="4143px"/>
+      <graphic height="134px" url="thumb/1139_0002_thumb.jpg" width="190px"/>
+      <graphic height="1271px" url="web/1139_0002_web.jpg" width="1800px"/>
+    </surface>
+    <surface n="Item 2, Side 2">
+      <graphic height="2927px" url="master/1139_0003.tif" width="4143px"/>
+      <graphic height="134px" url="thumb/1139_0003_thumb.jpg" width="190px"/>
+      <graphic height="1271px" url="web/1139_0003_web.jpg" width="1800px"/>
+    </surface>
+  </facsimile>
+</TEI>

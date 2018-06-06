@@ -1,0 +1,116 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Description of University of Pennsylvania Ms. Coll. 764: Ghilo di Francesco legal decision</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>The University of Pennsylvania Libraries</publisher>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by/4.0/legalcode">
+                                This description is ©2016 University of
+                                Pennsylvania Libraries. It is licensed under a Creative Commons
+                                Attribution License version 4.0 (CC-BY-4.0
+                                https://creativecommons.org/licenses/by/4.0/legalcode. For a
+                                description of the terms of use see the Creative Commons Deed
+                                https://creativecommons.org/licenses/by/4.0/. </licence>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/"> All
+                                referenced images and their content are free of known copyright
+                                restrictions and in the public domain. See the Creative Commons
+                                Public Domain Mark page for usage details,
+                                http://creativecommons.org/publicdomain/mark/1.0/. </licence>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note>Long rolled document shelved at the end of the collection.</note>
+      </notesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <settlement>Philadelphia</settlement>
+            <institution>University of Pennsylvania</institution>
+            <repository>Rare Book &amp; Manuscript Library</repository>
+            <idno type="call-number">Ms. Coll. 764</idno>
+            <altIdentifier type="bibid">
+              <idno>5002003</idno>
+            </altIdentifier>
+            <altIdentifier type="resource">
+              <idno>http://hdl.library.upenn.edu/1017/d/medren/5002003</idno>
+            </altIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary>Long rolled document containing legal decision by judge Ghilo di Francesco of Florence concerning a dispute between Gemma di Giovanni, daughter of Biagio di Giovanni and widow of Cristoforo di Andrea Laterino, and her heirs on one side, and the Ufficiali de' pupilli (municipal authorities providing legal representation to minors), acting on behalf of Pietro Laterino, heir of Cristoforo Laterino. Notarized by Bartolomeo Lorini of Florence on 20 August 1433.</summary>
+            <textLang>In Latin</textLang>
+            <msItem>
+              <title>Ghilo di Francesco legal decision</title>
+              <author>Francesco, Ghilo di</author>
+              <author>Lorini, Bartolomeo</author>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc material="parchment.">
+                <support>
+                  <p>parchment.</p>
+                </support>
+                <extent>1</extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin/>
+            <provenance>Sold by Renzo Rizzi (Milan).</provenance>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords n="subjects">
+          <term>Florence (Tuscany).--Ufficiali de' pupilli et degli adulti</term>
+          <term>Inheritance and succession--Italy</term>
+        </keywords>
+        <keywords n="form/genre">
+          <term>Notarial documents</term>
+          <term>Legal documents</term>
+          <term>Scrolls (information artifacts)</term>
+          <term>Manuscripts, Latin--15th century</term>
+          <term>Manuscripts, Renaissance</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface n="Membrane 1, Side 1">
+      <graphic height="5200px" url="master/1541_0000.tif" width="2500px"/>
+      <graphic height="190px" url="thumb/1541_0000_thumb.jpg" width="91px"/>
+      <graphic height="1800px" url="web/1541_0000_web.jpg" width="865px"/>
+    </surface>
+    <surface n="Membrane 2, Side 1">
+      <graphic height="6300px" url="master/1541_0001.tif" width="2500px"/>
+      <graphic height="190px" url="thumb/1541_0001_thumb.jpg" width="75px"/>
+      <graphic height="1800px" url="web/1541_0001_web.jpg" width="714px"/>
+    </surface>
+    <surface n="Membrane 3, Side 1">
+      <graphic height="4200px" url="master/1541_0002.tif" width="2500px"/>
+      <graphic height="190px" url="thumb/1541_0002_thumb.jpg" width="113px"/>
+      <graphic height="1800px" url="web/1541_0002_web.jpg" width="1071px"/>
+    </surface>
+    <surface n="Membrane 1, Side 2">
+      <graphic height="5400px" url="master/1541_0003.tif" width="2700px"/>
+      <graphic height="190px" url="thumb/1541_0003_thumb.jpg" width="95px"/>
+      <graphic height="1800px" url="web/1541_0003_web.jpg" width="900px"/>
+    </surface>
+    <surface n="Membrane 2, Side 2">
+      <graphic height="6400px" url="master/1541_0004.tif" width="2600px"/>
+      <graphic height="190px" url="thumb/1541_0004_thumb.jpg" width="77px"/>
+      <graphic height="1800px" url="web/1541_0004_web.jpg" width="731px"/>
+    </surface>
+    <surface n="Membrane 3, Side 2">
+      <graphic height="4300px" url="master/1541_0005.tif" width="2500px"/>
+      <graphic height="190px" url="thumb/1541_0005_thumb.jpg" width="110px"/>
+      <graphic height="1800px" url="web/1541_0005_web.jpg" width="1046px"/>
+    </surface>
+  </facsimile>
+</TEI>

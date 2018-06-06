@@ -1,0 +1,103 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Description of University of Pennsylvania Ms. Coll. 742: Pope Pius III bull</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>The University of Pennsylvania Libraries</publisher>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by/4.0/legalcode">
+                                This description is ©2016 University of
+                                Pennsylvania Libraries. It is licensed under a Creative Commons
+                                Attribution License version 4.0 (CC-BY-4.0
+                                https://creativecommons.org/licenses/by/4.0/legalcode. For a
+                                description of the terms of use see the Creative Commons Deed
+                                https://creativecommons.org/licenses/by/4.0/. </licence>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/"> All
+                                referenced images and their content are free of known copyright
+                                restrictions and in the public domain. See the Creative Commons
+                                Public Domain Mark page for usage details,
+                                http://creativecommons.org/publicdomain/mark/1.0/. </licence>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note>This oversize item is stored in a map drawer.</note>
+      </notesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <settlement>Philadelphia</settlement>
+            <institution>University of Pennsylvania</institution>
+            <repository>Rare Book &amp; Manuscript Library</repository>
+            <idno type="call-number">Ms. Coll. 742</idno>
+            <altIdentifier type="bibid">
+              <idno>4639462</idno>
+            </altIdentifier>
+            <altIdentifier type="resource">
+              <idno>http://hdl.library.upenn.edu/1017/d/medren/4639462</idno>
+            </altIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary>The last bull of Pope Pius III dated Oct. 17, 1503, addressed to Cardinal Raffaello Riario conferring upon him the administration of the Benedictine monastery of San Marziano at Tortona. However, the lead bull was never appended to the document as Pope Pius III died a few hours after it was written. His successor, Pope Julius II, conferred the administration of the monastery upon Cardinal Giovanni Piccolomini in the December of the same year (see Ms. Coll. 742, Folder 66).</summary>
+            <textLang>In Latin</textLang>
+            <msItem>
+              <title>Pope Pius III bull</title>
+              <author>Pius III, Pope, ca. 1440-1503</author>
+              <respStmt>
+                <resp>recipient</resp>
+                <persName>Riario, Raffaello, 1451-1521</persName>
+              </respStmt>
+              <respStmt>
+                <resp>former owner</resp>
+                <persName>North, Frederick, Earl of Guilford, 1766-1827</persName>
+              </respStmt>
+              <respStmt>
+                <resp>former owner</resp>
+                <persName>Phillipps, Thomas, Sir, 1792-1872</persName>
+              </respStmt>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc>
+                <extent>1</extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin/>
+            <provenance>Formerly owned by Frederick North, Earl of Guilford, and Sir Thomas Phillipps (part of ms. 6067).</provenance>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords n="subjects">
+          <term>San Marziano (Monastery : Tortona, Italy)</term>
+          <term>Benedictine monasteries--Italy</term>
+        </keywords>
+        <keywords n="form/genre">
+          <term>Bulls (papal records)</term>
+          <term>Legal documents</term>
+          <term>Manuscripts, Latin--16th century</term>
+          <term>Manuscripts, Renaissance</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface n="Side 1">
+      <graphic height="5674px" url="master/1813_0000.tif" width="7227px"/>
+      <graphic height="149px" url="thumb/1813_0000_thumb.jpg" width="190px"/>
+      <graphic height="1413px" url="web/1813_0000_web.jpg" width="1800px"/>
+    </surface>
+    <surface n="Side 2">
+      <graphic height="5679px" url="master/1813_0001.tif" width="7237px"/>
+      <graphic height="149px" url="thumb/1813_0001_thumb.jpg" width="190px"/>
+      <graphic height="1412px" url="web/1813_0001_web.jpg" width="1800px"/>
+    </surface>
+  </facsimile>
+</TEI>

@@ -1,0 +1,80 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Description of University of Pennsylvania CAJS Rar Ms 416: Manuscript leaf from a book of hours.</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>The University of Pennsylvania Libraries</publisher>
+        <availability>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/">These images and the content of Library at the Herbert D. Katz Center for Advanced Judaic Studies, CAJS Rar Ms 416: Manuscript leaf from a book of hours. are free of known copyright restrictions and in the public domain. See the Creative Commons Public Domain Mark page for usage details, http://creativecommons.org/publicdomain/mark/1.0/.</licence>
+          <licence target="https://creativecommons.org/licenses/by/4.0/legalcode">Metadata is ©2017 University of Pennsylvania Books &amp; Manuscripts and licensed under a Creative Commons Attribution License version 4.0 (CC-BY-4.0 https://creativecommons.org/licenses/by/4.0/legalcode. For a description of the terms of use see the Creative Commons Deed https://creativecommons.org/licenses/by/4.0/.</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <settlement>Philadelphia</settlement>
+            <institution>University of Pennsylvania</institution>
+            <repository>Library at the Herbert D. Katz Center for Advanced Judaic Studies</repository>
+            <idno type="call-number">CAJS Rar Ms 416</idno>
+            <altIdentifier type="bibid">
+              <idno>6853668</idno>
+            </altIdentifier>
+            <altIdentifier type="resource">
+              <idno>http://hdl.library.upenn.edu/1017/d/medren/6853668</idno>
+            </altIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary>Leaf from a book of hours made in France, circa 1490. The text, Psalm 88.7-18, is written in Gothic script (textualis semi-quadrata) in 16 long lines. Initials in gold on blue and pink grounds.</summary>
+            <textLang>Latin</textLang>
+            <msItem>
+              <title>Manuscript leaf from a book of hours.</title>
+              <author>Catholic Church</author>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc material="mixed">
+                <support>
+                  <p>parchment</p>
+                </support>
+                <extent>1 leaf : 155 x 110 (95 x 70) mm</extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin/>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords n="subjects">
+          <term>Catholic Church--Prayers and devotions--Early works to 1800</term>
+        </keywords>
+        <keywords n="form/genre">
+          <term>Books of hours</term>
+          <term>Psalms (documents)</term>
+          <term>Detached leaves</term>
+          <term>Manuscripts, Renaissance</term>
+          <term>Manuscripts, Latin--15th century</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface n="1r">
+      <graphic height="4250px" url="master/5092_0000.tif" width="3291px"/>
+      <graphic height="190px" url="thumb/5092_0000_thumb.jpg" width="147px"/>
+      <graphic height="1800px" url="web/5092_0000_web.jpg" width="1394px"/>
+    </surface>
+    <surface n="1v">
+      <graphic height="4250px" url="master/5092_0001.tif" width="3291px"/>
+      <graphic height="190px" url="thumb/5092_0001_thumb.jpg" width="147px"/>
+      <graphic height="1800px" url="web/5092_0001_web.jpg" width="1394px"/>
+    </surface>
+  </facsimile>
+</TEI>

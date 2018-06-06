@@ -1,0 +1,209 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Description of University of Pennsylvania Ms. Codex 581: Conventio inter rectores ospitalis civitatis placentie et D. Antonium Francescum Finellum</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>The University of Pennsylvania Libraries</publisher>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by/4.0/legalcode">
+                                This description is ©2015 University of
+                                Pennsylvania Libraries. It is licensed under a Creative Commons
+                                Attribution License version 4.0 (CC-BY-4.0
+                                https://creativecommons.org/licenses/by/4.0/legalcode. For a
+                                description of the terms of use see the Creative Commons Deed
+                                https://creativecommons.org/licenses/by/4.0/. </licence>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/"> All
+                                referenced images and their content are free of known copyright
+                                restrictions and in the public domain. See the Creative Commons
+                                Public Domain Mark page for usage details,
+                                http://creativecommons.org/publicdomain/mark/1.0/. </licence>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note>Ms. codex.</note>
+        <note>Title from title page (f. 1r).</note>
+      </notesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <settlement>Philadelphia</settlement>
+            <institution>University of Pennsylvania</institution>
+            <repository>Rare Book &amp; Manuscript Library</repository>
+            <idno type="call-number">Ms. Codex 581</idno>
+            <altIdentifier type="bibid">
+              <idno>2486536</idno>
+            </altIdentifier>
+            <altIdentifier type="resource">
+              <idno>http://hdl.library.upenn.edu/1017/d/medren/2486536</idno>
+            </altIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary>Notarial document (signature and signet, f. 6v-7r) dated 21 Mar. 1579 (in text, according to Old Style calendar; somewhat later title page gives date as 1580).</summary>
+            <textLang>Latin</textLang>
+            <msItem>
+              <title>Conventio inter rectores ospitalis civitatis placentie et D. Antonium Francescum Finellum</title>
+              <respStmt>
+                <resp>former owner</resp>
+                <persName>Morbio, Carlo</persName>
+              </respStmt>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc material="paper">
+                <support>
+                  <p>paper</p>
+                </support>
+                <extent>8 leaves : 302 x 209 (270 x 150) mm. bound to 305 x 210 mm</extent>
+                <foliation>Paper, 8; [1-8]; modern foliation in pencil, upper right recto.</foliation>
+              </supportDesc>
+              <layoutDesc>
+                <layout>Written in 26-28 long lines.</layout>
+              </layoutDesc>
+            </objectDesc>
+            <scriptDesc>
+              <scriptNote>Written in a cursive script by a single hand.</scriptNote>
+            </scriptDesc>
+            <decoDesc>
+              <decoNote n="6v">Notarial signet, f. 6v</decoNote>
+            </decoDesc>
+            <bindingDesc>
+              <binding>
+                <p>Modern pasteboards.</p>
+              </binding>
+            </bindingDesc>
+          </physDesc>
+          <history>
+            <origin>
+              <p>Written in Piacenza (Italy), 21 March 1580.</p>
+              <origDate>1580</origDate>
+              <origPlace>Piacenza</origPlace>
+            </origin>
+            <provenance>Formerly owned by Carlo Morbio (Rosenthal).</provenance>
+            <provenance>Sold by Jacques Rosenthal (Munich), 1957.</provenance>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords n="form/genre">
+          <term>Codices</term>
+          <term>Notarial documents</term>
+          <term>Manuscripts, Latin--16th century</term>
+          <term>Manuscripts, Renaissance</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface n="Front cover">
+      <graphic height="5429px" url="master/0534_0000.tif" width="4036px"/>
+      <graphic height="190px" url="thumb/0534_0000_thumb.jpg" width="141px"/>
+      <graphic height="1800px" url="web/0534_0000_web.jpg" width="1338px"/>
+    </surface>
+    <surface n="Inside front cover">
+      <graphic height="5429px" url="master/0534_0001.tif" width="4036px"/>
+      <graphic height="190px" url="thumb/0534_0001_thumb.jpg" width="141px"/>
+      <graphic height="1800px" url="web/0534_0001_web.jpg" width="1338px"/>
+    </surface>
+    <surface n="1r">
+      <graphic height="5429px" url="master/0534_0002.tif" width="4036px"/>
+      <graphic height="190px" url="thumb/0534_0002_thumb.jpg" width="141px"/>
+      <graphic height="1800px" url="web/0534_0002_web.jpg" width="1338px"/>
+    </surface>
+    <surface n="1v">
+      <graphic height="5429px" url="master/0534_0003.tif" width="4036px"/>
+      <graphic height="190px" url="thumb/0534_0003_thumb.jpg" width="141px"/>
+      <graphic height="1800px" url="web/0534_0003_web.jpg" width="1338px"/>
+    </surface>
+    <surface n="2r">
+      <graphic height="5429px" url="master/0534_0004.tif" width="4036px"/>
+      <graphic height="190px" url="thumb/0534_0004_thumb.jpg" width="141px"/>
+      <graphic height="1800px" url="web/0534_0004_web.jpg" width="1338px"/>
+    </surface>
+    <surface n="2v">
+      <graphic height="5429px" url="master/0534_0005.tif" width="4036px"/>
+      <graphic height="190px" url="thumb/0534_0005_thumb.jpg" width="141px"/>
+      <graphic height="1800px" url="web/0534_0005_web.jpg" width="1338px"/>
+    </surface>
+    <surface n="3r">
+      <graphic height="5429px" url="master/0534_0006.tif" width="4036px"/>
+      <graphic height="190px" url="thumb/0534_0006_thumb.jpg" width="141px"/>
+      <graphic height="1800px" url="web/0534_0006_web.jpg" width="1338px"/>
+    </surface>
+    <surface n="3v">
+      <graphic height="5429px" url="master/0534_0007.tif" width="4036px"/>
+      <graphic height="190px" url="thumb/0534_0007_thumb.jpg" width="141px"/>
+      <graphic height="1800px" url="web/0534_0007_web.jpg" width="1338px"/>
+    </surface>
+    <surface n="4r">
+      <graphic height="5429px" url="master/0534_0008.tif" width="4036px"/>
+      <graphic height="190px" url="thumb/0534_0008_thumb.jpg" width="141px"/>
+      <graphic height="1800px" url="web/0534_0008_web.jpg" width="1338px"/>
+    </surface>
+    <surface n="4v">
+      <graphic height="5429px" url="master/0534_0009.tif" width="4036px"/>
+      <graphic height="190px" url="thumb/0534_0009_thumb.jpg" width="141px"/>
+      <graphic height="1800px" url="web/0534_0009_web.jpg" width="1338px"/>
+    </surface>
+    <surface n="5r">
+      <graphic height="5429px" url="master/0534_0010.tif" width="4036px"/>
+      <graphic height="190px" url="thumb/0534_0010_thumb.jpg" width="141px"/>
+      <graphic height="1800px" url="web/0534_0010_web.jpg" width="1338px"/>
+    </surface>
+    <surface n="5v">
+      <graphic height="5429px" url="master/0534_0011.tif" width="4036px"/>
+      <graphic height="190px" url="thumb/0534_0011_thumb.jpg" width="141px"/>
+      <graphic height="1800px" url="web/0534_0011_web.jpg" width="1338px"/>
+    </surface>
+    <surface n="6r">
+      <graphic height="5429px" url="master/0534_0012.tif" width="4036px"/>
+      <graphic height="190px" url="thumb/0534_0012_thumb.jpg" width="141px"/>
+      <graphic height="1800px" url="web/0534_0012_web.jpg" width="1338px"/>
+    </surface>
+    <surface n="6v">
+      <graphic height="5429px" url="master/0534_0013.tif" width="4036px"/>
+      <graphic height="190px" url="thumb/0534_0013_thumb.jpg" width="141px"/>
+      <graphic height="1800px" url="web/0534_0013_web.jpg" width="1338px"/>
+    </surface>
+    <surface n="7r">
+      <graphic height="5429px" url="master/0534_0014.tif" width="4036px"/>
+      <graphic height="190px" url="thumb/0534_0014_thumb.jpg" width="141px"/>
+      <graphic height="1800px" url="web/0534_0014_web.jpg" width="1338px"/>
+    </surface>
+    <surface n="7v">
+      <graphic height="5429px" url="master/0534_0015.tif" width="4036px"/>
+      <graphic height="190px" url="thumb/0534_0015_thumb.jpg" width="141px"/>
+      <graphic height="1800px" url="web/0534_0015_web.jpg" width="1338px"/>
+    </surface>
+    <surface n="8r">
+      <graphic height="5429px" url="master/0534_0016.tif" width="4036px"/>
+      <graphic height="190px" url="thumb/0534_0016_thumb.jpg" width="141px"/>
+      <graphic height="1800px" url="web/0534_0016_web.jpg" width="1338px"/>
+    </surface>
+    <surface n="8v">
+      <graphic height="5429px" url="master/0534_0017.tif" width="4036px"/>
+      <graphic height="190px" url="thumb/0534_0017_thumb.jpg" width="141px"/>
+      <graphic height="1800px" url="web/0534_0017_web.jpg" width="1338px"/>
+    </surface>
+    <surface n="Inside back cover">
+      <graphic height="5429px" url="master/0534_0018.tif" width="4036px"/>
+      <graphic height="190px" url="thumb/0534_0018_thumb.jpg" width="141px"/>
+      <graphic height="1800px" url="web/0534_0018_web.jpg" width="1338px"/>
+    </surface>
+    <surface n="Back cover">
+      <graphic height="5429px" url="master/0534_0019.tif" width="4036px"/>
+      <graphic height="190px" url="thumb/0534_0019_thumb.jpg" width="141px"/>
+      <graphic height="1800px" url="web/0534_0019_web.jpg" width="1338px"/>
+    </surface>
+    <surface n="Spine">
+      <graphic height="5429px" url="master/0534_0020.tif" width="4036px"/>
+      <graphic height="190px" url="thumb/0534_0020_thumb.jpg" width="141px"/>
+      <graphic height="1800px" url="web/0534_0020_web.jpg" width="1338px"/>
+    </surface>
+  </facsimile>
+</TEI>

@@ -1,0 +1,280 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Description of University of Pennsylvania Ms. Codex 180: Agreement pertaining to the rents and privileges of the Canons Regular of Urgel</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>The University of Pennsylvania Libraries</publisher>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by/4.0/legalcode">
+                                This description is ©2015 University of
+                                Pennsylvania Libraries. It is licensed under a Creative Commons
+                                Attribution License version 4.0 (CC-BY-4.0
+                                https://creativecommons.org/licenses/by/4.0/legalcode. For a
+                                description of the terms of use see the Creative Commons Deed
+                                https://creativecommons.org/licenses/by/4.0/. </licence>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/"> All
+                                referenced images and their content are free of known copyright
+                                restrictions and in the public domain. See the Creative Commons
+                                Public Domain Mark page for usage details,
+                                http://creativecommons.org/publicdomain/mark/1.0/. </licence>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note>Ms. codex.</note>
+        <note>Title supplied by cataloger (Zacour-Hirsch).</note>
+        <note>Incipit: Notum sit cunctis quod ...</note>
+        <note>Caption in later hand (f. 1r): Bescaran.</note>
+        <note>According to the Latin prologue (f. 1r), the document was drawn up and written by the notary and rector Petrus Bertrandi of Bescaran (spelled "Besqueran" in the prologue). In the prologue, Petrus refers to himself in the first person. The prologue gives the names of the two representatives of Urgel as Jacobus Fabre and Petrus de Artedo (f. 1r).</note>
+        <note>Notarial colophon (f. 11v): Bernardus consulis vocatur, qui scripsit a domino benedicatur. Zacour-Hirsch and Bernard Rosenthal's description regard this Bernardus as the same person as the Petrus Bertrandi mentioned in the prologue. This is likely but is by no means certain.</note>
+        <note>Paragraphs numbered in the margin with roman numerals. Marginal gloss on f. 2r.</note>
+        <note>Cover boards slightly warped. One parchment leaf has a very uneven edge, a couple others have holes. Many stains.</note>
+        <note>Description clipped from unidentified dealers catalog, in Latin and French, pasted inside front cover. Typewritten description by Bernard M. Rosenthal, Inc. on file in the Library.</note>
+      </notesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <settlement>Philadelphia</settlement>
+            <institution>University of Pennsylvania</institution>
+            <repository>Rare Book &amp; Manuscript Library</repository>
+            <idno type="call-number">Ms. Codex 180</idno>
+            <altIdentifier type="bibid">
+              <idno>1551772</idno>
+            </altIdentifier>
+            <altIdentifier type="resource">
+              <idno>http://hdl.library.upenn.edu/1017/d/medren/1551772</idno>
+            </altIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary>Agreement, in 42 numbered paragraphs, pertaining to the rents and privileges of the Canons Regular of Urgel, in the Catalonian province of Lerida. Drawn up on 2 September 1415 by the notary and rector Petrus Bernardi of Bescaran, with Jacobus Fabre and Petrus de Artedo present as representatives of Urgel (f. 1r).</summary>
+            <textLang mainLang="cat" otherLangs="lat">Catalan, with prologue in Latin</textLang>
+            <msItem>
+              <title>Agreement pertaining to the rents and privileges of the Canons Regular of Urgel</title>
+              <author>Canons Regular of Urgel</author>
+              <author>Petrus, Bertrandi</author>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc material="parchment">
+                <support>
+                  <p>parchment</p>
+                </support>
+                <extent>12 leaves : 224 x 152 (155 x 103) mm. bound to 234 x 154 mm</extent>
+                <foliation>Parchment, i (modern paper) + 12 + i (modern paper); 1-6, [7-12]; contemporary foliation in red ink, lower right recto.</foliation>
+              </supportDesc>
+            </objectDesc>
+            <scriptDesc>
+              <scriptNote>Written in a cursive notarial hand, except for Latin prologue in a rather formal, large Gothic hand.</scriptNote>
+            </scriptDesc>
+            <decoDesc>
+              <decoNote>Two red figurated initials (f. 4v); extensive use of red for initials, paragraph marks and colophon.</decoNote>
+              <decoNote n="1r">Decorated initial, Initial N, f. 1r</decoNote>
+              <decoNote n="1r">Decorated initial, Initial E, f. 1r</decoNote>
+              <decoNote n="4v">Decorated initial, Initial I, Face, f. 4v</decoNote>
+              <decoNote n="9r">Decorated initial, Initial N, f. 9r</decoNote>
+            </decoDesc>
+            <bindingDesc>
+              <binding>
+                <p>Modern vellum.</p>
+              </binding>
+            </bindingDesc>
+          </physDesc>
+          <history>
+            <origin>
+              <p>Written in Bescaran, 2 September 1415 (prologue, f. 1r).</p>
+              <origDate>1415</origDate>
+              <origPlace>Bescaran</origPlace>
+            </origin>
+            <provenance>Sold by Bernard M. Rosenthal, Inc., New York, 1961[?].</provenance>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords n="subjects">
+          <term>Catholic Church--Clergy--Religious life</term>
+          <term>Monasticism and religious orders--Privileges and immunities</term>
+        </keywords>
+        <keywords n="form/genre">
+          <term>Notarial documents</term>
+          <term>Codices</term>
+          <term>Manuscripts, Catalan--15th century</term>
+          <term>Manuscripts, Spanish--15th century</term>
+          <term>Manuscripts, Medieval</term>
+          <term>Manuscripts, Renaissance</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface n="Front cover">
+      <graphic height="6032px" url="master/0547_0000.tif" width="4341px"/>
+      <graphic height="190px" url="thumb/0547_0000_thumb.jpg" width="136px"/>
+      <graphic height="1800px" url="web/0547_0000_web.jpg" width="1295px"/>
+    </surface>
+    <surface n="Inside front cover">
+      <graphic height="5976px" url="master/0547_0001.tif" width="4309px"/>
+      <graphic height="190px" url="thumb/0547_0001_thumb.jpg" width="137px"/>
+      <graphic height="1800px" url="web/0547_0001_web.jpg" width="1298px"/>
+    </surface>
+    <surface n="Flyleaf 1 recto">
+      <graphic height="5976px" url="master/0547_0002.tif" width="4309px"/>
+      <graphic height="190px" url="thumb/0547_0002_thumb.jpg" width="137px"/>
+      <graphic height="1800px" url="web/0547_0002_web.jpg" width="1298px"/>
+    </surface>
+    <surface n="Flyleaf 1 verso">
+      <graphic height="5976px" url="master/0547_0003.tif" width="4309px"/>
+      <graphic height="190px" url="thumb/0547_0003_thumb.jpg" width="137px"/>
+      <graphic height="1800px" url="web/0547_0003_web.jpg" width="1298px"/>
+    </surface>
+    <surface n="1r">
+      <graphic height="5976px" url="master/0547_0004.tif" width="4309px"/>
+      <graphic height="190px" url="thumb/0547_0004_thumb.jpg" width="137px"/>
+      <graphic height="1800px" url="web/0547_0004_web.jpg" width="1298px"/>
+    </surface>
+    <surface n="1v">
+      <graphic height="5976px" url="master/0547_0005.tif" width="4309px"/>
+      <graphic height="190px" url="thumb/0547_0005_thumb.jpg" width="137px"/>
+      <graphic height="1800px" url="web/0547_0005_web.jpg" width="1298px"/>
+    </surface>
+    <surface n="2r">
+      <graphic height="5976px" url="master/0547_0006.tif" width="4309px"/>
+      <graphic height="190px" url="thumb/0547_0006_thumb.jpg" width="137px"/>
+      <graphic height="1800px" url="web/0547_0006_web.jpg" width="1298px"/>
+    </surface>
+    <surface n="2v">
+      <graphic height="5976px" url="master/0547_0007.tif" width="4309px"/>
+      <graphic height="190px" url="thumb/0547_0007_thumb.jpg" width="137px"/>
+      <graphic height="1800px" url="web/0547_0007_web.jpg" width="1298px"/>
+    </surface>
+    <surface n="3r">
+      <graphic height="5976px" url="master/0547_0008.tif" width="4309px"/>
+      <graphic height="190px" url="thumb/0547_0008_thumb.jpg" width="137px"/>
+      <graphic height="1800px" url="web/0547_0008_web.jpg" width="1298px"/>
+    </surface>
+    <surface n="3v">
+      <graphic height="5976px" url="master/0547_0009.tif" width="4309px"/>
+      <graphic height="190px" url="thumb/0547_0009_thumb.jpg" width="137px"/>
+      <graphic height="1800px" url="web/0547_0009_web.jpg" width="1298px"/>
+    </surface>
+    <surface n="4r">
+      <graphic height="5976px" url="master/0547_0010.tif" width="4309px"/>
+      <graphic height="190px" url="thumb/0547_0010_thumb.jpg" width="137px"/>
+      <graphic height="1800px" url="web/0547_0010_web.jpg" width="1298px"/>
+    </surface>
+    <surface n="4v">
+      <graphic height="5976px" url="master/0547_0011.tif" width="4309px"/>
+      <graphic height="190px" url="thumb/0547_0011_thumb.jpg" width="137px"/>
+      <graphic height="1800px" url="web/0547_0011_web.jpg" width="1298px"/>
+    </surface>
+    <surface n="5r">
+      <graphic height="5976px" url="master/0547_0012.tif" width="4309px"/>
+      <graphic height="190px" url="thumb/0547_0012_thumb.jpg" width="137px"/>
+      <graphic height="1800px" url="web/0547_0012_web.jpg" width="1298px"/>
+    </surface>
+    <surface n="5v">
+      <graphic height="5976px" url="master/0547_0013.tif" width="4309px"/>
+      <graphic height="190px" url="thumb/0547_0013_thumb.jpg" width="137px"/>
+      <graphic height="1800px" url="web/0547_0013_web.jpg" width="1298px"/>
+    </surface>
+    <surface n="6r">
+      <graphic height="5976px" url="master/0547_0014.tif" width="4309px"/>
+      <graphic height="190px" url="thumb/0547_0014_thumb.jpg" width="137px"/>
+      <graphic height="1800px" url="web/0547_0014_web.jpg" width="1298px"/>
+    </surface>
+    <surface n="6v">
+      <graphic height="5976px" url="master/0547_0015.tif" width="4309px"/>
+      <graphic height="190px" url="thumb/0547_0015_thumb.jpg" width="137px"/>
+      <graphic height="1800px" url="web/0547_0015_web.jpg" width="1298px"/>
+    </surface>
+    <surface n="7r">
+      <graphic height="5976px" url="master/0547_0016.tif" width="4309px"/>
+      <graphic height="190px" url="thumb/0547_0016_thumb.jpg" width="137px"/>
+      <graphic height="1800px" url="web/0547_0016_web.jpg" width="1298px"/>
+    </surface>
+    <surface n="7v">
+      <graphic height="5976px" url="master/0547_0017.tif" width="4309px"/>
+      <graphic height="190px" url="thumb/0547_0017_thumb.jpg" width="137px"/>
+      <graphic height="1800px" url="web/0547_0017_web.jpg" width="1298px"/>
+    </surface>
+    <surface n="8r">
+      <graphic height="5976px" url="master/0547_0018.tif" width="4309px"/>
+      <graphic height="190px" url="thumb/0547_0018_thumb.jpg" width="137px"/>
+      <graphic height="1800px" url="web/0547_0018_web.jpg" width="1298px"/>
+    </surface>
+    <surface n="8v">
+      <graphic height="5976px" url="master/0547_0019.tif" width="4309px"/>
+      <graphic height="190px" url="thumb/0547_0019_thumb.jpg" width="137px"/>
+      <graphic height="1800px" url="web/0547_0019_web.jpg" width="1298px"/>
+    </surface>
+    <surface n="9r">
+      <graphic height="5976px" url="master/0547_0020.tif" width="4309px"/>
+      <graphic height="190px" url="thumb/0547_0020_thumb.jpg" width="137px"/>
+      <graphic height="1800px" url="web/0547_0020_web.jpg" width="1298px"/>
+    </surface>
+    <surface n="9v">
+      <graphic height="5976px" url="master/0547_0021.tif" width="4309px"/>
+      <graphic height="190px" url="thumb/0547_0021_thumb.jpg" width="137px"/>
+      <graphic height="1800px" url="web/0547_0021_web.jpg" width="1298px"/>
+    </surface>
+    <surface n="10r">
+      <graphic height="5976px" url="master/0547_0022.tif" width="4309px"/>
+      <graphic height="190px" url="thumb/0547_0022_thumb.jpg" width="137px"/>
+      <graphic height="1800px" url="web/0547_0022_web.jpg" width="1298px"/>
+    </surface>
+    <surface n="10v">
+      <graphic height="5976px" url="master/0547_0023.tif" width="4309px"/>
+      <graphic height="190px" url="thumb/0547_0023_thumb.jpg" width="137px"/>
+      <graphic height="1800px" url="web/0547_0023_web.jpg" width="1298px"/>
+    </surface>
+    <surface n="11r">
+      <graphic height="5976px" url="master/0547_0024.tif" width="4309px"/>
+      <graphic height="190px" url="thumb/0547_0024_thumb.jpg" width="137px"/>
+      <graphic height="1800px" url="web/0547_0024_web.jpg" width="1298px"/>
+    </surface>
+    <surface n="11v">
+      <graphic height="5976px" url="master/0547_0025.tif" width="4309px"/>
+      <graphic height="190px" url="thumb/0547_0025_thumb.jpg" width="137px"/>
+      <graphic height="1800px" url="web/0547_0025_web.jpg" width="1298px"/>
+    </surface>
+    <surface n="12r">
+      <graphic height="5976px" url="master/0547_0026.tif" width="4309px"/>
+      <graphic height="190px" url="thumb/0547_0026_thumb.jpg" width="137px"/>
+      <graphic height="1800px" url="web/0547_0026_web.jpg" width="1298px"/>
+    </surface>
+    <surface n="12v">
+      <graphic height="5976px" url="master/0547_0027.tif" width="4309px"/>
+      <graphic height="190px" url="thumb/0547_0027_thumb.jpg" width="137px"/>
+      <graphic height="1800px" url="web/0547_0027_web.jpg" width="1298px"/>
+    </surface>
+    <surface n="Flyleaf 1 recto">
+      <graphic height="5976px" url="master/0547_0028.tif" width="4309px"/>
+      <graphic height="190px" url="thumb/0547_0028_thumb.jpg" width="137px"/>
+      <graphic height="1800px" url="web/0547_0028_web.jpg" width="1298px"/>
+    </surface>
+    <surface n="Flyleaf 1 verso">
+      <graphic height="5976px" url="master/0547_0029.tif" width="4309px"/>
+      <graphic height="190px" url="thumb/0547_0029_thumb.jpg" width="137px"/>
+      <graphic height="1800px" url="web/0547_0029_web.jpg" width="1298px"/>
+    </surface>
+    <surface n="Inside back cover">
+      <graphic height="5976px" url="master/0547_0030.tif" width="4309px"/>
+      <graphic height="190px" url="thumb/0547_0030_thumb.jpg" width="137px"/>
+      <graphic height="1800px" url="web/0547_0030_web.jpg" width="1298px"/>
+    </surface>
+    <surface n="Back cover">
+      <graphic height="6032px" url="master/0547_0031.tif" width="4341px"/>
+      <graphic height="190px" url="thumb/0547_0031_thumb.jpg" width="136px"/>
+      <graphic height="1800px" url="web/0547_0031_web.jpg" width="1295px"/>
+    </surface>
+    <surface n="Spine">
+      <graphic height="6032px" url="master/0547_0032.tif" width="4341px"/>
+      <graphic height="190px" url="thumb/0547_0032_thumb.jpg" width="136px"/>
+      <graphic height="1800px" url="web/0547_0032_web.jpg" width="1295px"/>
+    </surface>
+  </facsimile>
+</TEI>

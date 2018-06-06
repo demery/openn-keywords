@@ -1,0 +1,108 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Description of University of Pennsylvania CAJS Rar Ms 13: Fragment of Joshua, chapters IV, 18-VIII, 6..</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>The University of Pennsylvania Libraries</publisher>
+        <availability>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/">These images and the content of Library at the Herbert D. Katz Center for Advanced Judaic Studies, CAJS Rar Ms 13: Fragment of Joshua, chapters IV, 18-VIII, 6.. are free of known copyright restrictions and in the public domain. See the Creative Commons Public Domain Mark page for usage details, http://creativecommons.org/publicdomain/mark/1.0/.</licence>
+          <licence target="https://creativecommons.org/licenses/by/4.0/legalcode">Metadata is ©2017 University of Pennsylvania Books &amp; Manuscripts and licensed under a Creative Commons Attribution License version 4.0 (CC-BY-4.0 https://creativecommons.org/licenses/by/4.0/legalcode. For a description of the terms of use see the Creative Commons Deed https://creativecommons.org/licenses/by/4.0/.</licence>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note>Ms. leaves.</note>
+        <note>Title supplied by cataloger.</note>
+        <note>Single bifolium, mounted on a hinge.</note>
+        <note>Item cataloged from digital facsimile and existing description.</note>
+      </notesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <settlement>Philadelphia</settlement>
+            <institution>University of Pennsylvania</institution>
+            <repository>Library at the Herbert D. Katz Center for Advanced Judaic Studies</repository>
+            <idno type="call-number">CAJS Rar Ms 13</idno>
+            <altIdentifier type="bibid">
+              <idno>2428251</idno>
+            </altIdentifier>
+            <altIdentifier type="resource">
+              <idno>http://hdl.library.upenn.edu/1017/d/medren/2428251</idno>
+            </altIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary>Consists of the Book of Joshua, chapters IV, 18-VIII, 6.</summary>
+            <textLang>Hebrew (vocalized)</textLang>
+            <msItem>
+              <title>Fragment of Joshua, chapters IV, 18-VIII, 6..</title>
+              <respStmt>
+                <resp>former owner</resp>
+                <persName>Amram, David Werner, 1866-1939</persName>
+              </respStmt>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc material="mixed">
+                <support>
+                  <p>parchment</p>
+                </support>
+                <extent>2 leaves : 140 x 100 (90 x 60) mm</extent>
+              </supportDesc>
+              <layoutDesc>
+                <layout>Written in 20 lines.</layout>
+              </layoutDesc>
+            </objectDesc>
+            <scriptDesc>
+              <scriptNote>Written in Sephardic script.</scriptNote>
+            </scriptDesc>
+          </physDesc>
+          <history>
+            <origin>
+              <p>Written in the 13th or 14th century?</p>
+              <origDate>1200-1399?</origDate>
+              <origPlace/>
+            </origin>
+            <provenance>Gift of David Werner Amram to the Dropsie College for Hebrew and Cognate Learning, 1924.</provenance>
+            <provenance>Formerly held in the Library of the Dropsie College for Hebrew and Cognate Learning.</provenance>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords n="form/genre">
+          <term>Detached leaves</term>
+          <term>Manuscripts, Hebrew--13th century</term>
+          <term>Manuscripts, Hebrew--14th century</term>
+          <term>Manuscripts, Medieval</term>
+          <term>Manuscripts, Digital</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface n="1r">
+      <graphic height="3802px" url="master/5084_0000.tif" width="2843px"/>
+      <graphic height="190px" url="thumb/5084_0000_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/5084_0000_web.jpg" width="1346px"/>
+    </surface>
+    <surface n="1v">
+      <graphic height="3802px" url="master/5084_0001.tif" width="2843px"/>
+      <graphic height="190px" url="thumb/5084_0001_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/5084_0001_web.jpg" width="1346px"/>
+    </surface>
+    <surface n="2r">
+      <graphic height="3802px" url="master/5084_0002.tif" width="2843px"/>
+      <graphic height="190px" url="thumb/5084_0002_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/5084_0002_web.jpg" width="1346px"/>
+    </surface>
+    <surface n="2v">
+      <graphic height="3802px" url="master/5084_0003.tif" width="2843px"/>
+      <graphic height="190px" url="thumb/5084_0003_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/5084_0003_web.jpg" width="1346px"/>
+    </surface>
+  </facsimile>
+</TEI>

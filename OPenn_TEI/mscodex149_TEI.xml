@@ -1,0 +1,384 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Description of University of Pennsylvania Ms. Codex 149: Collection of documents</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>The University of Pennsylvania Libraries</publisher>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by/4.0/legalcode">
+                                This description is ©2015 University of
+                                Pennsylvania Libraries. It is licensed under a Creative Commons
+                                Attribution License version 4.0 (CC-BY-4.0
+                                https://creativecommons.org/licenses/by/4.0/legalcode. For a
+                                description of the terms of use see the Creative Commons Deed
+                                https://creativecommons.org/licenses/by/4.0/. </licence>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/"> All
+                                referenced images and their content are free of known copyright
+                                restrictions and in the public domain. See the Creative Commons
+                                Public Domain Mark page for usage details,
+                                http://creativecommons.org/publicdomain/mark/1.0/. </licence>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note>Ms. codex.</note>
+        <note>Overall title supplied by cataloger. Titles of individual sections taken from Zacour-Hirsch. Descriptive title on f. 1r is hard to read.</note>
+        <note>Sewn in two quires; no cover. The two quires have almost completely separated from each other.</note>
+        <note>According to a modern notation on the paper wrapper that once enclosed the manuscript (now on file in the Library), Gonzalo Peres de Cartagena was a favorite official of Queen Isabella and was a descendent of the famous Jewish convert, Paul of Burgos.</note>
+      </notesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <settlement>Philadelphia</settlement>
+            <institution>University of Pennsylvania</institution>
+            <repository>Rare Book &amp; Manuscript Library</repository>
+            <idno type="call-number">Ms. Codex 149</idno>
+            <altIdentifier type="bibid">
+              <idno>1580558</idno>
+            </altIdentifier>
+            <altIdentifier type="resource">
+              <idno>http://hdl.library.upenn.edu/1017/d/medren/1580558</idno>
+            </altIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary>Collection of documents concerning Gonzalo Peres de Cartagena. All documents are notarized. Includes the establishment of memorial masses "en el monasterio de Señor Ssancto Agostin ... de Burgos," by Gonzalo and his wife, dated 1517 (f. 1r-9v). Also includes a testament, executed in Arroya on 9 April 1518 (f. 10r-24v; see modern pencil note on f. 10v). Also includes codicils, 28 August 1519 (f. 25r-27v; see modern pencil note on f. 25v).</summary>
+            <textLang>Spanish</textLang>
+            <msItem>
+              <title>Collection of documents</title>
+              <author>Peres, Gonzalo, de Cartagena</author>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc material="parchment">
+                <support>
+                  <p>parchment</p>
+                </support>
+                <extent>28 leaves : 310 x 221 mm</extent>
+                <foliation>Parchment, 28; 1-28; modern foliation in pencil, lower right recto. Folio missing between f. 9-10 and f. 10-11.</foliation>
+              </supportDesc>
+            </objectDesc>
+            <scriptDesc>
+              <scriptNote>Written in various cursive and formal book script scripts by several different hands. Folios 11r-23v (text of the testament) are in a more formal minuscule hand; these pages have been lined in ink. Includes marginalia and other miscellaneous notations.</scriptNote>
+            </scriptDesc>
+            <decoDesc>
+              <decoNote>Rubrication in red and blue (f. 11r-22v). Illustration of a manicule, in green, white and brown (f. 16v).</decoNote>
+              <decoNote n="2r">Decorated initial, Initial E, f. 2r</decoNote>
+              <decoNote n="6r">Decorated initial, Initial E, f. 6r</decoNote>
+              <decoNote n="16v">Illustration, Manicule, f. 16v</decoNote>
+              <decoNote n="18v">Manicule, f. 18v</decoNote>
+              <decoNote n="25v">Decorated initial, Initial E, f. 25v</decoNote>
+            </decoDesc>
+          </physDesc>
+          <history>
+            <origin>
+              <p>Written in Arroya (Spain), near Burgos; 1517-1519.</p>
+              <origDate>1517-1519</origDate>
+              <origPlace>Arroya</origPlace>
+            </origin>
+            <provenance>Sold by H. P. Kraus (New York, N. Y.), 1959.</provenance>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords n="form/genre">
+          <term>Wills</term>
+          <term>Codices</term>
+          <term>Manuscripts, Spanish--16th century</term>
+          <term>Manuscripts, Renaissance</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface n="1r">
+      <graphic height="5640px" url="master/0555_0000.tif" width="4164px"/>
+      <graphic height="190px" url="thumb/0555_0000_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/0555_0000_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="1v">
+      <graphic height="5640px" url="master/0555_0001.tif" width="4164px"/>
+      <graphic height="190px" url="thumb/0555_0001_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/0555_0001_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="2r">
+      <graphic height="5640px" url="master/0555_0002.tif" width="4164px"/>
+      <graphic height="190px" url="thumb/0555_0002_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/0555_0002_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="2v">
+      <graphic height="5640px" url="master/0555_0003.tif" width="4164px"/>
+      <graphic height="190px" url="thumb/0555_0003_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/0555_0003_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="3r">
+      <graphic height="5640px" url="master/0555_0004.tif" width="4164px"/>
+      <graphic height="190px" url="thumb/0555_0004_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/0555_0004_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="3v">
+      <graphic height="5640px" url="master/0555_0005.tif" width="4164px"/>
+      <graphic height="190px" url="thumb/0555_0005_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/0555_0005_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="4r">
+      <graphic height="5640px" url="master/0555_0006.tif" width="4164px"/>
+      <graphic height="190px" url="thumb/0555_0006_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/0555_0006_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="4v">
+      <graphic height="5640px" url="master/0555_0007.tif" width="4164px"/>
+      <graphic height="190px" url="thumb/0555_0007_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/0555_0007_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="5r">
+      <graphic height="5640px" url="master/0555_0008.tif" width="4164px"/>
+      <graphic height="190px" url="thumb/0555_0008_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/0555_0008_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="5v">
+      <graphic height="5640px" url="master/0555_0009.tif" width="4164px"/>
+      <graphic height="190px" url="thumb/0555_0009_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/0555_0009_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="6r">
+      <graphic height="5640px" url="master/0555_0010.tif" width="4164px"/>
+      <graphic height="190px" url="thumb/0555_0010_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/0555_0010_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="6v">
+      <graphic height="5640px" url="master/0555_0011.tif" width="4164px"/>
+      <graphic height="190px" url="thumb/0555_0011_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/0555_0011_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="7r">
+      <graphic height="5640px" url="master/0555_0012.tif" width="4164px"/>
+      <graphic height="190px" url="thumb/0555_0012_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/0555_0012_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="7v">
+      <graphic height="5640px" url="master/0555_0013.tif" width="4164px"/>
+      <graphic height="190px" url="thumb/0555_0013_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/0555_0013_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="8r">
+      <graphic height="5640px" url="master/0555_0014.tif" width="4164px"/>
+      <graphic height="190px" url="thumb/0555_0014_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/0555_0014_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="8v">
+      <graphic height="5640px" url="master/0555_0015.tif" width="4164px"/>
+      <graphic height="190px" url="thumb/0555_0015_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/0555_0015_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="9r">
+      <graphic height="5640px" url="master/0555_0016.tif" width="4164px"/>
+      <graphic height="190px" url="thumb/0555_0016_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/0555_0016_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="9v">
+      <graphic height="5640px" url="master/0555_0017.tif" width="4164px"/>
+      <graphic height="190px" url="thumb/0555_0017_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/0555_0017_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="10r">
+      <graphic height="5640px" url="master/0555_0018.tif" width="4164px"/>
+      <graphic height="190px" url="thumb/0555_0018_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/0555_0018_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="10v">
+      <graphic height="5640px" url="master/0555_0019.tif" width="4164px"/>
+      <graphic height="190px" url="thumb/0555_0019_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/0555_0019_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="11r">
+      <graphic height="5640px" url="master/0555_0020.tif" width="4164px"/>
+      <graphic height="190px" url="thumb/0555_0020_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/0555_0020_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="11v">
+      <graphic height="5640px" url="master/0555_0021.tif" width="4164px"/>
+      <graphic height="190px" url="thumb/0555_0021_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/0555_0021_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="12r">
+      <graphic height="5640px" url="master/0555_0022.tif" width="4164px"/>
+      <graphic height="190px" url="thumb/0555_0022_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/0555_0022_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="12v">
+      <graphic height="5640px" url="master/0555_0023.tif" width="4164px"/>
+      <graphic height="190px" url="thumb/0555_0023_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/0555_0023_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="13r">
+      <graphic height="5640px" url="master/0555_0024.tif" width="4164px"/>
+      <graphic height="190px" url="thumb/0555_0024_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/0555_0024_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="13v">
+      <graphic height="5640px" url="master/0555_0025.tif" width="4164px"/>
+      <graphic height="190px" url="thumb/0555_0025_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/0555_0025_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="14r">
+      <graphic height="5640px" url="master/0555_0026.tif" width="4164px"/>
+      <graphic height="190px" url="thumb/0555_0026_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/0555_0026_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="14v">
+      <graphic height="5640px" url="master/0555_0027.tif" width="4164px"/>
+      <graphic height="190px" url="thumb/0555_0027_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/0555_0027_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="15r">
+      <graphic height="5640px" url="master/0555_0028.tif" width="4164px"/>
+      <graphic height="190px" url="thumb/0555_0028_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/0555_0028_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="15v">
+      <graphic height="5640px" url="master/0555_0029.tif" width="4164px"/>
+      <graphic height="190px" url="thumb/0555_0029_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/0555_0029_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="16r">
+      <graphic height="5640px" url="master/0555_0030.tif" width="4164px"/>
+      <graphic height="190px" url="thumb/0555_0030_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/0555_0030_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="16v">
+      <graphic height="5640px" url="master/0555_0031.tif" width="4164px"/>
+      <graphic height="190px" url="thumb/0555_0031_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/0555_0031_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="17r">
+      <graphic height="5640px" url="master/0555_0032.tif" width="4164px"/>
+      <graphic height="190px" url="thumb/0555_0032_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/0555_0032_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="17v">
+      <graphic height="5640px" url="master/0555_0033.tif" width="4164px"/>
+      <graphic height="190px" url="thumb/0555_0033_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/0555_0033_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="18r">
+      <graphic height="5640px" url="master/0555_0034.tif" width="4164px"/>
+      <graphic height="190px" url="thumb/0555_0034_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/0555_0034_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="18v">
+      <graphic height="5640px" url="master/0555_0035.tif" width="4164px"/>
+      <graphic height="190px" url="thumb/0555_0035_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/0555_0035_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="19r">
+      <graphic height="5640px" url="master/0555_0036.tif" width="4164px"/>
+      <graphic height="190px" url="thumb/0555_0036_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/0555_0036_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="19v">
+      <graphic height="5640px" url="master/0555_0037.tif" width="4164px"/>
+      <graphic height="190px" url="thumb/0555_0037_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/0555_0037_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="20r">
+      <graphic height="5640px" url="master/0555_0038.tif" width="4164px"/>
+      <graphic height="190px" url="thumb/0555_0038_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/0555_0038_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="20v">
+      <graphic height="5640px" url="master/0555_0039.tif" width="4164px"/>
+      <graphic height="190px" url="thumb/0555_0039_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/0555_0039_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="21r">
+      <graphic height="5640px" url="master/0555_0040.tif" width="4164px"/>
+      <graphic height="190px" url="thumb/0555_0040_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/0555_0040_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="21v">
+      <graphic height="5640px" url="master/0555_0041.tif" width="4164px"/>
+      <graphic height="190px" url="thumb/0555_0041_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/0555_0041_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="22r">
+      <graphic height="5640px" url="master/0555_0042.tif" width="4164px"/>
+      <graphic height="190px" url="thumb/0555_0042_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/0555_0042_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="22v">
+      <graphic height="5640px" url="master/0555_0043.tif" width="4164px"/>
+      <graphic height="190px" url="thumb/0555_0043_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/0555_0043_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="23r">
+      <graphic height="5640px" url="master/0555_0044.tif" width="4164px"/>
+      <graphic height="190px" url="thumb/0555_0044_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/0555_0044_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="23v">
+      <graphic height="5640px" url="master/0555_0045.tif" width="4164px"/>
+      <graphic height="190px" url="thumb/0555_0045_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/0555_0045_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="24r">
+      <graphic height="5640px" url="master/0555_0046.tif" width="4164px"/>
+      <graphic height="190px" url="thumb/0555_0046_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/0555_0046_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="24v">
+      <graphic height="5640px" url="master/0555_0047.tif" width="4164px"/>
+      <graphic height="190px" url="thumb/0555_0047_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/0555_0047_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="25r">
+      <graphic height="5640px" url="master/0555_0048.tif" width="4164px"/>
+      <graphic height="190px" url="thumb/0555_0048_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/0555_0048_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="25v">
+      <graphic height="5640px" url="master/0555_0049.tif" width="4164px"/>
+      <graphic height="190px" url="thumb/0555_0049_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/0555_0049_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="26r">
+      <graphic height="5640px" url="master/0555_0050.tif" width="4164px"/>
+      <graphic height="190px" url="thumb/0555_0050_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/0555_0050_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="26v">
+      <graphic height="5640px" url="master/0555_0051.tif" width="4164px"/>
+      <graphic height="190px" url="thumb/0555_0051_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/0555_0051_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="27r">
+      <graphic height="5640px" url="master/0555_0052.tif" width="4164px"/>
+      <graphic height="190px" url="thumb/0555_0052_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/0555_0052_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="27v">
+      <graphic height="5640px" url="master/0555_0053.tif" width="4164px"/>
+      <graphic height="190px" url="thumb/0555_0053_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/0555_0053_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="28r">
+      <graphic height="5640px" url="master/0555_0054.tif" width="4164px"/>
+      <graphic height="190px" url="thumb/0555_0054_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/0555_0054_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="28v">
+      <graphic height="5640px" url="master/0555_0055.tif" width="4164px"/>
+      <graphic height="190px" url="thumb/0555_0055_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/0555_0055_web.jpg" width="1328px"/>
+    </surface>
+    <surface n="No spine">
+      <graphic height="5609px" url="master/0555_0056.tif" width="4500px"/>
+      <graphic height="190px" url="thumb/0555_0056_thumb.jpg" width="152px"/>
+      <graphic height="1800px" url="web/0555_0056_web.jpg" width="1444px"/>
+    </surface>
+  </facsimile>
+</TEI>

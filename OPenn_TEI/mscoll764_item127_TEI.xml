@@ -1,0 +1,112 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Description of University of Pennsylvania Ms. Coll. 764: Brancacci family documents</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>The University of Pennsylvania Libraries</publisher>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by/4.0/legalcode">
+                                This description is ©2016 University of
+                                Pennsylvania Libraries. It is licensed under a Creative Commons
+                                Attribution License version 4.0 (CC-BY-4.0
+                                https://creativecommons.org/licenses/by/4.0/legalcode. For a
+                                description of the terms of use see the Creative Commons Deed
+                                https://creativecommons.org/licenses/by/4.0/. </licence>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/"> All
+                                referenced images and their content are free of known copyright
+                                restrictions and in the public domain. See the Creative Commons
+                                Public Domain Mark page for usage details,
+                                http://creativecommons.org/publicdomain/mark/1.0/. </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <settlement>Philadelphia</settlement>
+            <institution>University of Pennsylvania</institution>
+            <repository>Rare Book &amp; Manuscript Library</repository>
+            <idno type="call-number">Ms. Coll. 764</idno>
+            <altIdentifier type="bibid">
+              <idno>4950968</idno>
+            </altIdentifier>
+            <altIdentifier type="resource">
+              <idno>http://hdl.library.upenn.edu/1017/d/medren/4950968</idno>
+            </altIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary>Two documents concerning the Brancacci family of Florence. One consists of the acknowledgment by Donna Caterina Brancacci and her sons, Antonio and Branca, of a debt of 500 florins with the family of Lena di Pietro, daughter of Guglielmo di Pietro, future wife of Branca Brancacci. Notarized by Paolo di Lorenzo di Cristofano de' Benivieni on 22 December 1429. Stitched on the bottom center recto of that is a smaller item consisting of a statement made by Angiolo di Pietro di Tommaso, legal representative of Lena di Pietro, now widow of Branca Brancacci, concerning the payment of a tax (referred to as gabella) to Niccolò Davanzati, who acted as collector for the comune of Florence. Notarized by Rinaldo di Giovanni Giannini on 8 January 1447. Filed with the documents is a short, later summary written in Italian on paper.</summary>
+            <textLang>In Latin</textLang>
+            <msItem>
+              <title>Brancacci family documents</title>
+              <author>Benivieni, Paolo de'</author>
+              <author>Giannini, Rinaldo</author>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc material="parchment.">
+                <support>
+                  <p>parchment.</p>
+                </support>
+                <extent>2</extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin/>
+            <provenance>Sold by Renzo Rizzi (Milan).</provenance>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords n="subjects">
+          <term>Dowry--Italy</term>
+          <term>Taxation--Italy--Florence</term>
+        </keywords>
+        <keywords n="form/genre">
+          <term>Notarial documents</term>
+          <term>Legal documents</term>
+          <term>Manuscripts, Latin--15th century</term>
+          <term>Manuscripts, Renaissance</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface n="Membrane 1, Side 1">
+      <graphic height="6354px" url="master/1803_0000.tif" width="3815px"/>
+      <graphic height="190px" url="thumb/1803_0000_thumb.jpg" width="114px"/>
+      <graphic height="1800px" url="web/1803_0000_web.jpg" width="1081px"/>
+    </surface>
+    <surface n="Membrane 1, Side 2">
+      <graphic height="6354px" url="master/1803_0001.tif" width="3815px"/>
+      <graphic height="190px" url="thumb/1803_0001_thumb.jpg" width="114px"/>
+      <graphic height="1800px" url="web/1803_0001_web.jpg" width="1081px"/>
+    </surface>
+    <surface n="Membrane 2, Side 1">
+      <graphic height="2300px" url="master/1803_0002.tif" width="1724px"/>
+      <graphic height="190px" url="thumb/1803_0002_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/1803_0002_web.jpg" width="1349px"/>
+    </surface>
+    <surface n="Membrane 2, Side 2">
+      <graphic height="2300px" url="master/1803_0003.tif" width="1724px"/>
+      <graphic height="190px" url="thumb/1803_0003_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/1803_0003_web.jpg" width="1349px"/>
+    </surface>
+    <surface n="Note 1, Side 1">
+      <graphic height="2303px" url="master/1803_0004.tif" width="3084px"/>
+      <graphic height="141px" url="thumb/1803_0004_thumb.jpg" width="190px"/>
+      <graphic height="1344px" url="web/1803_0004_web.jpg" width="1800px"/>
+    </surface>
+    <surface n="Note 1, Side 2">
+      <graphic height="2303px" url="master/1803_0005.tif" width="3084px"/>
+      <graphic height="141px" url="thumb/1803_0005_thumb.jpg" width="190px"/>
+      <graphic height="1344px" url="web/1803_0005_web.jpg" width="1800px"/>
+    </surface>
+  </facsimile>
+</TEI>

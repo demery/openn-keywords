@@ -1,0 +1,104 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Description of University of Pennsylvania Ms. Coll. 742: Pope Julius II bull</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>The University of Pennsylvania Libraries</publisher>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by/4.0/legalcode">
+                                This description is ©2015 University of
+                                Pennsylvania Libraries. It is licensed under a Creative Commons
+                                Attribution License version 4.0 (CC-BY-4.0
+                                https://creativecommons.org/licenses/by/4.0/legalcode. For a
+                                description of the terms of use see the Creative Commons Deed
+                                https://creativecommons.org/licenses/by/4.0/. </licence>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/"> All
+                                referenced images and their content are free of known copyright
+                                restrictions and in the public domain. See the Creative Commons
+                                Public Domain Mark page for usage details,
+                                http://creativecommons.org/publicdomain/mark/1.0/. </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <settlement>Philadelphia</settlement>
+            <institution>University of Pennsylvania</institution>
+            <repository>Rare Book &amp; Manuscript Library</repository>
+            <idno type="call-number">Ms. Coll. 742</idno>
+            <altIdentifier type="bibid">
+              <idno>4639440</idno>
+            </altIdentifier>
+            <altIdentifier type="resource">
+              <idno>http://hdl.library.upenn.edu/1017/d/medren/4639440</idno>
+            </altIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary>Bull of Pope Julius II dated Dec. 22, 1503, notifying Giovanni Dominci, the bishop of Tortona, that he had given the monastery of San Marziano at Tortona to the recently elected archbishop of Siena, Giovanni d'Andrea di Nanni Todeschini Piccolomini (a nephew of Pope Pius III who later became cardinal). Pope Pius III, however, had intended to give the monastery to Cardinal Raffaello Riario (see Ms. Coll. 742, folder 116), as he stated in a bull dated Oct. 17, 1503. One of the scribal signatures is that of Giovanni Poggio, most likely a grandson of Poggio Bracciolini.</summary>
+            <textLang>In Latin</textLang>
+            <msItem>
+              <title>Pope Julius II bull</title>
+              <author>Julius II, Pope, 1443-1513</author>
+              <respStmt>
+                <resp>recipient</resp>
+                <persName>Dominici, Giovanni, Bishop of Tortona</persName>
+              </respStmt>
+              <respStmt>
+                <resp>scribe</resp>
+                <persName>Poggio, Giovanni, 1493-1556</persName>
+              </respStmt>
+              <respStmt>
+                <resp>former owner</resp>
+                <persName>North, Frederick, Earl of Guilford, 1766-1827</persName>
+              </respStmt>
+              <respStmt>
+                <resp>former owner</resp>
+                <persName>Phillipps, Thomas, Sir, 1792-1872</persName>
+              </respStmt>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc>
+                <extent>1</extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin/>
+            <provenance>Formerly owned by Frederick North, Earl of Guilford, and Sir Thomas Phillipps (part of ms. 6067).</provenance>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords n="subjects">
+          <term>San Marziano (Monastery : Tortona, Italy)</term>
+          <term>Benedictine monasteries--Italy</term>
+        </keywords>
+        <keywords n="form/genre">
+          <term>Legal documents</term>
+          <term>Bulls (papal records)</term>
+          <term>Manuscripts, Latin--16th century</term>
+          <term>Manuscripts, Renaissance</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface n="Side 1">
+      <graphic height="3958px" url="master/1087_0000.tif" width="5630px"/>
+      <graphic height="133px" url="thumb/1087_0000_thumb.jpg" width="190px"/>
+      <graphic height="1265px" url="web/1087_0000_web.jpg" width="1800px"/>
+    </surface>
+    <surface n="Side 2">
+      <graphic height="3958px" url="master/1087_0001.tif" width="5630px"/>
+      <graphic height="133px" url="thumb/1087_0001_thumb.jpg" width="190px"/>
+      <graphic height="1265px" url="web/1087_0001_web.jpg" width="1800px"/>
+    </surface>
+  </facsimile>
+</TEI>

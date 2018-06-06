@@ -1,0 +1,92 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Description of University of Pennsylvania Ms. Coll. 591: Manuscript leaf from Régime du corps</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>The University of Pennsylvania Libraries</publisher>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by/4.0/legalcode">
+                                This description is ©2016 University of
+                                Pennsylvania Libraries. It is licensed under a Creative Commons
+                                Attribution License version 4.0 (CC-BY-4.0
+                                https://creativecommons.org/licenses/by/4.0/legalcode. For a
+                                description of the terms of use see the Creative Commons Deed
+                                https://creativecommons.org/licenses/by/4.0/. </licence>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/"> All
+                                referenced images and their content are free of known copyright
+                                restrictions and in the public domain. See the Creative Commons
+                                Public Domain Mark page for usage details,
+                                http://creativecommons.org/publicdomain/mark/1.0/. </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <settlement>Philadelphia</settlement>
+            <institution>University of Pennsylvania</institution>
+            <repository>Rare Book &amp; Manuscript Library</repository>
+            <idno type="call-number">Ms. Coll. 591</idno>
+            <altIdentifier type="bibid">
+              <idno>4164908</idno>
+            </altIdentifier>
+            <altIdentifier type="resource">
+              <idno>http://hdl.library.upenn.edu/1017/d/medren/4164908</idno>
+            </altIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary>Leaf from a 14th-century copy of a mid-13th-century French treatise on diet and health, supposedly written at the request of Beatrice of Provence. The text on the leaf is from Book 2 of the Régime du corps, which addresses care for various parts of the body: it runs from the end of the chapter on the eyes, through chapters on the ears and teeth and gums, to the beginning of the chapter on the face. References to Aristotle and Avicenna appear in the manuscript. Written in a rounded Gothic script in 50 long lines, ruled in brown ink, with rubrics and a 2-line initial in blue or red at the beginning of each chapter. The long line layout for this manuscript is unusual; the text usually appears in 2 columns. The leaf was later used as a binding for another volume.</summary>
+            <textLang>In Middle French</textLang>
+            <msItem>
+              <title>Manuscript leaf from Régime du corps</title>
+              <author>Aldobrandino, da Siena, d. 1287</author>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc material="mixed">
+                <support>
+                  <p>parchment</p>
+                </support>
+                <extent>1 265 x 192 (text 195 x 113) mm</extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin/>
+            <provenance>Sold by Bernard Quaritch (London), cat. 1348 (2007), no. 88.</provenance>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords n="subjects">
+          <term>Hygiene--Early works to 1800</term>
+          <term>Medicine--Early works to 1800</term>
+          <term>Medicine, Medieval</term>
+        </keywords>
+        <keywords n="form/genre">
+          <term>Fragments</term>
+          <term>Treatises</term>
+          <term>Manuscripts, French--14th century</term>
+          <term>Manuscripts, Medieval</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface n="40r =1r">
+      <graphic height="6717px" url="master/3129_0000.tif" width="5001px"/>
+      <graphic height="190px" url="thumb/3129_0000_thumb.jpg" width="141px"/>
+      <graphic height="1800px" url="web/3129_0000_web.jpg" width="1340px"/>
+    </surface>
+    <surface n="40v =1v">
+      <graphic height="6717px" url="master/3129_0001.tif" width="5001px"/>
+      <graphic height="190px" url="thumb/3129_0001_thumb.jpg" width="141px"/>
+      <graphic height="1800px" url="web/3129_0001_web.jpg" width="1340px"/>
+    </surface>
+  </facsimile>
+</TEI>

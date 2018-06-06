@@ -1,0 +1,104 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Description of University of Pennsylvania Ms. Coll. 764: Excerpt from the book of civil cases of the court of San Miniato</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>The University of Pennsylvania Libraries</publisher>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by/4.0/legalcode">
+                                This description is ©2016 University of
+                                Pennsylvania Libraries. It is licensed under a Creative Commons
+                                Attribution License version 4.0 (CC-BY-4.0
+                                https://creativecommons.org/licenses/by/4.0/legalcode. For a
+                                description of the terms of use see the Creative Commons Deed
+                                https://creativecommons.org/licenses/by/4.0/. </licence>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/"> All
+                                referenced images and their content are free of known copyright
+                                restrictions and in the public domain. See the Creative Commons
+                                Public Domain Mark page for usage details,
+                                http://creativecommons.org/publicdomain/mark/1.0/. </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <settlement>Philadelphia</settlement>
+            <institution>University of Pennsylvania</institution>
+            <repository>Rare Book &amp; Manuscript Library</repository>
+            <idno type="call-number">Ms. Coll. 764</idno>
+            <altIdentifier type="bibid">
+              <idno>4927986</idno>
+            </altIdentifier>
+            <altIdentifier type="resource">
+              <idno>http://hdl.library.upenn.edu/1017/d/medren/4927986</idno>
+            </altIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary>Extract from the book of civil cases of the court of San Miniato, near Pisa, copied by Jacopo di San Miniato on 2 June 1342 and verified by Bartolomeo di San Miniato, concerning the execution of the testament of Moccio di Nardo di San Miniato. Moccio requested that his executors be his own wife, as well as Pietro Bindi, Cellino Nardi, and Corso Lamucci; and that part of his vineyards be given to Giovanni Nuti, who was represented in court by Michele di Tello di San Miniato. A short summary of the case written in Italian on paper is filed with the document.</summary>
+            <textLang>In Latin</textLang>
+            <msItem>
+              <title>Excerpt from the book of civil cases of the court of San Miniato</title>
+              <author>San Miniato, Jacopo di</author>
+              <author>San Miniato, Bartolomeo di</author>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc material="parchment.">
+                <support>
+                  <p>parchment.</p>
+                </support>
+                <extent>1</extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin/>
+            <provenance>Sold by Renzo Rizzi (Milan).</provenance>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords n="subjects">
+          <term>Civil law--Italy</term>
+          <term>Real property--Italy--14th century</term>
+          <term>Inheritance and succession--Italy</term>
+          <term>Wills--Italy</term>
+        </keywords>
+        <keywords n="form/genre">
+          <term>Legal documents</term>
+          <term>Excerpts</term>
+          <term>Manuscripts, Latin--14th century</term>
+          <term>Manuscripts, Medieval</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface n="Item 1, Side 1">
+      <graphic height="6892px" url="master/1315_0000.tif" width="4043px"/>
+      <graphic height="190px" url="thumb/1315_0000_thumb.jpg" width="111px"/>
+      <graphic height="1800px" url="web/1315_0000_web.jpg" width="1056px"/>
+    </surface>
+    <surface n="Item 1, Side 2">
+      <graphic height="6892px" url="master/1315_0001.tif" width="4043px"/>
+      <graphic height="190px" url="thumb/1315_0001_thumb.jpg" width="111px"/>
+      <graphic height="1800px" url="web/1315_0001_web.jpg" width="1056px"/>
+    </surface>
+    <surface n="Item 2, Side 1">
+      <graphic height="2980px" url="master/1315_0002.tif" width="4104px"/>
+      <graphic height="137px" url="thumb/1315_0002_thumb.jpg" width="190px"/>
+      <graphic height="1307px" url="web/1315_0002_web.jpg" width="1800px"/>
+    </surface>
+    <surface n="Item 2, Side 2">
+      <graphic height="2980px" url="master/1315_0003.tif" width="4104px"/>
+      <graphic height="137px" url="thumb/1315_0003_thumb.jpg" width="190px"/>
+      <graphic height="1307px" url="web/1315_0003_web.jpg" width="1800px"/>
+    </surface>
+  </facsimile>
+</TEI>

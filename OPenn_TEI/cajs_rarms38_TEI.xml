@@ -1,0 +1,113 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Description of University of Pennsylvania CAJS Rar Ms 38: Reshut le-nishmat le-Fesah leha-R. Binyamin.</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>The University of Pennsylvania Libraries</publisher>
+        <availability>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/">These images and the content of Library at the Herbert D. Katz Center for Advanced Judaic Studies, CAJS Rar Ms 38: Reshut le-nishmat le-Fesah leha-R. Binyamin. are free of known copyright restrictions and in the public domain. See the Creative Commons Public Domain Mark page for usage details, http://creativecommons.org/publicdomain/mark/1.0/.</licence>
+          <licence target="https://creativecommons.org/licenses/by/4.0/legalcode">Metadata is ©2017 University of Pennsylvania Books &amp; Manuscripts and licensed under a Creative Commons Attribution License version 4.0 (CC-BY-4.0 https://creativecommons.org/licenses/by/4.0/legalcode. For a description of the terms of use see the Creative Commons Deed https://creativecommons.org/licenses/by/4.0/.</licence>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note>Ms. leaves.</note>
+        <note>Title from caption.</note>
+        <note>Item cataloged from digital facsimile and existing description.</note>
+        <note>At bottom of leaf 1 verso: "Reshut le-nishmat le-Shavuʻot le-R. Yoʼav min ha-keneset, z.l.h.h."</note>
+      </notesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <settlement>Philadelphia</settlement>
+            <institution>University of Pennsylvania</institution>
+            <repository>Library at the Herbert D. Katz Center for Advanced Judaic Studies</repository>
+            <idno type="call-number">CAJS Rar Ms 38</idno>
+            <altIdentifier type="bibid">
+              <idno>2429227</idno>
+            </altIdentifier>
+            <altIdentifier type="resource">
+              <idno>http://hdl.library.upenn.edu/1017/d/medren/2429227</idno>
+            </altIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary>Vellum bifolium of 2 non-consecutive leaves from a Siddur according to the Roman rite. Leaf 1 consists of the piyut "Reshut le-nishmat le-Fesah" which is sung after Hallel during Shaḥarit of Pesaḥ ; Leaf 2 verso includes part of the baḳashah "Kol be-ruʼe maʻalah" attributed to Rabbi Shlomo Ibn Gabirol.</summary>
+            <textLang>In Hebrew</textLang>
+            <msItem>
+              <title>Reshut le-nishmat le-Fesah leha-R. Binyamin.</title>
+              <author>Biniyamin ben Yoʼav, mi-Roma</author>
+              <author>Ibn Gabirol, active 11th century</author>
+              <respStmt>
+                <resp>former owner</resp>
+                <persName>Amram, David Werner, 1866-1939</persName>
+              </respStmt>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc material="mixed">
+                <support>
+                  <p>parchment</p>
+                </support>
+                <extent>2 leaves : 125 x 95 (70 x 55) mm</extent>
+              </supportDesc>
+              <layoutDesc>
+                <layout>Written in 15 lines.</layout>
+              </layoutDesc>
+            </objectDesc>
+            <scriptDesc>
+              <scriptNote>Written in Italian rabbinic Hebrew script, in black ink, partly vocalized.</scriptNote>
+            </scriptDesc>
+          </physDesc>
+          <history>
+            <origin>
+              <p>Written probably in Italy in the 15th century.</p>
+              <origDate>1400-1499?</origDate>
+            </origin>
+            <provenance>Gift of David Werner Amram to Dropsie College, 1924.</provenance>
+            <provenance>Formerly held in the Library of the Dropsie College for Hebrew and Cognate Learning.</provenance>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords n="subjects">
+          <term>Piyutim</term>
+          <term>Jewish religious poetry</term>
+          <term>Judaism--Roman rite--Liturgy--Texts</term>
+        </keywords>
+        <keywords n="form/genre">
+          <term>Mansucripts, Hebrew--15th century</term>
+          <term>Manuscripts, Renaissance</term>
+          <term>Prayers</term>
+          <term>Detached leaves</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface n="1r">
+      <graphic height="3376px" url="master/5085_0000.tif" width="2692px"/>
+      <graphic height="190px" url="thumb/5085_0000_thumb.jpg" width="151px"/>
+      <graphic height="1800px" url="web/5085_0000_web.jpg" width="1435px"/>
+    </surface>
+    <surface n="1v">
+      <graphic height="3376px" url="master/5085_0001.tif" width="2692px"/>
+      <graphic height="190px" url="thumb/5085_0001_thumb.jpg" width="151px"/>
+      <graphic height="1800px" url="web/5085_0001_web.jpg" width="1435px"/>
+    </surface>
+    <surface n="2r">
+      <graphic height="3376px" url="master/5085_0002.tif" width="2692px"/>
+      <graphic height="190px" url="thumb/5085_0002_thumb.jpg" width="151px"/>
+      <graphic height="1800px" url="web/5085_0002_web.jpg" width="1435px"/>
+    </surface>
+    <surface n="2v">
+      <graphic height="3376px" url="master/5085_0003.tif" width="2692px"/>
+      <graphic height="190px" url="thumb/5085_0003_thumb.jpg" width="151px"/>
+      <graphic height="1800px" url="web/5085_0003_web.jpg" width="1435px"/>
+    </surface>
+  </facsimile>
+</TEI>

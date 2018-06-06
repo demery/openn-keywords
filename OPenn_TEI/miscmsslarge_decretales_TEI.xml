@@ -1,0 +1,106 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Description of University of Pennsylvania Misc Mss (Large) Box 1 Folder 16: Miscellaneous manuscripts (Large)</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>The University of Pennsylvania Libraries</publisher>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by/4.0/legalcode">
+                                This description is ©2016 University of
+                                Pennsylvania Libraries. It is licensed under a Creative Commons
+                                Attribution License version 4.0 (CC-BY-4.0
+                                https://creativecommons.org/licenses/by/4.0/legalcode. For a
+                                description of the terms of use see the Creative Commons Deed
+                                https://creativecommons.org/licenses/by/4.0/. </licence>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/"> All
+                                referenced images and their content are free of known copyright
+                                restrictions and in the public domain. See the Creative Commons
+                                Public Domain Mark page for usage details,
+                                http://creativecommons.org/publicdomain/mark/1.0/. </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <settlement>Philadelphia</settlement>
+            <institution>University of Pennsylvania</institution>
+            <repository>Rare Book &amp; Manuscript Library</repository>
+            <idno type="call-number">Misc Mss (Large) Box 1 Folder 16</idno>
+            <altIdentifier type="bibid">
+              <idno>5814674</idno>
+            </altIdentifier>
+            <altIdentifier type="resource">
+              <idno>http://hdl.library.upenn.edu/1017/d/medren/5814674</idno>
+            </altIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary>Bifolium from a copy of the Decretales, the compilation of canon law made by Raymond of Peñafort by order of Pope Gregory IX, with gloss by Bernardo Bottoni, damaged from use in a binding. The text on the two leaves is not consecutive but is all from Book 5 (De actionibus et inquisitionibus et denunciatoribus), which concerns criminal procedure. Written in Italy in the last quarter of the 13th century. The main text is written in 2 columns of 43 lines, surrounded by the gloss written in 2 columns of up to 78 lines. 2 4-line and numerous 2-line initials in red; a few 2-line initials in very faded blue with red flourishing; one example of rubrication in red.</summary>
+            <textLang>In Latin</textLang>
+            <msItem>
+              <title>Miscellaneous manuscripts (Large)</title>
+              <author>Catholic Church</author>
+              <author>Raymond, of Peñafort, Saint, 1175?-1275</author>
+              <respStmt>
+                <resp>commentator for written text</resp>
+                <persName>Bottoni, Bernardo, d. 1266</persName>
+              </respStmt>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc material="parchment">
+                <support>
+                  <p>parchment</p>
+                </support>
+                <extent>1 each leaf 338 x 225 (305 x 190) mm</extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin/>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords n="subjects">
+          <term>Canon law--Early works to 1800</term>
+        </keywords>
+        <keywords n="form/genre">
+          <term>Fragments</term>
+          <term>Commentaries</term>
+          <term>Decretals</term>
+          <term>Glosses (annotations)</term>
+          <term>Manuscripts, Latin--13th century</term>
+          <term>Manuscripts, Medieval</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface n="1r">
+      <graphic height="5582px" url="master/1860_0000.tif" width="3968px"/>
+      <graphic height="190px" url="thumb/1860_0000_thumb.jpg" width="135px"/>
+      <graphic height="1800px" url="web/1860_0000_web.jpg" width="1279px"/>
+    </surface>
+    <surface n="1v">
+      <graphic height="5582px" url="master/1860_0001.tif" width="3968px"/>
+      <graphic height="190px" url="thumb/1860_0001_thumb.jpg" width="135px"/>
+      <graphic height="1800px" url="web/1860_0001_web.jpg" width="1279px"/>
+    </surface>
+    <surface n="2r">
+      <graphic height="5582px" url="master/1860_0002.tif" width="3968px"/>
+      <graphic height="190px" url="thumb/1860_0002_thumb.jpg" width="135px"/>
+      <graphic height="1800px" url="web/1860_0002_web.jpg" width="1279px"/>
+    </surface>
+    <surface n="2v">
+      <graphic height="5582px" url="master/1860_0003.tif" width="3968px"/>
+      <graphic height="190px" url="thumb/1860_0003_thumb.jpg" width="135px"/>
+      <graphic height="1800px" url="web/1860_0003_web.jpg" width="1279px"/>
+    </surface>
+  </facsimile>
+</TEI>

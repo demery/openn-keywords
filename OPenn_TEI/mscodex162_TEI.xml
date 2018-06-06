@@ -1,0 +1,157 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Description of University of Pennsylvania Ms. Codex 162: Sentenzia arbitraria ... sobre el monte de Axzaedo, y otras cosas ano 1459 ante Juan Alfonso de Bene...?</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>The University of Pennsylvania Libraries</publisher>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by/4.0/legalcode">
+                                This description is ©2015 University of
+                                Pennsylvania Libraries. It is licensed under a Creative Commons
+                                Attribution License version 4.0 (CC-BY-4.0
+                                https://creativecommons.org/licenses/by/4.0/legalcode. For a
+                                description of the terms of use see the Creative Commons Deed
+                                https://creativecommons.org/licenses/by/4.0/. </licence>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/"> All
+                                referenced images and their content are free of known copyright
+                                restrictions and in the public domain. See the Creative Commons
+                                Public Domain Mark page for usage details,
+                                http://creativecommons.org/publicdomain/mark/1.0/. </licence>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note>Ms. gathering.</note>
+        <note>Title from f. [i] recto and Zacour-Hirsch. Cover title and incipit are worn and very difficult to read; much of the title could not be deciphered for this record.</note>
+        <note>Zacour-Hirsch lists this manuscript under the main entry "Valdenoceda."</note>
+        <note>Outermost bifolium (f. [i] and 5) used as cover.</note>
+        <note>Many stains, especially on cover. Edges of leaves torn and split. The sheets of parchment are not shaped quite the same. Writing worn and hard to read in many places.</note>
+      </notesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <settlement>Philadelphia</settlement>
+            <institution>University of Pennsylvania</institution>
+            <repository>Rare Book &amp; Manuscript Library</repository>
+            <idno type="call-number">Ms. Codex 162</idno>
+            <altIdentifier type="bibid">
+              <idno>1580572</idno>
+            </altIdentifier>
+            <altIdentifier type="resource">
+              <idno>http://hdl.library.upenn.edu/1017/d/medren/1580572</idno>
+            </altIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary>Spanish notarial document.</summary>
+            <textLang>Spanish</textLang>
+            <msItem>
+              <title>Sentenzia arbitraria ... sobre el monte de Axzaedo, y otras cosas ano 1459 ante Juan Alfonso de Bene...?</title>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc material="parchment">
+                <support>
+                  <p>parchment</p>
+                </support>
+                <extent>6 leaves : 267 x 195 mm</extent>
+                <foliation>Parchment, 6; [i], [1-5]; modern foliation in pencil, lower right recto.</foliation>
+              </supportDesc>
+            </objectDesc>
+            <scriptDesc>
+              <scriptNote>Written in a cursive script by a single hand.</scriptNote>
+            </scriptDesc>
+          </physDesc>
+          <history>
+            <origin>
+              <p>Written in Valdenoceda (in the province of Burgos, Spain), 1459.</p>
+              <origDate>1459</origDate>
+              <origPlace>Valdenoceda (Spain)</origPlace>
+            </origin>
+            <provenance>Given along with two other Valdenoceda notarial documents by Julio Armino (Chile) in exchange for a Geiger counter, 1958.</provenance>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords n="form/genre">
+          <term>Notarial documents</term>
+          <term>Codices</term>
+          <term>Manuscripts, Spanish--15th century</term>
+          <term>Manuscripts, Medieval</term>
+          <term>Manuscripts, Renaissance</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface n="i recto">
+      <graphic height="6813px" url="master/0559_0000.tif" width="5088px"/>
+      <graphic height="190px" url="thumb/0559_0000_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/0559_0000_web.jpg" width="1344px"/>
+    </surface>
+    <surface n="i verso">
+      <graphic height="6837px" url="master/0559_0001.tif" width="5050px"/>
+      <graphic height="190px" url="thumb/0559_0001_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/0559_0001_web.jpg" width="1330px"/>
+    </surface>
+    <surface n="1r">
+      <graphic height="6837px" url="master/0559_0002.tif" width="5050px"/>
+      <graphic height="190px" url="thumb/0559_0002_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/0559_0002_web.jpg" width="1330px"/>
+    </surface>
+    <surface n="1v">
+      <graphic height="6837px" url="master/0559_0003.tif" width="5050px"/>
+      <graphic height="190px" url="thumb/0559_0003_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/0559_0003_web.jpg" width="1330px"/>
+    </surface>
+    <surface n="2r">
+      <graphic height="6837px" url="master/0559_0004.tif" width="5050px"/>
+      <graphic height="190px" url="thumb/0559_0004_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/0559_0004_web.jpg" width="1330px"/>
+    </surface>
+    <surface n="2v">
+      <graphic height="6837px" url="master/0559_0005.tif" width="5050px"/>
+      <graphic height="190px" url="thumb/0559_0005_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/0559_0005_web.jpg" width="1330px"/>
+    </surface>
+    <surface n="3r">
+      <graphic height="6837px" url="master/0559_0006.tif" width="5050px"/>
+      <graphic height="190px" url="thumb/0559_0006_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/0559_0006_web.jpg" width="1330px"/>
+    </surface>
+    <surface n="3v">
+      <graphic height="6837px" url="master/0559_0007.tif" width="5050px"/>
+      <graphic height="190px" url="thumb/0559_0007_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/0559_0007_web.jpg" width="1330px"/>
+    </surface>
+    <surface n="4r">
+      <graphic height="6837px" url="master/0559_0008.tif" width="5050px"/>
+      <graphic height="190px" url="thumb/0559_0008_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/0559_0008_web.jpg" width="1330px"/>
+    </surface>
+    <surface n="4v">
+      <graphic height="6837px" url="master/0559_0009.tif" width="5050px"/>
+      <graphic height="190px" url="thumb/0559_0009_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/0559_0009_web.jpg" width="1330px"/>
+    </surface>
+    <surface n="5r">
+      <graphic height="6837px" url="master/0559_0010.tif" width="5050px"/>
+      <graphic height="190px" url="thumb/0559_0010_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/0559_0010_web.jpg" width="1330px"/>
+    </surface>
+    <surface n="5v">
+      <graphic height="6813px" url="master/0559_0011.tif" width="5088px"/>
+      <graphic height="190px" url="thumb/0559_0011_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/0559_0011_web.jpg" width="1344px"/>
+    </surface>
+    <surface n="No spine">
+      <graphic height="5609px" url="master/0559_0012.tif" width="4500px"/>
+      <graphic height="190px" url="thumb/0559_0012_thumb.jpg" width="152px"/>
+      <graphic height="1800px" url="web/0559_0012_web.jpg" width="1444px"/>
+    </surface>
+  </facsimile>
+</TEI>

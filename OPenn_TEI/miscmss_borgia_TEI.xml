@@ -1,0 +1,159 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Description of University of Pennsylvania Misc Mss: Miscellaneous manuscripts</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>The University of Pennsylvania Libraries</publisher>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by/4.0/legalcode">
+                                This description is ©2016 University of
+                                Pennsylvania Libraries. It is licensed under a Creative Commons
+                                Attribution License version 4.0 (CC-BY-4.0
+                                https://creativecommons.org/licenses/by/4.0/legalcode. For a
+                                description of the terms of use see the Creative Commons Deed
+                                https://creativecommons.org/licenses/by/4.0/. </licence>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/"> All
+                                referenced images and their content are free of known copyright
+                                restrictions and in the public domain. See the Creative Commons
+                                Public Domain Mark page for usage details,
+                                http://creativecommons.org/publicdomain/mark/1.0/. </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <settlement>Philadelphia</settlement>
+            <institution>University of Pennsylvania</institution>
+            <repository>Rare Book &amp; Manuscript Library</repository>
+            <idno type="call-number">Misc Mss</idno>
+            <altIdentifier type="bibid">
+              <idno>4432030</idno>
+            </altIdentifier>
+            <altIdentifier type="resource">
+              <idno>http://hdl.library.upenn.edu/1017/d/medren/4432030</idno>
+            </altIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary>Four documents on paper from three members of the Borgia family in Italy, all of whom served as cardinals, ranging from 1503 to 1770. The documents are as follows: one from Ludovicus (also referred to as Luigi) Borgia in 1503 in Latin; two from Giovanni Borgia (also referred to as Don Juan de Borgia), one in Spanish dated 1546 and the other in Italian dated 1549; and one from Stefano Borgia to Giovanni Mengozzi in Foligno, dated 1770. The 1503, 1546, and 1549 documents contain records of money lent and owed. The Stefano Borgia letter concerns research, and refers to the exchange of books between the sender and recipient. Most contain seals, or remnants of seals.</summary>
+            <textLang mainLang="ita" otherLangs="lat spa">In Italian, with 1 document each in Latin and Spanish</textLang>
+            <msItem>
+              <title>Miscellaneous manuscripts</title>
+              <author>Borgia family</author>
+              <author>Borgia, Giovanni</author>
+              <author>Borgia, Ludovicus</author>
+              <author>Borgia, Stefano, 1731-1804</author>
+              <respStmt>
+                <resp>recipient</resp>
+                <persName>Mengozzi, Giovanni, 1726-1783</persName>
+              </respStmt>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc>
+                <extent>4</extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin/>
+            <provenance>Sold by Libreria Antiquaria Docet (Bologna), cat. 57(March 1959), no. 176-178.</provenance>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords n="subjects">
+          <term>Learning and scholarship--Early works to 1800</term>
+        </keywords>
+        <keywords n="form/genre">
+          <term>Credit records</term>
+          <term>Receipts</term>
+          <term>Promissory notes</term>
+          <term>Manuscripts, Italian--16th century</term>
+          <term>Manuscripts, Italian--18th century</term>
+          <term>Manuscripts, Latin--16th century</term>
+          <term>Manuscripts, Spanish--16th century</term>
+          <term>Manuscripts, Renaissance</term>
+          <term>Manuscripts, European</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface n="Item 1, Side 1">
+      <graphic height="5165px" url="master/1573_0000.tif" width="4440px"/>
+      <graphic height="190px" url="thumb/1573_0000_thumb.jpg" width="163px"/>
+      <graphic height="1800px" url="web/1573_0000_web.jpg" width="1548px"/>
+    </surface>
+    <surface n="Item 1, Side 2">
+      <graphic height="5165px" url="master/1573_0001.tif" width="4440px"/>
+      <graphic height="190px" url="thumb/1573_0001_thumb.jpg" width="163px"/>
+      <graphic height="1800px" url="web/1573_0001_web.jpg" width="1548px"/>
+    </surface>
+    <surface n="Item 2, 1r">
+      <graphic height="5165px" url="master/1573_0002.tif" width="4440px"/>
+      <graphic height="190px" url="thumb/1573_0002_thumb.jpg" width="163px"/>
+      <graphic height="1800px" url="web/1573_0002_web.jpg" width="1548px"/>
+    </surface>
+    <surface n="Item 2, 1v">
+      <graphic height="5165px" url="master/1573_0003.tif" width="4440px"/>
+      <graphic height="190px" url="thumb/1573_0003_thumb.jpg" width="163px"/>
+      <graphic height="1800px" url="web/1573_0003_web.jpg" width="1548px"/>
+    </surface>
+    <surface n="Item 2, 2r">
+      <graphic height="5165px" url="master/1573_0004.tif" width="4440px"/>
+      <graphic height="190px" url="thumb/1573_0004_thumb.jpg" width="163px"/>
+      <graphic height="1800px" url="web/1573_0004_web.jpg" width="1548px"/>
+    </surface>
+    <surface n="Item 2, 2v">
+      <graphic height="5165px" url="master/1573_0005.tif" width="4440px"/>
+      <graphic height="190px" url="thumb/1573_0005_thumb.jpg" width="163px"/>
+      <graphic height="1800px" url="web/1573_0005_web.jpg" width="1548px"/>
+    </surface>
+    <surface n="Item 3, 1r">
+      <graphic height="5165px" url="master/1573_0006.tif" width="4440px"/>
+      <graphic height="190px" url="thumb/1573_0006_thumb.jpg" width="163px"/>
+      <graphic height="1800px" url="web/1573_0006_web.jpg" width="1548px"/>
+    </surface>
+    <surface n="Item 3, 1v">
+      <graphic height="5165px" url="master/1573_0007.tif" width="4440px"/>
+      <graphic height="190px" url="thumb/1573_0007_thumb.jpg" width="163px"/>
+      <graphic height="1800px" url="web/1573_0007_web.jpg" width="1548px"/>
+    </surface>
+    <surface n="Item 3, 2r">
+      <graphic height="5165px" url="master/1573_0008.tif" width="4440px"/>
+      <graphic height="190px" url="thumb/1573_0008_thumb.jpg" width="163px"/>
+      <graphic height="1800px" url="web/1573_0008_web.jpg" width="1548px"/>
+    </surface>
+    <surface n="Item 3, 2v">
+      <graphic height="5165px" url="master/1573_0009.tif" width="4440px"/>
+      <graphic height="190px" url="thumb/1573_0009_thumb.jpg" width="163px"/>
+      <graphic height="1800px" url="web/1573_0009_web.jpg" width="1548px"/>
+    </surface>
+    <surface n="Item 4, 1r">
+      <graphic height="5165px" url="master/1573_0010.tif" width="4440px"/>
+      <graphic height="190px" url="thumb/1573_0010_thumb.jpg" width="163px"/>
+      <graphic height="1800px" url="web/1573_0010_web.jpg" width="1548px"/>
+    </surface>
+    <surface n="Item 4, 1v">
+      <graphic height="5165px" url="master/1573_0011.tif" width="4440px"/>
+      <graphic height="190px" url="thumb/1573_0011_thumb.jpg" width="163px"/>
+      <graphic height="1800px" url="web/1573_0011_web.jpg" width="1548px"/>
+    </surface>
+    <surface n="Item 4, 2r">
+      <graphic height="5165px" url="master/1573_0012.tif" width="4440px"/>
+      <graphic height="190px" url="thumb/1573_0012_thumb.jpg" width="163px"/>
+      <graphic height="1800px" url="web/1573_0012_web.jpg" width="1548px"/>
+    </surface>
+    <surface n="Item 4, 2v">
+      <graphic height="5165px" url="master/1573_0013.tif" width="4440px"/>
+      <graphic height="190px" url="thumb/1573_0013_thumb.jpg" width="163px"/>
+      <graphic height="1800px" url="web/1573_0013_web.jpg" width="1548px"/>
+    </surface>
+  </facsimile>
+</TEI>

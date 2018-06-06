@@ -1,0 +1,94 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Description of University of Pennsylvania Misc Mss: Miscellaneous manuscripts</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>The University of Pennsylvania Libraries</publisher>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by/4.0/legalcode">
+                                This description is ©2016 University of
+                                Pennsylvania Libraries. It is licensed under a Creative Commons
+                                Attribution License version 4.0 (CC-BY-4.0
+                                https://creativecommons.org/licenses/by/4.0/legalcode. For a
+                                description of the terms of use see the Creative Commons Deed
+                                https://creativecommons.org/licenses/by/4.0/. </licence>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/"> All
+                                referenced images and their content are free of known copyright
+                                restrictions and in the public domain. See the Creative Commons
+                                Public Domain Mark page for usage details,
+                                http://creativecommons.org/publicdomain/mark/1.0/. </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <settlement>Philadelphia</settlement>
+            <institution>University of Pennsylvania</institution>
+            <repository>Rare Book &amp; Manuscript Library</repository>
+            <idno type="call-number">Misc Mss</idno>
+            <altIdentifier type="bibid">
+              <idno>4552933</idno>
+            </altIdentifier>
+            <altIdentifier type="resource">
+              <idno>http://hdl.library.upenn.edu/1017/d/medren/4552933</idno>
+            </altIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary>Conditional bond of Christopher Davenport, Hugh Davenport of Henbury, Richard Newton, and William Bradley, to John Fitton and his sons, to stand to the arbitration award of Sir William Booth, Sir Thomas Fitton, Robert of Legh of Adlington, and others, concerning lands in Fulshaw (Cheshire), dated 5 December 1463 (third regnal year of Edward IV). The obligation is on one side and the longer condition is on the other. 2 small seals without impressions on a strip of parchment formed from the bottom edge of the document.</summary>
+            <textLang mainLang="enm" otherLangs="lat eng">Condition in Middle English, obligation in Latin, and later summary in English</textLang>
+            <msItem>
+              <title>Miscellaneous manuscripts</title>
+              <author>Davenport, Christopher John</author>
+              <author>Davenport, Hugh</author>
+              <author>Fitton, John</author>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc material="parchment">
+                <support>
+                  <p>parchment</p>
+                </support>
+                <extent>1 92 x 351 mm</extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin/>
+            <provenance>Sold in a collection of charters at auction at Sotheby's, 7 July 2009 (lot 10).</provenance>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords n="subjects">
+          <term>Real property--England--Cheshire</term>
+        </keywords>
+        <keywords n="form/genre">
+          <term>Contracts</term>
+          <term>Legal documents</term>
+          <term>Seals (artifacts)</term>
+          <term>Manuscripts, English (Middle)--15th century</term>
+          <term>Manuscripts, Latin--15th century</term>
+          <term>Manuscripts, Renaissance</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface n="Side 1">
+      <graphic height="1872px" url="master/1848_0000.tif" width="5756px"/>
+      <graphic height="61px" url="thumb/1848_0000_thumb.jpg" width="190px"/>
+      <graphic height="585px" url="web/1848_0000_web.jpg" width="1800px"/>
+    </surface>
+    <surface n="Side 2">
+      <graphic height="1872px" url="master/1848_0001.tif" width="5756px"/>
+      <graphic height="61px" url="thumb/1848_0001_thumb.jpg" width="190px"/>
+      <graphic height="585px" url="web/1848_0001_web.jpg" width="1800px"/>
+    </surface>
+  </facsimile>
+</TEI>

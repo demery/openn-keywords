@@ -1,0 +1,97 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Description of University of Pennsylvania CAJS Rar Ms 447: Manuscript leaf from an Ashkenazic maḥzor for Pesaḥ.</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>The University of Pennsylvania Libraries</publisher>
+        <availability>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/">These images and the content of Library at the Herbert D. Katz Center for Advanced Judaic Studies, CAJS Rar Ms 447: Manuscript leaf from an Ashkenazic maḥzor for Pesaḥ. are free of known copyright restrictions and in the public domain. See the Creative Commons Public Domain Mark page for usage details, http://creativecommons.org/publicdomain/mark/1.0/.</licence>
+          <licence target="https://creativecommons.org/licenses/by/4.0/legalcode">Metadata is ©2017 University of Pennsylvania Books &amp; Manuscripts and licensed under a Creative Commons Attribution License version 4.0 (CC-BY-4.0 https://creativecommons.org/licenses/by/4.0/legalcode. For a description of the terms of use see the Creative Commons Deed https://creativecommons.org/licenses/by/4.0/.</licence>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note>Ms. leaf.</note>
+        <note>Title supplied by cataloger.</note>
+        <note>Item cataloged from digital facsimile and existing description.</note>
+      </notesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <settlement>Philadelphia</settlement>
+            <institution>University of Pennsylvania</institution>
+            <repository>Library at the Herbert D. Katz Center for Advanced Judaic Studies</repository>
+            <idno type="call-number">CAJS Rar Ms 447</idno>
+            <altIdentifier type="bibid">
+              <idno>6854149</idno>
+            </altIdentifier>
+            <altIdentifier type="resource">
+              <idno>http://hdl.library.upenn.edu/1017/d/medren/6854149</idno>
+            </altIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary>Consists of the end portion of the Ḳadishta by Shimʻon ben Yitsḥahk, and the reshut to "Ṿa-yosheʻ' that opens with "Ilu fumi nimi" by Meir ben Yitsḥaḳ. Partial leaf, with loss of text at top.</summary>
+            <textLang>Aramaic</textLang>
+            <msItem>
+              <title>Manuscript leaf from an Ashkenazic maḥzor for Pesaḥ.</title>
+              <author>Simeon bar Isaac, approximately 950-</author>
+              <author>Meir ben Isaac Sheliʼaḥ Ẓibbur, -approximately 1096</author>
+              <respStmt>
+                <resp>former owner</resp>
+                <persName>Amram, David Werner, 1866-1939</persName>
+              </respStmt>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc material="mixed">
+                <support>
+                  <p>parchment</p>
+                </support>
+                <extent>1 leaf : 298 x 242 mm</extent>
+              </supportDesc>
+            </objectDesc>
+            <scriptDesc>
+              <scriptNote>Written in Ashkenazic square script.</scriptNote>
+            </scriptDesc>
+          </physDesc>
+          <history>
+            <origin>
+              <p>Written in the fourth quarter of the 13th century.</p>
+              <origDate>between 1275 and 1299</origDate>
+            </origin>
+            <provenance>Formerly held in the Library of the Dropsie College for Hebrew and Cognate Learning; given to Dropsie College by David Werner Amram in 1924.</provenance>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords n="subjects">
+          <term>Passover--Liturgy--Texts</term>
+          <term>Piyutim</term>
+          <term>Jewish religious poetry</term>
+        </keywords>
+        <keywords n="form/genre">
+          <term>Detached leaves</term>
+          <term>Manuscripts, Medieval</term>
+          <term>Manuscripts, Hebrew--13th century</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface n="1r">
+      <graphic height="7801px" url="master/5096_0000.tif" width="6493px"/>
+      <graphic height="190px" url="thumb/5096_0000_thumb.jpg" width="158px"/>
+      <graphic height="1800px" url="web/5096_0000_web.jpg" width="1498px"/>
+    </surface>
+    <surface n="1v">
+      <graphic height="7801px" url="master/5096_0001.tif" width="6493px"/>
+      <graphic height="190px" url="thumb/5096_0001_thumb.jpg" width="158px"/>
+      <graphic height="1800px" url="web/5096_0001_web.jpg" width="1498px"/>
+    </surface>
+  </facsimile>
+</TEI>

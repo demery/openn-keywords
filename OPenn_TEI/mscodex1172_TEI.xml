@@ -1,0 +1,272 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Description of University of Pennsylvania Ms. Codex 1172: Vita Sanctae Katharinae de Alexandria</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>The University of Pennsylvania Libraries</publisher>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by/4.0/legalcode">
+                                This description is ©2016 University of
+                                Pennsylvania Libraries. It is licensed under a Creative Commons
+                                Attribution License version 4.0 (CC-BY-4.0
+                                https://creativecommons.org/licenses/by/4.0/legalcode. For a
+                                description of the terms of use see the Creative Commons Deed
+                                https://creativecommons.org/licenses/by/4.0/. </licence>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/"> All
+                                referenced images and their content are free of known copyright
+                                restrictions and in the public domain. See the Creative Commons
+                                Public Domain Mark page for usage details,
+                                http://creativecommons.org/publicdomain/mark/1.0/. </licence>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note>Ms. codex.</note>
+        <note>Title supplied by Zacour-Hirsch.</note>
+      </notesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <settlement>Philadelphia</settlement>
+            <institution>University of Pennsylvania</institution>
+            <repository>Rare Book &amp; Manuscript Library</repository>
+            <idno type="call-number">Ms. Codex 1172</idno>
+            <altIdentifier type="bibid">
+              <idno>4306733</idno>
+            </altIdentifier>
+            <altIdentifier type="resource">
+              <idno>http://hdl.library.upenn.edu/1017/d/medren/4306733</idno>
+            </altIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary>A biography of St. Catherine of Alexandria, who was famous for her great learning, and supposedly lived during the reign of the emperor Maxentius. A finding tab and the remains of another finding tab in red leather, f. 1r.</summary>
+            <textLang>Latin</textLang>
+            <msItem>
+              <title>Vita Sanctae Katharinae de Alexandria</title>
+              <author>Albertano, da Brescia, 13th cent</author>
+              <respStmt>
+                <resp>scribe</resp>
+                <persName>Ysidorus</persName>
+              </respStmt>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc material="parchment">
+                <support>
+                  <p>parchment</p>
+                  <watermark>Similar to Briquet Tête de bœuf 14858 (1486).</watermark>
+                </support>
+                <extent>13 leaves : 314 x 215 (234 x 136) mm. bound to 315 x 219 mm</extent>
+                <collation>
+                  <p>Paper, 13; 1¹⁴(-1); modern pencil foliation, lower right recto.</p>
+                </collation>
+              </supportDesc>
+              <layoutDesc>
+                <layout>Written in two columns, outlined in ink.</layout>
+              </layoutDesc>
+            </objectDesc>
+            <scriptDesc>
+              <scriptNote>Written in a secretary hand by Ysidorus (f. 1r); text on vellum binding in a Gothic book hand.</scriptNote>
+            </scriptDesc>
+            <decoDesc>
+              <decoNote>4-line decorative initial (f. 1r), 2-line decorative initial (f. 3r), both in red; elaborately decorated initials in black, green, and red on upper and lower cover.</decoNote>
+              <decoNote n="Front cover">Reused manuscript leaf, Front cover</decoNote>
+              <decoNote n="Inside front cover">Reused manuscript leaf, Inside front cover</decoNote>
+              <decoNote n="1r">Finding tab, f. 1r</decoNote>
+              <decoNote n="1v">Finding tab, f. 1v</decoNote>
+              <decoNote n="Inside back cover">Reused manuscript leaf, Inside back cover</decoNote>
+              <decoNote n="Back cover">Reused manuscript leaf, Back cover</decoNote>
+            </decoDesc>
+            <bindingDesc>
+              <binding>
+                <p>Vellum from a 14th-century missal, beginning with Ecclesiastes 24:28, with text and music.</p>
+              </binding>
+            </bindingDesc>
+          </physDesc>
+          <history>
+            <origin>
+              <p>Written in Germany (Zacour-Hirsch) in 1458 (f. 13r).</p>
+              <origDate>1458</origDate>
+              <origPlace>Germany</origPlace>
+            </origin>
+            <provenance>Accessioned, 1968.</provenance>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords n="subjects">
+          <term>Christian women saints--Biography--Early works 1800</term>
+        </keywords>
+        <keywords n="form/genre">
+          <term>Codices</term>
+          <term>Finding tabs</term>
+          <term>Hagiographies</term>
+          <term>Manuscripts, Latin--15th century</term>
+          <term>Manuscripts, Renaissance</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface n="Front cover">
+      <graphic height="5372px" url="master/1790_0000.tif" width="3871px"/>
+      <graphic height="190px" url="thumb/1790_0000_thumb.jpg" width="137px"/>
+      <graphic height="1800px" url="web/1790_0000_web.jpg" width="1297px"/>
+    </surface>
+    <surface n="Inside front cover">
+      <graphic height="5372px" url="master/1790_0001.tif" width="3871px"/>
+      <graphic height="190px" url="thumb/1790_0001_thumb.jpg" width="137px"/>
+      <graphic height="1800px" url="web/1790_0001_web.jpg" width="1297px"/>
+    </surface>
+    <surface n="1r">
+      <graphic height="5372px" url="master/1790_0002.tif" width="3871px"/>
+      <graphic height="190px" url="thumb/1790_0002_thumb.jpg" width="137px"/>
+      <graphic height="1800px" url="web/1790_0002_web.jpg" width="1297px"/>
+    </surface>
+    <surface n="1v">
+      <graphic height="5372px" url="master/1790_0003.tif" width="3871px"/>
+      <graphic height="190px" url="thumb/1790_0003_thumb.jpg" width="137px"/>
+      <graphic height="1800px" url="web/1790_0003_web.jpg" width="1297px"/>
+    </surface>
+    <surface n="2r">
+      <graphic height="5372px" url="master/1790_0004.tif" width="3871px"/>
+      <graphic height="190px" url="thumb/1790_0004_thumb.jpg" width="137px"/>
+      <graphic height="1800px" url="web/1790_0004_web.jpg" width="1297px"/>
+    </surface>
+    <surface n="2v">
+      <graphic height="5372px" url="master/1790_0005.tif" width="3871px"/>
+      <graphic height="190px" url="thumb/1790_0005_thumb.jpg" width="137px"/>
+      <graphic height="1800px" url="web/1790_0005_web.jpg" width="1297px"/>
+    </surface>
+    <surface n="3r">
+      <graphic height="5372px" url="master/1790_0006.tif" width="3871px"/>
+      <graphic height="190px" url="thumb/1790_0006_thumb.jpg" width="137px"/>
+      <graphic height="1800px" url="web/1790_0006_web.jpg" width="1297px"/>
+    </surface>
+    <surface n="3v">
+      <graphic height="5372px" url="master/1790_0007.tif" width="3871px"/>
+      <graphic height="190px" url="thumb/1790_0007_thumb.jpg" width="137px"/>
+      <graphic height="1800px" url="web/1790_0007_web.jpg" width="1297px"/>
+    </surface>
+    <surface n="4r">
+      <graphic height="5372px" url="master/1790_0008.tif" width="3871px"/>
+      <graphic height="190px" url="thumb/1790_0008_thumb.jpg" width="137px"/>
+      <graphic height="1800px" url="web/1790_0008_web.jpg" width="1297px"/>
+    </surface>
+    <surface n="4v">
+      <graphic height="5372px" url="master/1790_0009.tif" width="3871px"/>
+      <graphic height="190px" url="thumb/1790_0009_thumb.jpg" width="137px"/>
+      <graphic height="1800px" url="web/1790_0009_web.jpg" width="1297px"/>
+    </surface>
+    <surface n="5r">
+      <graphic height="5372px" url="master/1790_0010.tif" width="3871px"/>
+      <graphic height="190px" url="thumb/1790_0010_thumb.jpg" width="137px"/>
+      <graphic height="1800px" url="web/1790_0010_web.jpg" width="1297px"/>
+    </surface>
+    <surface n="5v">
+      <graphic height="5372px" url="master/1790_0011.tif" width="3871px"/>
+      <graphic height="190px" url="thumb/1790_0011_thumb.jpg" width="137px"/>
+      <graphic height="1800px" url="web/1790_0011_web.jpg" width="1297px"/>
+    </surface>
+    <surface n="6r">
+      <graphic height="5372px" url="master/1790_0012.tif" width="3871px"/>
+      <graphic height="190px" url="thumb/1790_0012_thumb.jpg" width="137px"/>
+      <graphic height="1800px" url="web/1790_0012_web.jpg" width="1297px"/>
+    </surface>
+    <surface n="6v">
+      <graphic height="5372px" url="master/1790_0013.tif" width="3871px"/>
+      <graphic height="190px" url="thumb/1790_0013_thumb.jpg" width="137px"/>
+      <graphic height="1800px" url="web/1790_0013_web.jpg" width="1297px"/>
+    </surface>
+    <surface n="7r">
+      <graphic height="5372px" url="master/1790_0014.tif" width="3871px"/>
+      <graphic height="190px" url="thumb/1790_0014_thumb.jpg" width="137px"/>
+      <graphic height="1800px" url="web/1790_0014_web.jpg" width="1297px"/>
+    </surface>
+    <surface n="7v">
+      <graphic height="5372px" url="master/1790_0015.tif" width="3871px"/>
+      <graphic height="190px" url="thumb/1790_0015_thumb.jpg" width="137px"/>
+      <graphic height="1800px" url="web/1790_0015_web.jpg" width="1297px"/>
+    </surface>
+    <surface n="8r">
+      <graphic height="5372px" url="master/1790_0016.tif" width="3871px"/>
+      <graphic height="190px" url="thumb/1790_0016_thumb.jpg" width="137px"/>
+      <graphic height="1800px" url="web/1790_0016_web.jpg" width="1297px"/>
+    </surface>
+    <surface n="8v">
+      <graphic height="5372px" url="master/1790_0017.tif" width="3871px"/>
+      <graphic height="190px" url="thumb/1790_0017_thumb.jpg" width="137px"/>
+      <graphic height="1800px" url="web/1790_0017_web.jpg" width="1297px"/>
+    </surface>
+    <surface n="9r">
+      <graphic height="5372px" url="master/1790_0018.tif" width="3871px"/>
+      <graphic height="190px" url="thumb/1790_0018_thumb.jpg" width="137px"/>
+      <graphic height="1800px" url="web/1790_0018_web.jpg" width="1297px"/>
+    </surface>
+    <surface n="9v">
+      <graphic height="5372px" url="master/1790_0019.tif" width="3871px"/>
+      <graphic height="190px" url="thumb/1790_0019_thumb.jpg" width="137px"/>
+      <graphic height="1800px" url="web/1790_0019_web.jpg" width="1297px"/>
+    </surface>
+    <surface n="10r">
+      <graphic height="5372px" url="master/1790_0020.tif" width="3871px"/>
+      <graphic height="190px" url="thumb/1790_0020_thumb.jpg" width="137px"/>
+      <graphic height="1800px" url="web/1790_0020_web.jpg" width="1297px"/>
+    </surface>
+    <surface n="10v">
+      <graphic height="5372px" url="master/1790_0021.tif" width="3871px"/>
+      <graphic height="190px" url="thumb/1790_0021_thumb.jpg" width="137px"/>
+      <graphic height="1800px" url="web/1790_0021_web.jpg" width="1297px"/>
+    </surface>
+    <surface n="11r">
+      <graphic height="5372px" url="master/1790_0022.tif" width="3871px"/>
+      <graphic height="190px" url="thumb/1790_0022_thumb.jpg" width="137px"/>
+      <graphic height="1800px" url="web/1790_0022_web.jpg" width="1297px"/>
+    </surface>
+    <surface n="11v">
+      <graphic height="5372px" url="master/1790_0023.tif" width="3871px"/>
+      <graphic height="190px" url="thumb/1790_0023_thumb.jpg" width="137px"/>
+      <graphic height="1800px" url="web/1790_0023_web.jpg" width="1297px"/>
+    </surface>
+    <surface n="12r">
+      <graphic height="5372px" url="master/1790_0024.tif" width="3871px"/>
+      <graphic height="190px" url="thumb/1790_0024_thumb.jpg" width="137px"/>
+      <graphic height="1800px" url="web/1790_0024_web.jpg" width="1297px"/>
+    </surface>
+    <surface n="12v">
+      <graphic height="5372px" url="master/1790_0025.tif" width="3871px"/>
+      <graphic height="190px" url="thumb/1790_0025_thumb.jpg" width="137px"/>
+      <graphic height="1800px" url="web/1790_0025_web.jpg" width="1297px"/>
+    </surface>
+    <surface n="13r">
+      <graphic height="5372px" url="master/1790_0026.tif" width="3871px"/>
+      <graphic height="190px" url="thumb/1790_0026_thumb.jpg" width="137px"/>
+      <graphic height="1800px" url="web/1790_0026_web.jpg" width="1297px"/>
+    </surface>
+    <surface n="13v">
+      <graphic height="5372px" url="master/1790_0027.tif" width="3871px"/>
+      <graphic height="190px" url="thumb/1790_0027_thumb.jpg" width="137px"/>
+      <graphic height="1800px" url="web/1790_0027_web.jpg" width="1297px"/>
+    </surface>
+    <surface n="Inside back cover">
+      <graphic height="5372px" url="master/1790_0028.tif" width="3871px"/>
+      <graphic height="190px" url="thumb/1790_0028_thumb.jpg" width="137px"/>
+      <graphic height="1800px" url="web/1790_0028_web.jpg" width="1297px"/>
+    </surface>
+    <surface n="Back cover">
+      <graphic height="5372px" url="master/1790_0029.tif" width="3871px"/>
+      <graphic height="190px" url="thumb/1790_0029_thumb.jpg" width="137px"/>
+      <graphic height="1800px" url="web/1790_0029_web.jpg" width="1297px"/>
+    </surface>
+    <surface n="No spine">
+      <graphic height="5372px" url="master/1790_0030.tif" width="3871px"/>
+      <graphic height="190px" url="thumb/1790_0030_thumb.jpg" width="137px"/>
+      <graphic height="1800px" url="web/1790_0030_web.jpg" width="1297px"/>
+    </surface>
+  </facsimile>
+</TEI>

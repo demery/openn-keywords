@@ -1,0 +1,225 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Description of University of Pennsylvania Ms. Coll. 742: Carlo de Piccolomini land petitions</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>The University of Pennsylvania Libraries</publisher>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by/4.0/legalcode">
+                                This description is ©2016 University of
+                                Pennsylvania Libraries. It is licensed under a Creative Commons
+                                Attribution License version 4.0 (CC-BY-4.0
+                                https://creativecommons.org/licenses/by/4.0/legalcode. For a
+                                description of the terms of use see the Creative Commons Deed
+                                https://creativecommons.org/licenses/by/4.0/. </licence>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/"> All
+                                referenced images and their content are free of known copyright
+                                restrictions and in the public domain. See the Creative Commons
+                                Public Domain Mark page for usage details,
+                                http://creativecommons.org/publicdomain/mark/1.0/. </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <settlement>Philadelphia</settlement>
+            <institution>University of Pennsylvania</institution>
+            <repository>Rare Book &amp; Manuscript Library</repository>
+            <idno type="call-number">Ms. Coll. 742</idno>
+            <altIdentifier type="bibid">
+              <idno>4625981</idno>
+            </altIdentifier>
+            <altIdentifier type="resource">
+              <idno>http://hdl.library.upenn.edu/1017/d/medren/4625981</idno>
+            </altIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary>5 petitions from Carlo Blasii de Piccolomini regarding lands and money for land in Siena and Monticchiello, written between 1368 and 1371 in vellum booklets.</summary>
+            <textLang>In Latin</textLang>
+            <msItem>
+              <title>Carlo de Piccolomini land petitions</title>
+              <author>Piccolomini, Carlo Blasii de</author>
+              <respStmt>
+                <resp>former owner</resp>
+                <persName>Phillipps, Thomas, Sir, 1792-1872</persName>
+              </respStmt>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc material="parchment.">
+                <support>
+                  <p>parchment.</p>
+                </support>
+                <extent>5</extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin/>
+            <provenance>Formerly owned by Sir Thomas Phillipps (part of ms. 20709).</provenance>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords n="subjects">
+          <term>Real property--Italy--14th century</term>
+        </keywords>
+        <keywords n="form/genre">
+          <term>Legal documents</term>
+          <term>Notarial documents</term>
+          <term>Petitions</term>
+          <term>Manuscripts, Latin--14th century</term>
+          <term>Manuscripts, Renaissance</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface n="1r (Item 1)">
+      <graphic height="6934px" url="master/1827_0000.tif" width="5106px"/>
+      <graphic height="190px" url="thumb/1827_0000_thumb.jpg" width="139px"/>
+      <graphic height="1800px" url="web/1827_0000_web.jpg" width="1325px"/>
+    </surface>
+    <surface n="1v (Item 1)">
+      <graphic height="6934px" url="master/1827_0001.tif" width="5106px"/>
+      <graphic height="190px" url="thumb/1827_0001_thumb.jpg" width="139px"/>
+      <graphic height="1800px" url="web/1827_0001_web.jpg" width="1325px"/>
+    </surface>
+    <surface n="2r (Item 1)">
+      <graphic height="6934px" url="master/1827_0002.tif" width="5106px"/>
+      <graphic height="190px" url="thumb/1827_0002_thumb.jpg" width="139px"/>
+      <graphic height="1800px" url="web/1827_0002_web.jpg" width="1325px"/>
+    </surface>
+    <surface n="2v (Item 1)">
+      <graphic height="6934px" url="master/1827_0003.tif" width="5106px"/>
+      <graphic height="190px" url="thumb/1827_0003_thumb.jpg" width="139px"/>
+      <graphic height="1800px" url="web/1827_0003_web.jpg" width="1325px"/>
+    </surface>
+    <surface n="1r (Item 2)">
+      <graphic height="6934px" url="master/1827_0004.tif" width="5106px"/>
+      <graphic height="190px" url="thumb/1827_0004_thumb.jpg" width="139px"/>
+      <graphic height="1800px" url="web/1827_0004_web.jpg" width="1325px"/>
+    </surface>
+    <surface n="1v (Item 2)">
+      <graphic height="6934px" url="master/1827_0005.tif" width="5106px"/>
+      <graphic height="190px" url="thumb/1827_0005_thumb.jpg" width="139px"/>
+      <graphic height="1800px" url="web/1827_0005_web.jpg" width="1325px"/>
+    </surface>
+    <surface n="2r (Item 2)">
+      <graphic height="6934px" url="master/1827_0006.tif" width="5106px"/>
+      <graphic height="190px" url="thumb/1827_0006_thumb.jpg" width="139px"/>
+      <graphic height="1800px" url="web/1827_0006_web.jpg" width="1325px"/>
+    </surface>
+    <surface n="2v (Item 2)">
+      <graphic height="6934px" url="master/1827_0007.tif" width="5106px"/>
+      <graphic height="190px" url="thumb/1827_0007_thumb.jpg" width="139px"/>
+      <graphic height="1800px" url="web/1827_0007_web.jpg" width="1325px"/>
+    </surface>
+    <surface n="3r (Item 2)">
+      <graphic height="6934px" url="master/1827_0008.tif" width="5106px"/>
+      <graphic height="190px" url="thumb/1827_0008_thumb.jpg" width="139px"/>
+      <graphic height="1800px" url="web/1827_0008_web.jpg" width="1325px"/>
+    </surface>
+    <surface n="3v (Item 2)">
+      <graphic height="6934px" url="master/1827_0009.tif" width="5106px"/>
+      <graphic height="190px" url="thumb/1827_0009_thumb.jpg" width="139px"/>
+      <graphic height="1800px" url="web/1827_0009_web.jpg" width="1325px"/>
+    </surface>
+    <surface n="4r (Item 2)">
+      <graphic height="6934px" url="master/1827_0010.tif" width="5106px"/>
+      <graphic height="190px" url="thumb/1827_0010_thumb.jpg" width="139px"/>
+      <graphic height="1800px" url="web/1827_0010_web.jpg" width="1325px"/>
+    </surface>
+    <surface n="4v (Item 2)">
+      <graphic height="6934px" url="master/1827_0011.tif" width="5106px"/>
+      <graphic height="190px" url="thumb/1827_0011_thumb.jpg" width="139px"/>
+      <graphic height="1800px" url="web/1827_0011_web.jpg" width="1325px"/>
+    </surface>
+    <surface n="1r (Item 3)">
+      <graphic height="6934px" url="master/1827_0012.tif" width="5106px"/>
+      <graphic height="190px" url="thumb/1827_0012_thumb.jpg" width="139px"/>
+      <graphic height="1800px" url="web/1827_0012_web.jpg" width="1325px"/>
+    </surface>
+    <surface n="1v (Item 3)">
+      <graphic height="6934px" url="master/1827_0013.tif" width="5106px"/>
+      <graphic height="190px" url="thumb/1827_0013_thumb.jpg" width="139px"/>
+      <graphic height="1800px" url="web/1827_0013_web.jpg" width="1325px"/>
+    </surface>
+    <surface n="2r (Item 3)">
+      <graphic height="6934px" url="master/1827_0014.tif" width="5106px"/>
+      <graphic height="190px" url="thumb/1827_0014_thumb.jpg" width="139px"/>
+      <graphic height="1800px" url="web/1827_0014_web.jpg" width="1325px"/>
+    </surface>
+    <surface n="2v (Item 3)">
+      <graphic height="6934px" url="master/1827_0015.tif" width="5106px"/>
+      <graphic height="190px" url="thumb/1827_0015_thumb.jpg" width="139px"/>
+      <graphic height="1800px" url="web/1827_0015_web.jpg" width="1325px"/>
+    </surface>
+    <surface n="1r (Item 4)">
+      <graphic height="6934px" url="master/1827_0016.tif" width="5106px"/>
+      <graphic height="190px" url="thumb/1827_0016_thumb.jpg" width="139px"/>
+      <graphic height="1800px" url="web/1827_0016_web.jpg" width="1325px"/>
+    </surface>
+    <surface n="1v (Item 4)">
+      <graphic height="6934px" url="master/1827_0017.tif" width="5106px"/>
+      <graphic height="190px" url="thumb/1827_0017_thumb.jpg" width="139px"/>
+      <graphic height="1800px" url="web/1827_0017_web.jpg" width="1325px"/>
+    </surface>
+    <surface n="2r (Item 4)">
+      <graphic height="6934px" url="master/1827_0018.tif" width="5106px"/>
+      <graphic height="190px" url="thumb/1827_0018_thumb.jpg" width="139px"/>
+      <graphic height="1800px" url="web/1827_0018_web.jpg" width="1325px"/>
+    </surface>
+    <surface n="2v (Item 4)">
+      <graphic height="6934px" url="master/1827_0019.tif" width="5106px"/>
+      <graphic height="190px" url="thumb/1827_0019_thumb.jpg" width="139px"/>
+      <graphic height="1800px" url="web/1827_0019_web.jpg" width="1325px"/>
+    </surface>
+    <surface n="1r (Item 5)">
+      <graphic height="6934px" url="master/1827_0020.tif" width="5106px"/>
+      <graphic height="190px" url="thumb/1827_0020_thumb.jpg" width="139px"/>
+      <graphic height="1800px" url="web/1827_0020_web.jpg" width="1325px"/>
+    </surface>
+    <surface n="1v (Item 5)">
+      <graphic height="6934px" url="master/1827_0021.tif" width="5106px"/>
+      <graphic height="190px" url="thumb/1827_0021_thumb.jpg" width="139px"/>
+      <graphic height="1800px" url="web/1827_0021_web.jpg" width="1325px"/>
+    </surface>
+    <surface n="2r (Item 5)">
+      <graphic height="6934px" url="master/1827_0022.tif" width="5106px"/>
+      <graphic height="190px" url="thumb/1827_0022_thumb.jpg" width="139px"/>
+      <graphic height="1800px" url="web/1827_0022_web.jpg" width="1325px"/>
+    </surface>
+    <surface n="2v (Item 5)">
+      <graphic height="6934px" url="master/1827_0023.tif" width="5106px"/>
+      <graphic height="190px" url="thumb/1827_0023_thumb.jpg" width="139px"/>
+      <graphic height="1800px" url="web/1827_0023_web.jpg" width="1325px"/>
+    </surface>
+    <surface n="3r (Item 5)">
+      <graphic height="6934px" url="master/1827_0024.tif" width="5106px"/>
+      <graphic height="190px" url="thumb/1827_0024_thumb.jpg" width="139px"/>
+      <graphic height="1800px" url="web/1827_0024_web.jpg" width="1325px"/>
+    </surface>
+    <surface n="3v (Item 5)">
+      <graphic height="6934px" url="master/1827_0025.tif" width="5106px"/>
+      <graphic height="190px" url="thumb/1827_0025_thumb.jpg" width="139px"/>
+      <graphic height="1800px" url="web/1827_0025_web.jpg" width="1325px"/>
+    </surface>
+    <surface n="4r (Item 5)">
+      <graphic height="6934px" url="master/1827_0026.tif" width="5106px"/>
+      <graphic height="190px" url="thumb/1827_0026_thumb.jpg" width="139px"/>
+      <graphic height="1800px" url="web/1827_0026_web.jpg" width="1325px"/>
+    </surface>
+    <surface n="4v (Item 5)">
+      <graphic height="6934px" url="master/1827_0027.tif" width="5106px"/>
+      <graphic height="190px" url="thumb/1827_0027_thumb.jpg" width="139px"/>
+      <graphic height="1800px" url="web/1827_0027_web.jpg" width="1325px"/>
+    </surface>
+  </facsimile>
+</TEI>

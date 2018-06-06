@@ -1,0 +1,136 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Description of University of Pennsylvania Misc Mss (Large) Box 2 Folder 1: Miscellaneous manuscripts</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>The University of Pennsylvania Libraries</publisher>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by/4.0/legalcode">
+                                This description is ©2016 University of
+                                Pennsylvania Libraries. It is licensed under a Creative Commons
+                                Attribution License version 4.0 (CC-BY-4.0
+                                https://creativecommons.org/licenses/by/4.0/legalcode. For a
+                                description of the terms of use see the Creative Commons Deed
+                                https://creativecommons.org/licenses/by/4.0/. </licence>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/"> All
+                                referenced images and their content are free of known copyright
+                                restrictions and in the public domain. See the Creative Commons
+                                Public Domain Mark page for usage details,
+                                http://creativecommons.org/publicdomain/mark/1.0/. </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <settlement>Philadelphia</settlement>
+            <institution>University of Pennsylvania</institution>
+            <repository>Rare Book &amp; Manuscript Library</repository>
+            <idno type="call-number">Misc Mss (Large) Box 2 Folder 1</idno>
+            <altIdentifier type="bibid">
+              <idno>4168506</idno>
+            </altIdentifier>
+            <altIdentifier type="resource">
+              <idno>http://hdl.library.upenn.edu/1017/d/medren/4168506</idno>
+            </altIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary>Letter addressed to the Lord Treasurer Lord Buckhurst informing him that Queen Elizabeth has granted by order under the Privy Seal money for Irish suitors or claimants and directing him to pay the towns and individuals listed in a document that formerly accompanied this one, now unknown. Signed by Sir Thomas Egerton, Master of the Rolls and Keeper of the Great Seal; Thomas Sackville, Lord Buckhurst; Charles Howard, Earl of Nottingham, Lord High Admiral; George Carey, Lord Hunsdon, Lord Chamberlain; Roger, Lord North, Treasurer of the Household; Sir William Knollys, Comptroller of the Household; Sir Robert Cecil, Secretary of State; Sir John Fortescue, Chancellor of the Exchequer; Sir John Popham, Lord Chief Justice; and Sir William Waad, Clerk of the Privy Council. Autograph note at the foot of the page signed by Buckhurst reads, "make an order for the payment of this."</summary>
+            <msItem>
+              <title>Miscellaneous manuscripts</title>
+              <author>England and Wales</author>
+              <author>Dorset, Thomas Sackville, Earl of, 1536-1608</author>
+              <respStmt>
+                <resp>signer</resp>
+                <persName>Egerton, Thomas, Sir, 1540?-1617</persName>
+              </respStmt>
+              <respStmt>
+                <resp>signer</resp>
+                <persName>Nottingham, Charles Howard, Earl of, ca. 1536-1624</persName>
+              </respStmt>
+              <respStmt>
+                <resp>signer</resp>
+                <persName>Hunsdon, George Carey, Baron, 1547-1603</persName>
+              </respStmt>
+              <respStmt>
+                <resp>signer</resp>
+                <persName>North, Roger, Baron, 1530-1600</persName>
+              </respStmt>
+              <respStmt>
+                <resp>signer</resp>
+                <persName>Banbury, William Knollys, Earl of, 1547-1632</persName>
+              </respStmt>
+              <respStmt>
+                <resp>signer</resp>
+                <persName>Salisbury, Robert Cecil, Earl of, 1563-1612</persName>
+              </respStmt>
+              <respStmt>
+                <resp>signer</resp>
+                <persName>Fortescue, John, Sir, 1531?-1607</persName>
+              </respStmt>
+              <respStmt>
+                <resp>signer</resp>
+                <persName>Popham, John, Sir, 1531?-1607</persName>
+              </respStmt>
+              <respStmt>
+                <resp>signer</resp>
+                <persName>Waad, William, Sir, 1546-1623</persName>
+              </respStmt>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc material="paper">
+                <support>
+                  <p>paper</p>
+                </support>
+                <extent>1 310 x 430 mm</extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin/>
+            <provenance>Sold at a charity auction during World War I to raise funds for the Red Cross (stamp in red ink of two shields).</provenance>
+            <provenance>Sold by Maggs Bros. (London), cat. 1410 (2007), no. 50.</provenance>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords n="subjects">
+          <term>British--Ireland--History--16th century</term>
+        </keywords>
+        <keywords n="form/genre">
+          <term>Executive records</term>
+          <term>Manuscripts, English--16th century</term>
+          <term>Manuscripts, Renaissance</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface n="1r">
+      <graphic height="5901px" url="master/1754_0000.tif" width="4332px"/>
+      <graphic height="190px" url="thumb/1754_0000_thumb.jpg" width="139px"/>
+      <graphic height="1800px" url="web/1754_0000_web.jpg" width="1321px"/>
+    </surface>
+    <surface n="1v">
+      <graphic height="5901px" url="master/1754_0001.tif" width="4332px"/>
+      <graphic height="190px" url="thumb/1754_0001_thumb.jpg" width="139px"/>
+      <graphic height="1800px" url="web/1754_0001_web.jpg" width="1321px"/>
+    </surface>
+    <surface n="2r">
+      <graphic height="5901px" url="master/1754_0002.tif" width="4332px"/>
+      <graphic height="190px" url="thumb/1754_0002_thumb.jpg" width="139px"/>
+      <graphic height="1800px" url="web/1754_0002_web.jpg" width="1321px"/>
+    </surface>
+    <surface n="2v">
+      <graphic height="5901px" url="master/1754_0003.tif" width="4332px"/>
+      <graphic height="190px" url="thumb/1754_0003_thumb.jpg" width="139px"/>
+      <graphic height="1800px" url="web/1754_0003_web.jpg" width="1321px"/>
+    </surface>
+  </facsimile>
+</TEI>

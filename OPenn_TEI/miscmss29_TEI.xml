@@ -1,0 +1,97 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Description of University of Pennsylvania Misc Mss 29: Miscellaneous manuscripts</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>The University of Pennsylvania Libraries</publisher>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by/4.0/legalcode">
+                                This description is ©2016 University of
+                                Pennsylvania Libraries. It is licensed under a Creative Commons
+                                Attribution License version 4.0 (CC-BY-4.0
+                                https://creativecommons.org/licenses/by/4.0/legalcode. For a
+                                description of the terms of use see the Creative Commons Deed
+                                https://creativecommons.org/licenses/by/4.0/. </licence>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/"> All
+                                referenced images and their content are free of known copyright
+                                restrictions and in the public domain. See the Creative Commons
+                                Public Domain Mark page for usage details,
+                                http://creativecommons.org/publicdomain/mark/1.0/. </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <settlement>Philadelphia</settlement>
+            <institution>University of Pennsylvania</institution>
+            <repository>Rare Book &amp; Manuscript Library</repository>
+            <idno type="call-number">Misc Mss 29</idno>
+            <altIdentifier type="bibid">
+              <idno>5783576</idno>
+            </altIdentifier>
+            <altIdentifier type="resource">
+              <idno>http://hdl.library.upenn.edu/1017/d/medren/5783576</idno>
+            </altIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary>2 disbound bifolia from a collection of horoscopes probably compiled in Italy. The left-hand side of each opening is printed with a blank horoscope chart, in a quadrate form. Each chart has annotations in Latin on the horoscope of a different individual, based on the orientation of the heavens at the time of birth, which is marked in the center of each chart. One bifolium has on one side the horoscope of Cesare d'Este, duke of Modena; the date in the center of the chart (October 1562, day uncertain) does not match his date of birth, but the accompanying notes record that he succeeded Alfonso II as duke in 1597 (the latest date on either bifolium). On the reverse is the horoscope of Vincenzo Gonzaga, duke of Mantua, born 21 September 1562. The second bifolium has on one side a horoscope marked with the name of Marie de Médicis, using the date of birth of 26 April 1575, but otherwise blank; on the reverse is a horoscope for an unidentified member of the House of Medici, possible date of birth 26 January 1517. An additional page of notes faces the unidentified horoscope, including the dates 1580, 1581, and 1587; it is unlikely that these notes faced that horoscope when the leaves were bound and thus probably do not refer to the unidentified individual. Slight worm damage.</summary>
+            <textLang>In Latin</textLang>
+            <msItem>
+              <title>Miscellaneous manuscripts</title>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc>
+                <extent>1</extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin/>
+            <provenance>Sold by Samuel Gedge Ltd., cat. XII (2012), no. 2.</provenance>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords n="subjects">
+          <term>Astrology--Early works to 1800</term>
+          <term>Horoscopes--Early works to 1800</term>
+        </keywords>
+        <keywords n="form/genre">
+          <term>Manuscripts, Italian--16th century</term>
+          <term>Manuscripts, Italian--17th century</term>
+          <term>Manuscripts, Renaissance</term>
+          <term>Manuscripts, European</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface n="Bifolium 1, Side 1">
+      <graphic height="3816px" url="master/1659_0000.tif" width="5312px"/>
+      <graphic height="136px" url="thumb/1659_0000_thumb.jpg" width="190px"/>
+      <graphic height="1293px" url="web/1659_0000_web.jpg" width="1800px"/>
+    </surface>
+    <surface n="Bifolium 1, Side 2">
+      <graphic height="3816px" url="master/1659_0001.tif" width="5312px"/>
+      <graphic height="136px" url="thumb/1659_0001_thumb.jpg" width="190px"/>
+      <graphic height="1293px" url="web/1659_0001_web.jpg" width="1800px"/>
+    </surface>
+    <surface n="Bifolium 2, Side 1">
+      <graphic height="3816px" url="master/1659_0002.tif" width="5312px"/>
+      <graphic height="136px" url="thumb/1659_0002_thumb.jpg" width="190px"/>
+      <graphic height="1293px" url="web/1659_0002_web.jpg" width="1800px"/>
+    </surface>
+    <surface n="Bifolium 2, Side 2">
+      <graphic height="3816px" url="master/1659_0003.tif" width="5312px"/>
+      <graphic height="136px" url="thumb/1659_0003_thumb.jpg" width="190px"/>
+      <graphic height="1293px" url="web/1659_0003_web.jpg" width="1800px"/>
+    </surface>
+  </facsimile>
+</TEI>

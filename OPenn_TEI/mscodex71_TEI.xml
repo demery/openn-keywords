@@ -1,0 +1,334 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Description of University of Pennsylvania Ms. Codex 71: Iuramentum capitulare, advocatorum per offitia rivoalti</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>The University of Pennsylvania Libraries</publisher>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by/4.0/legalcode">
+                                This description is ©2016 University of
+                                Pennsylvania Libraries. It is licensed under a Creative Commons
+                                Attribution License version 4.0 (CC-BY-4.0
+                                https://creativecommons.org/licenses/by/4.0/legalcode. For a
+                                description of the terms of use see the Creative Commons Deed
+                                https://creativecommons.org/licenses/by/4.0/. </licence>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/"> All
+                                referenced images and their content are free of known copyright
+                                restrictions and in the public domain. See the Creative Commons
+                                Public Domain Mark page for usage details,
+                                http://creativecommons.org/publicdomain/mark/1.0/. </licence>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note>Ms. codex.</note>
+        <note>Title from upper cover and caption title (f. 1r).</note>
+        <note>Incipit and explicit: (f. 1r) Iuro Ego Advocator offitiorum rivoalti, ad sancti dei ... (f. 15r) de ovibus supra et in expensis: [followed by colophon].</note>
+        <note>Colophon (f. 15r): Marco Zeni provedador de [comuni?] [suprascripsi?]. Francesco Contarini provedador de [comuni?] [suprascripsi?].</note>
+      </notesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <settlement>Philadelphia</settlement>
+            <institution>University of Pennsylvania</institution>
+            <repository>Rare Book &amp; Manuscript Library</repository>
+            <idno type="call-number">Ms. Codex 71</idno>
+            <altIdentifier type="bibid">
+              <idno>1580619</idno>
+            </altIdentifier>
+            <altIdentifier type="resource">
+              <idno>http://hdl.library.upenn.edu/1017/d/medren/1580619</idno>
+            </altIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary>Collection of oaths, duties, obligations, details of fees, periods of service, etc., of the four Advocati Rivoalti. The regulations are arranged chronologically, so as to give a historical picture of the development of the office.</summary>
+            <textLang mainLang="lat" otherLangs="ita">Some items in Latin, some in Italian</textLang>
+            <msItem>
+              <title>Iuramentum capitulare, advocatorum per offitia rivoalti</title>
+              <author>Venice (Italy)</author>
+              <author>Contarini, Francesco, -1558</author>
+              <author>Zeni, Marco</author>
+              <colophon>Colophon (f. 15r): Marco Zeni provedador de [comuni?] [suprascripsi?]. Francesco Contarini provedador de [comuni?] [suprascripsi?].</colophon>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc material="parchment">
+                <support>
+                  <p>parchment</p>
+                </support>
+                <extent>15 leaves : 205 x 142 (142 x 92) mm. bound to 212 x 153 mm</extent>
+                <collation>
+                  <p>Parchment, ii (contemporary paper) + 15 + ii (contemporary paper); [i]¹, 1-3², 4²(-1), [i]¹; [1-15]; modern foliation in pencil, upper right recto.</p>
+                </collation>
+              </supportDesc>
+            </objectDesc>
+            <scriptDesc>
+              <scriptNote>Written in a calligraphic humanistic book script by a single hand.</scriptNote>
+            </scriptDesc>
+            <decoDesc>
+              <decoNote>Illuminated inital "I" on blue background with white highlights (f. 1r); illuminated border with green vines gold leaves, with four coats of arms in lower margin (f. 1r); these might be the coats of arms of the four holders of the office at the date of the writing of the manuscript, though none appears to be the coat of arms of the Zeni or Contarini families. Red is used throughout the text for section headings and initials; blue is used throughout for initials. There are several small colored flourishes and leaf designs in the margins throughout.</decoNote>
+              <decoNote n="Front cover">Illustration, Lion of St. Mark, Front cover</decoNote>
+              <decoNote n="Front cover">Illuminated illustration, Foliate design, Front cover</decoNote>
+              <decoNote n="1r">Illuminated border, Coats of arms, f. 1r</decoNote>
+              <decoNote n="1r">Illuminated initial, Initial I, f. 1r</decoNote>
+              <decoNote n="6r">Manicule, f. 6r</decoNote>
+              <decoNote n="7r">Decorated descender, f. 7r</decoNote>
+              <decoNote n="12v">Decorated descender, f. 12v</decoNote>
+              <decoNote n="13v">Decorated descender, f. 13v</decoNote>
+            </decoDesc>
+            <bindingDesc>
+              <binding>
+                <p>Limp vellum, with title in red on front. Medallion on front cover decorated with lion of St. Mark, in blue and red. The cover also contains a small leaf design in green and gold, and an inscription in red giving the title. Venice, ca. 1526 or later; inscription on cover written in same hand as the text.</p>
+              </binding>
+            </bindingDesc>
+          </physDesc>
+          <history>
+            <origin>
+              <p>Written in Venice, 1526 or later; latest date given in the text is 18 July 1526 (f. 14v), but this is probably the date of the authorship of this section rather than the date of the copy.</p>
+              <origDate>after 1526</origDate>
+              <origPlace>Venice?</origPlace>
+            </origin>
+            <provenance>Sold by Davis and Orioli (Cat. 159, no. 94), 1958.</provenance>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords n="subjects">
+          <term>Venice (Italy).--Advocati rivoalti--Obligations (Law)</term>
+          <term>Venice (Italy)--Oaths</term>
+          <term>Venice (Italy)--Law and legislation</term>
+        </keywords>
+        <keywords n="form/genre">
+          <term>Codices</term>
+          <term>Illuminations</term>
+          <term>Oaths</term>
+          <term>Manuscripts, Latin--16th century</term>
+          <term>Manuscripts, Italian--16th century</term>
+          <term>Manuscripts, Renaissance</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface n="Front cover">
+      <graphic height="5657px" url="master/1538_0000.tif" width="4064px"/>
+      <graphic height="190px" url="thumb/1538_0000_thumb.jpg" width="136px"/>
+      <graphic height="1800px" url="web/1538_0000_web.jpg" width="1293px"/>
+    </surface>
+    <surface n="Inside front cover">
+      <graphic height="5657px" url="master/1538_0001.tif" width="4064px"/>
+      <graphic height="190px" url="thumb/1538_0001_thumb.jpg" width="136px"/>
+      <graphic height="1800px" url="web/1538_0001_web.jpg" width="1293px"/>
+    </surface>
+    <surface n="Flyleaf 1 recto">
+      <graphic height="5657px" url="master/1538_0002.tif" width="4064px"/>
+      <graphic height="190px" url="thumb/1538_0002_thumb.jpg" width="136px"/>
+      <graphic height="1800px" url="web/1538_0002_web.jpg" width="1293px"/>
+    </surface>
+    <surface n="Flyleaf 1 verso">
+      <graphic height="5657px" url="master/1538_0003.tif" width="4064px"/>
+      <graphic height="190px" url="thumb/1538_0003_thumb.jpg" width="136px"/>
+      <graphic height="1800px" url="web/1538_0003_web.jpg" width="1293px"/>
+    </surface>
+    <surface n="Flyleaf 2 recto">
+      <graphic height="5657px" url="master/1538_0004.tif" width="4064px"/>
+      <graphic height="190px" url="thumb/1538_0004_thumb.jpg" width="136px"/>
+      <graphic height="1800px" url="web/1538_0004_web.jpg" width="1293px"/>
+    </surface>
+    <surface n="Flyleaf 2 verso">
+      <graphic height="5657px" url="master/1538_0005.tif" width="4064px"/>
+      <graphic height="190px" url="thumb/1538_0005_thumb.jpg" width="136px"/>
+      <graphic height="1800px" url="web/1538_0005_web.jpg" width="1293px"/>
+    </surface>
+    <surface n="1r">
+      <graphic height="5657px" url="master/1538_0006.tif" width="4064px"/>
+      <graphic height="190px" url="thumb/1538_0006_thumb.jpg" width="136px"/>
+      <graphic height="1800px" url="web/1538_0006_web.jpg" width="1293px"/>
+    </surface>
+    <surface n="1v">
+      <graphic height="5657px" url="master/1538_0007.tif" width="4064px"/>
+      <graphic height="190px" url="thumb/1538_0007_thumb.jpg" width="136px"/>
+      <graphic height="1800px" url="web/1538_0007_web.jpg" width="1293px"/>
+    </surface>
+    <surface n="2r">
+      <graphic height="5657px" url="master/1538_0008.tif" width="4064px"/>
+      <graphic height="190px" url="thumb/1538_0008_thumb.jpg" width="136px"/>
+      <graphic height="1800px" url="web/1538_0008_web.jpg" width="1293px"/>
+    </surface>
+    <surface n="2v">
+      <graphic height="5657px" url="master/1538_0009.tif" width="4064px"/>
+      <graphic height="190px" url="thumb/1538_0009_thumb.jpg" width="136px"/>
+      <graphic height="1800px" url="web/1538_0009_web.jpg" width="1293px"/>
+    </surface>
+    <surface n="3r">
+      <graphic height="5657px" url="master/1538_0010.tif" width="4064px"/>
+      <graphic height="190px" url="thumb/1538_0010_thumb.jpg" width="136px"/>
+      <graphic height="1800px" url="web/1538_0010_web.jpg" width="1293px"/>
+    </surface>
+    <surface n="3v">
+      <graphic height="5657px" url="master/1538_0011.tif" width="4064px"/>
+      <graphic height="190px" url="thumb/1538_0011_thumb.jpg" width="136px"/>
+      <graphic height="1800px" url="web/1538_0011_web.jpg" width="1293px"/>
+    </surface>
+    <surface n="4r">
+      <graphic height="5657px" url="master/1538_0012.tif" width="4064px"/>
+      <graphic height="190px" url="thumb/1538_0012_thumb.jpg" width="136px"/>
+      <graphic height="1800px" url="web/1538_0012_web.jpg" width="1293px"/>
+    </surface>
+    <surface n="4v">
+      <graphic height="5657px" url="master/1538_0013.tif" width="4064px"/>
+      <graphic height="190px" url="thumb/1538_0013_thumb.jpg" width="136px"/>
+      <graphic height="1800px" url="web/1538_0013_web.jpg" width="1293px"/>
+    </surface>
+    <surface n="5r">
+      <graphic height="5657px" url="master/1538_0014.tif" width="4064px"/>
+      <graphic height="190px" url="thumb/1538_0014_thumb.jpg" width="136px"/>
+      <graphic height="1800px" url="web/1538_0014_web.jpg" width="1293px"/>
+    </surface>
+    <surface n="5v">
+      <graphic height="5657px" url="master/1538_0015.tif" width="4064px"/>
+      <graphic height="190px" url="thumb/1538_0015_thumb.jpg" width="136px"/>
+      <graphic height="1800px" url="web/1538_0015_web.jpg" width="1293px"/>
+    </surface>
+    <surface n="6r">
+      <graphic height="5657px" url="master/1538_0016.tif" width="4064px"/>
+      <graphic height="190px" url="thumb/1538_0016_thumb.jpg" width="136px"/>
+      <graphic height="1800px" url="web/1538_0016_web.jpg" width="1293px"/>
+    </surface>
+    <surface n="6v">
+      <graphic height="5657px" url="master/1538_0017.tif" width="4064px"/>
+      <graphic height="190px" url="thumb/1538_0017_thumb.jpg" width="136px"/>
+      <graphic height="1800px" url="web/1538_0017_web.jpg" width="1293px"/>
+    </surface>
+    <surface n="7r">
+      <graphic height="5657px" url="master/1538_0018.tif" width="4064px"/>
+      <graphic height="190px" url="thumb/1538_0018_thumb.jpg" width="136px"/>
+      <graphic height="1800px" url="web/1538_0018_web.jpg" width="1293px"/>
+    </surface>
+    <surface n="7v">
+      <graphic height="5657px" url="master/1538_0019.tif" width="4064px"/>
+      <graphic height="190px" url="thumb/1538_0019_thumb.jpg" width="136px"/>
+      <graphic height="1800px" url="web/1538_0019_web.jpg" width="1293px"/>
+    </surface>
+    <surface n="8r">
+      <graphic height="5657px" url="master/1538_0020.tif" width="4064px"/>
+      <graphic height="190px" url="thumb/1538_0020_thumb.jpg" width="136px"/>
+      <graphic height="1800px" url="web/1538_0020_web.jpg" width="1293px"/>
+    </surface>
+    <surface n="8v">
+      <graphic height="5657px" url="master/1538_0021.tif" width="4064px"/>
+      <graphic height="190px" url="thumb/1538_0021_thumb.jpg" width="136px"/>
+      <graphic height="1800px" url="web/1538_0021_web.jpg" width="1293px"/>
+    </surface>
+    <surface n="9r">
+      <graphic height="5657px" url="master/1538_0022.tif" width="4064px"/>
+      <graphic height="190px" url="thumb/1538_0022_thumb.jpg" width="136px"/>
+      <graphic height="1800px" url="web/1538_0022_web.jpg" width="1293px"/>
+    </surface>
+    <surface n="9v">
+      <graphic height="5657px" url="master/1538_0023.tif" width="4064px"/>
+      <graphic height="190px" url="thumb/1538_0023_thumb.jpg" width="136px"/>
+      <graphic height="1800px" url="web/1538_0023_web.jpg" width="1293px"/>
+    </surface>
+    <surface n="10r">
+      <graphic height="5657px" url="master/1538_0024.tif" width="4064px"/>
+      <graphic height="190px" url="thumb/1538_0024_thumb.jpg" width="136px"/>
+      <graphic height="1800px" url="web/1538_0024_web.jpg" width="1293px"/>
+    </surface>
+    <surface n="10v">
+      <graphic height="5657px" url="master/1538_0025.tif" width="4064px"/>
+      <graphic height="190px" url="thumb/1538_0025_thumb.jpg" width="136px"/>
+      <graphic height="1800px" url="web/1538_0025_web.jpg" width="1293px"/>
+    </surface>
+    <surface n="11r">
+      <graphic height="5657px" url="master/1538_0026.tif" width="4064px"/>
+      <graphic height="190px" url="thumb/1538_0026_thumb.jpg" width="136px"/>
+      <graphic height="1800px" url="web/1538_0026_web.jpg" width="1293px"/>
+    </surface>
+    <surface n="11v">
+      <graphic height="5657px" url="master/1538_0027.tif" width="4064px"/>
+      <graphic height="190px" url="thumb/1538_0027_thumb.jpg" width="136px"/>
+      <graphic height="1800px" url="web/1538_0027_web.jpg" width="1293px"/>
+    </surface>
+    <surface n="12r">
+      <graphic height="5657px" url="master/1538_0028.tif" width="4064px"/>
+      <graphic height="190px" url="thumb/1538_0028_thumb.jpg" width="136px"/>
+      <graphic height="1800px" url="web/1538_0028_web.jpg" width="1293px"/>
+    </surface>
+    <surface n="12v">
+      <graphic height="5657px" url="master/1538_0029.tif" width="4064px"/>
+      <graphic height="190px" url="thumb/1538_0029_thumb.jpg" width="136px"/>
+      <graphic height="1800px" url="web/1538_0029_web.jpg" width="1293px"/>
+    </surface>
+    <surface n="13r">
+      <graphic height="5657px" url="master/1538_0030.tif" width="4064px"/>
+      <graphic height="190px" url="thumb/1538_0030_thumb.jpg" width="136px"/>
+      <graphic height="1800px" url="web/1538_0030_web.jpg" width="1293px"/>
+    </surface>
+    <surface n="13v">
+      <graphic height="5657px" url="master/1538_0031.tif" width="4064px"/>
+      <graphic height="190px" url="thumb/1538_0031_thumb.jpg" width="136px"/>
+      <graphic height="1800px" url="web/1538_0031_web.jpg" width="1293px"/>
+    </surface>
+    <surface n="14r">
+      <graphic height="5657px" url="master/1538_0032.tif" width="4064px"/>
+      <graphic height="190px" url="thumb/1538_0032_thumb.jpg" width="136px"/>
+      <graphic height="1800px" url="web/1538_0032_web.jpg" width="1293px"/>
+    </surface>
+    <surface n="14v">
+      <graphic height="5657px" url="master/1538_0033.tif" width="4064px"/>
+      <graphic height="190px" url="thumb/1538_0033_thumb.jpg" width="136px"/>
+      <graphic height="1800px" url="web/1538_0033_web.jpg" width="1293px"/>
+    </surface>
+    <surface n="15r">
+      <graphic height="5657px" url="master/1538_0034.tif" width="4064px"/>
+      <graphic height="190px" url="thumb/1538_0034_thumb.jpg" width="136px"/>
+      <graphic height="1800px" url="web/1538_0034_web.jpg" width="1293px"/>
+    </surface>
+    <surface n="15v">
+      <graphic height="5657px" url="master/1538_0035.tif" width="4064px"/>
+      <graphic height="190px" url="thumb/1538_0035_thumb.jpg" width="136px"/>
+      <graphic height="1800px" url="web/1538_0035_web.jpg" width="1293px"/>
+    </surface>
+    <surface n="Flyleaf 1 recto">
+      <graphic height="5657px" url="master/1538_0036.tif" width="4064px"/>
+      <graphic height="190px" url="thumb/1538_0036_thumb.jpg" width="136px"/>
+      <graphic height="1800px" url="web/1538_0036_web.jpg" width="1293px"/>
+    </surface>
+    <surface n="Flyleaf 1 verso">
+      <graphic height="5657px" url="master/1538_0037.tif" width="4064px"/>
+      <graphic height="190px" url="thumb/1538_0037_thumb.jpg" width="136px"/>
+      <graphic height="1800px" url="web/1538_0037_web.jpg" width="1293px"/>
+    </surface>
+    <surface n="Flyleaf 2 recto">
+      <graphic height="5657px" url="master/1538_0038.tif" width="4064px"/>
+      <graphic height="190px" url="thumb/1538_0038_thumb.jpg" width="136px"/>
+      <graphic height="1800px" url="web/1538_0038_web.jpg" width="1293px"/>
+    </surface>
+    <surface n="Flyleaf 2 verso">
+      <graphic height="5657px" url="master/1538_0039.tif" width="4064px"/>
+      <graphic height="190px" url="thumb/1538_0039_thumb.jpg" width="136px"/>
+      <graphic height="1800px" url="web/1538_0039_web.jpg" width="1293px"/>
+    </surface>
+    <surface n="Inside back cover">
+      <graphic height="5657px" url="master/1538_0040.tif" width="4064px"/>
+      <graphic height="190px" url="thumb/1538_0040_thumb.jpg" width="136px"/>
+      <graphic height="1800px" url="web/1538_0040_web.jpg" width="1293px"/>
+    </surface>
+    <surface n="Back cover">
+      <graphic height="5657px" url="master/1538_0041.tif" width="4064px"/>
+      <graphic height="190px" url="thumb/1538_0041_thumb.jpg" width="136px"/>
+      <graphic height="1800px" url="web/1538_0041_web.jpg" width="1293px"/>
+    </surface>
+    <surface n="Spine">
+      <graphic height="5657px" url="master/1538_0042.tif" width="4064px"/>
+      <graphic height="190px" url="thumb/1538_0042_thumb.jpg" width="136px"/>
+      <graphic height="1800px" url="web/1538_0042_web.jpg" width="1293px"/>
+    </surface>
+  </facsimile>
+</TEI>

@@ -1,0 +1,291 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Description of University of Pennsylvania Ms. Codex 80: Statuta civitatis Castelli</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>The University of Pennsylvania Libraries</publisher>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by/4.0/legalcode">
+                                This description is ©2015 University of
+                                Pennsylvania Libraries. It is licensed under a Creative Commons
+                                Attribution License version 4.0 (CC-BY-4.0
+                                https://creativecommons.org/licenses/by/4.0/legalcode. For a
+                                description of the terms of use see the Creative Commons Deed
+                                https://creativecommons.org/licenses/by/4.0/. </licence>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/"> All
+                                referenced images and their content are free of known copyright
+                                restrictions and in the public domain. See the Creative Commons
+                                Public Domain Mark page for usage details,
+                                http://creativecommons.org/publicdomain/mark/1.0/. </licence>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note>Ms. codex.</note>
+        <note>Title from f. 3v and 7r.</note>
+        <note>Incipit has faded; it would be legible under ultraviolet light.</note>
+        <note>Colophon (f. 5v-6r) gives the name of the notary and the date: Ego ho[norius?] sancti jacobi filius Monete ...</note>
+      </notesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <settlement>Philadelphia</settlement>
+            <institution>University of Pennsylvania</institution>
+            <repository>Rare Book &amp; Manuscript Library</repository>
+            <idno type="call-number">Ms. Codex 80</idno>
+            <altIdentifier type="bibid">
+              <idno>1580388</idno>
+            </altIdentifier>
+            <altIdentifier type="resource">
+              <idno>http://hdl.library.upenn.edu/1017/d/medren/1580388</idno>
+            </altIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary>Statutes of Città di Castello, in Umbria in Italy. The first section is dated 1261 (f. 1r-5v); the second section contains additions by the same scribe, also dated 1261 (f. 5v-6v); the third section contains further statutes, dated 1273 (f. 7r-14v).</summary>
+            <textLang>Latin</textLang>
+            <msItem>
+              <title>Statuta civitatis Castelli</title>
+              <author>Honorius, Sancti Jacobi filius</author>
+              <colophon>Colophon (f. 5v-6r) gives the name of the notary and the date: Ego ho[norius?] sancti jacobi filius Monete ...</colophon>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc material="parchment">
+                <support>
+                  <p>parchment</p>
+                </support>
+                <extent>14 leaves : 415 x 304 mm. bound to 430 x 306 mm</extent>
+                <collation>
+                  <p>Parchment, i (modern paper) + 14 + i (modern paper); I³, II⁴; [1-14]; modern foliation in pencil, lower right recto; single catchword in frame (f. 14v).</p>
+                </collation>
+              </supportDesc>
+              <layoutDesc>
+                <layout>Written in two columns of 50-55 lines; frame-ruled in lead; prickings visible.</layout>
+              </layoutDesc>
+            </objectDesc>
+            <scriptDesc>
+              <scriptNote>Written in a Gothic cursive script by multiple hands, with marginalia and corrections also in various hands.</scriptNote>
+            </scriptDesc>
+            <bindingDesc>
+              <binding>
+                <p>Vellum over cardboard, with ties woven through slits in front and back, 20th century; cover boards slightly warped, vellum split and peeling off boards around the edges.</p>
+              </binding>
+            </bindingDesc>
+          </physDesc>
+          <history>
+            <origin>
+              <p>Written in Italy in the second half of the 13th century; f. 5v gives date of 1261; f. 7v gives 1273.</p>
+              <origDate>between 1261 and 1273</origDate>
+              <origPlace>Città di Castello (Italy)</origPlace>
+            </origin>
+            <provenance>Archivio Magherini Grazziani (from Rudolf Hirsch's notes).</provenance>
+            <provenance>Purchased, 1954.</provenance>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords n="subjects">
+          <term>Law--Italy--Città di Castello</term>
+        </keywords>
+        <keywords n="form/genre">
+          <term>Codices</term>
+          <term>Statutes</term>
+          <term>Manuscripts, Latin--13th century</term>
+          <term>Manuscripts, Medieval</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface n="Front cover">
+      <graphic height="5484px" url="master/0494_0000.tif" width="5095px"/>
+      <graphic height="190px" url="thumb/0494_0000_thumb.jpg" width="176px"/>
+      <graphic height="1800px" url="web/0494_0000_web.jpg" width="1672px"/>
+    </surface>
+    <surface n="Inside front cover">
+      <graphic height="5315px" url="master/0494_0001.tif" width="3866px"/>
+      <graphic height="190px" url="thumb/0494_0001_thumb.jpg" width="138px"/>
+      <graphic height="1800px" url="web/0494_0001_web.jpg" width="1309px"/>
+    </surface>
+    <surface n="Flyleaf 1 recto">
+      <graphic height="5315px" url="master/0494_0002.tif" width="3866px"/>
+      <graphic height="190px" url="thumb/0494_0002_thumb.jpg" width="138px"/>
+      <graphic height="1800px" url="web/0494_0002_web.jpg" width="1309px"/>
+    </surface>
+    <surface n="Flyleaf 1 verso">
+      <graphic height="5315px" url="master/0494_0003.tif" width="3866px"/>
+      <graphic height="190px" url="thumb/0494_0003_thumb.jpg" width="138px"/>
+      <graphic height="1800px" url="web/0494_0003_web.jpg" width="1309px"/>
+    </surface>
+    <surface n="1r">
+      <graphic height="5315px" url="master/0494_0004.tif" width="3866px"/>
+      <graphic height="190px" url="thumb/0494_0004_thumb.jpg" width="138px"/>
+      <graphic height="1800px" url="web/0494_0004_web.jpg" width="1309px"/>
+    </surface>
+    <surface n="1v">
+      <graphic height="5315px" url="master/0494_0005.tif" width="3866px"/>
+      <graphic height="190px" url="thumb/0494_0005_thumb.jpg" width="138px"/>
+      <graphic height="1800px" url="web/0494_0005_web.jpg" width="1309px"/>
+    </surface>
+    <surface n="2r">
+      <graphic height="5315px" url="master/0494_0006.tif" width="3866px"/>
+      <graphic height="190px" url="thumb/0494_0006_thumb.jpg" width="138px"/>
+      <graphic height="1800px" url="web/0494_0006_web.jpg" width="1309px"/>
+    </surface>
+    <surface n="2v">
+      <graphic height="5315px" url="master/0494_0007.tif" width="3866px"/>
+      <graphic height="190px" url="thumb/0494_0007_thumb.jpg" width="138px"/>
+      <graphic height="1800px" url="web/0494_0007_web.jpg" width="1309px"/>
+    </surface>
+    <surface n="3r">
+      <graphic height="5315px" url="master/0494_0008.tif" width="3866px"/>
+      <graphic height="190px" url="thumb/0494_0008_thumb.jpg" width="138px"/>
+      <graphic height="1800px" url="web/0494_0008_web.jpg" width="1309px"/>
+    </surface>
+    <surface n="3v">
+      <graphic height="5315px" url="master/0494_0009.tif" width="3866px"/>
+      <graphic height="190px" url="thumb/0494_0009_thumb.jpg" width="138px"/>
+      <graphic height="1800px" url="web/0494_0009_web.jpg" width="1309px"/>
+    </surface>
+    <surface n="4r">
+      <graphic height="5315px" url="master/0494_0010.tif" width="3866px"/>
+      <graphic height="190px" url="thumb/0494_0010_thumb.jpg" width="138px"/>
+      <graphic height="1800px" url="web/0494_0010_web.jpg" width="1309px"/>
+    </surface>
+    <surface n="4v">
+      <graphic height="5315px" url="master/0494_0011.tif" width="3866px"/>
+      <graphic height="190px" url="thumb/0494_0011_thumb.jpg" width="138px"/>
+      <graphic height="1800px" url="web/0494_0011_web.jpg" width="1309px"/>
+    </surface>
+    <surface n="5r">
+      <graphic height="5315px" url="master/0494_0012.tif" width="3866px"/>
+      <graphic height="190px" url="thumb/0494_0012_thumb.jpg" width="138px"/>
+      <graphic height="1800px" url="web/0494_0012_web.jpg" width="1309px"/>
+    </surface>
+    <surface n="5v">
+      <graphic height="5315px" url="master/0494_0013.tif" width="3866px"/>
+      <graphic height="190px" url="thumb/0494_0013_thumb.jpg" width="138px"/>
+      <graphic height="1800px" url="web/0494_0013_web.jpg" width="1309px"/>
+    </surface>
+    <surface n="6r">
+      <graphic height="5315px" url="master/0494_0014.tif" width="3866px"/>
+      <graphic height="190px" url="thumb/0494_0014_thumb.jpg" width="138px"/>
+      <graphic height="1800px" url="web/0494_0014_web.jpg" width="1309px"/>
+    </surface>
+    <surface n="6v">
+      <graphic height="5315px" url="master/0494_0015.tif" width="3866px"/>
+      <graphic height="190px" url="thumb/0494_0015_thumb.jpg" width="138px"/>
+      <graphic height="1800px" url="web/0494_0015_web.jpg" width="1309px"/>
+    </surface>
+    <surface n="7r">
+      <graphic height="5315px" url="master/0494_0016.tif" width="3866px"/>
+      <graphic height="190px" url="thumb/0494_0016_thumb.jpg" width="138px"/>
+      <graphic height="1800px" url="web/0494_0016_web.jpg" width="1309px"/>
+    </surface>
+    <surface n="7v">
+      <graphic height="5315px" url="master/0494_0017.tif" width="3866px"/>
+      <graphic height="190px" url="thumb/0494_0017_thumb.jpg" width="138px"/>
+      <graphic height="1800px" url="web/0494_0017_web.jpg" width="1309px"/>
+    </surface>
+    <surface n="8r">
+      <graphic height="5315px" url="master/0494_0018.tif" width="3866px"/>
+      <graphic height="190px" url="thumb/0494_0018_thumb.jpg" width="138px"/>
+      <graphic height="1800px" url="web/0494_0018_web.jpg" width="1309px"/>
+    </surface>
+    <surface n="8v">
+      <graphic height="5315px" url="master/0494_0019.tif" width="3866px"/>
+      <graphic height="190px" url="thumb/0494_0019_thumb.jpg" width="138px"/>
+      <graphic height="1800px" url="web/0494_0019_web.jpg" width="1309px"/>
+    </surface>
+    <surface n="9r">
+      <graphic height="5315px" url="master/0494_0020.tif" width="3866px"/>
+      <graphic height="190px" url="thumb/0494_0020_thumb.jpg" width="138px"/>
+      <graphic height="1800px" url="web/0494_0020_web.jpg" width="1309px"/>
+    </surface>
+    <surface n="9v">
+      <graphic height="5315px" url="master/0494_0021.tif" width="3866px"/>
+      <graphic height="190px" url="thumb/0494_0021_thumb.jpg" width="138px"/>
+      <graphic height="1800px" url="web/0494_0021_web.jpg" width="1309px"/>
+    </surface>
+    <surface n="10r">
+      <graphic height="5315px" url="master/0494_0022.tif" width="3866px"/>
+      <graphic height="190px" url="thumb/0494_0022_thumb.jpg" width="138px"/>
+      <graphic height="1800px" url="web/0494_0022_web.jpg" width="1309px"/>
+    </surface>
+    <surface n="10v">
+      <graphic height="5315px" url="master/0494_0023.tif" width="3866px"/>
+      <graphic height="190px" url="thumb/0494_0023_thumb.jpg" width="138px"/>
+      <graphic height="1800px" url="web/0494_0023_web.jpg" width="1309px"/>
+    </surface>
+    <surface n="11r">
+      <graphic height="5315px" url="master/0494_0024.tif" width="3866px"/>
+      <graphic height="190px" url="thumb/0494_0024_thumb.jpg" width="138px"/>
+      <graphic height="1800px" url="web/0494_0024_web.jpg" width="1309px"/>
+    </surface>
+    <surface n="11v">
+      <graphic height="5315px" url="master/0494_0025.tif" width="3866px"/>
+      <graphic height="190px" url="thumb/0494_0025_thumb.jpg" width="138px"/>
+      <graphic height="1800px" url="web/0494_0025_web.jpg" width="1309px"/>
+    </surface>
+    <surface n="12r">
+      <graphic height="5315px" url="master/0494_0026.tif" width="3866px"/>
+      <graphic height="190px" url="thumb/0494_0026_thumb.jpg" width="138px"/>
+      <graphic height="1800px" url="web/0494_0026_web.jpg" width="1309px"/>
+    </surface>
+    <surface n="12v">
+      <graphic height="5315px" url="master/0494_0027.tif" width="3866px"/>
+      <graphic height="190px" url="thumb/0494_0027_thumb.jpg" width="138px"/>
+      <graphic height="1800px" url="web/0494_0027_web.jpg" width="1309px"/>
+    </surface>
+    <surface n="13r">
+      <graphic height="5315px" url="master/0494_0028.tif" width="3866px"/>
+      <graphic height="190px" url="thumb/0494_0028_thumb.jpg" width="138px"/>
+      <graphic height="1800px" url="web/0494_0028_web.jpg" width="1309px"/>
+    </surface>
+    <surface n="13v">
+      <graphic height="5315px" url="master/0494_0029.tif" width="3866px"/>
+      <graphic height="190px" url="thumb/0494_0029_thumb.jpg" width="138px"/>
+      <graphic height="1800px" url="web/0494_0029_web.jpg" width="1309px"/>
+    </surface>
+    <surface n="14r">
+      <graphic height="5315px" url="master/0494_0030.tif" width="3866px"/>
+      <graphic height="190px" url="thumb/0494_0030_thumb.jpg" width="138px"/>
+      <graphic height="1800px" url="web/0494_0030_web.jpg" width="1309px"/>
+    </surface>
+    <surface n="14v">
+      <graphic height="5315px" url="master/0494_0031.tif" width="3866px"/>
+      <graphic height="190px" url="thumb/0494_0031_thumb.jpg" width="138px"/>
+      <graphic height="1800px" url="web/0494_0031_web.jpg" width="1309px"/>
+    </surface>
+    <surface n="Flyleaf 1 recto">
+      <graphic height="5315px" url="master/0494_0032.tif" width="3866px"/>
+      <graphic height="190px" url="thumb/0494_0032_thumb.jpg" width="138px"/>
+      <graphic height="1800px" url="web/0494_0032_web.jpg" width="1309px"/>
+    </surface>
+    <surface n="Flyleaf 1 verso">
+      <graphic height="5315px" url="master/0494_0033.tif" width="3866px"/>
+      <graphic height="190px" url="thumb/0494_0033_thumb.jpg" width="138px"/>
+      <graphic height="1800px" url="web/0494_0033_web.jpg" width="1309px"/>
+    </surface>
+    <surface n="Inside back cover">
+      <graphic height="5315px" url="master/0494_0034.tif" width="3866px"/>
+      <graphic height="190px" url="thumb/0494_0034_thumb.jpg" width="138px"/>
+      <graphic height="1800px" url="web/0494_0034_web.jpg" width="1309px"/>
+    </surface>
+    <surface n="Back cover">
+      <graphic height="5484px" url="master/0494_0035.tif" width="5095px"/>
+      <graphic height="190px" url="thumb/0494_0035_thumb.jpg" width="176px"/>
+      <graphic height="1800px" url="web/0494_0035_web.jpg" width="1672px"/>
+    </surface>
+    <surface n="Spine">
+      <graphic height="5481px" url="master/0494_0036.tif" width="5073px"/>
+      <graphic height="190px" url="thumb/0494_0036_thumb.jpg" width="176px"/>
+      <graphic height="1800px" url="web/0494_0036_web.jpg" width="1666px"/>
+    </surface>
+  </facsimile>
+</TEI>

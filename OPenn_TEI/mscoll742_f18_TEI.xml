@@ -1,0 +1,97 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Description of University of Pennsylvania Ms. Coll. 742: Consilium generale decision</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>The University of Pennsylvania Libraries</publisher>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by/4.0/legalcode">
+                                This description is ©2016 University of
+                                Pennsylvania Libraries. It is licensed under a Creative Commons
+                                Attribution License version 4.0 (CC-BY-4.0
+                                https://creativecommons.org/licenses/by/4.0/legalcode. For a
+                                description of the terms of use see the Creative Commons Deed
+                                https://creativecommons.org/licenses/by/4.0/. </licence>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/"> All
+                                referenced images and their content are free of known copyright
+                                restrictions and in the public domain. See the Creative Commons
+                                Public Domain Mark page for usage details,
+                                http://creativecommons.org/publicdomain/mark/1.0/. </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <settlement>Philadelphia</settlement>
+            <institution>University of Pennsylvania</institution>
+            <repository>Rare Book &amp; Manuscript Library</repository>
+            <idno type="call-number">Ms. Coll. 742</idno>
+            <altIdentifier type="bibid">
+              <idno>4760254</idno>
+            </altIdentifier>
+            <altIdentifier type="resource">
+              <idno>http://hdl.library.upenn.edu/1017/d/medren/4760254</idno>
+            </altIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary>A decision, dated October 1363 (day lost in damage to upper right corner), by the Consilium generale of Siena to purchase two portions of territory in the town of Batignano, located in the Grosseto province of Italy, belonging to Spinello, Pietro, and Tommaso de Piccholominibus, sons of Salomon de Piccholominibus. Spinello and Pietro held important public offices in Siena until the mid-14th century, but Spinello was beheaded as a rebel shortly after this decision. Tommaso was also banished as a rebel and later beheaded in Rome after fighting in the mercenary Company of Saint George (which destroyed much of Italy in the mid-14th century) in 1366 and consequently being imprisoned in Naples. Spinello's descendants became the Piccolomini-Salamoneschi branch, which is now the Piccolomini-d'Aragona branch. A third portion of the town already belonged to the community after it was confiscated from Tommaso. Manuscript is written on a very long piece of parchment, which is cut off at the bottom.</summary>
+            <textLang>In Latin</textLang>
+            <msItem>
+              <title>Consilium generale decision</title>
+              <author>Siena (Italy)</author>
+              <respStmt>
+                <resp>former owner</resp>
+                <persName>North, Frederick, Earl of Guilford, 1766-1827</persName>
+              </respStmt>
+              <respStmt>
+                <resp>former owner</resp>
+                <persName>Phillipps, Thomas, Sir, 1792-1872</persName>
+              </respStmt>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc material="parchment.">
+                <support>
+                  <p>parchment.</p>
+                </support>
+                <extent>1</extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin/>
+            <provenance>Formerly owned by Frederick North, Earl of Guilford, and Sir Thomas Phillipps (part of ms. 6067).</provenance>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords n="subjects">
+          <term>Real property--Italy--14th century</term>
+        </keywords>
+        <keywords n="form/genre">
+          <term>Legal documents</term>
+          <term>Manuscripts, Latin--14th century</term>
+          <term>Manuscripts, Renaissance</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface n="Side 1">
+      <graphic height="19524px" url="master/1826_0000.tif" width="3597px"/>
+      <graphic height="190px" url="thumb/1826_0000_thumb.jpg" width="35px"/>
+      <graphic height="1800px" url="web/1826_0000_web.jpg" width="331px"/>
+    </surface>
+    <surface n="Side 2">
+      <graphic height="19470px" url="master/1826_0001.tif" width="3464px"/>
+      <graphic height="190px" url="thumb/1826_0001_thumb.jpg" width="33px"/>
+      <graphic height="1800px" url="web/1826_0001_web.jpg" width="320px"/>
+    </surface>
+  </facsimile>
+</TEI>

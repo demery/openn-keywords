@@ -1,0 +1,99 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Description of University of Pennsylvania Misc Mss (Large) Box 2 Folder 22: Miscellaneous manuscripts (Large)</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>The University of Pennsylvania Libraries</publisher>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by/4.0/legalcode">
+                                This description is ©2016 University of
+                                Pennsylvania Libraries. It is licensed under a Creative Commons
+                                Attribution License version 4.0 (CC-BY-4.0
+                                https://creativecommons.org/licenses/by/4.0/legalcode. For a
+                                description of the terms of use see the Creative Commons Deed
+                                https://creativecommons.org/licenses/by/4.0/. </licence>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/"> All
+                                referenced images and their content are free of known copyright
+                                restrictions and in the public domain. See the Creative Commons
+                                Public Domain Mark page for usage details,
+                                http://creativecommons.org/publicdomain/mark/1.0/. </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <settlement>Philadelphia</settlement>
+            <institution>University of Pennsylvania</institution>
+            <repository>Rare Book &amp; Manuscript Library</repository>
+            <idno type="call-number">Misc Mss (Large) Box 2 Folder 22</idno>
+            <altIdentifier type="bibid">
+              <idno>4368626</idno>
+            </altIdentifier>
+            <altIdentifier type="resource">
+              <idno>http://hdl.library.upenn.edu/1017/d/medren/4368626</idno>
+            </altIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary>Two documents, from Piacenza, Italy, on one vellum bifolium. The first is an acknowledgment of a sum of 1000 pounds as a dowry for Lucia de Medicis, who was to marry Innocentius, the son of Antoninus Antonii. The second concerns the completion of notarial documents of the deceased notary Leonardus Casalis, by the notary Albertus Penna. There is a notarial signet for each of the two notaries.</summary>
+            <textLang>In Latin</textLang>
+            <msItem>
+              <title>Miscellaneous manuscripts (Large)</title>
+              <author>Penna, Albertus</author>
+              <author>Casalis, Bartholomeus</author>
+              <respStmt>
+                <resp>former owner</resp>
+                <persName>Morbio, Carlo</persName>
+              </respStmt>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc>
+                <extent>1</extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin/>
+            <provenance>Formerly owned by Carlo Morbio (Rosenthal description, on file).</provenance>
+            <provenance>Sold by Jacques Rosenthal (Munich), 1957?</provenance>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords n="form/genre">
+          <term>Notarial documents</term>
+          <term>Manuscripts, Latin--16th century</term>
+          <term>Manuscripts, Renaissance</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface n="1r">
+      <graphic height="6407px" url="master/1744_0000.tif" width="4789px"/>
+      <graphic height="190px" url="thumb/1744_0000_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/1744_0000_web.jpg" width="1345px"/>
+    </surface>
+    <surface n="1v">
+      <graphic height="6407px" url="master/1744_0001.tif" width="4789px"/>
+      <graphic height="190px" url="thumb/1744_0001_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/1744_0001_web.jpg" width="1345px"/>
+    </surface>
+    <surface n="2r">
+      <graphic height="6407px" url="master/1744_0002.tif" width="4789px"/>
+      <graphic height="190px" url="thumb/1744_0002_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/1744_0002_web.jpg" width="1345px"/>
+    </surface>
+    <surface n="2v">
+      <graphic height="6407px" url="master/1744_0003.tif" width="4789px"/>
+      <graphic height="190px" url="thumb/1744_0003_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/1744_0003_web.jpg" width="1345px"/>
+    </surface>
+  </facsimile>
+</TEI>

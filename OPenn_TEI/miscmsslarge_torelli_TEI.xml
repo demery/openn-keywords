@@ -1,0 +1,93 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Description of University of Pennsylvania Misc Mss (Large) Box 2 Folder 16: Miscellaneous manuscripts (Large)</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>The University of Pennsylvania Libraries</publisher>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by/4.0/legalcode">
+                                This description is ©2016 University of
+                                Pennsylvania Libraries. It is licensed under a Creative Commons
+                                Attribution License version 4.0 (CC-BY-4.0
+                                https://creativecommons.org/licenses/by/4.0/legalcode. For a
+                                description of the terms of use see the Creative Commons Deed
+                                https://creativecommons.org/licenses/by/4.0/. </licence>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/"> All
+                                referenced images and their content are free of known copyright
+                                restrictions and in the public domain. See the Creative Commons
+                                Public Domain Mark page for usage details,
+                                http://creativecommons.org/publicdomain/mark/1.0/. </licence>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note>Originally folded and laid in Ms. Codex 1460.</note>
+      </notesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <settlement>Philadelphia</settlement>
+            <institution>University of Pennsylvania</institution>
+            <repository>Rare Book &amp; Manuscript Library</repository>
+            <idno type="call-number">Misc Mss (Large) Box 2 Folder 16</idno>
+            <altIdentifier type="bibid">
+              <idno>4479395</idno>
+            </altIdentifier>
+            <altIdentifier type="resource">
+              <idno>http://hdl.library.upenn.edu/1017/d/medren/4479395</idno>
+            </altIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary>Concerns the Torelli family (also referred to as "Taurelli"). Refers to Count Francisco Torelli and Count Guidone Galeotto Torelli, who were brothers, and deals with the Torelli genealogy. Predominately discusses the fiefs of Guastalla and the legal processes necessary for selling them, arguing about whether or not the Torellis have a legitimate claim, due to some controversy about a marriage and a lack of true masculine heirs. Also mentions Achille Torelli, Petri Guidiccioni, as well as a series of speakers involved in the issue, including Zacharie, Marquis of Mantua.</summary>
+            <textLang>In Latin</textLang>
+            <msItem>
+              <title>Miscellaneous manuscripts (Large)</title>
+              <author>Torelli family</author>
+              <author>Torelli, Francisco, Count</author>
+              <author>Torelli, Guidone Galeotto, Count</author>
+              <author>Torelli, Achille</author>
+              <author>Guidiccioni, Petri</author>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc>
+                <extent>1</extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin/>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords n="subjects">
+          <term>Law--Italy--History</term>
+          <term>Real property--Italy</term>
+        </keywords>
+        <keywords n="form/genre">
+          <term>Legal documents</term>
+          <term>Manuscripts, Latin--15th century</term>
+          <term>Manuscripts, Renaissance</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface n="Side 1">
+      <graphic height="7216px" url="master/1759_0000.tif" width="5412px"/>
+      <graphic height="190px" url="thumb/1759_0000_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/1759_0000_web.jpg" width="1350px"/>
+    </surface>
+    <surface n="Side 2">
+      <graphic height="7216px" url="master/1759_0001.tif" width="5412px"/>
+      <graphic height="190px" url="thumb/1759_0001_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/1759_0001_web.jpg" width="1350px"/>
+    </surface>
+  </facsimile>
+</TEI>

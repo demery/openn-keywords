@@ -1,0 +1,99 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Description of University of Pennsylvania Ms. Coll. 720: Financial agreement</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>The University of Pennsylvania Libraries</publisher>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by/4.0/legalcode">
+                                This description is ©2016 University of
+                                Pennsylvania Libraries. It is licensed under a Creative Commons
+                                Attribution License version 4.0 (CC-BY-4.0
+                                https://creativecommons.org/licenses/by/4.0/legalcode. For a
+                                description of the terms of use see the Creative Commons Deed
+                                https://creativecommons.org/licenses/by/4.0/. </licence>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/"> All
+                                referenced images and their content are free of known copyright
+                                restrictions and in the public domain. See the Creative Commons
+                                Public Domain Mark page for usage details,
+                                http://creativecommons.org/publicdomain/mark/1.0/. </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <settlement>Philadelphia</settlement>
+            <institution>University of Pennsylvania</institution>
+            <repository>Rare Book &amp; Manuscript Library</repository>
+            <idno type="call-number">Ms. Coll. 720</idno>
+            <altIdentifier type="bibid">
+              <idno>4418728</idno>
+            </altIdentifier>
+            <altIdentifier type="resource">
+              <idno>http://hdl.library.upenn.edu/1017/d/medren/4418728</idno>
+            </altIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary>Document on vellum by 7 town councillors (ratslude; ratislute) of Wernigerode, with the approval of, and jointly with Konrad V, Graf von (Count of) Wernigerode (graven Cordes ... to Werningherode), dated the eve of the feast of St. Thomas the Apostle (December 20), 1390, recording their financial agreement with the executors of the estate of Dietrich von Hildesheim (Diderikes von Hildensem), the late vicar of the monastery and church Unser Lieben Frauen, also known as Liebfrauenkirche (Church of Our Lady), in Halberstadt (User leven Vrowen to Halberstad), whereby they are to pay to the executors an interest of 5 Mark of pure silver (lodigen sulvers) annually on the feast of St. Martin (Martini), in exchange for an immediate payment (Kapital) of 50 Mark. The executors (de da vorestan dat testament), apparently clergy of the Halberstadt church, are: Deacon (dekene) Johan; Canon (canoniken) Hinrik von Suneborn; and Canon (schulmestere) Bethmann Bruckemann. The Wernigerode councillors are: Hinrik Uppelingh, Hintze Muntmeister, Hinrik Aldingh, Hinrik Lumer de Eldere, Albrecht Brockenstedes, Oltze Spekhosen, and Oltze Kemeden. Seals of Wernigerode and of Count Konrad attached; handwritten label on verso.</summary>
+            <msItem>
+              <title>Financial agreement</title>
+              <author>Wernigerode (Germany)</author>
+              <author>Konrad V, Graf von Wernigerode, 1358-1407</author>
+              <author>Uppelingh, Hinrik</author>
+              <author>Muntmeister, Hintze</author>
+              <author>Aldingh, Hinrik</author>
+              <author>Lumer, Hinrik</author>
+              <author>Brockenstedes, Albrecht</author>
+              <author>Spekhosen, Oltze</author>
+              <author>Kemeden, Oltze</author>
+              <author>Suneborn, Hinrik von</author>
+              <author>Bruckemann, Bethmann</author>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc material="parchment">
+                <support>
+                  <p>parchment</p>
+                </support>
+                <extent>1 195 x 275 mm</extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin/>
+            <provenance>Sold by J. A. Stargardt (Marburg), 1963.</provenance>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords n="subjects">
+          <term>Liebfrauenkirche (Halberstadt, Germany)</term>
+        </keywords>
+        <keywords n="form/genre">
+          <term>Financial records</term>
+          <term>Seals (artifacts)</term>
+          <term>Manuscripts, German--14th century</term>
+          <term>Manuscripts, Medieval</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface n="Side 1">
+      <graphic height="4965px" url="master/1731_0000.tif" width="5213px"/>
+      <graphic height="180px" url="thumb/1731_0000_thumb.jpg" width="190px"/>
+      <graphic height="1714px" url="web/1731_0000_web.jpg" width="1800px"/>
+    </surface>
+    <surface n="Side 2">
+      <graphic height="4965px" url="master/1731_0001.tif" width="5213px"/>
+      <graphic height="180px" url="thumb/1731_0001_thumb.jpg" width="190px"/>
+      <graphic height="1714px" url="web/1731_0001_web.jpg" width="1800px"/>
+    </surface>
+  </facsimile>
+</TEI>

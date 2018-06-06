@@ -1,0 +1,94 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Description of University of Pennsylvania Ms. Coll. 742: List of prisoners in battle and notes</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>The University of Pennsylvania Libraries</publisher>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by/4.0/legalcode">
+                                This description is ©2015 University of
+                                Pennsylvania Libraries. It is licensed under a Creative Commons
+                                Attribution License version 4.0 (CC-BY-4.0
+                                https://creativecommons.org/licenses/by/4.0/legalcode. For a
+                                description of the terms of use see the Creative Commons Deed
+                                https://creativecommons.org/licenses/by/4.0/. </licence>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/"> All
+                                referenced images and their content are free of known copyright
+                                restrictions and in the public domain. See the Creative Commons
+                                Public Domain Mark page for usage details,
+                                http://creativecommons.org/publicdomain/mark/1.0/. </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <settlement>Philadelphia</settlement>
+            <institution>University of Pennsylvania</institution>
+            <repository>Rare Book &amp; Manuscript Library</repository>
+            <idno type="call-number">Ms. Coll. 742</idno>
+            <altIdentifier type="bibid">
+              <idno>4773925</idno>
+            </altIdentifier>
+            <altIdentifier type="resource">
+              <idno>http://hdl.library.upenn.edu/1017/d/medren/4773925</idno>
+            </altIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary>Four documents pasted onto 1 bifolium. The ca. 1460 document, probably from Naples, is a list of prisoners of battle, probably in the war between Ferdinand I, King of Naples, and Jean d'Anjou, duc de Calabre et de Lorraine, and includes the Duke d'Andria and the counts of Celano, Arpino, and Meleto. Antonio Piccolomini, duke of Amalfi, was made count of Celano in 1463. The other three documents are 17th-century notes. One has numbered entries from 1407 to 1598, perhaps referring to years, and mentions several members of the Piccolomini family and several counts. Another seems to be a single entry beginning with the number 1340 and mentions Jacomo di Meo. The third is a small piece of paper with a few names on it.</summary>
+            <textLang>In Italian</textLang>
+            <msItem>
+              <title>List of prisoners in battle and notes</title>
+              <respStmt>
+                <resp>former owner</resp>
+                <persName>Phillipps, Thomas, Sir, 1792-1872</persName>
+              </respStmt>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc material="paper.">
+                <support>
+                  <p>paper.</p>
+                </support>
+                <extent>4</extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin/>
+            <provenance>Formerly owned by Sir Thomas Phillipps (part of ms. 22925).</provenance>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords n="subjects">
+          <term>Prisoners--Italy</term>
+        </keywords>
+        <keywords n="form/genre">
+          <term>Lists</term>
+          <term>Manuscripts, Italian--15th century</term>
+          <term>Manuscripts, Italian--17th century</term>
+          <term>Manuscripts, Renaissance</term>
+          <term>Manuscripts, European</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface n="Side 1">
+      <graphic height="7096px" url="master/1068_0000.tif" width="4576px"/>
+      <graphic height="190px" url="thumb/1068_0000_thumb.jpg" width="122px"/>
+      <graphic height="1800px" url="web/1068_0000_web.jpg" width="1160px"/>
+    </surface>
+    <surface n="Side 2">
+      <graphic height="7096px" url="master/1068_0001.tif" width="4576px"/>
+      <graphic height="190px" url="thumb/1068_0001_thumb.jpg" width="122px"/>
+      <graphic height="1800px" url="web/1068_0001_web.jpg" width="1160px"/>
+    </surface>
+  </facsimile>
+</TEI>

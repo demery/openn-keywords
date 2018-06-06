@@ -1,0 +1,123 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Description of University of Pennsylvania Misc Mss: Miscellaneous manuscripts</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>The University of Pennsylvania Libraries</publisher>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by/4.0/legalcode">
+                                This description is ©2016 University of
+                                Pennsylvania Libraries. It is licensed under a Creative Commons
+                                Attribution License version 4.0 (CC-BY-4.0
+                                https://creativecommons.org/licenses/by/4.0/legalcode. For a
+                                description of the terms of use see the Creative Commons Deed
+                                https://creativecommons.org/licenses/by/4.0/. </licence>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/"> All
+                                referenced images and their content are free of known copyright
+                                restrictions and in the public domain. See the Creative Commons
+                                Public Domain Mark page for usage details,
+                                http://creativecommons.org/publicdomain/mark/1.0/. </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <settlement>Philadelphia</settlement>
+            <institution>University of Pennsylvania</institution>
+            <repository>Rare Book &amp; Manuscript Library</repository>
+            <idno type="call-number">Misc Mss</idno>
+            <altIdentifier type="bibid">
+              <idno>4468245</idno>
+            </altIdentifier>
+            <altIdentifier type="resource">
+              <idno>http://hdl.library.upenn.edu/1017/d/medren/4468245</idno>
+            </altIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary>Record of payment to the official carpenter of the Inquisition in Valencia, Spain, Pedro de Gracia, along with four other local carpenters working as independent contractors, for the construction of the scaffold and stage used for the auto-da-fé celebrated in Valencia on September 9, 1584. The four independent carpenters are Vicente Ferrer, Luys Joan, Hieronymo Ferrer, and Domingo Vallada. The total payment to the five carpenters is 110 pounds in the "money of Valencia." Benito Sanguino, who appears to have written and signed his own statement, is identified as the court clerk authorized to disburse the payment, and the approving officials are Dr. Pedro de Çarate and Joan Llano de Valdes. Joan Bautista Trilles signs the separate statements by the different parties and appears be the author of the document as a whole. There are other clerical notes on the outside of the document from 1586 and 1589. It is written in a cursive script by multiple hands. There is a pilgrim watermark similar to Valls i Subirá, Hombre/Home 1594, with two unidentified initials underneath.</summary>
+            <textLang>In Spanish</textLang>
+            <msItem>
+              <title>Miscellaneous manuscripts</title>
+              <author>Gracia, Pedro de</author>
+              <author>Trilles, Joan Bautista</author>
+              <author>Sanguino, Benito</author>
+              <author>Çarate, Pedro de</author>
+              <author>Llano de Valdes, Joan</author>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc material="paper.">
+                <support>
+                  <p>paper.</p>
+                </support>
+                <extent>1</extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin/>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords n="subjects">
+          <term>Inquisition--Spain--Valencia</term>
+          <term>Autos-da-fé--Spain</term>
+        </keywords>
+        <keywords n="form/genre">
+          <term>Church records</term>
+          <term>Manuscripts, Spanish--16th century</term>
+          <term>Manuscripts, Renaissance</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface n="1r">
+      <graphic height="5718px" url="master/1631_0000.tif" width="4191px"/>
+      <graphic height="190px" url="thumb/1631_0000_thumb.jpg" width="139px"/>
+      <graphic height="1800px" url="web/1631_0000_web.jpg" width="1319px"/>
+    </surface>
+    <surface n="1v">
+      <graphic height="5718px" url="master/1631_0001.tif" width="4191px"/>
+      <graphic height="190px" url="thumb/1631_0001_thumb.jpg" width="139px"/>
+      <graphic height="1800px" url="web/1631_0001_web.jpg" width="1319px"/>
+    </surface>
+    <surface n="2r">
+      <graphic height="5718px" url="master/1631_0002.tif" width="4191px"/>
+      <graphic height="190px" url="thumb/1631_0002_thumb.jpg" width="139px"/>
+      <graphic height="1800px" url="web/1631_0002_web.jpg" width="1319px"/>
+    </surface>
+    <surface n="2v">
+      <graphic height="5718px" url="master/1631_0003.tif" width="4191px"/>
+      <graphic height="190px" url="thumb/1631_0003_thumb.jpg" width="139px"/>
+      <graphic height="1800px" url="web/1631_0003_web.jpg" width="1319px"/>
+    </surface>
+    <surface n="3r">
+      <graphic height="5718px" url="master/1631_0004.tif" width="4191px"/>
+      <graphic height="190px" url="thumb/1631_0004_thumb.jpg" width="139px"/>
+      <graphic height="1800px" url="web/1631_0004_web.jpg" width="1319px"/>
+    </surface>
+    <surface n="3v">
+      <graphic height="5718px" url="master/1631_0005.tif" width="4191px"/>
+      <graphic height="190px" url="thumb/1631_0005_thumb.jpg" width="139px"/>
+      <graphic height="1800px" url="web/1631_0005_web.jpg" width="1319px"/>
+    </surface>
+    <surface n="4r">
+      <graphic height="5718px" url="master/1631_0006.tif" width="4191px"/>
+      <graphic height="190px" url="thumb/1631_0006_thumb.jpg" width="139px"/>
+      <graphic height="1800px" url="web/1631_0006_web.jpg" width="1319px"/>
+    </surface>
+    <surface n="4v">
+      <graphic height="5718px" url="master/1631_0007.tif" width="4191px"/>
+      <graphic height="190px" url="thumb/1631_0007_thumb.jpg" width="139px"/>
+      <graphic height="1800px" url="web/1631_0007_web.jpg" width="1319px"/>
+    </surface>
+  </facsimile>
+</TEI>

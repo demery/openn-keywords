@@ -1,0 +1,98 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Description of University of Pennsylvania Ms. Roll 1563: Devotional roll</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>The University of Pennsylvania Libraries</publisher>
+        <availability>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/">These images and the content of Rare Book &amp; Manuscript Library, Ms. Roll 1563: Devotional roll are free of known copyright restrictions and in the public domain. See the Creative Commons Public Domain Mark page for usage details, http://creativecommons.org/publicdomain/mark/1.0/.</licence>
+          <licence target="https://creativecommons.org/licenses/by/4.0/legalcode">Metadata is ©2018 University of Pennsylvania Books &amp; Manuscripts and licensed under a Creative Commons Attribution License version 4.0 (CC-BY-4.0 https://creativecommons.org/licenses/by/4.0/legalcode. For a description of the terms of use see the Creative Commons Deed https://creativecommons.org/licenses/by/4.0/.</licence>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note>Ms. roll.</note>
+        <note>Title supplied by cataloger.</note>
+        <note>A translation of the Latin and transcription of the Middle English is shelved with the manuscript in the manuscript's former box.</note>
+      </notesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <settlement>Philadelphia</settlement>
+            <institution>University of Pennsylvania</institution>
+            <repository>Rare Book &amp; Manuscript Library</repository>
+            <idno type="call-number">Ms. Roll 1563</idno>
+            <altIdentifier type="bibid">
+              <idno>9947716593503681</idno>
+            </altIdentifier>
+            <altIdentifier type="resource">
+              <idno>http://hdl.library.upenn.edu/1017/d/medren/9947716593503681</idno>
+            </altIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary>A roll of prayers in Latin, including prayers to Mary, the Trinity, Jesus, and the name of Jesus, and several prayers to be said at the point in the Mass when the Eucharist is held up in view of the congregation. All rubrics on the recto are in Latin; some rubrics on the verso are in Middle English. Text is missing in the first three lines on the recto due to a wedge-shaped cut at the top of the manuscript. The text at the end of the verso (the outside surface of the roll) is so rubbed that it is illegible.</summary>
+            <textLang mainLang="lat" otherLangs="enm">Latin with some rubrics in Middle English</textLang>
+            <msItem>
+              <title>Devotional roll</title>
+              <respStmt>
+                <resp>former owner</resp>
+                <persName>Block, Gordon A</persName>
+              </respStmt>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc material="mixed">
+                <support>
+                  <p>parchment</p>
+                </support>
+                <extent>1 roll (2 membranes) : 1372 x 130 mm</extent>
+              </supportDesc>
+            </objectDesc>
+            <scriptDesc>
+              <scriptNote>Written in a Gothic script.</scriptNote>
+            </scriptDesc>
+          </physDesc>
+          <history>
+            <origin>
+              <p>Written in England in the 15th century.</p>
+              <origDate>14--</origDate>
+              <origPlace>England</origPlace>
+            </origin>
+            <provenance>Gift of Gordon A. Block, Jr., in memory of his mother Reba Fleisher Block, 1963.</provenance>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords n="subjects">
+          <term>Catholic Church--Prayers and devotions--Latin</term>
+          <term>Lord's Supper--Prayers and devotions--Early works to 1800</term>
+        </keywords>
+        <keywords n="form/genre">
+          <term>Scrolls (information artifacts)</term>
+          <term>Prayers</term>
+          <term>Manuscripts, Latin--15th century</term>
+          <term>Manuscripts, English (Middle)--15th century</term>
+          <term>Manuscripts, Medieval</term>
+          <term>Manuscripts, Renaissance</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface n="1r">
+      <graphic height="34079px" url="master/5967_0000.tif" width="4795px"/>
+      <graphic height="190px" url="thumb/5967_0000_thumb.jpg" width="26px"/>
+      <graphic height="1800px" url="web/5967_0000_web.jpg" width="253px"/>
+    </surface>
+    <surface n="1v">
+      <graphic height="34079px" url="master/5967_0001.tif" width="4795px"/>
+      <graphic height="190px" url="thumb/5967_0001_thumb.jpg" width="26px"/>
+      <graphic height="1800px" url="web/5967_0001_web.jpg" width="253px"/>
+    </surface>
+  </facsimile>
+</TEI>

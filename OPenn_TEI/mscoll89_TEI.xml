@@ -1,0 +1,126 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Description of University of Pennsylvania Ms. Coll. 89: Epistola Mahomethi Turchiae Graeciaeque Imperatoris ad Ferdinandum Regem Siciliae de expugnatione Negropontis. Responsio dicti Ferdinandi Regis Siciliae de eadem re :</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>The University of Pennsylvania Libraries</publisher>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by/4.0/legalcode">
+                                This description is ©2015 University of
+                                Pennsylvania Libraries. It is licensed under a Creative Commons
+                                Attribution License version 4.0 (CC-BY-4.0
+                                https://creativecommons.org/licenses/by/4.0/legalcode. For a
+                                description of the terms of use see the Creative Commons Deed
+                                https://creativecommons.org/licenses/by/4.0/. </licence>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/"> All
+                                referenced images and their content are free of known copyright
+                                restrictions and in the public domain. See the Creative Commons
+                                Public Domain Mark page for usage details,
+                                http://creativecommons.org/publicdomain/mark/1.0/. </licence>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note>Title from label on 17th-century wrapper.</note>
+        <note>Heading of copy of first letter: Copia littere theucri ad dominum Regem.</note>
+        <note>Incipit of first letter: Magometh dey gratia turchieque grecieque imperator ...</note>
+        <note>Heading of copy of second letter: Copia responsionis Regis.</note>
+        <note>Incipit of second letter: Serenissimo et illustrissimo domino Magometh</note>
+        <note>Written in Italy, possibly Naples. Each letter gives the date of its composition; the date of the first letter cannot be read easily, but the second letter is dated 5 September[?] 1470 at Naples (the Zacour-Hirsch Catalogue reads "februarii" instead of "settembri"). The copies appear to date to the last quarter of the 15th century; the Zacour-Hirsch Catalogue tentatively dates them to the 1470's.</note>
+        <note>Humanistic cursive. The copies of both letters are in the same hand.</note>
+        <note>Pasted into a paper wrapper that appears to be of Italian origin. The wrapper contains 17th-century watermarks.</note>
+        <note>The manuscript is very fragile. It shows some evidence of worm damage and is badly stained.</note>
+        <note>The authenticity of these letters has been neither confirmed nor disproven. They do not appear to be part of Laudivius Zacchia's compilation of the letters of Muhammed II, though the Zacour-Hirsch Catalogue asserts that the letters may be part of this compilation.</note>
+      </notesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <settlement>Philadelphia</settlement>
+            <institution>University of Pennsylvania</institution>
+            <repository>Rare Book &amp; Manuscript Library</repository>
+            <idno type="call-number">Ms. Coll. 89</idno>
+            <altIdentifier type="bibid">
+              <idno>1580409</idno>
+            </altIdentifier>
+            <altIdentifier type="resource">
+              <idno>http://hdl.library.upenn.edu/1017/d/medren/1580409</idno>
+            </altIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary>Copy of a letter purportedly written by Muhammed II to Ferdinand, King of Sicily, concerning the siege of Negropont. Includes a copy of Ferdinand's response.</summary>
+            <textLang>In Latin</textLang>
+            <msItem>
+              <title>Epistola Mahomethi Turchiae Graeciaeque Imperatoris ad Ferdinandum Regem Siciliae de expugnatione Negropontis. Responsio dicti Ferdinandi Regis Siciliae de eadem re :</title>
+              <author>Mehmed II, Sultan of the Turks, 1432-1481</author>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc material="paper">
+                <support>
+                  <p>paper</p>
+                </support>
+                <extent>1 22 cm</extent>
+              </supportDesc>
+            </objectDesc>
+            <decoDesc>
+              <decoNote n="Wrapper 1 recto">17th-century label, Wrapper 1 recto</decoNote>
+            </decoDesc>
+          </physDesc>
+          <history>
+            <origin/>
+            <provenance>Old shelf marks on wrapper: ww .l .A 1 30 XXIII.</provenance>
+            <provenance>Acquired, 1958.</provenance>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords n="form/genre">
+          <term>Manuscripts, Latin--15th century</term>
+          <term>Manuscripts, Renaissance</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface n="Wrapper 1 recto">
+      <graphic height="5580px" url="master/0731_0000.tif" width="4049px"/>
+      <graphic height="190px" url="thumb/0731_0000_thumb.jpg" width="138px"/>
+      <graphic height="1800px" url="web/0731_0000_web.jpg" width="1306px"/>
+    </surface>
+    <surface n="Wrapper 1 verso">
+      <graphic height="5580px" url="master/0731_0001.tif" width="4049px"/>
+      <graphic height="190px" url="thumb/0731_0001_thumb.jpg" width="138px"/>
+      <graphic height="1800px" url="web/0731_0001_web.jpg" width="1306px"/>
+    </surface>
+    <surface n="1r">
+      <graphic height="5580px" url="master/0731_0002.tif" width="4049px"/>
+      <graphic height="190px" url="thumb/0731_0002_thumb.jpg" width="138px"/>
+      <graphic height="1800px" url="web/0731_0002_web.jpg" width="1306px"/>
+    </surface>
+    <surface n="1v">
+      <graphic height="5580px" url="master/0731_0003.tif" width="4049px"/>
+      <graphic height="190px" url="thumb/0731_0003_thumb.jpg" width="138px"/>
+      <graphic height="1800px" url="web/0731_0003_web.jpg" width="1306px"/>
+    </surface>
+    <surface n="Wrapper 1 recto">
+      <graphic height="5580px" url="master/0731_0004.tif" width="4049px"/>
+      <graphic height="190px" url="thumb/0731_0004_thumb.jpg" width="138px"/>
+      <graphic height="1800px" url="web/0731_0004_web.jpg" width="1306px"/>
+    </surface>
+    <surface n="Wrapper 1 verso">
+      <graphic height="5580px" url="master/0731_0005.tif" width="4049px"/>
+      <graphic height="190px" url="thumb/0731_0005_thumb.jpg" width="138px"/>
+      <graphic height="1800px" url="web/0731_0005_web.jpg" width="1306px"/>
+    </surface>
+    <surface n="No spine">
+      <graphic height="5580px" url="master/0731_0006.tif" width="4049px"/>
+      <graphic height="190px" url="thumb/0731_0006_thumb.jpg" width="138px"/>
+      <graphic height="1800px" url="web/0731_0006_web.jpg" width="1306px"/>
+    </surface>
+  </facsimile>
+</TEI>

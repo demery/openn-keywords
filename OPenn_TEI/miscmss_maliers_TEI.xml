@@ -1,0 +1,94 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Description of University of Pennsylvania Misc Mss: Miscellaneous manuscripts</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>The University of Pennsylvania Libraries</publisher>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by/4.0/legalcode">
+                                This description is ©2016 University of
+                                Pennsylvania Libraries. It is licensed under a Creative Commons
+                                Attribution License version 4.0 (CC-BY-4.0
+                                https://creativecommons.org/licenses/by/4.0/legalcode. For a
+                                description of the terms of use see the Creative Commons Deed
+                                https://creativecommons.org/licenses/by/4.0/. </licence>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/"> All
+                                referenced images and their content are free of known copyright
+                                restrictions and in the public domain. See the Creative Commons
+                                Public Domain Mark page for usage details,
+                                http://creativecommons.org/publicdomain/mark/1.0/. </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <settlement>Philadelphia</settlement>
+            <institution>University of Pennsylvania</institution>
+            <repository>Rare Book &amp; Manuscript Library</repository>
+            <idno type="call-number">Misc Mss</idno>
+            <altIdentifier type="bibid">
+              <idno>4372171</idno>
+            </altIdentifier>
+            <altIdentifier type="resource">
+              <idno>http://hdl.library.upenn.edu/1017/d/medren/4372171</idno>
+            </altIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary>A document, dated 1300, granting feudal rights to Gervais de Donchery and to his wife by Thiebaus de Maliers, seigneur de Châtel en Ardenne. The area is in northeastern France, to the south of Sedan and to the east of Reims. The document is written in 25 long lines, in a secretary script; a contemporary or near-contemporary note on verso also dates the document to 1300.</summary>
+            <textLang>In French</textLang>
+            <msItem>
+              <title>Miscellaneous manuscripts</title>
+              <author>Maliers, Thiebaus de, seigneur de Châtel en Ardenne</author>
+              <respStmt>
+                <resp>recipient</resp>
+                <persName>Donchery, Gervais de</persName>
+              </respStmt>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc material="parchment">
+                <support>
+                  <p>parchment</p>
+                </support>
+                <extent>1 177 x 243 mm</extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin/>
+            <provenance>Purchased, 1957.</provenance>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords n="subjects">
+          <term>Land titles--Registration and transfer--France--History</term>
+        </keywords>
+        <keywords n="form/genre">
+          <term>Deeds</term>
+          <term>Fragments</term>
+          <term>Manuscripts, French--14th century</term>
+          <term>Manuscripts, Medieval</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface n="Side 1">
+      <graphic height="4620px" url="master/1563_0000.tif" width="6237px"/>
+      <graphic height="140px" url="thumb/1563_0000_thumb.jpg" width="190px"/>
+      <graphic height="1333px" url="web/1563_0000_web.jpg" width="1800px"/>
+    </surface>
+    <surface n="Side 2">
+      <graphic height="4620px" url="master/1563_0001.tif" width="6237px"/>
+      <graphic height="140px" url="thumb/1563_0001_thumb.jpg" width="190px"/>
+      <graphic height="1333px" url="web/1563_0001_web.jpg" width="1800px"/>
+    </surface>
+  </facsimile>
+</TEI>

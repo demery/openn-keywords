@@ -1,0 +1,101 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Description of University of Pennsylvania Misc Mss: Miscellaneous manuscripts</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>The University of Pennsylvania Libraries</publisher>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by/4.0/legalcode">
+                                This description is ©2016 University of
+                                Pennsylvania Libraries. It is licensed under a Creative Commons
+                                Attribution License version 4.0 (CC-BY-4.0
+                                https://creativecommons.org/licenses/by/4.0/legalcode. For a
+                                description of the terms of use see the Creative Commons Deed
+                                https://creativecommons.org/licenses/by/4.0/. </licence>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/"> All
+                                referenced images and their content are free of known copyright
+                                restrictions and in the public domain. See the Creative Commons
+                                Public Domain Mark page for usage details,
+                                http://creativecommons.org/publicdomain/mark/1.0/. </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <settlement>Philadelphia</settlement>
+            <institution>University of Pennsylvania</institution>
+            <repository>Rare Book &amp; Manuscript Library</repository>
+            <idno type="call-number">Misc Mss</idno>
+            <altIdentifier type="bibid">
+              <idno>4634832</idno>
+            </altIdentifier>
+            <altIdentifier type="resource">
+              <idno>http://hdl.library.upenn.edu/1017/d/medren/4634832</idno>
+            </altIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary>Letter in Italian on paper, dated September 11, 1548, from cardinal Ranuccio Farnese to Bernardus Agatsonius, podestà of San Ginesio, near Macerata, southern Italy. Farnese orders the podestà not to grant the cleric Tiberio Forte, who came to Macerata from the Mark of Ancona, any special fiscal privilege or exemption, and to treat him according to the same laws that applied to the clergymen of Macerata. On the verso is a brief note in Latin, dated September 18, written by an unidentified officer of San Ginesio, acknowledging the receipt of the aforementioned letter. The address of the letter and the remnants of a wax seal are on a second leaf.</summary>
+            <textLang>In Italian and Latin</textLang>
+            <msItem>
+              <title>Miscellaneous manuscripts</title>
+              <author>Farnese, Ranuccio, Cardinal, 1530-1565</author>
+              <respStmt>
+                <resp>recipient</resp>
+                <persName>Agatsonius, Bernardus</persName>
+              </respStmt>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc>
+                <extent>1</extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin/>
+            <provenance>Sold by Libreria Antiquaria Docet (Bologna), cat. 57 (March 1959), no. 203.</provenance>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords n="subjects">
+          <term>Catholic Church--History--16th century</term>
+          <term>Catholic Church--Clergy--Italy</term>
+        </keywords>
+        <keywords n="form/genre">
+          <term>Manuscripts, Italian--16th century</term>
+          <term>Manuscripts, Latin--16th century</term>
+          <term>Manuscripts, Renaissance</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface n="1r">
+      <graphic height="5711px" url="master/1768_0000.tif" width="4502px"/>
+      <graphic height="190px" url="thumb/1768_0000_thumb.jpg" width="149px"/>
+      <graphic height="1800px" url="web/1768_0000_web.jpg" width="1419px"/>
+    </surface>
+    <surface n="1v">
+      <graphic height="5711px" url="master/1768_0001.tif" width="4502px"/>
+      <graphic height="190px" url="thumb/1768_0001_thumb.jpg" width="149px"/>
+      <graphic height="1800px" url="web/1768_0001_web.jpg" width="1419px"/>
+    </surface>
+    <surface n="2r">
+      <graphic height="5711px" url="master/1768_0002.tif" width="4502px"/>
+      <graphic height="190px" url="thumb/1768_0002_thumb.jpg" width="149px"/>
+      <graphic height="1800px" url="web/1768_0002_web.jpg" width="1419px"/>
+    </surface>
+    <surface n="2v">
+      <graphic height="5711px" url="master/1768_0003.tif" width="4502px"/>
+      <graphic height="190px" url="thumb/1768_0003_thumb.jpg" width="149px"/>
+      <graphic height="1800px" url="web/1768_0003_web.jpg" width="1419px"/>
+    </surface>
+  </facsimile>
+</TEI>
